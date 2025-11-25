@@ -1,11 +1,11 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **101+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **109+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-101+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-12-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
+[![Resources](https://img.shields.io/badge/resources-109+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-13-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
@@ -33,13 +33,13 @@ The collection focuses on:
 
 ## 📈 Repository Statistics
 
-- **Total Resources:** 101+ (and growing)
-- **Categories:** 12 comprehensive topics
+- **Total Resources:** 109+ (and growing)
+- **Categories:** 13 comprehensive topics
 - **Average per Category:** 8.4 resources
-- **Top Categories:** Datasets & Benchmarks (18), Prompt Engineering (14), Computer Vision (9)
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (15), Prompt Engineering (14)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
-- **Last Updated:** November 23, 2025
+- **Last Updated:** November 25, 2025
 
 ## 🔓 100% Free & Open Access Commitment
 
@@ -71,6 +71,7 @@ free-ai-resources-arjun/
     ├── natural-language-processing.md         (6 resources)
     ├── computer-vision.md                     (9 resources)
     ├── reinforcement-learning.md              (5 resources)
+    ├── generative-ai.md                       (15 resources)
     ├── prompt-engineering.md                  (14 resources)
     ├── mlops.md                               (7 resources)
     ├── ai-ethics.md                           (7 resources)
@@ -109,6 +110,7 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - Natural Language Processing
 - Computer Vision
 - Reinforcement Learning
+- Generative AI
 - Prompt Engineering
 - MLOps
 - AI Ethics & Responsible AI
@@ -139,7 +141,7 @@ Advanced neural network architectures and deep learning techniques.
 - Convolutional Neural Networks (CNNs)
 - Recurrent Neural Networks (RNNs)
 - Transformers and attention mechanisms
-- Generative models (GANs, VAEs, Diffusion models)
+- Neural network optimization
 
 ### 💬 [Natural Language Processing](resources/natural-language-processing.md)
 
@@ -167,6 +169,16 @@ Learning through interaction with environments.
 - Deep Q-Networks (DQN)
 - Actor-Critic methods
 - Multi-agent reinforcement learning
+
+### 🎨 [Generative AI](resources/generative-ai.md)
+
+Master cutting-edge generative models including LLMs, diffusion models, and GANs.
+
+- Large Language Models (LLMs)
+- Diffusion Models and Stable Diffusion
+- Generative Adversarial Networks (GANs)
+- Multimodal AI systems
+- Text, image, and video generation
 
 ### ✨ [Prompt Engineering](resources/prompt-engineering.md)
 
@@ -242,7 +254,7 @@ Publicly available datasets for training and evaluation.
 ### For Intermediate Learners
 
 1. Dive into **[Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md)**
-2. Explore specialized areas (NLP, Computer Vision, etc.)
+2. Explore specialized areas (NLP, Computer Vision, Generative AI)
 3. Implement papers and research projects
 4. Contribute to open-source projects
 
@@ -309,4 +321,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: November 23, 2025
+**Last Updated**: November 25, 2025
