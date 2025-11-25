@@ -18,6 +18,12 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 Access: Fully open, no signup required
   - [Tags: beginner prompt-engineering fundamentals]
 
+- [Prompt Engineering Course (Simplilearn SkillUp, 2025)](https://www.simplilearn.com/prompt-engineering-free-course-skillup) **(Beginner)** - Completely free, self-paced online course covering the fundamentals of AI, NLP, and the core principles and practice of prompt engineering. Earn a certificate of completion and learn real-world prompt design for LLMs and generative AI. Updated for 2025, this course combines theoretical insights with practical, industry-relevant hands-on exercises.
+  - 📖 Access: Fully open, free certificate
+  - ⏱️ Duration: Self-paced
+  - 📜 Certificate: Yes (free)
+  - [Tags: beginner prompt-engineering llm generative-ai nlp free-course certificate 2025]
+
 - [AWS Free Prompt Engineering Course](https://aws.amazon.com/ai/generative-ai/prompt-engineering/) - 1-hour free course from Amazon Web Services covering prompt crafting fundamentals, zero-shot, few-shot, and chain-of-thought prompting techniques.
   - 📖 Access: Fully open
   - [Tags: beginner aws prompt-basics]
@@ -121,6 +127,6 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 22, 2025 | **Total Resources:** 14
+**Last Updated:** November 25, 2025 | **Total Resources:** 15
 
 **Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design
