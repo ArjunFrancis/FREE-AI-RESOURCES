@@ -1,11 +1,11 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **137+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **148+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-137+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-15-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
+[![Resources](https://img.shields.io/badge/resources-148+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-16-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
@@ -33,10 +33,10 @@ The collection focuses on:
 
 ## 📈 Repository Statistics
 
-- **Total Resources:** 137+ (and growing)
-- **Categories:** 15 comprehensive topics
-- **Average per Category:** 9.1 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (15), Prompt Engineering (14), Audio & Speech Processing (13), Explainable AI (12), Computer Vision (12)
+- **Total Resources:** 148+ (and growing)
+- **Categories:** 16 comprehensive topics
+- **Average per Category:** 9.3 resources
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (15), Prompt Engineering (14), Audio & Speech Processing (13), Explainable AI (12), Computer Vision (12), Natural Language Processing (11), Graph Neural Networks (11)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** November 26, 2025
@@ -68,13 +68,14 @@ free-ai-resources-arjun/
 └── resources/                         # Resource files by category
     ├── machine-learning-fundamentals.md       (7 resources)
     ├── deep-learning-neural-networks.md       (6 resources)
-    ├── natural-language-processing.md         (6 resources)
-    ├── computer-vision.md                     (12 resources) ✨
+    ├── natural-language-processing.md         (11 resources) ✨
+    ├── computer-vision.md                     (12 resources)
     ├── reinforcement-learning.md              (5 resources)
     ├── generative-ai.md                       (15 resources)
     ├── prompt-engineering.md                  (14 resources)
-    ├── explainable-ai.md                      (12 resources) 🆕
-    ├── audio-speech-processing.md             (13 resources) 🆕
+    ├── explainable-ai.md                      (12 resources)
+    ├── audio-speech-processing.md             (13 resources)
+    ├── graph-neural-networks.md               (11 resources) 🆕
     ├── mlops.md                               (7 resources)
     ├── ai-ethics.md                           (7 resources)
     ├── mathematics-for-ai.md                  (8 resources)
@@ -114,8 +115,9 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - Reinforcement Learning
 - Generative AI
 - Prompt Engineering
-- Explainable AI (XAI) 🆕
-- Audio & Speech Processing 🆕
+- Explainable AI (XAI)
+- Audio & Speech Processing
+- Graph Neural Networks (GNNs) 🆕
 - MLOps
 - AI Ethics & Responsible AI
 - Mathematics for AI
@@ -155,6 +157,7 @@ Techniques and tools for processing and understanding human language.
 - Word embeddings and language models
 - Sentiment analysis and classification
 - Machine translation and question answering
+- Transformer architectures and LLMs
 
 ### 👁️ [Computer Vision](resources/computer-vision.md)
 
@@ -193,7 +196,7 @@ Techniques for crafting effective prompts for LLMs and generative AI.
 - Prompt templates and frameworks
 - Responsible AI prompting practices
 
-### 🔍 [Explainable AI (XAI)](resources/explainable-ai.md) 🆕
+### 🔍 [Explainable AI (XAI)](resources/explainable-ai.md)
 
 Model interpretability and transparency for trustworthy AI systems.
 
@@ -202,7 +205,7 @@ Model interpretability and transparency for trustworthy AI systems.
 - Model-agnostic interpretability techniques
 - Trustworthy AI and transparency frameworks
 
-### 🎵 [Audio & Speech Processing](resources/audio-speech-processing.md) 🆕
+### 🎵 [Audio & Speech Processing](resources/audio-speech-processing.md)
 
 Speech recognition, text-to-speech, and audio analysis with ML.
 
@@ -210,6 +213,16 @@ Speech recognition, text-to-speech, and audio analysis with ML.
 - Text-to-Speech (TTS) synthesis
 - Speech datasets (Common Voice, LibriSpeech)
 - Voice processing and audio analysis
+
+### 🔗 [Graph Neural Networks (GNNs)](resources/graph-neural-networks.md) 🆕
+
+Advanced neural architectures for learning from graph-structured data.
+
+- Graph Convolutional Networks (GCN)
+- Graph Attention Networks (GAT)
+- Node classification and link prediction
+- Graph classification and generation
+- Applications in molecular AI, social networks, recommendation systems
 
 ### 🛠️ [MLOps](resources/mlops.md)
 
