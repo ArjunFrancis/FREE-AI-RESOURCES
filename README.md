@@ -1,10 +1,10 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **148+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **155+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-148+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Resources](https://img.shields.io/badge/resources-155+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 [![Categories](https://img.shields.io/badge/categories-16-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
@@ -33,13 +33,13 @@ The collection focuses on:
 
 ## 📈 Repository Statistics
 
-- **Total Resources:** 148+ (and growing)
+- **Total Resources:** 155+ (and growing)
 - **Categories:** 16 comprehensive topics
-- **Average per Category:** 9.3 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (15), Prompt Engineering (14), Audio & Speech Processing (13), Explainable AI (12), Computer Vision (12), Natural Language Processing (11), Graph Neural Networks (11)
+- **Average per Category:** 9.7 resources
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
-- **Last Updated:** November 26, 2025
+- **Last Updated:** November 27, 2025
 
 ## 🔓 100% Free & Open Access Commitment
 
@@ -66,21 +66,21 @@ free-ai-resources-arjun/
 ├── CODE_OF_CONDUCT.md                # Community guidelines
 ├── CONTRIBUTING.md                    # Contribution guidelines
 └── resources/                         # Resource files by category
-    ├── machine-learning-fundamentals.md       (7 resources)
-    ├── deep-learning-neural-networks.md       (6 resources)
+    ├── machine-learning-fundamentals.md       (6 resources)
+    ├── deep-learning-neural-networks.md       (5 resources)
     ├── natural-language-processing.md         (11 resources) ✨
     ├── computer-vision.md                     (12 resources)
-    ├── reinforcement-learning.md              (5 resources)
-    ├── generative-ai.md                       (15 resources)
-    ├── prompt-engineering.md                  (14 resources)
+    ├── reinforcement-learning.md              (6 resources)
+    ├── generative-ai.md                       (16 resources)
+    ├── prompt-engineering.md                  (15 resources)
     ├── explainable-ai.md                      (12 resources)
     ├── audio-speech-processing.md             (13 resources)
     ├── graph-neural-networks.md               (11 resources) 🆕
-    ├── mlops.md                               (7 resources)
+    ├── mlops.md                               (8 resources)
     ├── ai-ethics.md                           (7 resources)
-    ├── mathematics-for-ai.md                  (8 resources)
-    ├── ai-tools-frameworks.md                 (5 resources)
-    ├── research-papers-publications.md        (2 resources)
+    ├── mathematics-for-ai.md                  (9 resources)
+    ├── ai-tools-frameworks.md                 (6 resources)
+    ├── research-papers-publications.md        (0 resources)
     └── datasets-benchmarks.md                 (18 resources)
 ```
 
@@ -356,4 +356,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: November 26, 2025
+**Last Updated**: November 27, 2025
