@@ -1,11 +1,11 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **155+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **167+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-155+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-16-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
+[![Resources](https://img.shields.io/badge/resources-167+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-19-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
@@ -31,12 +31,12 @@ The collection focuses on:
 - **Practical learning**: Emphasis on hands-on projects and real-world applications
 - **Continuous updates**: Regular additions and maintenance
 
-## 📈 Repository Statistics
+## 📊 Repository Statistics
 
-- **Total Resources:** 155+ (and growing)
-- **Categories:** 16 comprehensive topics
-- **Average per Category:** 9.7 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12)
+- **Total Resources:** 167+ (and growing)
+- **Categories:** 19 comprehensive topics
+- **Average per Category:** 8.8 resources
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Graph Neural Networks (11)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** November 27, 2025
@@ -76,7 +76,10 @@ free-ai-resources-arjun/
     ├── explainable-ai.md                      (12 resources)
     ├── audio-speech-processing.md             (13 resources)
     ├── graph-neural-networks.md               (11 resources) 🆕
-    ├── mlops.md                               (8 resources)
+    ├── multimodal-ai.md                       (3 resources) 🆕
+    ├── edge-ai-iot.md                         (4 resources) 🆕
+    ├── ai-security-privacy.md                 (3 resources) 🆕
+    ├── mlops.md                               (10 resources) ✨
     ├── ai-ethics.md                           (7 resources)
     ├── mathematics-for-ai.md                  (9 resources)
     ├── ai-tools-frameworks.md                 (6 resources)
@@ -118,6 +121,9 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - Explainable AI (XAI)
 - Audio & Speech Processing
 - Graph Neural Networks (GNNs) 🆕
+- Multimodal AI 🆕
+- Edge AI & IoT 🆕
+- AI Security & Privacy 🆕
 - MLOps
 - AI Ethics & Responsible AI
 - Mathematics for AI
@@ -223,6 +229,33 @@ Advanced neural architectures for learning from graph-structured data.
 - Node classification and link prediction
 - Graph classification and generation
 - Applications in molecular AI, social networks, recommendation systems
+
+### 🌈 [Multimodal AI](resources/multimodal-ai.md) 🆕
+
+AI systems processing multiple data types (text, images, audio, video).
+
+- Vision-language models (CLIP, DALL·E, GPT-4V)
+- Audio-text integration (Whisper)
+- Cross-modal retrieval and generation
+- Multimodal transformers
+
+### 🔌 [Edge AI & IoT](resources/edge-ai-iot.md) 🆕
+
+Deploying AI on embedded devices and edge computing systems.
+
+- TinyML fundamentals
+- Model optimization and quantization
+- Edge inference frameworks
+- Embedded hardware platforms
+
+### 🔒 [AI Security & Privacy](resources/ai-security-privacy.md) 🆕
+
+Protecting AI systems from adversarial attacks and privacy violations.
+
+- Adversarial machine learning
+- Model extraction and data poisoning
+- Privacy-preserving AI
+- Federated learning and differential privacy
 
 ### 🛠️ [MLOps](resources/mlops.md)
 
@@ -333,7 +366,7 @@ Please ensure resources meet these criteria:
 
 **For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md)**
 
-## 📜 License
+## 📋 License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
