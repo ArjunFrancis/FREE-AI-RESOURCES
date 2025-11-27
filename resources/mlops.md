@@ -49,12 +49,12 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 
 - [Google Cloud MLOps Guide](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) **(Intermediate)** - Official Google Cloud architecture guide covering MLOps maturity levels (0-2), continuous delivery, automated ML pipelines, and production best practices with detailed diagrams and implementation patterns.
   - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: Google Cloud (official source)
+  - 🏛️ Authority: Google Cloud (official source)
   - [Tags: official google-cloud mlops-architecture ci-cd]
 
 - [IBM MLOps Guide (PDF)](https://ibm.github.io/MLOps/pdf/mlops-guide.pdf) **(Beginner/Intermediate)** - Comprehensive, beginner-accessible and authoritative MLOps guide by IBM, covering the practical implementation of MLOps in real-world projects. Includes detailed walkthroughs of automated pipelines, model monitoring, data engineering, CI/CD, and responsible AI lifecycle management. No login required, 100% free, high industry credibility.
   - 📖 Access: Fully open, downloadable PDF
-  - 🌍 Authority: IBM (official source)
+  - 🏛️ Authority: IBM (official source)
   - ⏱️ Length: Comprehensive guide
   - [Tags: beginner intermediate mlops machine-learning-operations model-deployment pipelines ibm free automation production ci-cd ai-lifecycle 2025]
 
@@ -62,12 +62,32 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 
 - [Databricks MLOps Guide](https://www.databricks.com/glossary/mlops) **(Advanced)** - Enterprise-focused guide covering MLOps lifecycle, model registry, experiment tracking with MLflow, automated retraining, and production deployment patterns for large-scale ML systems.
   - 📖 Access: Fully open
-  - 🌍 Authority: Databricks (industry leader)
+  - 🏛️ Authority: Databricks (industry leader)
   - [Tags: advanced enterprise mlflow automation]
 
 - [MLOps.org Community Resources](https://ml-ops.org/) **(All Levels)** - Community-maintained resource hub with MLOps principles, best practices, tools comparison, case studies, and curated learning paths covering the entire ML lifecycle.
   - 📖 Access: Fully open, community-driven
   - [Tags: community resources best-practices tools]
+
+---
+
+## 📚 Research Papers & Academic Resources
+
+### 🟢 Beginner-Friendly
+
+- [Widening Access to Applied Machine Learning with TinyML (Harvard Data Science Review)](https://hdsr.mitpress.mit.edu/pub/0gbwdele) – Academic paper exploring how TinyML democratizes machine learning deployment through accessible embedded systems education, covering MLOps principles for resource-constrained environments and educational frameworks for hands-on ML. (🟢 Beginner)
+  - 📖 Access: Fully open PDF, no paywall
+  - 🏛️ Authority: Harvard Data Science Review + MIT Press
+  - 📜 Type: Peer-reviewed academic paper
+  - [Tags: beginner tinyml-mlops ml-accessibility embedded-deployment education 2025]
+
+### 🟡 Intermediate
+
+- [MLHOps: Machine Learning for Healthcare Operations (arXiv)](https://arxiv.org/pdf/2305.02474.pdf) – Healthcare-specific MLOps framework addressing unique challenges in clinical ML deployment including regulatory compliance, data privacy, model monitoring in healthcare settings, and ethical considerations with real-world case studies. (🟡 Intermediate)
+  - 📖 Access: Fully open arXiv preprint
+  - 🏛️ Authority: arXiv (Cornell University)
+  - 📜 Type: Research preprint
+  - [Tags: intermediate healthcare-mlops clinical-ml medical-ai-deployment ethics 2025]
 
 ---
 
@@ -90,9 +110,11 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Models that need MLOps
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Tools for building ML systems
 - [Datasets & Benchmarks](./datasets-benchmarks.md) - Data for ML pipelines
+- [Edge AI & IoT](./edge-ai-iot.md) - Edge deployment strategies
 
 **Cross-reference:**
 - [AI Ethics & Responsible AI](./ai-ethics.md) - Model governance and fairness monitoring
+- [AI Security & Privacy](./ai-security-privacy.md) - Secure model deployment
 
 ---
 
@@ -116,6 +138,6 @@ Found a great free MLOps resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 8
+**Last Updated:** November 27, 2025 | **Total Resources:** 10
 
-**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure
+**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment
