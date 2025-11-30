@@ -73,6 +73,31 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌍 Authority: MIT (Professor Gilbert Strang)
   - [Tags: intermediate university-course linear-algebra mit]
 
+- [Stanford CS229 Math Resources](https://cs229.stanford.edu) **(Intermediate)** - Comprehensive collection of mathematical review materials from Stanford's legendary machine learning course covering linear algebra, probability theory, convex optimization, and hidden Markov models with detailed notes and problem sets designed specifically for ML applications.
+  - 📖 Access: Fully open, course website
+  - 🌍 Authority: Stanford University (CS229)
+  - 📝 Includes: Linear algebra review, probability review, convex optimization I & II
+  - [Tags: intermediate stanford machine-learning linear-algebra probability optimization 2025]
+
+- [MIT 6.042J - Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) **(Intermediate)** - Comprehensive MIT OpenCourseWare covering discrete mathematics fundamentals including proofs, graphs, state machines, modular arithmetic, counting, and discrete probability theory essential for understanding algorithms, computability, and machine learning theory with full lecture videos, problem sets, and exams.
+  - 📖 Access: Fully open, MIT OCW
+  - 🌍 Authority: MIT
+  - 📝 Includes: Video lectures, problem sets, exams with solutions
+  - [Tags: intermediate discrete-math probability computer-science mit fundamentals 2025]
+
+---
+
+## 🛠️ Tools & Implementation
+
+### 🟡 Intermediate
+
+- [PyTorch Official Tutorials](https://docs.pytorch.org/tutorials/index.html) **(Beginner/Intermediate)** - Official comprehensive PyTorch tutorials covering tensor mathematics, automatic differentiation, neural network building blocks, and practical implementation of mathematical concepts in deep learning including linear algebra operations, gradient computation, and optimization algorithms with runnable code examples.
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: PyTorch (official)
+  - 🛠️ Hands-on: Yes (interactive code examples)
+  - 💻 Topics: Tensors, autograd, neural networks, optimization
+  - [Tags: intermediate pytorch tensors autograd hands-on implementation 2025]
+
 ---
 
 ## 📦 Resource Collections
@@ -92,6 +117,8 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 **Cross-reference:**
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Implement mathematical concepts in code
+- [Computer Vision](./computer-vision.md) - Linear algebra in image processing
+- [Natural Language Processing](./natural-language-processing.md) - Vector spaces and embeddings
 
 ---
 
@@ -115,6 +142,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 9
+**Last Updated:** November 30, 2025 | **Total Resources:** 12
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math
