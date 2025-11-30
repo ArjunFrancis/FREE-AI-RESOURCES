@@ -52,6 +52,11 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 ### 🟢 Beginner-Friendly
 
+- [Five Free Courses on AI Ethics - AI Ethics Assessor](https://aiethicsassessor.com/blog/five-free-courses-on-ai-ethics) **(Beginner to Intermediate)** - Comprehensive guide featuring 5 world-class free AI ethics courses: Center for AI Safety (12-week instructor-led), OpenSAP (practical ethical AI framework), Sorbonne SCAI (ethical/legal/social aspects), University of Helsinki (foundational ethics), and Linux Foundation (business drivers & responsible AI). Proves premium education doesn't require premium price.
+  - 📖 Access: Fully open guide with course links
+  - 🌍 Authority: Multiple leading institutions
+  - [Tags: beginner intermediate course-collection universities business 2025]
+
 - [AI Ethics at SAP (OpenSAP)](https://open.sap.com/courses/ai1) **(Beginner/Intermediate)** - Free practical course from SAP on developing an ethical AI framework and implementing it in practice covering principles, guidelines, and real-world application suitable for professionals and beginners.
   - 📖 Access: Fully open, OpenSAP platform
   - 🌍 Authority: SAP (enterprise perspective)
@@ -61,9 +66,22 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 📖 Access: Free (certificate option available)
   - [Tags: beginner governance compliance cpd-accredited]
 
+- [AWS Responsible AI Practices](https://aws.amazon.com/ai/responsible-ai/) **(Beginner to Intermediate)** - Free comprehensive courses from AWS including Responsible AI Practices (beginners), Security/Compliance/Governance for AI Solutions (intermediate), and Introduction to Responsible AI in generative AI context. Covers AWS services and tools for implementing responsible AI with practical implementation strategies.
+  - 📖 Access: Free AWS training courses
+  - 🌍 Authority: Amazon Web Services
+  - [Tags: beginner intermediate aws cloud-ai governance security 2025]
+
 ---
 
-## 🔴 Advanced Topics
+## 🔬 Research & Advanced Topics
+
+### 🟡 Intermediate to Advanced
+
+- [Responsible AI Tutorial - Industry Practices](https://sites.google.com/view/ResponsibleAITutorial) **(Intermediate to Advanced)** - Comprehensive tutorial presenting responsible AI foundations including explainability, fairness assessment/mitigation, and privacy-preserving ML techniques with real industry case studies spanning search, recommendation systems, hiring, computer vision, translation, lending, and analytics. Covers open-source tools from Amazon SageMaker, Google AI, Fiddler, IBM, LinkedIn, Microsoft.
+  - 📖 Access: Fully open tutorial materials
+  - 🌍 Authority: Industry practitioners (multi-company)
+  - 🛠️ Hands-on: Yes - practical tools and techniques
+  - [Tags: intermediate advanced explainability fairness privacy industry-tools case-studies 2025]
 
 ### 🔴 Advanced
 
@@ -88,9 +106,11 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - Understanding how bias enters ML models
 - [MLOps](./mlops.md) - Model governance and fairness monitoring
 - [Natural Language Processing](./natural-language-processing.md) - Bias in language models
+- [Explainable AI](./explainable-ai.md) - XAI techniques for transparency and interpretability
 
 **Cross-reference:**
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Tools for fairness testing and explainability
+- [AI Security & Privacy](./ai-security-privacy.md) - Privacy-preserving AI techniques
 
 ---
 
@@ -114,6 +134,6 @@ Found a great free AI ethics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 23, 2025 | **Total Resources:** 7
+**Last Updated:** November 30, 2025 | **Total Resources:** 10
 
-**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai
+**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, industry-practices, case-studies, practical-tools, 2025
