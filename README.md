@@ -40,7 +40,7 @@ The collection focuses on:
 - **Newest Categories:** Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
-- **Last Updated:** November 28, 2025
+- **Last Updated:** November 30, 2025
 
 ## 🔓 100% Free & Open Access Commitment
 
@@ -450,4 +450,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: November 28, 2025
+**Last Updated**: November 30, 2025
