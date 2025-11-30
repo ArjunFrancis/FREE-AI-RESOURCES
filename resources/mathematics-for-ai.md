@@ -37,6 +37,14 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌍 Authority: MIT Press (Goodfellow, Bengio, Courville)
   - [Tags: deep-learning-math applied-math probability]
 
+### 🔴 Advanced
+
+- [Matrix Calculus for Machine Learning and Beyond (MIT 18.S096)](https://arxiv.org/pdf/2501.14787.pdf) **(Advanced)** - Comprehensive undergraduate-level course from MIT introducing differential calculus extended to vector spaces. Covers derivatives for large-scale optimization, efficient derivative propagation methods, and computational applications in machine learning. Emphasizes practical implementations and matrix/tensor operations essential for deep learning.
+  - 📖 Access: Free PDF (full course materials)
+  - 🌍 Authority: MIT Mathematics Department
+  - 📝 Topics: Matrix derivatives, Jacobians, automatic differentiation, optimization algorithms
+  - [Tags: advanced matrix-calculus optimization gradient-computation mit 2025]
+
 ---
 
 ## 🎓 Courses & Video Lectures
@@ -59,7 +67,20 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Free on YouTube
   - [Tags: beginner calculus visual-learning gradients]
 
+- [Mathematics for Machine Learning - Simplilearn SkillUp](https://www.simplilearn.com/mathematics-for-machine-learning-free-course-skillup) **(Beginner to Intermediate)** - Comprehensive free course covering essential mathematical foundations for ML: linear algebra (vectors, matrices, eigenvalues), calculus (derivatives, gradients), probability theory, and statistics. Includes certificate upon completion. Perfect for ML beginners building mathematical intuition.
+  - 📖 Access: Free with certificate option
+  - 📝 Duration: Self-paced (approximately 8 hours)
+  - 🎯 Topics: Linear algebra, calculus, probability, statistics for ML
+  - [Tags: beginner intermediate linear-algebra calculus probability certificate 2025]
+
 ### 🟡 Intermediate
+
+- [Mathematics for Machine Learning and Data Science Specialization (DeepLearning.AI)](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) **(Beginner to Intermediate)** - Beginner-friendly 3-course specialization by DeepLearning.AI covering calculus, linear algebra, statistics, and probability essentials for ML. Topics include systems of linear equations, eigenvalues/eigenvectors, PCA, Bayesian statistics, maximum likelihood estimation, and hypothesis testing with ML motivations throughout. Created by Andrew Ng's team.
+  - 📖 Access: Free audit available on Coursera (certificate paid)
+  - 🌍 Authority: DeepLearning.AI (Andrew Ng)
+  - 📝 Includes: 3 courses - Linear Algebra, Calculus, Probability & Statistics
+  - ⚠️ Note: Requires free Coursera account for audit
+  - [Tags: beginner intermediate andrew-ng deeplearning-ai coursera pca bayesian 2025]
 
 - [Mathematics for Machine Learning (Coursera, Imperial College London)](https://www.coursera.org/specializations/mathematics-machine-learning) **(Beginner/Intermediate)** - Free foundational specialization from Imperial College London (via Coursera) that covers essential linear algebra, multivariate calculus, and PCA (Principal Component Analysis) concepts for AI/ML. Suitable for absolute beginners and those refreshing core math skills for machine learning. Audit for free (certificate available with fee).
   - 📖 Access: Free audit available (certificate requires fee)
@@ -142,6 +163,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** November 30, 2025 | **Total Resources:** 12
+**Last Updated:** November 30, 2025 | **Total Resources:** 15
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, 2025
