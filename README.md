@@ -1,11 +1,11 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **179+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **193+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-179+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-24-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
+[![Resources](https://img.shields.io/badge/resources-193+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-25-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
@@ -33,11 +33,11 @@ The collection focuses on:
 
 ## 📊 Repository Statistics
 
-- **Total Resources:** 179+ (and growing)
-- **Categories:** 24 comprehensive topics
-- **Average per Category:** 7.5 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Graph Neural Networks (11)
-- **Newest Categories:** Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
+- **Total Resources:** 193+ (and growing)
+- **Categories:** 25 comprehensive topics
+- **Average per Category:** 7.7 resources
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Mathematics for AI (12), Graph Neural Networks (11)
+- **Newest Categories:** AI for Healthcare 🎯, Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** November 30, 2025
@@ -84,10 +84,11 @@ free-ai-resources-arjun/
     ├── robotics-embodied-ai.md                (3 resources) 🆕
     ├── time-series-forecasting.md             (2 resources) 🆕
     ├── recommender-systems.md                 (2 resources) 🆕
+    ├── ai-for-healthcare.md                   (7 resources) 🎯 NEW
     ├── ai-for-finance.md                      (1 resource) 🆕
     ├── mlops.md                               (10 resources) ✨
     ├── ai-ethics.md                           (7 resources)
-    ├── mathematics-for-ai.md                  (9 resources)
+    ├── mathematics-for-ai.md                  (12 resources) ⬆️
     ├── ai-tools-frameworks.md                 (6 resources)
     ├── research-papers-publications.md        (0 resources)
     └── datasets-benchmarks.md                 (18 resources)
@@ -134,6 +135,7 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - **Robotics & Embodied AI** 🆕
 - **Time Series Forecasting** 🆕
 - **Recommender Systems** 🆕
+- **AI for Healthcare** 🎯 **NEW**
 - **AI for Finance** 🆕
 - MLOps
 - AI Ethics & Responsible AI
@@ -307,6 +309,17 @@ Build intelligent systems that suggest relevant items to users.
 - Matrix factorization
 - Neural collaborative filtering
 - Hybrid recommendation approaches
+
+### 🏯 [AI for Healthcare](resources/ai-for-healthcare.md) 🎯 **NEW**
+
+Apply AI to medical imaging, clinical decision support, and patient care.
+
+- Medical image analysis (X-ray, CT, MRI)
+- Radiology AI and diagnostic imaging
+- Clinical NLP and EHR analysis
+- Predictive healthcare analytics
+- Drug discovery and precision medicine
+- Healthcare datasets and benchmarks
 
 ### 💰 [AI for Finance](resources/ai-for-finance.md) 🆕
 
