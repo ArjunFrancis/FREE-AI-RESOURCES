@@ -3,39 +3,62 @@ Build intelligent systems that suggest relevant items to users based on preferen
 
 ## 📖 Overview
 
-Recommender Systems power personalized experiences across Netflix, Spotify, Amazon, YouTube, and countless other platforms. These systems analyze user preferences, item features, and interaction patterns to predict and recommend relevant content, products, or services. Techniques range from collaborative filtering to deep learning-based approaches.
+Recommender Systems power personalized experiences across Netflix, Spotify, Amazon, YouTube, and countless other platforms. These systems analyze user preferences, item features, and interaction patterns to predict and recommend relevant content, products, or services. Techniques range from collaborative filtering to deep learning-based approaches, and modern recommenders combine multiple strategies for optimal results.
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking, deep-learning-recommenders
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
 ---
 
 ## 📚 Topics Covered
-- Collaborative filtering (user-based, item-based)
-- Content-based recommendation
-- Matrix factorization (SVD, NMF)
+- Collaborative filtering (user-based, item-based, matrix factorization)
+- Content-based recommendation systems
+- Matrix factorization (SVD, NMF, ALS)
 - Hybrid recommendation approaches
-- Deep learning for recommendations (neural collaborative filtering)
-- Evaluation metrics (precision, recall, NDCG, MAP)
+- Deep learning for recommendations (neural collaborative filtering, RNNs, attention)
+- Evaluation metrics (precision, recall, NDCG, MAP, RMSE)
 - Cold start problem solutions
-- Implicit and explicit feedback
-- Ranking and retrieval
+- Implicit and explicit feedback mechanisms
+- Ranking algorithms and re-ranking
+- Real-world recommendation systems (Netflix, Spotify, Amazon)
 
 ---
 
 ## 🎓 Courses & Resources
 
-### 🟡 Intermediate
+### ⭐ Starter Kit (Absolute Beginners Start Here!)
 
-- [Introduction to Recommendation Systems (Google Machine Learning Crash Course)](https://developers.google.com/machine-learning/recommendation) **(Intermediate)** - Comprehensive free course from Google exploring recommendation system fundamentals, algorithms, and implementation. Covers collaborative filtering, content-based filtering, matrix factorization, deep neural networks for recommendations, candidate generation, scoring, and evaluation metrics. Includes interactive exercises and real-world examples from Google products.
+**If you're completely new to Recommender Systems, start with these 3 resources in order:**
+
+1. 🟢 [Google Machine Learning Recommendation Systems Course](https://developers.google.com/machine-learning/recommendation) - Why start here: Comprehensive, interactive introduction from Google with real-world examples
+2. 🟡 [Codecademy Learn Recommender Systems](https://www.codecademy.com/learn/learn-recommender-systems) - Next step: Hands-on Python implementation of recommendation algorithms
+3. 🟡 [Recommendation System Tutorial with Python (TowardsAI)](https://towardsai.net/p/editorial/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering) - Advance to: In-depth Netflix case study with collaborative filtering
+
+**After completing the starter kit, explore neural networks, hybrid approaches, and large-scale systems.**
+
+---
+
+### 🟢 Beginner-Friendly
+
+- [Introduction to Recommendation Systems (Google Machine Learning Crash Course)](https://developers.google.com/machine-learning/recommendation) – Comprehensive free course from Google exploring recommendation system fundamentals, algorithms, and implementation. Covers collaborative filtering, content-based filtering, matrix factorization, deep neural networks for recommendations, candidate generation, scoring, and evaluation metrics. Includes interactive exercises and real-world examples from Google products. (🟢 Beginner)
   - 📖 Access: Fully open, no signup required
   - 🏛️ Source: Google for Developers
   - 🛠️ Hands-on: Yes (interactive exercises)
   - 💻 Tools: TensorFlow examples provided
-  - [Tags: intermediate recommender-systems collaborative-filtering google machine-learning free-course 2025]
+  - 🔧 Topics: Collaborative filtering, content-based, matrix factorization, neural networks
+  - [Tags: beginner recommender-systems collaborative-filtering google machine-learning free-course 2025]
 
-- [Learn Recommender Systems (Codecademy)](https://www.codecademy.com/learn/learn-recommender-systems) **(Intermediate)** - Interactive course teaching how to build recommendation engines using Python and machine learning. Covers collaborative filtering techniques, content-based filtering, building user and item profiles, computing similarity metrics, and implementing recommendation algorithms. Hands-on projects with real datasets.
+- [Nearest Neighbor Collaborative Filtering (Coursera)](https://www.coursera.org/learn/collaborative-filtering) – Foundational course on collaborative filtering using nearest neighbor methods. Learn how to find similar users and items, compute recommendations, and implement user-based and item-based collaborative filtering. Clear explanations with hands-on exercises. Perfect introduction to fundamental recommendation concepts. (🟢 Beginner)
+  - 📖 Access: Free audit available (certificate paid)
+  - 🏛️ Source: Coursera
+  - 🛠️ Hands-on: Yes (implementation exercises)
+  - ⚠️ Note: Audit free; certificate requires payment
+  - [Tags: beginner collaborative-filtering nearest-neighbor coursera foundational 2017]
+
+### 🟡 Intermediate
+
+- [Learn Recommender Systems (Codecademy)](https://www.codecademy.com/learn/learn-recommender-systems) – Interactive course teaching how to build recommendation engines using Python and machine learning. Covers collaborative filtering techniques, content-based filtering, building user and item profiles, computing similarity metrics, and implementing recommendation algorithms. Hands-on projects with real datasets. (🟡 Intermediate)
   - 📖 Access: Free access (Pro features optional)
   - 🏛️ Source: Codecademy
   - 🛠️ Hands-on: Yes (Python projects)
@@ -44,9 +67,50 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - ⚠️ Note: Free access to core content, Pro subscription for additional features
   - [Tags: intermediate recommender-systems python collaborative-filtering hands-on codecademy 2021]
 
+- [Recommendation System Tutorial with Python (TowardsAI)](https://towardsai.net/p/editorial/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering) – In-depth tutorial building Netflix-style recommendation system using Python. Covers data preprocessing, exploratory data analysis, implementing collaborative filtering, matrix factorization, and evaluating recommender quality. Complete walkthrough with code examples and real movie rating dataset. (🟡 Intermediate)
+  - 📖 Access: Fully open, no account required
+  - 💻 Tools: Python, pandas, NumPy, scikit-learn
+  - 🛠️ Hands-on: Yes (complete implementation)
+  - 📈 Real dataset (movie ratings)
+  - [Tags: intermediate recommendation-system collaborative-filtering python netflix towardsai 2020]
+
+- [Build a Rating Recommendation Engine with Collaborative Filtering (Pluralsight)](https://www.pluralsight.com/courses/build-rating-recommendation-engine-collaborative-filtering) – Practical course teaching how to build a ratings-based recommendation engine using collaborative filtering. Covers user-based and item-based approaches, similarity metrics, and producing recommendations. Project-based learning with real implementation. Free trial available. (🟡 Intermediate)
+  - 📖 Access: Free trial available (subscription required for full access)
+  - 💻 Tools: Python, pandas, NumPy
+  - 🛠️ Hands-on: Yes (practical projects)
+  - 🔧 Topics: User-based and item-based CF, similarity metrics
+  - [Tags: intermediate collaborative-filtering recommendation-engine python pluralsight 2022]
+
 ### 🔴 Advanced
 
-*More advanced resources coming soon! Check back for updates on deep learning recommenders, reinforcement learning for recommendations, and large-scale systems.*
+- [Netflix Recommendation Engine Implementation (GitHub)](https://github.com/DrPoojaAbhijith/Netflix-Recommendation-Engine) – Complete open-source GitHub repository implementing Netflix-style recommendation system with collaborative filtering. Includes data loading, model training, evaluation, and deployment considerations. Excellent reference for understanding production-ready recommender systems. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, pandas, scikit-learn
+  - 🛠️ Hands-on: Yes (complete codebase)
+  - 🔬 Topics: Collaborative filtering, matrix factorization, evaluation
+  - [Tags: advanced github netflix recommendation-engine collaborative-filtering python 2024]
+
+- [RecBole: A Unified, Comprehensive and Efficient Recommendation Framework](https://github.com/RUCAIBox/RecBole) – State-of-the-art unified recommendation framework implementing 80+ algorithms (collaborative filtering, content-based, hybrid, deep learning, context-aware). Perfect for researchers and practitioners benchmarking multiple approaches. Comprehensive documentation and tutorials. Open-source and actively maintained. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, PyTorch
+  - 🔬 80+ algorithms implemented
+  - 📈 Benchmarking and evaluation tools
+  - 📚 Comprehensive documentation
+  - [Tags: advanced github framework pytorch recommendation-systems recbole state-of-the-art 2024]
+
+- [Deep Learning for Recommender Systems (Advanced Architectures)](https://github.com/topics/recommendation-system) – Collection of advanced resources covering deep learning approaches to recommendations: neural collaborative filtering, RNNs, LSTMs, attention mechanisms, graph neural networks, and transformers. Includes research papers, implementations, and theoretical foundations. For practitioners building sophisticated recommenders. (🔴 Advanced)
+  - 📖 Access: Open-source implementations and research papers
+  - 💻 Tools: TensorFlow, PyTorch, JAX
+  - 🔬 Topics: Neural CF, RNNs, GNNs, attention, transformers
+  - 📚 Research-backed approaches
+  - [Tags: advanced deep-learning neural-networks recommendation-systems github 2024]
+
+- [Implicit Feedback Recommendation Systems (Advanced Techniques)](https://github.com/benfred/implicit) – Python library and tutorials for building recommendation systems from implicit feedback (clicks, purchases, views) rather than explicit ratings. Covers alternating least squares (ALS), Bayesian personalized ranking, and other advanced techniques. Essential for real-world recommendation systems where explicit ratings are rare. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, NumPy, Cython (fast)
+  - 🔧 Topics: ALS, implicit feedback, BPR ranking
+  - 🚀 Highly optimized for large-scale systems
+  - [Tags: advanced implicit-feedback als recommendation-engine github python 2024]
 
 ---
 
@@ -58,9 +122,12 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - LightFM (hybrid recommendation algorithm)
   - implicit (fast collaborative filtering)
   - TensorFlow Recommenders (TFRS)
-  - RecBole (unified recommendation framework)
-- **Frameworks:** PyTorch, TensorFlow, Keras
-- **Datasets:** MovieLens, Amazon Reviews, Last.fm, Book-Crossing
+  - RecBole (unified recommendation framework with 80+ algorithms)
+  - Cornac (open-source recommender framework)
+  - PyTorch Recommenders (PyTorch-based)
+- **Frameworks:** PyTorch, TensorFlow, JAX
+- **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing
+- **Evaluation:** Python's scikit-learn, specialized recommendation metrics
 
 ---
 
@@ -68,31 +135,34 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 
 **See also:**
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - ML foundations for recommendation algorithms
-- [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural approaches to recommendations
-- [Natural Language Processing](./natural-language-processing.md) - Text-based content filtering
+- [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural approaches to recommendations (neural CF, RNNs, attention)
+- [Natural Language Processing](./natural-language-processing.md) - Text-based content filtering and embeddings
+- [Graph Neural Networks](./graph-neural-networks.md) - Graph-based recommendation approaches
 
 **Cross-reference:**
-- [Data Science & Analytics](./data-science-analytics.md) - User behavior analysis
-- [Datasets & Benchmarks](./datasets-benchmarks.md) - Recommendation datasets (MovieLens, etc.)
-- [Graph Neural Networks](./graph-neural-networks.md) - Graph-based recommendation approaches
+- [Data Science & Analytics](./data-science-analytics.md) - User behavior analysis and visualization
+- [Datasets & Benchmarks](./datasets-benchmarks.md) - Recommendation datasets (MovieLens, Amazon, etc.)
+- [AI Tools & Frameworks](./ai-tools-frameworks.md) - Python libraries and frameworks for recommenders
+- [Mathematics for AI](./mathematics-for-ai.md) - Linear algebra for matrix factorization
 
 **Prerequisites:**
 - Python programming
 - Machine learning fundamentals (supervised learning, evaluation metrics)
-- Linear algebra basics (matrix operations)
+- Linear algebra basics (matrix operations, SVD, eigenvalues)
 - Understanding of collaborative filtering concepts
+- Familiarity with similarity metrics (cosine, Euclidean distance)
 
 ---
 
-## 🎯 Starter Kit: Absolute Beginners (Start Here!)
+## 🎓 Starter Kit: Absolute Beginners (Start Here!)
 
 If you're completely new to Recommender Systems, start with these resources in order:
 
-1. **Google Machine Learning Recommendation Systems Course** - Why start here: Comprehensive introduction from Google covering all fundamental concepts with interactive exercises
+1. **Google Machine Learning Recommendation Systems Course** - Why start here: Comprehensive introduction from Google covering all fundamentals with interactive exercises
 2. **Codecademy Learn Recommender Systems** - Next step: Hands-on Python implementation of recommendation algorithms with real projects
-3. **Practice with MovieLens dataset** - Advance to: Build your own recommender using popular datasets (see [Datasets & Benchmarks](./datasets-benchmarks.md))
+3. **Recommendation System Tutorial with Python (TowardsAI)** - Advance to: In-depth Netflix case study with complete implementation
 
-After completing the starter kit, explore advanced topics like neural collaborative filtering and deep learning approaches.
+After completing the starter kit, explore advanced topics: neural collaborative filtering, graph neural networks, and large-scale systems with RecBole or implicit feedback libraries.
 
 ---
 
@@ -116,6 +186,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 28, 2025 | **Total Resources:** 2
+**Last Updated:** December 12, 2025 | **Total Resources:** 11
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, google, codecademy, netflix, pytorch, tensorflow, 2025
