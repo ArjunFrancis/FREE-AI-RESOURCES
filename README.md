@@ -1,11 +1,11 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **189+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **205+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-189+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-25-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
+[![Resources](https://img.shields.io/badge/resources-205+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Categories](https://img.shields.io/badge/categories-25+-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
 
@@ -33,10 +33,10 @@ The collection focuses on:
 
 ## 📊 Repository Statistics
 
-- **Total Resources:** 189+ (and growing)
-- **Categories:** 25 comprehensive topics
-- **Average per Category:** 7.6 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Mathematics for AI (12), Graph Neural Networks (11), Natural Language Processing (11)
+- **Total Resources:** 205+ (and growing)
+- **Categories:** 25+ comprehensive topics
+- **Average per Category:** ~8 resources
+- **Top Categories:** Datasets & Benchmarks, Generative AI, Prompt Engineering, Audio & Speech Processing, Computer Vision, Explainable AI, Mathematics for AI, Graph Neural Networks, Natural Language Processing
 - **Newest Categories:** AI for Healthcare 🎯, Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
@@ -71,7 +71,7 @@ free-ai-resources-arjun/
     ├── deep-learning-neural-networks.md       (5 resources)
     ├── natural-language-processing.md         (11 resources) ✨
     ├── computer-vision.md                     (12 resources)
-    ├── reinforcement-learning.md              (6 resources)
+    ├── reinforcement-learning.md              (18 resources)
     ├── generative-ai.md                       (16 resources)
     ├── prompt-engineering.md                  (15 resources)
     ├── explainable-ai.md                      (12 resources)
@@ -81,8 +81,8 @@ free-ai-resources-arjun/
     ├── edge-ai-iot.md                         (4 resources) 🆕
     ├── ai-security-privacy.md                 (3 resources) 🆕
     ├── data-science-analytics.md              (4 resources) 🆕
-    ├── robotics-embodied-ai.md                (3 resources) 🆕
-    ├── time-series-forecasting.md             (2 resources) 🆕
+    ├── robotics-embodied-ai.md                (13 resources) 🆕
+    ├── time-series-forecasting.md             (8 resources) 🆕
     ├── recommender-systems.md                 (2 resources) 🆕
     ├── ai-for-healthcare.md                   (7 resources) 🎯 NEW
     ├── ai-for-finance.md                      (1 resource) 🆕
