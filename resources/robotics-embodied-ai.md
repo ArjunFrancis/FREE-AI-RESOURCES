@@ -80,6 +80,10 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 💻 Tools: ROS2, Gazebo, Python
   - [Tags: beginner youtube ros2 tutorials hands-on simulation-gazebo 2024]
 
+- [NVIDIA Robotics Fundamentals Learning Path](https://www.nvidia.com/en-us/learn/learning-path/robotics/) - A free learning path from NVIDIA that provides a strong foundation in robotics, covering essential concepts and technologies, with hands-on training using Isaac Sim. (🟢 Beginner)
+  - 📖 Access: Fully open, free enrollment
+  - [Tags: nvidia, free-course, robotics, isaac-sim, beginner, official]
+
 ### 🟡 Intermediate
 
 - [Robot Learning: A Tutorial (2025)](https://www.youtube.com/watch?v=NXwEN39yrEk) – Comprehensive tutorial covering robot learning from a modern perspective. Discusses reinforcement learning, behavioral cloning, generalist models, imitation learning, and diffusion models for robotics. Features insights from robotics researchers on real-world robot learning challenges and solutions. (🟡 Intermediate)
@@ -139,6 +143,14 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 🎓 Level: Graduate-level
   - ⚠️ Note: Check JHU for enrollment details
   - [Tags: advanced embodied-intelligence graduate-level johns-hopkins robotics 2025]
+
+- [University of Michigan Robotics Courses](https://robotics.umich.edu/academic-program/courses/) - A collection of free robotics courses from the University of Michigan, covering topics from linear algebra to the Robot Operating System (ROS). (🟢 Beginner to 🔴 Advanced)
+  - 📖 Access: Fully open on GitHub and YouTube
+  - [Tags: university, course, free, robotics, ros, michigan]
+
+- [MIT OpenCourseWare - Underactuated Robotics](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/) - A comprehensive course from MIT on the robotics of underactuated systems, with lecture notes, assignments, and projects. (🔴 Advanced)
+  - 📖 Access: Fully open, free
+  - [Tags: mit, ocw, course, robotics, advanced, underactuated]
 
 ---
 
@@ -205,6 +217,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 13
+**Last Updated:** December 12, 2025 | **Total Resources:** 16
 
 **Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics
