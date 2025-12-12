@@ -1,10 +1,10 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **205+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **235+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-205+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Resources](https://img.shields.io/badge/resources-235+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 [![Categories](https://img.shields.io/badge/categories-25+-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
@@ -33,11 +33,11 @@ The collection focuses on:
 
 ## 📊 Repository Statistics
 
-- **Total Resources:** 205+ (and growing)
+- **Total Resources:** 235+ (and growing)
 - **Categories:** 25+ comprehensive topics
-- **Average per Category:** ~8 resources
+- **Average per Category:** ~9 resources
 - **Top Categories:** Datasets & Benchmarks, Generative AI, Prompt Engineering, Audio & Speech Processing, Computer Vision, Explainable AI, Mathematics for AI, Graph Neural Networks, Natural Language Processing
-- **Newest Categories:** AI for Healthcare 🎯, Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
+- **Recently Expanded:** AI for Healthcare (17), Reinforcement Learning (18), Robotics & Embodied AI (13), Time Series Forecasting (8), AI for Finance (11), Recommender Systems (11)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** December 12, 2025
@@ -71,7 +71,7 @@ free-ai-resources-arjun/
     ├── deep-learning-neural-networks.md       (5 resources)
     ├── natural-language-processing.md         (11 resources) ✨
     ├── computer-vision.md                     (12 resources)
-    ├── reinforcement-learning.md              (18 resources)
+    ├── reinforcement-learning.md              (18 resources) 🚀
     ├── generative-ai.md                       (16 resources)
     ├── prompt-engineering.md                  (15 resources)
     ├── explainable-ai.md                      (12 resources)
@@ -83,9 +83,9 @@ free-ai-resources-arjun/
     ├── data-science-analytics.md              (4 resources) 🆕
     ├── robotics-embodied-ai.md                (13 resources) 🆕
     ├── time-series-forecasting.md             (8 resources) 🆕
-    ├── recommender-systems.md                 (2 resources) 🆕
-    ├── ai-for-healthcare.md                   (7 resources) 🎯 NEW
-    ├── ai-for-finance.md                      (1 resource) 🆕
+    ├── recommender-systems.md                 (11 resources) 🚀
+    ├── ai-for-healthcare.md                   (17 resources) 🚀 NEW
+    ├── ai-for-finance.md                      (11 resources) 🚀
     ├── mlops.md                               (10 resources) ✨
     ├── ai-ethics.md                           (7 resources)
     ├── mathematics-for-ai.md                  (12 resources) ⬆️
@@ -131,12 +131,12 @@ Resources are categorized by subject area, making it easy to find exactly what y
 - Multimodal AI 🆕
 - Edge AI & IoT 🆕
 - AI Security & Privacy 🆕
-- **Data Science & Analytics** 🆕
-- **Robotics & Embodied AI** 🆕
-- **Time Series Forecasting** 🆕
-- **Recommender Systems** 🆕
-- **AI for Healthcare** 🎯 **NEW**
-- **AI for Finance** 🆕
+- Data Science & Analytics 🆕
+- Robotics & Embodied AI 🆕
+- Time Series Forecasting 🆕
+- Recommender Systems 🆕
+- **AI for Healthcare** 🚀 **NEW**
+- **AI for Finance** 🚀
 - MLOps
 - AI Ethics & Responsible AI
 - Mathematics for AI
@@ -310,7 +310,7 @@ Build intelligent systems that suggest relevant items to users.
 - Neural collaborative filtering
 - Hybrid recommendation approaches
 
-### 🏯 [AI for Healthcare](resources/ai-for-healthcare.md) 🎯 **NEW**
+### 🏯 [AI for Healthcare](resources/ai-for-healthcare.md) 🚀 **NEW**
 
 Apply AI to medical imaging, clinical decision support, and patient care.
 
@@ -321,7 +321,7 @@ Apply AI to medical imaging, clinical decision support, and patient care.
 - Drug discovery and precision medicine
 - Healthcare datasets and benchmarks
 
-### 💰 [AI for Finance](resources/ai-for-finance.md) 🆕
+### 💰 [AI for Finance](resources/ai-for-finance.md) 🚀
 
 Apply AI to financial analysis, trading, and risk assessment.
 
