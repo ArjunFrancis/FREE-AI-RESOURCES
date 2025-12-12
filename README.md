@@ -1,10 +1,10 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **235+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **244+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-235+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Resources](https://img.shields.io/badge/resources-244+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 [![Categories](https://img.shields.io/badge/categories-25+-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
@@ -33,11 +33,11 @@ The collection focuses on:
 
 ## 📊 Repository Statistics
 
-- **Total Resources:** 235+ (and growing)
+- **Total Resources:** 244+ (and growing)
 - **Categories:** 25+ comprehensive topics
 - **Average per Category:** ~9 resources
 - **Top Categories:** Datasets & Benchmarks, Generative AI, Prompt Engineering, Audio & Speech Processing, Computer Vision, Explainable AI, Mathematics for AI, Graph Neural Networks, Natural Language Processing
-- **Recently Expanded:** AI for Healthcare (17), Reinforcement Learning (18), Robotics & Embodied AI (13), Time Series Forecasting (8), AI for Finance (11), Recommender Systems (11)
+- **Recently Expanded:** AI for Healthcare (17), Reinforcement Learning (21), Robotics & Embodied AI (16), Time Series Forecasting (11), AI for Finance (11), Recommender Systems (11)
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
 - **Last Updated:** December 12, 2025
@@ -71,7 +71,7 @@ free-ai-resources-arjun/
     ├── deep-learning-neural-networks.md       (5 resources)
     ├── natural-language-processing.md         (11 resources) ✨
     ├── computer-vision.md                     (12 resources)
-    ├── reinforcement-learning.md              (18 resources) 🚀
+    ├── reinforcement-learning.md              (21 resources) 🚀
     ├── generative-ai.md                       (16 resources)
     ├── prompt-engineering.md                  (15 resources)
     ├── explainable-ai.md                      (12 resources)
@@ -81,8 +81,8 @@ free-ai-resources-arjun/
     ├── edge-ai-iot.md                         (4 resources) 🆕
     ├── ai-security-privacy.md                 (3 resources) 🆕
     ├── data-science-analytics.md              (4 resources) 🆕
-    ├── robotics-embodied-ai.md                (13 resources) 🆕
-    ├── time-series-forecasting.md             (8 resources) 🆕
+    ├── robotics-embodied-ai.md                (16 resources) 🆕
+    ├── time-series-forecasting.md             (11 resources) 🆕
     ├── recommender-systems.md                 (11 resources) 🚀
     ├── ai-for-healthcare.md                   (17 resources) 🚀 NEW
     ├── ai-for-finance.md                      (11 resources) 🚀
