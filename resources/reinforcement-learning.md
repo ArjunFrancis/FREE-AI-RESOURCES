@@ -80,6 +80,10 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 💻 Python-based
   - [Tags: beginner documentation tools openai-gym gymnasium api-reference 2025]
 
+- [Reinforcement Learning from scratch by First Principles](https://www.youtube.com/watch?v=vXtfdGphr3c) - An intuitive and visual explanation of reinforcement learning using a cartoon format. Perfect for absolute beginners to grasp the core concepts. (🟢 Beginner)
+  - 📖 Access: Fully open on YouTube
+  - [Tags: beginner, video, tutorial, visual, intuitive, cartoon]
+
 ### 🟡 Intermediate
 
 - [RL Course by David Silver (YouTube, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) – The original, foundational lecture series from DeepMind's David Silver, co-author of "Reinforcement Learning: An Introduction." Covers RL fundamentals, MDPs, dynamic programming, Monte Carlo methods, temporal difference learning, function approximation, and policy gradients. Essential viewing for deep understanding of RL principles. (🟡 Intermediate)
@@ -120,6 +124,14 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 👨‍🏫 Authors: Sutton & Barto (RL pioneers)
   - 🏛️ Published by MIT Press
   - [Tags: intermediate textbook foundational theory sutton-barto 2018]
+
+- [Reinforcement Learning: An Introduction by Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html) - The definitive textbook on reinforcement learning by Sutton and Barto. A must-read for anyone serious about RL, covering fundamental concepts to advanced topics. (🟡 Intermediate)
+  - 📖 Access: Free PDF download
+  - [Tags: textbook, foundational, sutton-barto, theory, pdf, free]
+
+- [MathWorks Reinforcement Learning Toolbox Documentation](https://www.mathworks.com/help/reinforcement-learning/) - Official documentation for the Reinforcement Learning Toolbox in MATLAB. A great resource for those working in the MATLAB environment. (🟡 Intermediate)
+  - 📖 Access: Fully open, official documentation
+  - [Tags: documentation, matlab, official, toolbox, intermediate]
 
 ### 🔴 Advanced
 
@@ -198,6 +210,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 18
+**Last Updated:** December 12, 2025 | **Total Resources:** 21
 
 **Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, dqn, actor-critic, multi-agent-rl, mdp, temporal-difference, openai-gym, deepmind, hugging-face, policy-optimization, rl-algorithms, curriculum-learning, model-based-rl, imitation-learning
