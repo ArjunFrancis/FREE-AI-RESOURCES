@@ -1,10 +1,10 @@
 # 🤖 Free AI Resources - Curated Collection
 
-> A comprehensive collection of **193+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
+> A comprehensive collection of **189+ high-quality, freely accessible AI resources** for learners, developers, and researchers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-193+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+[![Resources](https://img.shields.io/badge/resources-189+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 [![Categories](https://img.shields.io/badge/categories-25-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
 
 ## 📚 Table of Contents
@@ -33,14 +33,14 @@ The collection focuses on:
 
 ## 📊 Repository Statistics
 
-- **Total Resources:** 193+ (and growing)
+- **Total Resources:** 189+ (and growing)
 - **Categories:** 25 comprehensive topics
-- **Average per Category:** 7.7 resources
-- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Mathematics for AI (12), Graph Neural Networks (11)
+- **Average per Category:** 7.6 resources
+- **Top Categories:** Datasets & Benchmarks (18), Generative AI (16), Prompt Engineering (15), Audio & Speech Processing (13), Computer Vision (12), Explainable AI (12), Mathematics for AI (12), Graph Neural Networks (11), Natural Language Processing (11)
 - **Newest Categories:** AI for Healthcare 🎯, Data Science & Analytics, Robotics & Embodied AI, Time Series Forecasting, Recommender Systems, AI for Finance 🆕
 - **Contributors:** Community-driven
 - **License:** MIT (100% Free)
-- **Last Updated:** November 30, 2025
+- **Last Updated:** December 12, 2025
 
 ## 🔓 100% Free & Open Access Commitment
 
@@ -463,4 +463,4 @@ For questions, suggestions, or feedback:
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
 
-**Last Updated**: November 30, 2025
+**Last Updated**: December 12, 2025
