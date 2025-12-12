@@ -1,333 +1,413 @@
-# 🤖 Free AI Resources - Curated Collection
+# 🤖 FREE AI Resources - Curated Collection
 
-> **The #1 comprehensive collection of 250+ high-quality, completely free AI/ML resources** for beginners to advanced practitioners. Courses, papers, tools, datasets, tutorials—all 100% free.
+> Your complete gateway to **280+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-250+-blue.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
-[![Categories](https://img.shields.io/badge/categories-28+-green.svg)](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)
-[![Updated](https://img.shields.io/badge/updated-December%202025-lightblue.svg)](#)
+[![Resources](https://img.shields.io/badge/resources-280+-blue.svg)]()
+[![Categories](https://img.shields.io/badge/categories-31+-green.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
 
 ---
 
-## 🎯 What This Repository Offers
+## 📊 Repository Statistics
 
-✅ **250+ Free Resources** - Carefully curated and verified  
-✅ **28+ Categories** - Organized by topic and difficulty  
-✅ **No Paywalls** - 100% free and globally accessible  
-✅ **Beginner to Advanced** - Resources for all skill levels  
-✅ **Regular Updates** - New resources added continuously  
-✅ **Community-Driven** - Contributions welcome  
-
----
-
-## 📊 Repository Statistics Dashboard
-
-| Metric | Value |
-|--------|-------|
-| **Total Resources** | 250+ |
-| **Total Categories** | 28+ |
-| **Avg Resources/Category** | ~9 |
-| **Most Comprehensive** | Reinforcement Learning (21), AI for Healthcare (17), Generative AI (16) |
-| **Recently Added** | Spatial Intelligence, World Models, Quantum AI |
-| **Last Updated** | December 12, 2025 |
-| **License** | MIT (100% Free) |
-| **Maintenance** | Active |
+| Metric | Value | Details |
+|--------|-------|---------|
+| **Total Resources** | 280+ | Across all categories |
+| **Total Categories** | 31+ | Organized by topic & type |
+| **Average/Category** | ~9 | Well-distributed |
+| **Largest Category** | Reinforcement Learning | 21 resources |
+| **Newest Categories** | University Programs, Spatial Intelligence, World Models | Cutting-edge |
+| **Free Resources** | 100% | No paywalls ever |
+| **Quality Standard** | High | All personally vetted |
+| **Last Updated** | Dec 12, 2025 | Regular updates |
 
 ---
 
-## 📚 Resource Categories by Type
+## 🎯 Quick Start Guide
 
-### 🎓 **Foundational Learning** 
-*Start here - Core concepts and fundamentals*
+### 👶 **For Complete Beginners (4-6 weeks)**
 
-| Category | Resources | Level | Focus Area |
-|----------|-----------|-------|------------|
-| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 6 | 🟢 Beginner | Core ML concepts, algorithms |
-| [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 5 | 🟡 Intermediate | NNs, CNNs, RNNs, Transformers |
-| [Mathematics for AI](resources/mathematics-for-ai.md) | 12 | 🟡 Intermediate | Linear Algebra, Calculus, Stats |
-| [Data Science & Analytics](resources/data-science-analytics.md) | 4 | 🟢 Beginner | EDA, visualization, SQL |
+**Goal**: Understand AI/ML fundamentals and build your first project
 
----
+| Week | Focus | Resources | Time/Week |
+|------|-------|-----------|-----------|
+| 1-2 | Foundations | [Math for AI](resources/mathematics-for-ai.md), [ML Fundamentals](resources/machine-learning-fundamentals.md) | 10-12 hrs |
+| 3 | Programming | [Data Science Basics](resources/data-science-analytics.md) | 8-10 hrs |
+| 4-5 | Hands-on | [Datasets](resources/datasets-benchmarks.md), First Project | 10-12 hrs |
+| 6 | Ethics & Impact | [AI Ethics](resources/ai-ethics.md) | 6-8 hrs |
 
-### 🚀 **Advanced Techniques**
-*Specialized domains and cutting-edge AI*
-
-| Category | Resources | Level | Focus Area |
-|----------|-----------|-------|------------|
-| [Natural Language Processing](resources/natural-language-processing.md) | 11 | 🟡 Intermediate | LLMs, embeddings, transformers |
-| [Computer Vision](resources/computer-vision.md) | 12 | 🟡 Intermediate | Object detection, segmentation |
-| [Generative AI](resources/generative-ai.md) | 16 | 🟡 Intermediate | LLMs, Diffusion, GANs |
-| [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 🔴 Advanced | Q-Learning, Policy Gradient, Multi-Agent |
-| [Explainable AI (XAI)](resources/explainable-ai.md) | 12 | 🟡 Intermediate | SHAP, LIME, Interpretability |
-| [Graph Neural Networks](resources/graph-neural-networks.md) | 11 | 🔴 Advanced | GCNs, GATs, Molecular AI |
+**Starting Point**: [Harvard CS50 AI](resources/university-programs.md) (most beginner-friendly)
 
 ---
 
-### 🌟 **Emerging & Cutting-Edge**
-*Latest breakthroughs and future AI*
+### 📖 **For Intermediate Learners (8-12 weeks)**
 
-| Category | Resources | Level | Focus Area |
-|----------|-----------|-------|------------|
-| [Prompt Engineering](resources/prompt-engineering.md) | 15 | 🟢 Beginner | Prompt optimization, techniques |
-| [Multimodal AI](resources/multimodal-ai.md) | 3 | 🟡 Intermediate | Vision-language models, CLIP |
-| [Spatial Intelligence](resources/spatial-intelligence.md) | 8 | 🔴 Advanced | 3D AI, LGMs, spatial reasoning |
-| [World Models](resources/world-models.md) | 10 | 🔴 Advanced | Physics simulation, AGI path |
-| [Quantum AI](resources/quantum-ai.md) | 9 | 🔴 Advanced | Quantum computing, QML |
+**Goal**: Master a specialization and build portfolio projects
 
----
+| Path | Focus | Duration | Key Resources |
+|------|-------|----------|---------------|
+| **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) → [Generative AI](resources/generative-ai.md) |
+| **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) → [Multimodal AI](resources/multimodal-ai.md) |
+| **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) → [Robotics](resources/robotics-embodied-ai.md) |
+| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
 
-### 🛠️ **Applications & Domains**
-*AI applied to specific industries*
-
-| Category | Resources | Level | Use Cases |
-|----------|-----------|-------|----------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | 17 | 🟡 Intermediate | Medical imaging, clinical NLP |
-| [AI for Finance](resources/ai-for-finance.md) | 11 | 🟡 Intermediate | Trading, risk, fraud detection |
-| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 16 | 🟡 Intermediate | Robot control, manipulation |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 11 | 🟡 Intermediate | Prediction, anomaly detection |
-| [Recommender Systems](resources/recommender-systems.md) | 11 | 🟡 Intermediate | Collaborative filtering, personalization |
+**Starting Point**: Choose your specialization above
 
 ---
 
-### 🔒 **Safety, Ethics & Production**
-*Responsible AI and deployment*
+### 🔬 **For Advanced Practitioners (Ongoing)**
 
-| Category | Resources | Level | Focus Area |
-|----------|-----------|-------|------------|
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 3 | 🟡 Intermediate | Adversarial robustness, privacy |
-| [AI Ethics & Responsible AI](resources/ai-ethics.md) | 7 | 🟢 Beginner | Bias, fairness, governance |
-| [Edge AI & IoT](resources/edge-ai-iot.md) | 4 | 🟡 Intermediate | TinyML, deployment |
-| [MLOps](resources/mlops.md) | 10 | 🟡 Intermediate | Production, monitoring, pipelines |
+**Goal**: Cutting-edge research, implementation, contribution
 
----
-
-### 🔧 **Tools, Audio & Multimedia**
-*Implementation and media processing*
-
-| Category | Resources | Level | Focus Area |
-|----------|-----------|-------|------------|
-| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 6 | 🟢 Beginner | PyTorch, TensorFlow, JAX |
-| [Audio & Speech Processing](resources/audio-speech-processing.md) | 13 | 🟡 Intermediate | ASR, TTS, speech datasets |
+**Recommended Path**:
+1. **Emerging Fields**: [Spatial Intelligence](resources/spatial-intelligence.md), [World Models](resources/world-models.md)
+2. **Research**: [Research Papers](resources/research-papers-publications.md), [arXiv](https://arxiv.org)
+3. **University Courses**: [MIT, Stanford, Harvard](resources/university-programs.md)
+4. **Implementation**: Paper reproduction, open-source contribution
 
 ---
 
-### 📖 **Research & Data**
-*Academic resources and datasets*
+### 💼 **For Industry-Specific Learners**
 
-| Category | Resources | Level | Type |
-|----------|-----------|-------|------|
-| [Research Papers & Publications](resources/research-papers-publications.md) | 12 | 🔴 Advanced | Paper databases, discovery tools |
-| [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 18 | 🟡 Intermediate | Image, text, audio datasets |
-
----
-
-### 🎓 **University Programs** (Coming Soon)
-*Free courses from top institutions*
-
-| University | Status | Resources | Focus |
-|------------|--------|-----------|-------|
-| [MIT AI Resources](resources/mit-ai-resources.md) | 🔜 Soon | ~8 | OpenCourseWare, research |
-| [Stanford AI Resources](resources/stanford-ai-resources.md) | 🔜 Soon | ~8 | CS courses, AI Lab |
-| [Harvard AI Resources](resources/harvard-ai-resources.md) | 🔜 Soon | ~6 | Free programs |
-| [Berkeley AI Resources](resources/berkeley-ai-resources.md) | 🔜 Soon | ~8 | EECS, robotics |
-| [Oxford AI Resources](resources/oxford-ai-resources.md) | 🔜 Soon | ~6 | AI programs |
+| Domain | Path | Duration | Resources |
+|--------|------|----------|-----------|
+| **Healthcare** | Vision + Domain knowledge | 12 weeks | [Computer Vision](resources/computer-vision.md) + [Healthcare AI](resources/ai-for-healthcare.md) |
+| **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) + [Finance AI](resources/ai-for-finance.md) |
+| **Robotics** | RL + Control systems | 14 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) + [Robotics](resources/robotics-embodied-ai.md) |
 
 ---
 
-## 🚀 Quick Start Guides
+## 📚 Resource Organization
 
-### 👶 I'm a Complete Beginner
-**Learning Path (4-6 weeks)**
+### 🟢 **Foundational Learning** (Start Here)
 
-1. [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) - Understand core concepts
-2. [Mathematics for AI](resources/mathematics-for-ai.md) - Build mathematical foundation
-3. [AI Ethics](resources/ai-ethics.md) - Learn responsible AI practices
-4. [Datasets & Benchmarks](resources/datasets-benchmarks.md) - Find data to practice with
-5. **Build a project** - Apply what you learned
+**Goal**: Build core knowledge and math foundations
 
-→ **Time:** 4-6 weeks | **Difficulty:** 🟢 Beginner
+| Category | Resources | Time | Difficulty | Focus |
+|----------|-----------|------|------------|-------|
+| [Mathematics for AI](resources/mathematics-for-ai.md) | 5 | 3-4 wks | 🟢 | Linear algebra, calculus, stats |
+| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 6 | 2-3 wks | 🟢 | Core ML concepts |
+| [Data Science & Analytics](resources/data-science-analytics.md) | 5 | 2 wks | 🟢 | EDA, visualization, SQL |
 
----
-
-### 📚 I Have ML Basics, Want to Go Deeper
-**Learning Path (8-10 weeks)**
-
-1. [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) - Master DNNs
-2. Choose your path:
-   - **NLP Path**: [Natural Language Processing](resources/natural-language-processing.md) + [Prompt Engineering](resources/prompt-engineering.md)
-   - **Vision Path**: [Computer Vision](resources/computer-vision.md) + [Multimodal AI](resources/multimodal-ai.md)
-   - **RL Path**: [Reinforcement Learning](resources/reinforcement-learning.md) + [Robotics](resources/robotics-embodied-ai.md)
-3. [MLOps](resources/mlops.md) - Deploy to production
-
-→ **Time:** 8-10 weeks | **Difficulty:** 🟡 Intermediate
+**Total**: 20 resources | **Total Time**: 4-6 weeks | **Perfect for**: Complete beginners
 
 ---
 
-### 🎯 I'm Advanced, Want Cutting-Edge
-**Learning Path (Ongoing)**
+### 🟡 **Advanced Techniques** (Next Step)
 
-1. [Research Papers & Publications](resources/research-papers-publications.md) - Stay updated on latest work
-2. Choose emerging areas:
-   - [Spatial Intelligence](resources/spatial-intelligence.md) - 3D AI understanding
-   - [World Models](resources/world-models.md) - Simulating reality
-   - [Quantum AI](resources/quantum-ai.md) - Quantum computing
-   - [Explainable AI](resources/explainable-ai.md) - Interpretability
-3. Read and implement latest papers
+**Goal**: Master specialized AI/ML domains
 
-→ **Time:** Ongoing | **Difficulty:** 🔴 Advanced
+| Category | Resources | Time | Difficulty | Focus |
+|----------|-----------|------|------------|-------|
+| [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 5 | 3-4 wks | 🟡 | Architectures, backprop |
+| [Natural Language Processing](resources/natural-language-processing.md) | 11 | 4-6 wks | 🟡🔴 | Language understanding |
+| [Computer Vision](resources/computer-vision.md) | 12 | 4-6 wks | 🟡🔴 | Image understanding |
+| [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 6-8 wks | 🟡🔴 | Agent training |
+| [Generative AI](resources/generative-ai.md) | 16 | 4-6 wks | 🔴 | LLMs, diffusion |
+| [Explainable AI](resources/explainable-ai.md) | 12 | 2-3 wks | 🟡 | Interpretability |
+| [Graph Neural Networks](resources/graph-neural-networks.md) | 11 | 3-4 wks | 🔴 | Graph learning |
+| [Prompt Engineering](resources/prompt-engineering.md) | 15 | 2-3 wks | 🟢 | Prompt optimization |
 
----
-
-### 💼 I Want to Apply AI to My Industry
-**Learning Paths by Domain**
-
-| Domain | Resources | Time | Level |
-|--------|-----------|------|-------|
-| **Healthcare** | [AI for Healthcare](resources/ai-for-healthcare.md) + [Computer Vision](resources/computer-vision.md) | 6-8 weeks | 🟡 |
-| **Finance** | [AI for Finance](resources/ai-for-finance.md) + [Time Series Forecasting](resources/time-series-forecasting.md) | 6-8 weeks | 🟡 |
-| **Recommendations** | [Recommender Systems](resources/recommender-systems.md) + [Deep Learning](resources/deep-learning-neural-networks.md) | 5-6 weeks | 🟡 |
-| **Robotics** | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) + [Reinforcement Learning](resources/reinforcement-learning.md) | 8-10 weeks | 🔴 |
-| **Production ML** | [MLOps](resources/mlops.md) + [AI Security & Privacy](resources/ai-security-privacy.md) | 4-5 weeks | 🟡 |
+**Total**: 103 resources | **Time**: 8-12 weeks | **Perfect for**: Ready to specialize
 
 ---
 
-## 🔓 100% Free & Open Access Commitment
+### 🌟 **Emerging & Cutting-Edge** (Frontiers)
 
-### ✅ What We Include
+**Goal**: Explore cutting-edge AI technologies
 
-✅ **Completely free** - No payment required ever  
-✅ **Globally accessible** - Available worldwide (no region restrictions)  
-✅ **Legally distributed** - All from authorized sources  
-✅ **Ethically sourced** - Respects creator rights  
-✅ **University courses** - Free online classes (MIT OCW, Coursera, etc.)  
-✅ **Open datasets** - Public research datasets  
-✅ **Open-source tools** - Free software and libraries  
-✅ **Academic papers** - arXiv, publisher pre-prints  
+| Category | Resources | Status | Focus |
+|----------|-----------|--------|-------|
+| [Spatial Intelligence](resources/spatial-intelligence.md) | 8 | 🟢 Live | 3D AI, LGMs, robotics |
+| [World Models](resources/world-models.md) | 10 | 🟢 Live | Physics simulation, AGI |
+| [Multimodal AI](resources/multimodal-ai.md) | 3 | 🟢 Live | Vision + language |
+| [Edge AI & IoT](resources/edge-ai-iot.md) | 4 | 🟢 Live | On-device AI |
 
-### ❌ What We Exclude
+**Total**: 25 resources | **Perfect for**: Research and innovation
 
-❌ Pirated or unauthorized content  
-❌ Paywalled resources  
-❌ Time-limited trials requiring credit card  
-❌ Freemium content (free tier is limited)  
-❌ Paid subscription required for core content  
+---
+
+### 🎓 **University Programs** (World-Class Education)
+
+**Goal**: University-level education from top institutions - **ALL FREE**
+
+| University | Courses | Format | Free | Focus |
+|-----------|---------|--------|------|-------|
+| **MIT** | 8 | Video | ✅ | ML theory, systems |
+| **Stanford** | 8 | Video | ✅ | NLP, vision, RL |
+| **Harvard** | 6 | Video | ✅ | AI fundamentals, data science |
+| **UC Berkeley** | 8 | Video | ✅ | AI, ML, systems |
+| **Oxford** | 6 | Video | ✅ | ML practical, ethics |
+
+**Total**: 36 courses | **Perfect for**: Degree-equivalent education
+
+👉 **[Explore University Programs →](resources/university-programs.md)**
+
+---
+
+### 🌐 **Domain Applications** (Industry Use Cases)
+
+**Real-world AI in specific fields**
+
+| Domain | Resources | Difficulty | Impact |
+|--------|-----------|------------|--------|
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 17 | 🟡 | Medical diagnosis, drug discovery |
+| [AI for Finance](resources/ai-for-finance.md) | 11 | 🟡 | Trading, risk analysis |
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 16 | 🔴 | Autonomous systems |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 11 | 🟡 | Prediction, anomaly detection |
+| [Recommender Systems](resources/recommender-systems.md) | 11 | 🟡 | Personalization |
+
+**Total**: 66 resources | **Perfect for**: Domain specialists
+
+---
+
+### ⚙️ **Production & Deployment** (Build Real Systems)
+
+**Take models to production**
+
+| Category | Resources | Difficulty | Focus |
+|----------|-----------|------------|-------|
+| [MLOps](resources/mlops.md) | 10 | 🟡 | Pipelines, automation |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 3 | 🟡 | Adversarial robustness |
+| [AI Ethics](resources/ai-ethics.md) | 7 | 🟢 | Responsible AI |
+
+**Total**: 20 resources | **Perfect for**: Production engineers
+
+---
+
+### 📚 **Research & Reference** (Latest Breakthroughs)
+
+**Academic resources and cutting-edge research**
+
+| Category | Resources | Difficulty | Focus |
+|----------|-----------|------------|-------|
+| [Research Papers & Publications](resources/research-papers-publications.md) | 12 | 🔴 | arXiv, Papers with Code |
+| [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 18 | 🟡 | Training data, evaluation |
+| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 6 | 🟢 | PyTorch, TensorFlow |
+| [Audio & Speech Processing](resources/audio-speech-processing.md) | 13 | 🟡 | ASR, TTS, speech |
+
+**Total**: 49 resources | **Perfect for**: Researchers
+
+---
+
+## 🗺️ Complete Learning Paths
+
+### Path 1: NLP Specialist (12 weeks)
+
+```
+Weeks 1-2: Foundations (ML basics, math)
+  ↓
+Weeks 3-5: Deep Learning Basics
+  ↓
+Weeks 6-9: NLP Core + Transformers
+  ↓
+Weeks 10-11: Prompt Engineering + LLMs
+  ↓
+Week 12: Build NLP Project (chatbot/summarizer)
+```
+
+**Resources**: 25-30 | **Tools**: PyTorch, Hugging Face, transformers  
+**Final**: Production NLP application
+
+---
+
+### Path 2: Computer Vision Engineer (12 weeks)
+
+```
+Weeks 1-2: Foundations
+  ↓
+Weeks 3-5: Deep Learning Fundamentals
+  ↓
+Weeks 6-10: Computer Vision + CNNs
+  ↓
+Weeks 11-12: Advanced project + deployment
+```
+
+**Resources**: 20-25 | **Tools**: OpenCV, PyTorch, TensorFlow  
+**Final**: Real-world vision application
+
+---
+
+### Path 3: MLOps Engineer (10 weeks)
+
+```
+Weeks 1-3: ML Fundamentals
+  ↓
+Weeks 4-6: Deep Learning Essentials
+  ↓
+Weeks 7-8: MLOps & Deployment
+  ↓
+Weeks 9-10: Build production ML system
+```
+
+**Resources**: 18-22 | **Tools**: Docker, Kubernetes, MLflow, DVC  
+**Final**: Deployed, monitored ML system
+
+---
+
+### Path 4: Robotics Engineer (14 weeks)
+
+```
+Weeks 1-4: Fundamentals + Deep Learning
+  ↓
+Weeks 5-8: Reinforcement Learning
+  ↓
+Weeks 9-12: Robotics Core + Embodied AI
+  ↓
+Weeks 13-14: Real robot project
+```
+
+**Resources**: 30-35 | **Tools**: Gym, ROS, Gazebo, PyBullet  
+**Final**: Autonomous robot agent
+
+---
+
+### Path 5: AI Researcher (Ongoing)
+
+```
+Initial: Master one specialization (choose Path 1-4)
+  ↓
+Continuous: Read research papers weekly
+  ↓
+Explore: Emerging fields (Spatial AI, World Models)
+  ↓
+Contribute: Publish papers, open-source code
+```
+
+**Resources**: Unlimited | **Tools**: arXiv, Papers with Code, GitHub  
+**Final**: Advance the AI field
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-free-ai-resources/
-├── README.md                              # This file
-├── LICENSE                                # MIT License
-├── CODE_OF_CONDUCT.md                    # Community guidelines
-├── CONTRIBUTING.md                        # How to contribute
-└── resources/
-    ├── Foundations/
-    │   ├── machine-learning-fundamentals.md
-    │   ├── deep-learning-neural-networks.md
-    │   ├── mathematics-for-ai.md
-    │   └── data-science-analytics.md
-    ├── Advanced Techniques/
-    │   ├── natural-language-processing.md
-    │   ├── computer-vision.md
-    │   ├── generative-ai.md
-    │   ├── reinforcement-learning.md
-    │   ├── explainable-ai.md
-    │   └── graph-neural-networks.md
-    ├── Emerging Areas/
-    │   ├── prompt-engineering.md
-    │   ├── multimodal-ai.md
-    │   ├── spatial-intelligence.md
-    │   ├── world-models.md
-    │   └── quantum-ai.md
-    ├── Applications/
-    │   ├── ai-for-healthcare.md
-    │   ├── ai-for-finance.md
-    │   ├── robotics-embodied-ai.md
-    │   ├── time-series-forecasting.md
-    │   └── recommender-systems.md
-    ├── Production & Safety/
-    │   ├── mlops.md
-    │   ├── ai-security-privacy.md
-    │   ├── ai-ethics.md
-    │   └── edge-ai-iot.md
-    ├── Tools & Media/
-    │   ├── ai-tools-frameworks.md
-    │   └── audio-speech-processing.md
-    └── Research & Data/
-        ├── research-papers-publications.md
-        └── datasets-benchmarks.md
+FREE-AI-RESOURCES/
+├── README.md                      # Main guide
+├── CONTRIBUTING.md                # How to contribute
+├── LICENSE                        # MIT License
+│
+└── resources/                     # All resource files (31+ categories)
+    ├── machine-learning-fundamentals.md
+    ├── deep-learning-neural-networks.md
+    ├── natural-language-processing.md
+    ├── computer-vision.md
+    ├── reinforcement-learning.md
+    ├── generative-ai.md
+    ├── spatial-intelligence.md          # NEW
+    ├── world-models.md                  # NEW
+    ├── university-programs.md           # NEW
+    └── ... (28+ more categories)
 ```
 
 ---
 
-## 🎓 Learning Resources by Format
+## ✨ What Makes This Repository Special
 
-### 📺 Video Courses & Lectures
-- [CS231n: Convolutional Neural Networks](https://cs231n.github.io/) - Computer Vision
-- [Stanford CS229: Machine Learning](https://cs229.stanford.edu/) - Foundations
-- [MIT 6.801: Machine Vision](https://ocw.mit.edu/courses/) - Vision
-- [Andrew Ng's ML Course](https://www.deeplearning.ai/) - Comprehensive
+### 🎯 Quality Over Quantity
+- Every resource personally vetted
+- Difficulty levels clearly marked (🟢🟡🔴)
+- Real-world applicability verified
+- No low-quality or outdated content
 
-### 📖 Books & Textbooks (Free)
-- "Deep Learning" by Goodfellow, Bengio, Courville
-- "Reinforcement Learning: An Introduction" by Sutton & Barto
-- "Hands-On Machine Learning" by Aurélien Géron
+### 📊 Expertly Organized
+- Organized by learning format (not just topics)
+- Multiple ways to navigate (difficulty, type, path)
+- Clear prerequisites and connections
+- Professional tabular format
 
-### 🔬 Research Papers
-- [arXiv.org](https://arxiv.org/) - 2M+ pre-prints
-- [Papers with Code](https://paperswithcode.com/) - Code + papers
-- [Semantic Scholar](https://www.semanticscholar.org/) - AI search engine
+### 🚀 Covers Cutting-Edge Fields
+- Spatial Intelligence (LGMs, 3D AI)
+- World Models (Physics simulation, AGI)
+- University Programs (36 courses from MIT, Stanford, Harvard, Berkeley, Oxford)
+- Not just traditional ML
 
-### 💾 Datasets & Benchmarks
-- [ImageNet](http://www.image-net.org/) - 14M labeled images
-- [Common Voice](https://commonvoice.mozilla.org/) - Speech dataset
-- [Hugging Face Datasets](https://huggingface.co/datasets) - 1000+ datasets
+### 🌍 100% Free & Accessible
+- Every resource completely free
+- No paywalls or subscriptions
+- Accessible globally
+- Open-source, MIT licensed
 
-### 🛠️ Tools & Frameworks
-- **Deep Learning**: PyTorch, TensorFlow, JAX
-- **Data**: Pandas, NumPy, Scikit-learn
-- **NLP**: Hugging Face Transformers, spaCy
-- **Visualization**: Matplotlib, Plotly, Seaborn
+### 👥 Community-Driven
+- Active maintenance
+- Welcoming contributions
+- Regular updates
+- Transparent guidelines
+
+---
+
+## 🚀 Getting Started
+
+### Step 1: Choose Your Starting Point
+- **Complete beginner?** Start with [Beginner Quick Start](#-for-complete-beginners-4-6-weeks)
+- **Some ML experience?** Start with [Intermediate Guide](#-for-intermediate-learners-8-12-weeks)
+- **Researcher?** Start with [Research Papers](resources/research-papers-publications.md)
+- **Industry professional?** Choose your [domain path](#-for-industry-specific-learners)
+
+### Step 2: Follow a Learning Path
+Pick one of our 5 complete paths above or customize your own
+
+### Step 3: Build Projects
+Apply what you learn with real datasets and problems
+
+### Step 4: Join the Community
+- Share your progress
+- Help others
+- Contribute resources
+- Collaborate on projects
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Help us build the best AI resource collection.
+We welcome contributions! Adding resources is easy:
 
-### How to Contribute
-
-1. **Fork** this repository
-2. **Select a category** from `/resources`
-3. **Add your resource** in the format:
+### Quick Add
+1. Found a great free resource?
+2. Pick the right category file from `/resources`
+3. Add it in this format:
    ```markdown
-   - [Resource Name](URL) - 1-2 sentence description with 3-5 SEO keywords
+   - [Resource Name](URL) - 1-2 sentence description | 🟢 Difficulty | Duration
    ```
-4. **Ensure quality**:
-   - ✅ 100% free access
-   - ✅ Reputable source
-   - ✅ Active/maintained
-   - ✅ Relevant to AI/ML
-5. **Submit a PR** with description
+4. Submit a pull request
 
-**[See full contribution guidelines →](CONTRIBUTING.md)**
+**[Full Contributing Guide →](CONTRIBUTING.md)**
 
----
-
-## ⭐ Show Your Support
-
-If you find this repository helpful:
-- ⭐ **Star** this repository
-- 🍴 **Fork** to contribute
-- 💬 **Share** with the community
-- 📢 **Spread the word** on social media
+### Quality Standards
+✅ 100% free (no paywalls)  
+✅ Reputable source  
+✅ Active/maintained  
+✅ Relevant to AI/ML  
+✅ Difficulty tagged  
+✅ SEO keywords included  
 
 ---
 
-## 📋 License
+## 📊 100% Free & Open Access Commitment
+
+### ✅ What We Include
+
+✅ **Completely free** - No payment required ever  
+✅ **Globally accessible** - Available worldwide  
+✅ **Legally distributed** - Authorized sources only  
+✅ **Ethically sourced** - Respects creator rights  
+✅ **University courses** - Free online classes (MIT, Stanford, Harvard)  
+✅ **Open datasets** - Public research datasets  
+✅ **Open-source tools** - Free software and libraries  
+✅ **Academic papers** - arXiv, pre-prints  
+
+### ❌ What We Exclude
+
+❌ Pirated or unauthorized content  
+❌ Paywalled resources  
+❌ Time-limited trials requiring payment  
+❌ Resources requiring paid subscriptions for core content  
+
+---
+
+## 📝 License
 
 This repository is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
@@ -335,14 +415,12 @@ Resources linked from this repository are subject to their own respective licens
 
 ---
 
-## 🔗 Connect & Support
+## 📞 Support & Links
 
-| Platform | Link |
-|----------|------|
-| **GitHub Issues** | [Report bug / suggest feature](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues) |
-| **Discussions** | [Join community](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions) |
-| **Pull Requests** | [Contribute resources](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/pulls) |
-| **Author** | [@ArjunFrancis](https://github.com/ArjunFrancis) |
+- 🐛 **Issues**: [Report bugs or suggest features](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)
+- 💬 **Discussions**: [Join community Q&A](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions)
+- 🔗 **Pull Requests**: [Contribute resources](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/pulls)
+- 📧 **Contact**: [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
 
@@ -351,17 +429,20 @@ Resources linked from this repository are subject to their own respective licens
 - **Last Updated**: December 12, 2025
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
-- **Contribution Frequency**: Regular updates
 - **Issue Response Time**: <24 hours
+- **Update Frequency**: Regular (multiple times/week)
 
 ---
 
 <div align="center">
 
-### 🌟 Join the community of learners building the future of AI! 🌟
+### 🌟 Join the community building the future of AI! 🌟
+
+**Status**: ✅ Active & Growing  
+**Goal**: #1 free AI resource repository on GitHub  
 
 **[Browse Categories →](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)** | **[Contribute →](CONTRIBUTING.md)** | **[Report Issue →](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)**
 
-**Last Updated**: December 2025 | **MIT License** | **244+ Resources** | **28+ Categories**
+🚀 **Start your AI journey today—completely free!** 🚀
 
 </div>
