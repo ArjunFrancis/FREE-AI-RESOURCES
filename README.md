@@ -13,7 +13,7 @@
 ## 📊 Repository Statistics
 
 | Metric | Value | Details |
-|--------|-------|---------|
+|--------|-------|----------|
 | **Total Resources** | 280+ | Across all categories |
 | **Total Categories** | 31+ | Organized by topic & type |
 | **Average/Category** | ~9 | Well-distributed |
@@ -21,7 +21,7 @@
 | **Newest Categories** | University Programs, Spatial Intelligence, World Models | Cutting-edge |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 12, 2025 | Regular updates |
+| **Last Updated** | Dec 14, 2025 | Regular daily updates |
 
 ---
 
@@ -32,7 +32,7 @@
 **Goal**: Understand AI/ML fundamentals and build your first project
 
 | Week | Focus | Resources | Time/Week |
-|------|-------|-----------|-----------|
+|------|-------|-----------|----------|
 | 1-2 | Foundations | [Math for AI](resources/mathematics-for-ai.md), [ML Fundamentals](resources/machine-learning-fundamentals.md) | 10-12 hrs |
 | 3 | Programming | [Data Science Basics](resources/data-science-analytics.md) | 8-10 hrs |
 | 4-5 | Hands-on | [Datasets](resources/datasets-benchmarks.md), First Project | 10-12 hrs |
@@ -72,7 +72,7 @@
 ### 💼 **For Industry-Specific Learners**
 
 | Domain | Path | Duration | Resources |
-|--------|------|----------|-----------|
+|--------|------|----------|----------|
 | **Healthcare** | Vision + Domain knowledge | 12 weeks | [Computer Vision](resources/computer-vision.md) + [Healthcare AI](resources/ai-for-healthcare.md) |
 | **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) + [Finance AI](resources/ai-for-finance.md) |
 | **Robotics** | RL + Control systems | 14 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) + [Robotics](resources/robotics-embodied-ai.md) |
@@ -426,7 +426,7 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 12, 2025
+- **Last Updated**: December 14, 2025
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
