@@ -78,6 +78,12 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Fully open, interactive
   - [Tags: beginner calculus derivatives integrals]
 
+- [Khan Academy - Probability & Statistics](https://www.khanacademy.org/math/statistics-probability) **(Beginner)** - Comprehensive free course covering probability fundamentals, random variables, distributions, statistical inference, hypothesis testing, confidence intervals, and regression analysis with interactive exercises and real-world examples essential for understanding ML algorithms.
+  - 📖 Access: Fully open, interactive platform
+  - 🌍 Authority: Khan Academy
+  - 📝 Topics: Probability, distributions, hypothesis testing, regression, statistical inference
+  - [Tags: beginner probability statistics interactive hypothesis-testing regression 2025]
+
 - [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) **(Beginner/Intermediate)** - Beautiful 15-video series providing geometric intuition for linear algebra concepts including vectors, span, linear transformations, determinants, eigenvectors, and their significance in ML through stunning animations.
   - 📖 Access: Free on YouTube
   - [Tags: beginner visual-learning linear-algebra animations]
@@ -96,6 +102,12 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Free (certificate option available)
   - 🎯 Best for: Data science preparation, practical linear algebra applications
   - [Tags: beginner linear-algebra systems-equations transformations certificate 2025]
+
+- [Brilliant - Calculus Fundamentals](https://brilliant.org/courses/calculus-fundamentals/) **(Beginner to Intermediate)** - Interactive course teaching calculus through hands-on problem-solving and visual explanations. Covers limits, derivatives, integrals, and optimization with immediate feedback and intuitive visualizations perfect for building mathematical intuition needed for gradient-based ML algorithms.
+  - 📖 Access: Free basic access (premium features available)
+  - 🛠️ Hands-on: Yes (interactive problem-solving)
+  - 🎯 Topics: Limits, derivatives, integrals, optimization, applications
+  - [Tags: beginner intermediate calculus interactive visual-learning optimization 2025]
 
 ### 🟡 Intermediate
 
@@ -123,6 +135,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌍 Authority: Stanford University (CS229)
   - 📝 Includes: Linear algebra review, probability review, convex optimization I & II
   - [Tags: intermediate stanford machine-learning linear-algebra probability optimization 2025]
+
+- [Stanford EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) **(Intermediate to Advanced)** - Legendary Stanford graduate course covering convex sets, functions, optimization problems, duality theory, and algorithms including gradient descent and Newton's method. Essential for understanding optimization in machine learning with full lecture videos, assignments, and extensive problem sets from Professor Stephen Boyd.
+  - 📖 Access: Fully open via Stanford Engineering Everywhere
+  - 🌍 Authority: Stanford University (Professor Stephen Boyd)
+  - 📝 Includes: Full lecture videos, slides, homework, exams
+  - 🎯 Topics: Convex sets, functions, optimization, duality, algorithms
+  - [Tags: intermediate advanced stanford convex-optimization gradient-descent algorithms boyd 2025]
 
 - [MIT 6.042J - Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) **(Intermediate)** - Comprehensive MIT OpenCourseWare covering discrete mathematics fundamentals including proofs, graphs, state machines, modular arithmetic, counting, and discrete probability theory essential for understanding algorithms, computability, and machine learning theory with full lecture videos, problem sets, and exams.
   - 📖 Access: Fully open, MIT OCW
@@ -224,6 +243,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 25
+**Last Updated:** December 14, 2025 | **Total Resources:** 29
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, 2025
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, 2025
