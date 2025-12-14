@@ -20,6 +20,20 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 - Multivariate calculus and matrix calculus
 - Optimization theory (convex optimization, gradient methods)
 - Information theory
+- Markov chains and stochastic processes
+- Discrete mathematics and graph theory
+
+---
+
+## ⭐ Starter Kit (Absolute Beginners Start Here)
+
+**If you're completely new to Mathematics for AI, start with these 3 resources in order:**
+
+1. 🟢 [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - Interactive fundamentals with visual explanations and practice exercises
+2. 🟢 [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Beautiful visual intuition for 15 core linear algebra concepts
+3. 🟡 [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-home) - Build towards derivatives and integrals with step-by-step explanations
+
+**After completing the starter kit, explore the full resources below.**
 
 ---
 
@@ -36,6 +50,11 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Fully open, online HTML format
   - 🌍 Authority: MIT Press (Goodfellow, Bengio, Courville)
   - [Tags: deep-learning-math applied-math probability]
+
+- [Finite Markov Chains and Monte-Carlo Methods: An Undergraduate Introduction](https://arxiv.org/pdf/2501.14787.pdf) **(Intermediate)** - Free comprehensive textbook for one-semester course on Markov chains, suitable for undergraduates with basic probability and linear algebra knowledge. Covers finite-state chains, classical models, asymptotic behavior, mixing times, Monte Carlo methods, martingales, and harmonic functions with 100+ exercises and illustrations.
+  - 📖 Access: Free PDF (arXiv)
+  - 🎯 Topics: Markov chains, mixing times, Monte Carlo simulation, martingales
+  - [Tags: intermediate markov-chains monte-carlo probability textbook 2025]
 
 ### 🔴 Advanced
 
@@ -67,11 +86,16 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Free on YouTube
   - [Tags: beginner calculus visual-learning gradients]
 
-- [Mathematics for Machine Learning - Simplilearn SkillUp](https://www.simplilearn.com/mathematics-for-machine-learning-free-course-skillup) **(Beginner to Intermediate)** - Comprehensive free course covering essential mathematical foundations for ML: linear algebra (vectors, matrices, eigenvalues), calculus (derivatives, gradients), probability theory, and statistics. Includes certificate upon completion. Perfect for ML beginners building mathematical intuition.
+- [Mathematics for Machine Learning - Simplilearn SkillUp](https://www.simplilearn.com/mathematics-for-machine-learning-free-course-skillup) **(Beginner to Intermediate)** - Comprehensive free course covering essential mathematical foundations for ML: linear algebra (vectors, matrices, eigenvalues), calculus (derivatives, gradients), probability theory, and statistics. Includes certificate upon completion. Perfect for ML beginners building mathematical intuition without prerequisites.
   - 📖 Access: Free with certificate option
   - 📝 Duration: Self-paced (approximately 8 hours)
   - 🎯 Topics: Linear algebra, calculus, probability, statistics for ML
   - [Tags: beginner intermediate linear-algebra calculus probability certificate 2025]
+
+- [Introduction to Linear Algebra (Alison)](https://alison.com/course/introduction-to-linear-algebra) **(Beginner)** - Free self-paced online course introducing linear algebra fundamentals for data science and machine learning applications. Covers solving systems of linear equations, linear transformations, eigenvalues/eigenvectors of matrices, and their practical applications with certificate option.
+  - 📖 Access: Free (certificate option available)
+  - 🎯 Best for: Data science preparation, practical linear algebra applications
+  - [Tags: beginner linear-algebra systems-equations transformations certificate 2025]
 
 ### 🟡 Intermediate
 
@@ -106,18 +130,55 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📝 Includes: Video lectures, problem sets, exams with solutions
   - [Tags: intermediate discrete-math probability computer-science mit fundamentals 2025]
 
+- [Probability & Statistics for Machine Learning & Data Science (Coursera)](https://www.coursera.org/learn/machine-learning-probability-and-statistics) **(Intermediate)** - Free course (audit mode) covering probability distributions, Bayesian statistics, hypothesis testing, and statistical inference essential for ML. Learn the law of large numbers, central limit theorem, point estimation, maximum likelihood estimation, confidence intervals, and Bayesian approaches with visual and intuitive explanations.
+  - 📖 Access: Free to audit (certificate paid)
+  - 📝 Duration: Self-paced, approximately 25 hours
+  - 🎯 Topics: Probability, Bayesian stats, hypothesis testing, central limit theorem
+  - [Tags: intermediate coursera probability statistics bayesian inference 2025]
+
+- [Probability Theory (TU Delft - edX)](https://learningforlife.tudelft.nl/probability-theory/) **(Intermediate)** - Comprehensive 6-week self-paced course introducing probability theory with focus on interpretation rather than computation. Covers discrete/continuous random variables, probability distributions, joint distributions, multivariate random variables, law of large numbers, central limit theorem, and Monte Carlo simulation through the Grasple platform with intelligent feedback.
+  - 📖 Access: Fully open, edX/Grasple platform
+  - 🌍 Authority: Delft University of Technology (Netherlands)
+  - 📝 Duration: 6 weeks, 4-6 hours per week
+  - 🛠️ Hands-on: Yes (with interactive exercises)
+  - [Tags: intermediate probability-theory random-variables monte-carlo simulation interactive 2025]
+
+- [Statistics for Data Science & Machine Learning (YouTube)](https://www.youtube.com/watch?v=tcusIOfI_GM) **(Intermediate)** - Free comprehensive YouTube video covering essential statistics concepts for data science: categorical/numerical data, distributions, mean/median/mode, variance/standard deviation, correlation/covariance, probability distributions, normal distribution, central limit theorem, confidence intervals, t-tests, and hypothesis testing (70+ minutes).
+  - 📖 Access: Free on YouTube
+  - 📝 Duration: 70+ minutes
+  - 🎯 Topics: Descriptive statistics, hypothesis testing, confidence intervals, distributions
+  - [Tags: intermediate youtube statistics distributions hypothesis-testing 2025]
+
 ---
 
 ## 🛠️ Tools & Implementation
 
 ### 🟡 Intermediate
 
-- [PyTorch Official Tutorials](https://docs.pytorch.org/tutorials/index.html) **(Beginner/Intermediate)** - Official comprehensive PyTorch tutorials covering tensor mathematics, automatic differentiation, neural network building blocks, and practical implementation of mathematical concepts in deep learning including linear algebra operations, gradient computation, and optimization algorithms with runnable code examples.
+- [PyTorch Official Tutorials](https://pytorch.org/tutorials/) **(Beginner/Intermediate)** - Official comprehensive PyTorch tutorials covering tensor mathematics, automatic differentiation, neural network building blocks, and practical implementation of mathematical concepts in deep learning including linear algebra operations, gradient computation, and optimization algorithms with runnable code examples.
   - 📖 Access: Fully open, official documentation
   - 🌍 Authority: PyTorch (official)
   - 🛠️ Hands-on: Yes (interactive code examples)
   - 💻 Topics: Tensors, autograd, neural networks, optimization
   - [Tags: intermediate pytorch tensors autograd hands-on implementation 2025]
+
+- [Engineer4Free Linear Algebra Course](https://www.engineer4free.com/linear-algebra.html) **(Beginner to Intermediate)** - Free online linear algebra course with 56 tutorials covering introductory concepts in vectors and matrix algebra. Structured as a typical first-year university linear algebra course with tutorials progressing from basic concepts to more advanced topics, making it ideal for self-paced learning.
+  - 📖 Access: Fully open online
+  - 📝 Duration: 56 video tutorials, self-paced
+  - 🎯 Topics: Vectors, matrices, transformations, eigenvalues, applications
+  - [Tags: beginner intermediate linear-algebra vectors matrices free-course 2025]
+
+---
+
+## 📦 Interactive Learning Platforms
+
+### 🟢 Beginner-Friendly
+
+- [Probability Fundamentals (Brilliant.org)](https://brilliant.org/courses/probability-fundamentals/) **(Beginner to Intermediate)** - Interactive probability course teaching how to represent and interpret data and events using probability. Covers estimating probabilities, simulating outcomes, conditional probability, Bayes' rule, and dependency/independence concepts through hands-on problem-solving and visualization.
+  - 📖 Access: Free basic access (premium features available)
+  - 🛠️ Hands-on: Yes (interactive problem-solving)
+  - 🎯 Topics: Probability estimation, conditional probability, Bayes' rule, modeling
+  - [Tags: beginner interactive probability visualization bayes-rule 2025]
 
 ---
 
@@ -163,6 +224,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** November 30, 2025 | **Total Resources:** 15
+**Last Updated:** December 14, 2025 | **Total Resources:** 25
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, 2025
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, 2025
