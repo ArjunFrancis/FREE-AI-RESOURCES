@@ -65,6 +65,26 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🎓 Perfect as prerequisite for AI medical imaging courses
   - [Tags: beginner medical-imaging radiology fundamentals free-certificate alison 2025]
 
+- [Physiopedia AI Masterclass for Healthcare Professionals (FREE MOOC)](https://www.physio-pedia.com/AI_Masterclass_for_Healthcare_Professionals) – Free comprehensive online AI course specifically designed for rehabilitation and healthcare professionals learning to integrate AI into clinical workflows. Runs October-November annually covering AI fundamentals, productivity applications, and healthcare system implications. Features interactive webinars, community discussion forums, and practical exercises for real-world AI adoption. Accessible globally through Physiopedia Plus with free trial account option. (🟢 Beginner)
+  - 📖 Access: Fully open, free trial account available
+  - 🏛️ Authority: Physiopedia (global rehabilitation community platform)
+  - 🎓 Target: Rehabilitation and healthcare professionals
+  - 📝 Topics: AI fundamentals, prompt engineering, clinical workflow integration
+  - 🌍 Global: Accessible from 150+ countries
+  - 🎥 Format: Video lessons + interactive webinars
+  - ⏱️ Duration: 6-8 weeks (self-paced)
+  - 📜 Free certificate included
+  - [Tags: beginner healthcare-professionals ai-masterclass free-mooc webinars physiopedia 2024]
+
+- [KU Leuven MOOC: AI in Healthcare](https://med.kuleuven.be/en/study/programmes/AI-in-healthcare) – Free 10-module online course from prestigious KU Leuven Faculty of Medicine introducing AI principles, explaining AI's added value in healthcare, and providing foundational knowledge to develop AI applications in healthcare. Structured for healthcare professionals, scholars, and anyone interested in AI applications in healthcare. No prerequisites except high school mathematics and healthcare interest. Audit track completely free. (🟢 Beginner)
+  - 📖 Access: Free audit track (no payment required)
+  - 🏛️ Authority: KU Leuven (Top Belgian University)
+  - 🌍 Global: Accessible worldwide
+  - ⏱️ Duration: 10 modules (self-paced, ~4-6 weeks)
+  - 📝 Topics: AI fundamentals, ML, DL, NLP, machine vision, healthcare applications
+  - ⚙️ Prerequisites: High school mathematics level
+  - [Tags: beginner mooc ai-fundamentals machine-learning healthcare-applications free-audit kuleuven 2024]
+
 ### 🟡 Intermediate
 
 - [MIT 6.S191: AI in Healthcare (YouTube Lecture Series)](https://www.youtube.com/watch?v=cvXVK8oqU4Q) – Official MIT course (6.S191) lectures on artificial intelligence in healthcare. Covers computer vision for medical imaging, NLP for clinical text, predictive models for patient outcomes, and challenges in deploying AI in clinical settings. Taught by MIT faculty and leading healthcare AI researchers. (🟡 Intermediate)
@@ -101,6 +121,15 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 📚 Open-source and reproducible
   - [Tags: intermediate medical-imaging video-program streamlit interactive educational students 2022]
 
+- [Harvard Medical School: AI in Clinical Medicine (2-Day Virtual Workshop)](https://learn.hms.harvard.edu/programs/ai-health-care-strategies-implementation) – Intensive 2-day virtual workshop from Harvard Medical School designed specifically for physicians and clinical professionals. Provides hands-on training in AI applications, clinical AI systems, and implementation strategies in medical practice. Part of Harvard HMS's comprehensive AI in Healthcare programs combining theory and practical clinical applications. (🟡 Intermediate)
+  - 📖 Access: Fully open, registrations available
+  - 🏛️ Authority: Harvard Medical School (HMS)
+  - 👥 Target: Physicians and clinical practitioners
+  - ⏱️ Duration: 2 days (intensive virtual)
+  - 🎯 Topics: Clinical AI systems, implementation, practical workflows
+  - 💼 Professional development suitable for clinical teams
+  - [Tags: intermediate clinical-medicine harvard medical-school implementation 2025]
+
 ### 🔴 Advanced
 
 - [Clinical NLP Overview (John Snow Labs)](https://www.johnsnowlabs.com/clinical-nlp/) – Comprehensive guide to state-of-the-art natural language processing for clinical text covering entity recognition, temporal information extraction, negation detection, sentiment analysis, clinical trials matching, adverse event detection, and EHR integration. Explains how NLP transforms unstructured clinical notes into structured insights for clinical decision support and personalized care. (🔴 Advanced)
@@ -116,6 +145,16 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 📝 Topics: Digital twins, brain imaging, signal processing, multiresolution analysis
   - 🔬 Cutting-edge research and techniques
   - [Tags: advanced medical-imaging signal-processing brain-imaging isbi wavelets multiresolution 2025]
+
+- [MHub.ai - Making AI in Medical Imaging Simple and Reproducible](https://mhub.ai/) – Open-source platform hosting 26+ validated AI models for medical imaging (CT, MRI, X-ray) with DICOM compatibility and harmonized outputs. Developed by MD Anderson Cancer Center, makes complex medical AI reproducible and deployable. Includes sample datasets and comprehensive documentation. Perfect for implementing and comparing medical imaging AI models. (🔴 Advanced)
+  - 📖 Access: Fully open, open-source on GitHub
+  - 🏛️ Authority: MD Anderson Cancer Center (leading cancer research institution)
+  - 🛠️ Type: Deployment platform + model hub
+  - 💻 Tools: 26+ pre-trained models, DICOM integration, Python SDK
+  - 📊 Modalities: CT, MR, X-ray, ultrasound, pathology
+  - ⚙️ Features: Model reproducibility, validation, easy deployment
+  - 🔬 Advanced: Production-ready medical imaging AI
+  - [Tags: advanced open-source medical-imaging dicom reproducibility md-anderson mhub deployment 2025]
 
 ---
 
@@ -195,6 +234,6 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 17
+**Last Updated:** December 14, 2025 | **Total Resources:** 21
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, rcsi, google, mit, freecodecamp, alison, john-snow-labs, isbi, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, physiopedia, kuleuven, 2025
