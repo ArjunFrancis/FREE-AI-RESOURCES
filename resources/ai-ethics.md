@@ -72,6 +72,12 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 ### 🟢 Beginner-Friendly
 
+- [Google AI Principles & Responsible AI](https://ai.google/responsibility/principles/) **(Beginner)** - Official Google framework for responsible AI development outlining 7 core principles: be socially beneficial, avoid creating/reinforcing unfair bias, be built/tested for safety, be accountable to people, incorporate privacy design principles, uphold high standards of scientific excellence, and be made available for uses that accord with these principles. Includes practical guidance, research publications, and tools for implementation.
+  - 📖 Access: Fully open, official Google documentation
+  - 🌍 Authority: Google AI (official corporate framework)
+  - 🎯 Topics: Ethics principles, bias prevention, safety, accountability, privacy
+  - [Tags: beginner google responsible-ai principles corporate-framework 2025]
+
 - [Five Free Courses on AI Ethics - AI Ethics Assessor](https://aiethicsassessor.com/blog/five-free-courses-on-ai-ethics) **(Beginner to Intermediate)** - Comprehensive guide featuring 5 world-class free AI ethics courses: Center for AI Safety (12-week instructor-led), OpenSAP (practical ethical AI framework), Sorbonne SCAI (ethical/legal/social aspects), University of Helsinki (foundational ethics), and Linux Foundation (business drivers & responsible AI). Proves premium education doesn't require premium price.
   - 📖 Access: Fully open guide with course links
   - 🌍 Authority: Multiple leading institutions
@@ -105,6 +111,12 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 ### 🟡 Intermediate to Advanced
 
+- [Stanford HAI - Human-Centered AI Research](https://hai.stanford.edu/research) **(Intermediate to Advanced)** - Stanford University's Human-Centered Artificial Intelligence Institute research hub featuring cutting-edge publications, policy briefs, and resources on AI ethics, fairness, governance, human rights, and societal impact. Covers latest research from leading AI ethics scholars including reports on algorithmic bias, AI governance frameworks, transparency, and responsible innovation.
+  - 📖 Access: Fully open research publications
+  - 🌍 Authority: Stanford University (HAI Institute)
+  - 🎯 Topics: AI ethics research, governance, policy, human rights, fairness
+  - [Tags: intermediate advanced stanford research policy governance human-centered-ai 2025]
+
 - [Responsible AI Tutorial - Industry Practices](https://sites.google.com/view/Responsible-Gen-AI-Tutorial/) **(Intermediate to Advanced)** - Comprehensive tutorial presenting responsible AI foundations including explainability, fairness assessment/mitigation, and privacy-preserving ML techniques with real industry case studies spanning search, recommendation systems, hiring, computer vision, translation, lending, and analytics. Covers open-source tools from Amazon SageMaker, Google AI, Fiddler, IBM, LinkedIn, Microsoft with practical solution approaches.
   - 📖 Access: Fully open tutorial materials
   - 🌍 Authority: Industry practitioners (multi-company collaboration)
@@ -117,6 +129,12 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - [Tags: intermediate fairness bias-detection machine-learning algorithm-fairness 2025]
 
 ### 🔴 Advanced
+
+- [Fairness and Machine Learning: Limitations and Opportunities (Free Textbook)](https://fairmlbook.org/) **(Advanced)** - Comprehensive free online textbook by Barocas, Hardt, and Narayanan covering mathematical and computational aspects of fairness in machine learning. Topics include causality in fairness, testing for discrimination, fair representations, algorithmic interventions, and limitations of technical approaches with real-world examples from criminal justice, hiring, and lending.
+  - 📖 Access: Fully open online textbook
+  - 🌍 Authority: Cornell University, UC Berkeley, Princeton University
+  - 📝 Topics: Fairness definitions, causality, discrimination testing, fair ML theory
+  - [Tags: advanced fairness textbook theoretical machine-learning discrimination 2025]
 
 - [AI Safety, Ethics and Society by Center for AI Safety](https://course.aisafetyfundamentals.com/) **(Advanced)** - Free intensive 12-week instructor-led course on AI safety and ethics covering alignment problems, existential risks, technical safety research, and societal implications with optional AI fundamentals week and personal project phase.
   - 📖 Access: Fully open, cohort-based (applications required)
@@ -190,6 +208,6 @@ Found a great free AI ethics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 20
+**Last Updated:** December 14, 2025 | **Total Resources:** 23
 
-**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, industry-practices, case-studies, practical-tools, coursera, algorithmic-fairness, 2025
+**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, industry-practices, case-studies, practical-tools, coursera, algorithmic-fairness, fairness-textbook, 2025
