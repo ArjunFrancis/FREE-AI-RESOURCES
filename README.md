@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **280+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **292+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-280+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-292+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31+-green.svg)]()
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
 
@@ -14,9 +14,9 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 280+ | Across all categories |
+| **Total Resources** | 292+ | Across all categories |
 | **Total Categories** | 31+ | Organized by topic & type |
-| **Average/Category** | ~9 | Well-distributed |
+| **Average/Category** | ~9.4 | Well-distributed |
 | **Largest Category** | Reinforcement Learning | 21 resources |
 | **Newest Categories** | University Programs, Spatial Intelligence, World Models | Cutting-edge |
 | **Free Resources** | 100% | No paywalls ever |
@@ -143,7 +143,7 @@
 
 **Total**: 36 courses | **Perfect for**: Degree-equivalent education
 
-👉 **[Explore University Programs →](resources/university-programs.md)**
+퉺 **[Explore University Programs →](resources/university-programs.md)**
 
 ---
 
@@ -153,13 +153,13 @@
 
 | Domain | Resources | Difficulty | Impact |
 |--------|-----------|------------|--------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | 17 | 🟡 | Medical diagnosis, drug discovery |
-| [AI for Finance](resources/ai-for-finance.md) | 11 | 🟡 | Trading, risk analysis |
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 21 | 🟡 | Medical diagnosis, drug discovery |
+| [AI for Finance](resources/ai-for-finance.md) | 15 | 🟡 | Trading, risk analysis |
 | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 16 | 🔴 | Autonomous systems |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 11 | 🟡 | Prediction, anomaly detection |
-| [Recommender Systems](resources/recommender-systems.md) | 11 | 🟡 | Personalization |
+| [Recommender Systems](resources/recommender-systems.md) | 15 | 🟡 | Personalization |
 
-**Total**: 66 resources | **Perfect for**: Domain specialists
+**Total**: 78 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -288,7 +288,6 @@ FREE-AI-RESOURCES/
 ├── README.md                      # Main guide
 ├── CONTRIBUTING.md                # How to contribute
 ├── LICENSE                        # MIT License
-│
 └── resources/                     # All resource files (31+ categories)
     ├── machine-learning-fundamentals.md
     ├── deep-learning-neural-networks.md
@@ -299,7 +298,10 @@ FREE-AI-RESOURCES/
     ├── spatial-intelligence.md          # NEW
     ├── world-models.md                  # NEW
     ├── university-programs.md           # NEW
-    └── ... (28+ more categories)
+    ├── ai-for-healthcare.md            # Updated: 17 → 21
+    ├── ai-for-finance.md               # Updated: 11 → 15
+    ├── recommender-systems.md          # Updated: 11 → 15
+    └── ... (25+ more categories)
 ```
 
 ---
@@ -324,7 +326,7 @@ FREE-AI-RESOURCES/
 - University Programs (36 courses from MIT, Stanford, Harvard, Berkeley, Oxford)
 - Not just traditional ML
 
-### 🌍 100% Free & Accessible
+### 🌐 100% Free & Accessible
 - Every resource completely free
 - No paywalls or subscriptions
 - Accessible globally
@@ -385,7 +387,7 @@ We welcome contributions! Adding resources is easy:
 
 ---
 
-## 📊 100% Free & Open Access Commitment
+## 📉 100% Free & Open Access Commitment
 
 ### ✅ What We Include
 
@@ -407,7 +409,7 @@ We welcome contributions! Adding resources is easy:
 
 ---
 
-## 📝 License
+## 📋 License
 
 This repository is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
@@ -418,7 +420,7 @@ Resources linked from this repository are subject to their own respective licens
 ## 📞 Support & Links
 
 - 🐛 **Issues**: [Report bugs or suggest features](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)
-- 💬 **Discussions**: [Join community Q&A](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions)
+- 🗣️ **Discussions**: [Join community Q&A](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions)
 - 🔗 **Pull Requests**: [Contribute resources](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/pulls)
 - 📧 **Contact**: [@ArjunFrancis](https://github.com/ArjunFrancis)
 
