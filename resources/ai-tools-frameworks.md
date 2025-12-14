@@ -109,9 +109,16 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ---
 
-## 📯 NLP & Language Model Tools
+## 💯 NLP & Language Model Tools
 
 ### 🟢 Beginner to Intermediate
+
+- [Hugging Face Transformers: Official Documentation](https://huggingface.co/docs/transformers/index) **(Beginner to Intermediate)** - Comprehensive official documentation for the Transformers library covering pretrained models (BERT, GPT, T5, Llama), tokenization, training, fine-tuning, and inference for NLP tasks. Includes quick tour, tutorials, task guides, and complete API reference with PyTorch and TensorFlow support. Essential resource for working with state-of-the-art language models.
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: Hugging Face (official)
+  - 🛠️ Hands-on: Yes (code examples, notebooks)
+  - 🎯 Topics: Transformers, BERT, GPT, fine-tuning, inference, tokenization
+  - [Tags: beginner intermediate huggingface transformers nlp bert gpt documentation 2025]
 
 - [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1) **(Beginner to Intermediate)** - Free comprehensive course on transformers and NLP tools covering BERT, GPT, T5, tokenization, fine-tuning, and deployment using Hugging Face ecosystem. Includes hands-on exercises with state-of-the-art pretrained models.
   - 📖 Access: Fully open course
@@ -124,6 +131,13 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 ## 🤠 AI Agent Frameworks
 
 ### 🟡 Intermediate to Advanced
+
+- [LangChain: Official Documentation](https://python.langchain.com/docs/get_started/introduction) **(Intermediate)** - Comprehensive official documentation for LangChain, the leading framework for building LLM-powered applications and AI agents. Covers chains, agents, memory, callbacks, retrieval-augmented generation (RAG), integrations with 100+ LLMs and vector stores, and production deployment patterns. Essential for building sophisticated LLM applications.
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: LangChain (official)
+  - 🛠️ Hands-on: Yes (code examples, tutorials)
+  - 🎯 Topics: LLM apps, agents, RAG, chains, memory, integrations
+  - [Tags: intermediate langchain llm-apps agents rag documentation production 2025]
 
 - [Top 7 Free AI Agent Frameworks 2025 - Botpress](https://botpress.com/blog/ai-agent-frameworks) **(Intermediate to Advanced)** - Detailed comparison and guide to the top 7 free AI agent frameworks for building autonomous AI systems: Botpress (conversational AI platform), LangChain (LLM application framework), CrewAI (multi-agent orchestration), Microsoft Semantic Kernel (enterprise SDK), AutoGen (Microsoft's multi-agent framework), AutoGPT (autonomous GPT-4 agent), and Rasa (open-source conversational AI). Covers features, pricing models, best use cases, and implementation examples.
   - 📖 Access: Free guide + open-source frameworks
@@ -149,6 +163,20 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 ## 📚 Deployment & MLOps Tools
 
 ### 🟡 Intermediate
+
+- [MLflow: Official Documentation & Getting Started](https://mlflow.org/docs/latest/getting-started/index.html) **(Intermediate)** - Official comprehensive documentation for MLflow, the open-source platform for managing the complete ML lifecycle including experimentation, reproducibility, deployment, and model registry. Covers tracking experiments, packaging ML code, deploying models, and managing model versions with integrations for all major frameworks (TensorFlow, PyTorch, scikit-learn).
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: MLflow (open-source project)
+  - 🛠️ Hands-on: Yes (quickstart tutorials, examples)
+  - 🎯 Topics: Experiment tracking, model registry, deployment, versioning
+  - [Tags: intermediate mlflow mlops experiment-tracking model-management documentation 2025]
+
+- [Weights & Biases (W&B): Official Documentation](https://docs.wandb.ai/) **(Intermediate)** - Comprehensive official documentation for Weights & Biases, the leading MLOps platform for experiment tracking, dataset versioning, model management, and collaboration. Covers experiment logging, hyperparameter tuning, visualization, model registry, and team collaboration features with integrations for PyTorch, TensorFlow, Keras, scikit-learn, and more.
+  - 📖 Access: Free tier available, official documentation
+  - 🌍 Authority: Weights & Biases (official)
+  - 🛠️ Hands-on: Yes (quickstart guides, tutorials)
+  - 🎯 Topics: Experiment tracking, visualization, model registry, collaboration
+  - [Tags: intermediate wandb mlops experiment-tracking visualization documentation 2025]
 
 - [Best Open-Source AI Platforms for 2025: Kubeflow, MLflow, Ray](https://greennode.ai/blog/best-open-source-ai-platforms) **(Intermediate to Advanced)** - Comprehensive guide covering top open-source AI platforms and infrastructure tools for 2025: Kubeflow (Kubernetes ML workflows), MLflow (model tracking/deployment), Ray (distributed computing), Hugging Face (NLP/generative AI), and ONNX (model interoperability). Includes frameworks (PyTorch, TensorFlow, JAX), model hubs, and infrastructure tools with use cases and comparisons.
   - 📖 Access: Free comprehensive guide
@@ -243,6 +271,6 @@ Found a great free AI tool or framework? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 25
+**Last Updated:** December 14, 2025 | **Total Resources:** 29
 
-**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, mlflow, kubeflow, 2025
+**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, mlflow, wandb, weights-and-biases, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, kubeflow, experiment-tracking, model-registry, 2025
