@@ -22,10 +22,48 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 - Cloud AI platforms (Google Cloud AI, AWS AI, Azure AI)
 - MLOps & deployment tools
 - Model serving & optimization
+- LLM deployment and inference tools
 
 ---
 
-## 🧠 Deep Learning Frameworks
+## 🛠️ LLM Deployment & Inference Tools
+
+### 🟢 Beginner to Intermediate
+
+- [Ollama: Deploy and Manage Open-Source LLMs Locally](https://ollama.ai/) **(Beginner)** - Free open-source platform that simplifies deploying and running large language models locally on your machine. Supports models like Llama, Phi, Mistral, and others with complete control over data privacy. Perfect for experimenting with lightweight LLMs without cloud costs or dependencies. Available for Windows, macOS, and Linux.
+  - 📖 Access: Fully open-source (MIT license)
+  - 🛠️ Hands-on: Yes - run models locally from command line or browser
+  - 🎯 Best for: Local LLM deployment, privacy-focused AI, experimentation
+  - [Tags: beginner ollama llm-deployment local-inference open-source 2025]
+
+- [Learn PyTorch for Deep Learning (Zero to Mastery)](https://www.learnpytorch.io) **(Beginner to Intermediate)** - Free comprehensive course teaching PyTorch fundamentals through hands-on coding with Google Colab. Covers PyTorch essentials, neural networks, computer vision, NLP, and deployment without requiring special hardware or prior ML experience.
+  - 📖 Access: Fully open online course
+  - 🛠️ Hands-on: Yes (interactive notebooks, Google Colab)
+  - 📝 Includes: Video materials, code notebooks, practical exercises
+  - [Tags: beginner intermediate pytorch deep-learning hands-on google-colab 2025]
+
+### 🟡 Intermediate to Advanced
+
+- [vLLM: Optimize and Scale Open-Source LLMs](https://github.com/vllm-project/vllm) **(Intermediate to Advanced)** - Free open-source high-performance LLM inference library optimized for serving large language models at scale across GPU infrastructure. Features PagedAttention mechanism for memory efficiency, handles multiple requests in parallel, and provides significant speed improvements over traditional approaches for production LLM deployment.
+  - 📖 Access: Fully open-source (Apache 2.0 license)
+  - 🛠️ Best for: High-performance LLM serving, production deployments, GPU-accelerated inference
+  - 📝 Features: PagedAttention, batch processing, OpenAI-compatible API
+  - [Tags: intermediate advanced vllm llm-inference gpu-acceleration production 2025]
+
+- [LocalAI: Open-Source OpenAI Alternative](https://localai.io/) **(Intermediate)** - Free open-source alternative to OpenAI that runs without expensive GPUs. Supports wide range of model families and architectures, making it ideal for experimenting with AI while avoiding high cloud-processing costs. Provides REST API compatible with OpenAI endpoints.
+  - 📖 Access: Fully open-source (MIT license)
+  - 🛠️ Best for: Cost-effective LLM deployment, local inference, OpenAI API compatibility
+  - [Tags: intermediate localai open-source llm-inference cost-effective 2025]
+
+- [BentoML/OpenLLM: Cloud LLM Deployment Framework](https://github.com/bentoml/OpenLLM) **(Intermediate to Advanced)** - Open-source framework for deploying large language models in cloud and Kubernetes environments. Features OpenAI-compatible APIs, supports multiple open-source models (Llama, Qwen, Falcon), built-in chat interface, and streamlined deployment with Kubernetes helpers for production-ready LLM applications.
+  - 📖 Access: Fully open-source (Apache 2.0 license)
+  - 🛠️ Best for: Cloud-based LLM deployment, Kubernetes orchestration, production inference
+  - 📝 Features: OpenAI API compatibility, model switching, cloud deployment
+  - [Tags: intermediate advanced bentoml openllm kubernetes cloud-deployment production 2025]
+
+---
+
+## 🤧 Deep Learning Frameworks
 
 ### 🟢 Beginner to Intermediate
 
@@ -46,7 +84,7 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
   - 🌍 Authority: Keras Team (now part of TensorFlow)
   - [Tags: beginner keras neural-networks high-level-api 2025]
 
-- [Fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/) **(Beginner to Intermediate)** - Free comprehensive course teaching deep learning using PyTorch and fastai library with top-down approach. Covers computer vision, NLP, tabular data, recommendation systems, and deployment with practical focus on building real applications.
+- [Fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/) **(Beginner to Intermediate)** - Free comprehensive course teaching deep learning using PyTorch and fastai library with top-down approach. Covers computer vision, NLP, tabular data, recommendation systems, and deployment with practical focus on building real applications without extensive hardware requirements.
   - 📖 Access: Fully open (videos + notebooks)
   - 🌍 Authority: Fast.ai (Jeremy Howard, Rachel Thomas)
   - 🛠️ Hands-on: Yes (extensive coding)
@@ -59,7 +97,7 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ---
 
-## 📊 Traditional ML Libraries
+## 📋 Traditional ML Libraries
 
 ### 🟢 Beginner to Intermediate
 
@@ -71,7 +109,7 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ---
 
-## 💬 NLP & Language Model Tools
+## 📯 NLP & Language Model Tools
 
 ### 🟢 Beginner to Intermediate
 
@@ -83,7 +121,7 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ---
 
-## 🤖 AI Agent Frameworks
+## 🤠 AI Agent Frameworks
 
 ### 🟡 Intermediate to Advanced
 
@@ -102,9 +140,48 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 - [10+ Free AI Tools from Google Cloud 2025](https://cloud.google.com/use-cases/free-ai-tools) **(Beginner to Intermediate)** - Comprehensive collection of free-tier Google Cloud AI products including: Gemini API (multimodal AI), Google AI Studio (prompt engineering), Translation API (100+ languages), Speech-to-Text (audio transcription), Natural Language API (entity/sentiment analysis), Vision API (image analysis), Video Intelligence API (video analysis), and Vertex AI (ML platform). Includes monthly free quotas with no expiration for core services.
   - 📖 Access: Free tier with monthly limits (generous quotas)
   - 🌍 Authority: Google Cloud (official)
-  - 💵 Pricing: Free tier available, no credit card required for many services
+  - 💳 Pricing: Free tier available, no credit card required for many services
   - 📝 APIs: Gemini, Translation, Speech, Vision, NLP, Video Intelligence
   - [Tags: beginner intermediate google-cloud gemini-api free-tier translation vision speech 2025]
+
+---
+
+## 📚 Deployment & MLOps Tools
+
+### 🟡 Intermediate
+
+- [Best Open-Source AI Platforms for 2025: Kubeflow, MLflow, Ray](https://greennode.ai/blog/best-open-source-ai-platforms) **(Intermediate to Advanced)** - Comprehensive guide covering top open-source AI platforms and infrastructure tools for 2025: Kubeflow (Kubernetes ML workflows), MLflow (model tracking/deployment), Ray (distributed computing), Hugging Face (NLP/generative AI), and ONNX (model interoperability). Includes frameworks (PyTorch, TensorFlow, JAX), model hubs, and infrastructure tools with use cases and comparisons.
+  - 📖 Access: Free comprehensive guide
+  - 📝 Covers: Frameworks, infrastructure, deployment, model management
+  - 🎯 Best for: MLOps, production deployment, infrastructure decisions
+  - [Tags: intermediate advanced mlops kubeflow mlflow ray deployment kubernetes 2025]
+
+- [Awesome-LLMOps: LLM Tools & Frameworks Collection](https://github.com/tensorchord/Awesome-LLMOps) **(Intermediate to Advanced)** - Curated GitHub collection of best LLMOps tools including inference servers (llama.cpp, Ollama, vLLM), embeddings (Infinity), API servers (Modelz, Ollama), and production frameworks. Essential reference for selecting production-ready LLM deployment tools.
+  - 📖 Access: Fully open, GitHub collection
+  - 🎯 Best for: LLM inference, production deployment, tool selection
+  - [Tags: intermediate advanced llmops inference-servers production-tools github 2025]
+
+---
+
+## 📦 Specialized Tools
+
+### 🟡 Intermediate
+
+- [Top 10 Open Source ML Tools and Frameworks in 2025](https://www.portotheme.com/top-10-open-source-machine-learning-tools-and-frameworks-in-2025/) **(Intermediate)** - Detailed exploration of the top 10 open-source ML frameworks and tools for 2025: TensorFlow (enterprise powerhouse), PyTorch (research standard), Scikit-learn (traditional ML), XGBoost (gradient boosting), Hugging Face (NLP/generative AI), Keras (high-level API), and others. Includes strengths, use cases, and practical considerations.
+  - 📖 Access: Free comprehensive guide
+  - 📝 Covers: Deep learning, ML, NLP, deployment, tools comparison
+  - 🎯 Best for: Tool selection, understanding framework strengths
+  - [Tags: intermediate open-source frameworks tensorflow pytorch comparison 2025]
+
+- [EndToEndML: Open-Source End-to-End Pipeline](http://arxiv.org/pdf/2403.18203.pdf) **(Intermediate)** - Free research paper presenting EndToEndML, an open-source web-based pipeline for preprocessing, training, evaluating, and visualizing ML models without programming skills. Perfect for non-technical users and life scientists analyzing complex biological data.
+  - 📖 Access: Free PDF (arXiv)
+  - 🛠️ Best for: Non-technical users, end-to-end ML workflows, no-code ML
+  - [Tags: intermediate end-to-end-ml web-based pipeline no-code 2025]
+
+- [mlpack 4: Fast, Header-Only C++ Machine Learning Library](http://arxiv.org/pdf/2302.00820.pdf) **(Intermediate to Advanced)** - Free research paper on mlpack, an open-source C++ machine learning library emphasizing performance and ease of use. Features bindings to Python, Julia, R, Go, and command-line interface for seamless prototyping-to-deployment pipelines with permissive 3-clause BSD license.
+  - 📖 Access: Free PDF (arXiv)
+  - 🎯 Best for: High-performance ML in C++, multiple language bindings
+  - [Tags: advanced c++ ml-library performance bindings python julia 2025]
 
 ---
 
@@ -116,6 +193,11 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
   - 📖 Access: Fully open, GitHub
   - 🎯 Focus: Production ML, MLOps, deployment
   - [Tags: intermediate advanced mlops production deployment monitoring github 2025]
+
+- [Collection of Free Deep Learning Resources - GitHub](https://github.com/GeorgeMcIntire/collection_free_DL_resources) **(All Levels)** - Exhaustive collection of free deep learning resources including GitHub repos (TensorFlow examples, Hands-on ML), YouTube videos, online courses (Fast.ai, Udacity), and books. Curated for learners at all levels seeking quality free DL content.
+  - 📖 Access: Fully open, GitHub
+  - 🎯 Best for: Finding comprehensive DL learning materials, all skill levels
+  - [Tags: all-levels collection deeplearning courses github books 2025]
 
 ---
 
@@ -132,6 +214,7 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 - [Generative AI](./generative-ai.md) - Tools for LLMs and generative models
 - [Prompt Engineering](./prompt-engineering.md) - Tools for prompt optimization
 - [AI Security & Privacy](./ai-security-privacy.md) - Security tools for AI systems
+- [Mathematics for AI](./mathematics-for-ai.md) - Mathematical foundations for frameworks
 
 **Prerequisites:**
 - Basic Python programming
@@ -160,6 +243,6 @@ Found a great free AI tool or framework? We'd love to add it!
 
 ---
 
-**Last Updated:** November 30, 2025 | **Total Resources:** 13
+**Last Updated:** December 14, 2025 | **Total Resources:** 25
 
-**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, opencv, spacy, nltk, mlops, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, 2025
+**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, mlflow, kubeflow, 2025
