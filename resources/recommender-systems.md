@@ -71,7 +71,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📖 Access: Fully open, no account required
   - 💻 Tools: Python, pandas, NumPy, scikit-learn
   - 🛠️ Hands-on: Yes (complete implementation)
-  - 📈 Real dataset (movie ratings)
+  - 📊 Real dataset (movie ratings)
   - [Tags: intermediate recommendation-system collaborative-filtering python netflix towardsai 2020]
 
 - [Build a Rating Recommendation Engine with Collaborative Filtering (Pluralsight)](https://www.pluralsight.com/courses/build-rating-recommendation-engine-collaborative-filtering) – Practical course teaching how to build a ratings-based recommendation engine using collaborative filtering. Covers user-based and item-based approaches, similarity metrics, and producing recommendations. Project-based learning with real implementation. Free trial available. (🟡 Intermediate)
@@ -80,6 +80,14 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 🛠️ Hands-on: Yes (practical projects)
   - 🔧 Topics: User-based and item-based CF, similarity metrics
   - [Tags: intermediate collaborative-filtering recommendation-engine python pluralsight 2022]
+
+- [LinkedIn Learning: Recommendation Systems - Practical Hands-On Introduction](https://www.linkedin.com/learning/recommendation-systems-a-practical-hands-on-introduction) – Practical guide by Miguel González-Fierro teaching how to build and deploy recommendation systems. Covers collaborative filtering, content-based filtering, evaluation metrics, and real-world deployment and testing considerations. Learn best practices for building production recommendation systems. (🟡 Intermediate)
+  - 📖 Access: Free (LinkedIn Learning Premium optional)
+  - 👨‍🏫 Instructor: Miguel González-Fierro
+  - 🛠️ Hands-on: Yes (practical examples)
+  - 🔧 Topics: Collaborative filtering, evaluation, deployment, testing
+  - 🎥 Real-world best practices
+  - [Tags: intermediate recommendation-systems collaborative-filtering deployment linkedin-learning 2025]
 
 ### 🔴 Advanced
 
@@ -105,12 +113,36 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📚 Research-backed approaches
   - [Tags: advanced deep-learning neural-networks recommendation-systems github 2024]
 
+- [SSLRec: Self-Supervised Learning Framework for Recommendation (GitHub)](https://github.com/RUCAIBox/SSLRec) – Comprehensive open-source framework implementing self-supervised learning for recommendation systems. Covers graph-based CF, sequential recommendation, social recommendation, and knowledge graph-enhanced recommendations. State-of-the-art approach to address data sparsity in recommender systems. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Language: Python, PyTorch
+  - 🔬 Topics: Self-supervised learning, graph CF, sequential, social, KG-enhanced
+  - 📈 Framework: 20+ SSL-based algorithms
+  - 📚 Well-documented with examples
+  - [Tags: advanced self-supervised learning recommendation-systems graph-cf pytorch github 2024]
+
 - [Implicit Feedback Recommendation Systems (Advanced Techniques)](https://github.com/benfred/implicit) – Python library and tutorials for building recommendation systems from implicit feedback (clicks, purchases, views) rather than explicit ratings. Covers alternating least squares (ALS), Bayesian personalized ranking, and other advanced techniques. Essential for real-world recommendation systems where explicit ratings are rare. (🔴 Advanced)
   - 📖 Access: Fully open on GitHub
   - 💻 Tools: Python, NumPy, Cython (fast)
   - 🔧 Topics: ALS, implicit feedback, BPR ranking
   - 🚀 Highly optimized for large-scale systems
   - [Tags: advanced implicit-feedback als recommendation-engine github python 2024]
+
+- [RAMO: Retrieval-Augmented Generation for MOOC Recommendations](https://arxiv.org/pdf/2407.04925.pdf) – Novel research combining Retrieval-Augmented Generation (RAG) with Large Language Models for course recommendation in online learning platforms (MOOCs). Addresses cold-start problem in educational recommendation systems using LLMs and RAG principles. Advanced approach to hybrid recommendation combining neural and symbolic methods. (🔴 Advanced)
+  - 📖 Access: Open on arXiv (free PDF)
+  - 🔬 Topics: RAG, LLMs, MOOC recommendations, cold-start problem
+  - 📚 Novel hybrid approach
+  - 📄 Full research paper with methodology
+  - [Tags: advanced rag llm mooc-recommendations cold-start arxiv research 2024]
+
+- [Recommender Systems Specialization - Coursera](https://www.coursera.org/specializations/recommender-systems) – 5-course specialization from University of Minnesota covering comprehensive recommender systems knowledge from fundamentals to advanced techniques. Topics include collaborative filtering, matrix factorization, content-based approaches, evaluation metrics, and hybrid systems. Honors track includes hands-on projects with LensKit open-source toolkit. Free audit + honors track with toolkit. (🔴 Advanced)
+  - 📖 Access: Free audit + honors track with LensKit
+  - 🏛️ Authority: University of Minnesota
+  - 💻 Tools: LensKit (open-source recommendation toolkit)
+  - 🔧 Topics: Collaborative filtering, matrix factorization, evaluation, hybrid approaches
+  - 🌈 5 courses with capstone project
+  - 📜 Industry-recognized specialization
+  - [Tags: advanced specialization recommender-systems collaborative-filtering matrix-factorization coursera lenskit 2024]
 
 ---
 
@@ -125,6 +157,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - RecBole (unified recommendation framework with 80+ algorithms)
   - Cornac (open-source recommender framework)
   - PyTorch Recommenders (PyTorch-based)
+  - SSLRec (self-supervised learning framework)
 - **Frameworks:** PyTorch, TensorFlow, JAX
 - **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing
 - **Evaluation:** Python's scikit-learn, specialized recommendation metrics
@@ -162,7 +195,7 @@ If you're completely new to Recommender Systems, start with these resources in o
 2. **Codecademy Learn Recommender Systems** - Next step: Hands-on Python implementation of recommendation algorithms with real projects
 3. **Recommendation System Tutorial with Python (TowardsAI)** - Advance to: In-depth Netflix case study with complete implementation
 
-After completing the starter kit, explore advanced topics: neural collaborative filtering, graph neural networks, and large-scale systems with RecBole or implicit feedback libraries.
+After completing the starter kit, explore advanced topics: neural collaborative filtering, graph neural networks, self-supervised learning, and large-scale systems with RecBole or implicit feedback libraries.
 
 ---
 
@@ -186,6 +219,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 11
+**Last Updated:** December 14, 2025 | **Total Resources:** 15
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, google, codecademy, netflix, pytorch, tensorflow, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, 2025
