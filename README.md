@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **292+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **303+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-292+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-303+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31+-green.svg)]()
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
 
@@ -14,9 +14,9 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 292+ | Across all categories |
+| **Total Resources** | 303+ | Across all categories |
 | **Total Categories** | 31+ | Organized by topic & type |
-| **Average/Category** | ~9.4 | Well-distributed |
+| **Average/Category** | ~9.8 | Well-distributed |
 | **Largest Category** | Reinforcement Learning | 21 resources |
 | **Newest Categories** | University Programs, Spatial Intelligence, World Models | Cutting-edge |
 | **Free Resources** | 100% | No paywalls ever |
@@ -87,11 +87,11 @@
 
 | Category | Resources | Time | Difficulty | Focus |
 |----------|-----------|------|------------|-------|
-| [Mathematics for AI](resources/mathematics-for-ai.md) | 5 | 3-4 wks | 🟢 | Linear algebra, calculus, stats |
+| [Mathematics for AI](resources/mathematics-for-ai.md) | 29 | 3-4 wks | 🟢 | Linear algebra, calculus, stats |
 | [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 6 | 2-3 wks | 🟢 | Core ML concepts |
 | [Data Science & Analytics](resources/data-science-analytics.md) | 5 | 2 wks | 🟢 | EDA, visualization, SQL |
 
-**Total**: 20 resources | **Total Time**: 4-6 weeks | **Perfect for**: Complete beginners
+**Total**: 40 resources | **Total Time**: 4-6 weeks | **Perfect for**: Complete beginners
 
 ---
 
@@ -143,7 +143,7 @@
 
 **Total**: 36 courses | **Perfect for**: Degree-equivalent education
 
-퉺 **[Explore University Programs →](resources/university-programs.md)**
+🔮 **[Explore University Programs →](resources/university-programs.md)**
 
 ---
 
@@ -171,9 +171,10 @@
 |----------|-----------|------------|-------|
 | [MLOps](resources/mlops.md) | 10 | 🟡 | Pipelines, automation |
 | [AI Security & Privacy](resources/ai-security-privacy.md) | 3 | 🟡 | Adversarial robustness |
-| [AI Ethics](resources/ai-ethics.md) | 7 | 🟢 | Responsible AI |
+| [AI Ethics](resources/ai-ethics.md) | 23 | 🟢 | Responsible AI |
+| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 29 | 🟢 | PyTorch, TensorFlow, MLflow |
 
-**Total**: 20 resources | **Perfect for**: Production engineers
+**Total**: 65 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -185,10 +186,9 @@
 |----------|-----------|------------|-------|
 | [Research Papers & Publications](resources/research-papers-publications.md) | 12 | 🔴 | arXiv, Papers with Code |
 | [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 18 | 🟡 | Training data, evaluation |
-| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 6 | 🟢 | PyTorch, TensorFlow |
 | [Audio & Speech Processing](resources/audio-speech-processing.md) | 13 | 🟡 | ASR, TTS, speech |
 
-**Total**: 49 resources | **Perfect for**: Researchers
+**Total**: 43 resources | **Perfect for**: Researchers
 
 ---
 
@@ -298,6 +298,9 @@ FREE-AI-RESOURCES/
     ├── spatial-intelligence.md          # NEW
     ├── world-models.md                  # NEW
     ├── university-programs.md           # NEW
+    ├── ai-ethics.md                     # Updated: 20 → 23
+    ├── mathematics-for-ai.md            # Updated: 25 → 29
+    ├── ai-tools-frameworks.md           # Updated: 25 → 29
     ├── ai-for-healthcare.md            # Updated: 17 → 21
     ├── ai-for-finance.md               # Updated: 11 → 15
     ├── recommender-systems.md          # Updated: 11 → 15
