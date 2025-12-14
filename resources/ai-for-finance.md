@@ -50,10 +50,18 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
 
 - [QuantInsti 8-Course Guide to Quantitative Trading for Beginners](https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners) – Comprehensive 8-course learning path for aspiring quantitative traders. Covers trading fundamentals, Python for quantitative trading, machine learning for trading, portfolio optimization, risk management, and implementation strategies. Structured progression from absolute beginner to intermediate trader. Free access to most content. (🟢 Beginner)
   - 📖 Access: Free core content available
-  - 🎈 Duration: Self-paced, ~30-40 hours total
+  - 🌈 Duration: Self-paced, ~30-40 hours total
   - 💻 Tools: Python, NumPy, pandas
   - 🎓 8 courses with progression
   - [Tags: beginner quantitative-trading python portfolio-optimization learning-path quantinsti 2018]
+
+- [CFTE AI in Finance FREE Masterclass](https://courses.cfte.education/online-courses-sg/online-artificial-intelligence-in-finance-masterclass-learn-ai-for-free/) – Completely free structured curriculum teaching AI fundamentals, fintech applications, industry insights, and opportunities/challenges in AI finance. Taught by industry leaders and practitioners from major financial institutions. Comprehensive overview of AI trends in financial services with no prerequisites. (🟢 Beginner)
+  - 📖 Access: Completely free (no payment or account required)
+  - 🏛️ Authority: CFTE (leading fintech education platform)
+  - 👥 Taught by: Financial industry leaders and practitioners
+  - 📝 Topics: AI fundamentals, fintech applications, market trends
+  - 🌍 Global: Accessible worldwide
+  - [Tags: beginner fintech generative-ai llm free-masterclass industry-insights cfte 2025]
 
 ### 🟡 Intermediate
 
@@ -86,13 +94,38 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🔧 Topics: LSTM, GRU, time series, technical indicators
   - [Tags: intermediate stock-prediction lstm machine-learning python time-series 2020]
 
+- [Investment Management with Python and Machine Learning (EDHEC - Coursera)](https://www.coursera.org/learn/investment-management-python-machine-learning) – EDHEC Business School course on portfolio optimization, risk management, and data analysis using Python and ML. Covers modern portfolio theory, performance attribution, and ML applications in investment management. Real-world financial case studies and practical implementation. Free audit available. (🟡 Intermediate)
+  - 📖 Access: Free audit track available
+  - 🏛️ Authority: EDHEC Business School (top-ranked finance school)
+  - 💻 Tools: Python, NumPy, pandas
+  - 📝 Topics: Portfolio optimization, risk management, ML for finance
+  - 💹 Real-world investment applications
+  - [Tags: intermediate portfolio-optimization risk-management python machine-learning edhec coursera 2024]
+
 ### 🔴 Advanced
+
+- [QuantLib - Free Quantitative Finance Library](https://www.quantlib.org/) – Production-ready, mature C++ open-source library for quantitative finance. Used extensively in investment banks and hedge funds worldwide. Covers derivatives pricing, trading systems, risk management, and fixed income calculations. Comprehensive documentation, multiple language bindings (Python, Java, C#), and active community. Modified BSD license suitable for proprietary applications. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub (modified BSD license)
+  - 🏛️ Authority: QuantLib development team (industry standard)
+  - 💻 Languages: C++ with Python, Java, C# bindings
+  - 🔧 Topics: Derivatives pricing, financial instruments, risk metrics
+  - 💼 Used by: Investment banks, hedge funds, financial institutions
+  - 📄 Documentation: Extensive with tutorials
+  - [Tags: advanced quantlib derivatives pricing open-source library cpp python 2024]
 
 - [Deep Learning for Financial Time Series (Advanced Tutorials)](https://github.com/topics/financial-time-series-prediction) – Collection of advanced resources covering deep learning approaches (LSTM, GRU, Transformers, attention mechanisms) for financial time series prediction. Includes research papers, GitHub implementations, and theoretical foundations. For practitioners building sophisticated trading models. (🔴 Advanced)
   - 📖 Access: Open-source implementations on GitHub
   - 💻 Tools: TensorFlow, PyTorch, JAX
   - 🔬 Topics: Advanced architectures, attention mechanisms, transformer models
   - [Tags: advanced deep-learning lstm transformers financial-prediction github 2024]
+
+- [FinML-Chain: Blockchain-Integrated Financial Machine Learning Dataset](https://arxiv.org/pdf/2411.16277.pdf) – Novel framework combining financial machine learning with blockchain integration for enhanced model development and reproducibility. Demonstrates LSTM, XGBoost, and neural network approaches for financial analysis. Includes dataset, evaluation framework, and methodology for blockchain-verified ML models. Research paper with reproducible experiments. (🔴 Advanced)
+  - 📖 Access: Open on arXiv (free PDF)
+  - 💻 Techniques: LSTM, XGBoost, neural networks, blockchain
+  - 🔬 Topics: Financial ML, blockchain integration, reproducibility
+  - 📊 Dataset: Blockchain-integrated financial data
+  - 📄 Reproducible: Full methodology and code
+  - [Tags: advanced fintech blockchain machine-learning lstm arxiv research 2024]
 
 - [Portfolio Optimization & Risk Management (Mathematical Finance Foundations)](https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners) – Advanced course covering modern portfolio theory, capital asset pricing model (CAPM), efficient frontier, Value at Risk (VaR), and risk management frameworks. Understand mathematical foundations of portfolio optimization and risk metrics used by institutional investors. (🔴 Advanced)
   - 📖 Access: Free with institutional resources
@@ -195,6 +228,6 @@ Found a great free AI for finance resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 11
+**Last Updated:** December 14, 2025 | **Total Resources:** 15
 
-**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, coursera, quantinsti, youtube, 2025
+**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, coursera, quantinsti, youtube, quantlib, edhec, cfte, 2025
