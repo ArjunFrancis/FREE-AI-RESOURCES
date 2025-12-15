@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **303+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **316+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-303+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-316+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31+-green.svg)]()
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 303+ | Across all categories |
+| **Total Resources** | 316+ | Across all categories (+13 today) |
 | **Total Categories** | 31+ | Organized by topic & type |
-| **Average/Category** | ~9.8 | Well-distributed |
+| **Average/Category** | ~10.2 | Well-distributed |
 | **Largest Category** | Reinforcement Learning | 21 resources |
 | **Newest Categories** | University Programs, Spatial Intelligence, World Models | Cutting-edge |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 14, 2025 | Regular daily updates |
+| **Last Updated** | Dec 15, 2025 | Regular daily updates |
 
 ---
 
@@ -105,12 +105,12 @@
 | [Natural Language Processing](resources/natural-language-processing.md) | 11 | 4-6 wks | 🟡🔴 | Language understanding |
 | [Computer Vision](resources/computer-vision.md) | 12 | 4-6 wks | 🟡🔴 | Image understanding |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 6-8 wks | 🟡🔴 | Agent training |
-| [Generative AI](resources/generative-ai.md) | 16 | 4-6 wks | 🔴 | LLMs, diffusion |
+| [Generative AI](resources/generative-ai.md) | 24 | 4-6 wks | 🔴 | LLMs, diffusion |
 | [Explainable AI](resources/explainable-ai.md) | 12 | 2-3 wks | 🟡 | Interpretability |
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 11 | 3-4 wks | 🔴 | Graph learning |
-| [Prompt Engineering](resources/prompt-engineering.md) | 15 | 2-3 wks | 🟢 | Prompt optimization |
+| [Prompt Engineering](resources/prompt-engineering.md) | 18 | 2-3 wks | 🟢 | Prompt optimization |
 
-**Total**: 103 resources | **Time**: 8-12 weeks | **Perfect for**: Ready to specialize
+**Total**: 114 resources | **Time**: 8-12 weeks | **Perfect for**: Ready to specialize
 
 ---
 
@@ -122,10 +122,10 @@
 |----------|-----------|--------|-------|
 | [Spatial Intelligence](resources/spatial-intelligence.md) | 8 | 🟢 Live | 3D AI, LGMs, robotics |
 | [World Models](resources/world-models.md) | 10 | 🟢 Live | Physics simulation, AGI |
-| [Multimodal AI](resources/multimodal-ai.md) | 3 | 🟢 Live | Vision + language |
+| [Multimodal AI](resources/multimodal-ai.md) | 5 | 🟢 Live | Vision + language |
 | [Edge AI & IoT](resources/edge-ai-iot.md) | 4 | 🟢 Live | On-device AI |
 
-**Total**: 25 resources | **Perfect for**: Research and innovation
+**Total**: 27 resources | **Perfect for**: Research and innovation
 
 ---
 
@@ -294,16 +294,18 @@ FREE-AI-RESOURCES/
     ├── natural-language-processing.md
     ├── computer-vision.md
     ├── reinforcement-learning.md
-    ├── generative-ai.md
-    ├── spatial-intelligence.md          # NEW
-    ├── world-models.md                  # NEW
-    ├── university-programs.md           # NEW
-    ├── ai-ethics.md                     # Updated: 20 → 23
-    ├── mathematics-for-ai.md            # Updated: 25 → 29
-    ├── ai-tools-frameworks.md           # Updated: 25 → 29
-    ├── ai-for-healthcare.md            # Updated: 17 → 21
-    ├── ai-for-finance.md               # Updated: 11 → 15
-    ├── recommender-systems.md          # Updated: 11 → 15
+    ├── generative-ai.md               # Updated: 16 → 24
+    ├── prompt-engineering.md          # Updated: 15 → 18
+    ├── multimodal-ai.md              # Updated: 3 → 5
+    ├── spatial-intelligence.md       # NEW
+    ├── world-models.md               # NEW
+    ├── university-programs.md        # NEW
+    ├── ai-ethics.md                  # Updated: 20 → 23
+    ├── mathematics-for-ai.md         # Updated: 25 → 29
+    ├── ai-tools-frameworks.md        # Updated: 25 → 29
+    ├── ai-for-healthcare.md         # Updated: 17 → 21
+    ├── ai-for-finance.md            # Updated: 11 → 15
+    ├── recommender-systems.md       # Updated: 11 → 15
     └── ... (25+ more categories)
 ```
 
@@ -431,7 +433,7 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 14, 2025
+- **Last Updated**: December 15, 2025
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
