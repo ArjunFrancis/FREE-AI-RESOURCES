@@ -4,7 +4,7 @@ Techniques and best practices for crafting effective prompts for AI systems like
 ## 📖 Overview
 Prompt engineering is the art and science of designing inputs that elicit the best possible outputs from large language models. Mastering prompt engineering unlocks the full potential of AI assistants for content creation, code generation, analysis, and problem-solving.
 
-**Keywords:** prompt-engineering, llm, chatgpt, claude, gemini, generative-ai, ai-prompting, prompt-design, few-shot-learning, chain-of-thought
+**Keywords:** prompt-engineering, llm, chatgpt, claude, gemini, generative-ai, ai-prompting, prompt-design, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, structured-prompting, xml-tags, best-practices
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -18,7 +18,14 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 Access: Fully open, no signup required
   - [Tags: beginner prompt-engineering fundamentals]
 
-- [Prompt Engineering Course (Simplilearn SkillUp, 2025)](https://www.simplilearn.com/prompt-engineering-free-course-skillup) **(Beginner)** - Completely free, self-paced online course covering the fundamentals of AI, NLP, and the core principles and practice of prompt engineering. Earn a certificate of completion and learn real-world prompt design for LLMs and generative AI. Updated for 2025, this course combines theoretical insights with practical, industry-relevant hands-on exercises.
+- **[Learn Prompting - The Ultimate Guide to Generative AI](https://learnprompting.org/docs/introduction)** - Comprehensive free guide on generative AI and prompt engineering used by over 3 million users. Interactive content covering prompt engineering techniques from basic to advanced levels, used as reference material by ~50% of other courses. Community-driven with 40K+ Discord members.
+  - 📖 **Access:** 100% free and open-source  
+  - 🎯 **Level:** 🟢 Beginner → 🔴 Advanced (progressive)  
+  - 👥 **Community:** 3M+ users, 40K+ Discord members  
+  - **Topics:** Prompt techniques, best practices, interactive learning, generative AI fundamentals  
+  - [Tags: `beginner` `prompt-engineering` `generative-ai` `interactive` `open-source` `community-driven` `2025`]
+
+- [Prompt Engineering Course (Simplilearn SkillUp, 2025)](https://www.simplilearn.com/prompt-engineering-free-course-skillup) - Completely free, self-paced online course covering the fundamentals of AI, NLP, and the core principles and practice of prompt engineering. Earn a certificate of completion and learn real-world prompt design for LLMs and generative AI.
   - 📖 Access: Fully open, free certificate
   - ⏱️ Duration: Self-paced
   - 📜 Certificate: Yes (free)
@@ -32,7 +39,7 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 Access: Fully open, interactive
   - [Tags: beginner interactive generative-ai]
 
-- [Alison - Basics of Prompt Engineering](https://alison.com/course/basics-of-prompt-engineering) **(Beginner)** - Free IT course teaching prompt design fundamentals for generative AI models, covering basic and advanced prompting methods with practical tips for ChatGPT and image generation tools.
+- [Alison - Basics of Prompt Engineering](https://alison.com/course/basics-of-prompt-engineering) - Free IT course teaching prompt design fundamentals for generative AI models, covering basic and advanced prompting methods with practical tips for ChatGPT and image generation tools.
   - 📖 Access: Free course with certificate option
   - [Tags: beginner certificate-course prompt-basics]
 
@@ -42,7 +49,7 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 Access: Free on YouTube
   - [Tags: intermediate video-course practical-examples]
 
-- [Vanderbilt University - Prompt Engineering Specialization (Coursera)](https://www.coursera.org/specializations/prompt-engineering) **(Intermediate)** - Multi-course specialization covering prompt patterns, ChatGPT applications, and LLM productivity techniques with free audit option available.
+- [Vanderbilt University - Prompt Engineering Specialization (Coursera)](https://www.coursera.org/specializations/prompt-engineering) - Multi-course specialization covering prompt patterns, ChatGPT applications, and LLM productivity techniques with free audit option available.
   - 📖 Access: Free audit available (certificate paid)
   - ⚠️ Note: Requires free Coursera account
   - [Tags: intermediate specialization university-course]
@@ -51,26 +58,38 @@ Prompt engineering is the art and science of designing inputs that elicit the be
 
 ## 📚 Official Documentation & Guides
 
-### 🔴 Advanced / Professional
+### All Levels / Professional
 
-- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) **(All Levels)** - Official OpenAI documentation covering message roles, instruction following, few-shot learning, reusable prompts, and best practices for GPT models and reasoning models.
-  - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: OpenAI (official source)
-  - [Tags: official openai gpt chatgpt best-practices]
+- **[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)** - Official OpenAI documentation covering prompt design strategies for GPT models. Comprehensive guide on clarity in instructions, using context effectively, breaking down complex tasks, employing delimiters, defining output format, and leveraging few-shot examples. Essential reference for GPT-4 and reasoning model users.
+  - 📖 **Access:** Fully open, official documentation  
+  - 🏛️ **Authority:** OpenAI (Official)  
+  - 🎯 **Level:** All levels  
+  - **Topics:** Message roles, Instruction clarity, Few-shot learning, Reusable prompts, Best practices for GPT & reasoning models  
+  - [Tags: `official` `openai` `gpt` `gpt-4` `chatgpt` `api` `best-practices` `all-levels`]
 
-- [Anthropic Claude Prompt Engineering Documentation](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) **(All Levels)** - Comprehensive official guide from Anthropic covering prompt engineering techniques specifically optimized for Claude models, including XML tags, chain-of-thought, system prompts, and advanced prompt chaining.
-  - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: Anthropic (official source)
-  - [Tags: official anthropic claude xml-tags advanced]
+- **[Google Prompt Engineering Guide (68-Page PDF)](https://ai.google.dev/gemini-api/docs/prompting-intro)** - Comprehensive 68-page official guide from Google AI on prompt engineering for Gemini and Vertex AI. Covers structured prompt design, iterative refinement strategies, practical techniques for API users, and Gemini 3-specific best practices. Essential resource for developers working with Google's AI models.
+  - 📖 **Access:** Fully open, official documentation (downloadable PDF)  
+  - 🏛️ **Authority:** Google AI (Official)  
+  - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced  
+  - 📝 **Format:** 68-page comprehensive guide  
+  - **Topics:** Structured prompting, Iterative refinement, Gemini API techniques, XML/Markdown formatting, Best practices  
+  - [Tags: `official` `google-ai` `gemini` `vertex-ai` `api` `structured-prompting` `intermediate` `advanced` `2025`]
 
-- [Google AI - Gemini Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) **(All Levels)** - Official Google guide for prompting Gemini models covering clear instructions, few-shot learning, context addition, structured prompting with XML/Markdown, and Gemini 3-specific best practices.
+- **[Anthropic Claude Prompt Engineering Documentation](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)** - Comprehensive official guide from Anthropic covering prompt engineering techniques specifically optimized for Claude models. Deep dive into XML tags for structured prompts, chain-of-thought reasoning, system prompts, role assignment, and advanced prompt chaining techniques.
+  - 📖 **Access:** Fully open, official documentation  
+  - 🏛️ **Authority:** Anthropic (Official)  
+  - 🎯 **Level:** All levels  
+  - **Topics:** XML tags, Chain-of-thought, System prompts, Role assignment, Prompt chaining, Interactive tutorials  
+  - [Tags: `official` `anthropic` `claude` `xml-tags` `chain-of-thought` `advanced` `all-levels`]
+
+- [Google AI - Gemini Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) - Official Google guide for prompting Gemini models covering clear instructions, few-shot learning, context addition, structured prompting with XML/Markdown, and Gemini 3-specific best practices.
   - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: Google AI (official source)
+  - 🏛️ Authority: Google AI (official source)
   - [Tags: official google gemini structured-prompting]
 
-- [Microsoft Azure - OpenAI Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering) **(Intermediate/Advanced)** - Microsoft's guide to prompt engineering for Azure OpenAI Service covering clear syntax, instruction design, grounding responses, and practical techniques for enterprise applications.
+- [Microsoft Azure - OpenAI Prompt Engineering Techniques](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering) - Microsoft's guide to prompt engineering for Azure OpenAI Service covering clear syntax, instruction design, grounding responses, and practical techniques for enterprise applications.
   - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: Microsoft (official source)
+  - 🏛️ Authority: Microsoft (official source)
   - [Tags: microsoft azure enterprise prompt-techniques]
 
 ---
@@ -98,12 +117,14 @@ Prompt engineering is the art and science of designing inputs that elicit the be
 ## 🔗 Related Resources
 
 **See also:**
-- [Generative AI](./generative-ai.md) - Broader context on generative AI models
+- [Generative AI](./generative-ai.md) - Broader context on generative AI models and LLMs
 - [Natural Language Processing](./natural-language-processing.md) - NLP fundamentals underlying LLMs
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Tools for implementing prompt-based applications
+- [Multimodal AI](./multimodal-ai.md) - Prompting strategies for vision-language models
 
 **Cross-reference:**
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - Prerequisites for understanding LLMs
+- LangChain framework in [Generative AI](./generative-ai.md) for building prompt-based applications
 
 ---
 
@@ -127,6 +148,6 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 15
+**Last Updated:** December 15, 2025 | **Total Resources:** 18 (+3 new)
 
-**Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design
+**Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design, structured-prompting, xml-tags, best-practices
