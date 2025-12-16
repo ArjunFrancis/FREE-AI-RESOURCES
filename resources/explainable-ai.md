@@ -59,6 +59,14 @@ Explainable AI (XAI) addresses the critical challenge of understanding how AI sy
   - ⭐ GitHub: 11,000+ stars
   - [Tags: lime interpretability model-agnostic local-explanations open-source python 2025]
 
+- [Cloudera's LIME and SHAP Implementation Guide](https://github.com/cloudera/CML_AMP_Explainability_LIME_SHAP) – Open-source example notebook explaining 6 different machine learning models (Naive Bayes, Logistic Regression, Decision Tree, Random Forest, Gradient Boosted Tree, Multilayer Perceptron) using LIME and SHAP. Includes comparison of both methods, debugging strategies, and best practices for model interpretability. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open, GitHub repository
+  - 🏛️ Authority: Cloudera Fast Forward (industry practice)
+  - 🛠️ Hands-on: Jupyter notebooks, Python code
+  - 📜 Compares: LIME vs SHAP across 6 models
+  - ⭐ GitHub: 28+ stars
+  - [Tags: lime shap comparison notebooks practical-guide cloudera 2025]
+
 ### 🟡 Intermediate
 
 - [Microsoft InterpretML](https://interpret.ml/) – Open-source Python toolkit from Microsoft for training interpretable glassbox models and explaining blackbox systems. Includes Explainable Boosting Machine (EBM) for high-accuracy interpretable models and supports both model-specific and model-agnostic explanation methods. (🟡 Intermediate)
@@ -105,7 +113,20 @@ Explainable AI (XAI) addresses the critical challenge of understanding how AI sy
   - 📜 Format: Comprehensive textbook with examples
   - [Tags: interpretability textbook fundamentals beginner-friendly comprehensive 2025]
 
+- [Alison: Explainable AI Explained Course](https://alison.com/course/explainable-ai-explained) – Free comprehensive online course learning basics of XAI, different techniques for explaining AI model predictions, challenges of XAI, and ethical considerations in developing explainable AI systems. Beginner-friendly with clear explanations and certification upon completion. (🟢 Beginner)
+  - 📖 Access: Fully free, Alison platform
+  - 🏛️ Authority: Alison.com (online learning)
+  - 📜 Features: Interactive lessons, quizzes, certificate
+  - [Tags: beginner course free explainable-ai techniques challenges ethics 2025]
+
 ### 🟡 Intermediate
+
+- [Duke University: Explainable Machine Learning (XAI) Course (Coursera)](https://www.coursera.org/learn/explainable-machine-learning-xai) – Comprehensive hands-on course from Duke University covering model-agnostic explainability (LIME, SHAP, ICE plots), explainable deep learning (feature visualization, saliency maps, attention), and XAI for generative models. Features programming labs in Python, case studies, and detailed explanations of XAI techniques. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Free to audit (certificate paid), Coursera
+  - 🏛️ Authority: Duke University (Dr. Brinnae Bent)
+  - 🛠️ Hands-on: Python labs with Jupyter notebooks
+  - 📜 Modules: Local/global explanations, deep learning, generative AI
+  - [Tags: intermediate coursera university python labs lime shap saliency 2025]
 
 - [ADIA Lab Summer School on Explainable AI (XAI) 2025](https://www.adialab.ae/summerschoolxai) – International summer school in collaboration with University of Granada covering XAI techniques, image/tabular explanations, time series forecasting interpretability, hands-on labs with XAI tools, and evaluation methods. Features world-class speakers and practical workshops. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Course materials available online
@@ -180,6 +201,6 @@ Found a great free Explainable AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 12
+**Last Updated:** December 16, 2025 | **Total Resources:** 17
 
-**Keywords:** explainable-ai, xai, interpretability, model-transparency, shap, lime, trustworthy-ai, ai-accountability, model-explanation, feature-importance, ibm-aix360, microsoft-interpretml, xaitk, counterfactual-explanations, attention-visualization, fairness, bias-detection, regulatory-compliance, transparent-models
+**Keywords:** explainable-ai, xai, interpretability, model-transparency, shap, lime, trustworthy-ai, ai-accountability, model-explanation, feature-importance, ibm-aix360, microsoft-interpretml, xaitk, counterfactual-explanations, attention-visualization, fairness, bias-detection, regulatory-compliance, transparent-models, cloudera, duke-university
