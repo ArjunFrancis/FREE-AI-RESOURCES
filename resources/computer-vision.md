@@ -95,6 +95,21 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: Ultralytics (YOLO creators)
   - [Tags: beginner project-guide yolo deployment]
 
+- [Learn OpenCV Blog](https://learnopencv.com/) **(Beginner/Intermediate)** - Free, regularly updated blog with detailed tutorials on OpenCV, deep learning for vision, image processing techniques, computer vision projects, and hands-on code examples. Covers beginner to advanced topics in practical, understandable manner. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully free, blog-based content
+  - 🏛️ Authority: LearnOpenCV (Satya Mallick)
+  - 🛠️ Hands-on: Python code + Jupyter notebooks
+  - 📜 Format: Tutorials, project walkthroughs
+  - [Tags: beginner blog opencv deep-learning cv-tutorials practical 2025]
+
+- [mint-lab Computer Vision Tutorial](https://github.com/mint-lab/cv_tutorial) **(Beginner/Intermediate)** - Open-source GitHub tutorial including classical computer vision theories and recent ML/DL-based methods with lecture slides, Python code examples using OpenCV and PyTorch. Covers image processing, camera models, pose estimation, object detection, segmentation, tracking, structure-from-motion, and NeRF. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open, GitHub repository
+  - 🏛️ Authority: SeoulTech University (Educational)
+  - 🛠️ Hands-on: Python with OpenCV & PyTorch
+  - 📜 Format: Lecture slides + code examples
+  - 💾 Sections: 14 comprehensive modules
+  - [Tags: beginner github tutorial opencv pytorch classical-cv deep-learning 2025]
+
 ---
 
 ## 📚 Official Framework Documentation
@@ -105,6 +120,15 @@ Computer vision enables machines to interpret and understand visual information 
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: PyTorch (official tutorial)
   - [Tags: intermediate pytorch transfer-learning official]
+
+### 🔴 Advanced
+
+- [Ultralytics YOLO Guides](https://docs.ultralytics.com/guides/) **(Advanced)** - Comprehensive collection of production-ready tutorials covering YOLO object detection, instance segmentation, pose estimation, tracking, and deployment. Includes model training best practices, optimization tips for batch sizes, mixed precision, pretrained weights, and real-world computer vision workflows. (🔴 Advanced)
+  - 📖 Access: Fully open, official documentation
+  - 🏛️ Authority: Ultralytics (YOLO creators)
+  - 🛠️ Hands-on: PyTorch-based framework
+  - 📜 Features: YOLO11, segmentation, pose, tracking
+  - [Tags: advanced yolo pytorch production training-tips optimization 2025]
 
 ---
 
@@ -118,6 +142,7 @@ Computer vision enables machines to interpret and understand visual information 
 
 **Cross-reference:**
 - [Mathematics for AI](./mathematics-for-ai.md) - Linear algebra for image transformations
+- [Multimodal AI](./multimodal-ai.md) - Vision-language models
 
 ---
 
@@ -141,6 +166,6 @@ Found a great free computer vision resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 12
+**Last Updated:** December 16, 2025 | **Total Resources:** 16
 
-**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam
+**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv
