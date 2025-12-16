@@ -102,6 +102,13 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📜 Features: Syllabus, lectures, projects
   - [Tags: course rutgers speech-processing dsp matlab fundamentals 2025]
 
+- [LearnOpenCV: Introduction to Speech to Speech](https://learnopencv.com/speech-to-speech/) – Free comprehensive tutorial covering complete speech-to-speech pipeline for building voice assistants. Explains Voice Activity Detection (VAD), Speech-to-Text (STT), Language Models, and Text-to-Speech (TTS) with practical code examples using Whisper, Hugging Face models, and Python. Beginner-friendly with detailed component explanations and inference demonstrations. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully free, blog format
+  - 🏛️ Authority: LearnOpenCV (industry expert)
+  - 🛠️ Hands-on: Complete Python implementation
+  - 📜 Components: VAD, STT, LLM, TTS pipeline
+  - [Tags: beginner tutorial speech-to-speech voice-assistant pipeline end-to-end 2025]
+
 ---
 
 ## 🛠️ Tools & Software
@@ -189,6 +196,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 25, 2025 | **Total Resources:** 13
+**Last Updated:** December 16, 2025 | **Total Resources:** 15
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech
