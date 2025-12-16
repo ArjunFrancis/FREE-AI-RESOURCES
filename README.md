@@ -1,13 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **316+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **328+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-316+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-328+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
-[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2015%2C%202025-brightblue.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2016%2C%202025-brightblue.svg)]()
 
 ---
 
@@ -15,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 316+ | Across all categories (verified Dec 15) |
+| **Total Resources** | 328+ | Across all categories (verified Dec 16) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~11 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), AI Ethics (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 15, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 16, 2025 | Regular verification & updates |
 
 ---
 
@@ -103,15 +102,15 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | ~5 | 🟡 | Architectures, backprop |
-| [Natural Language Processing](resources/natural-language-processing.md) | 11 | 🟡🔴 | Language understanding |
+| [Natural Language Processing](resources/natural-language-processing.md) | 21 | 🟡🔴 | Language understanding |
 | [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 🟡🔴 | Agent training |
 | [Generative AI](resources/generative-ai.md) | 24 | 🔴 | LLMs, diffusion models |
 | [Explainable AI](resources/explainable-ai.md) | ~12 | 🟡 | Interpretability |
-| [Graph Neural Networks](resources/graph-neural-networks.md) | ~11 | 🔴 | Graph learning |
+| [Graph Neural Networks](resources/graph-neural-networks.md) | 19 | 🔴 | Graph learning |
 | [Prompt Engineering](resources/prompt-engineering.md) | 18 | 🟢 | Prompt optimization |
 
-**Total**: ~114 resources | **Perfect for**: Ready to specialize
+**Total**: ~132 resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -125,13 +124,13 @@
 | [World Models](resources/world-models.md) | ~10 | 🟢 Live | Physics simulation, AGI |
 | [Quantum AI](resources/quantum-ai.md) | ~13 | 🟢 Live | Quantum computing, ML |
 | [Multimodal AI](resources/multimodal-ai.md) | ~5 | 🟢 Live | Vision + language |
-| [Edge AI & IoT](resources/edge-ai-iot.md) | ~4 | 🟢 Live | On-device AI |
+| [Edge AI & IoT](resources/edge-ai-iot.md) | 10 | 🟢 Live | On-device AI, TinyML |
 
-**Total**: ~40 resources | **Perfect for**: Research and innovation
+**Total**: ~46 resources | **Perfect for**: Research and innovation
 
 ---
 
-### 🎓 **University Programs** (World-Class Education)
+### 🏛 **University Programs** (World-Class Education)
 
 **Goal**: University-level education from top institutions - **ALL FREE**
 
@@ -149,7 +148,7 @@
 
 ---
 
-### 🌐 **Domain Applications** (Industry Use Cases)
+### 🌍 **Domain Applications** (Industry Use Cases)
 
 **Real-world AI in specific fields**
 
@@ -172,11 +171,11 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [MLOps](resources/mlops.md) | ~10 | 🟡 | Pipelines, automation |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | ~3 | 🟡 | Adversarial robustness |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 9 | 🟡 | Adversarial robustness, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 23 | 🟢 | Responsible AI |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | ~29 | 🟢 | PyTorch, TensorFlow, MLflow |
 
-**Total**: ~65 resources | **Perfect for**: Production engineers
+**Total**: ~71 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -319,6 +318,7 @@ FREE-AI-RESOURCES/
     ├── explainable-ai.md
     ├── graph-neural-networks.md
     ├── mlops.md
+    ├── ai-security-privacy.md
     ├── research-papers-publications.md
     ├── robotics-embodied-ai.md
     ├── time-series-forecasting.md
@@ -350,7 +350,7 @@ FREE-AI-RESOURCES/
 - University Programs (36 courses from top 5 universities)
 - Not just traditional ML—future of AI included
 
-### 🌐 100% Free & Accessible
+### 🌍 100% Free & Accessible
 - Every resource completely free (no paywalls)
 - No subscriptions or payment gates
 - Accessible globally (not region-locked)
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 15, 2025
-- **Last Verification**: Dec 15, 2025, 7:45 PM UTC+4
+- **Last Updated**: December 16, 2025
+- **Last Verification**: Dec 16, 2025, 9:15 AM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**316+ resources | 29 categories | 100% free | Quality assured**
+**328+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
