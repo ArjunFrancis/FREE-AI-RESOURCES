@@ -62,6 +62,12 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: pytorch-geometric getting-started hands-on tutorial beginner 2025]
   - [Verified: 2025-12-16]
 
+- [A Crash Course on Graph Neural Networks (Implementation Included)](https://www.dailydoseofds.com/a-crash-course-on-graph-neural-networks-implementation-included/) – Beginner-friendly practical guide to building neural networks on graph data. Covers GCN implementation details and applications with code examples. (🟢 Beginner)
+  - 📖 Access: Fully open
+  - 🛠️ Hands-on: Yes, complete implementation guide
+  - [Tags: tutorial gnn-implementation hands-on beginner 2024]
+  - [Verified: 2025-12-17]
+
 ### 🟡 Intermediate
 
 - [PyTorch Geometric: Colab Notebooks and Video Tutorials](https://pytorch-geometric.readthedocs.io/en/2.6.1/get_started/colabs.html) – Official collection of Google Colab notebooks covering GNN implementations, advanced techniques, and real-world applications. Interactive, hands-on learning with runnable code. (🟡 Intermediate)
@@ -111,6 +117,12 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: arxiv high-order-gnn pytorch-geometric research 2023]
   - [Verified: 2025-12-16]
 
+- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/2003.00330) – Comprehensive survey paper covering GNN methods, applications across domains, and recent advances. Essential reference for understanding the field's state-of-the-art. (🟡 Intermediate)
+  - 📖 Access: Fully open (arXiv preprint)
+  - 🏛️ Authority: arXiv peer-reviewed (Zhou et al.)
+  - [Tags: survey gnn-methods applications state-of-art intermediate 2020]
+  - [Verified: 2025-12-17]
+
 ### 🔴 Advanced
 
 - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) – The definitive course on graph machine learning taught by Jure Leskovec at Stanford. Covers GNNs, knowledge graphs, graph generation, deep graph generative models. Lectures, assignments, and Colab notebooks available. (🔴 Advanced)
@@ -146,6 +158,14 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: github huggingface transformers attention-mechanism advanced 2021]
   - [Verified: 2025-12-16]
 
+- [AIDA: Graph Neural Networks Short Course (Free Registration)](https://www.i-aida.org/course/graph-neural-networks/) – Comprehensive 3-day short course (May 29-31) covering GNN fundamentals, modern architectures (GCN, GAT, GraphSAGE, GIN), and practical implementation. Completely free for both AIDA and non-AIDA students. Postgraduate level instruction. (🔴 Advanced)
+  - 📖 Access: Free registration required (no payment)
+  - ⏱️ Duration: 3 days, 12:00-14:00 GMT (online)
+  - 🏛️ Authority: AIDA (AI Doctoral Academy)
+  - 🌍 Global: Online, accessible worldwide
+  - [Tags: aida short-course gnn-architectures free-registration postgraduate advanced 2025]
+  - [Verified: 2025-12-17]
+
 ---
 
 ## 📖 Documentation & Resources
@@ -173,7 +193,7 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 - [Open Graph Benchmark (OGB)](https://snap-stanford.github.io/ogb-web/) – Large-scale, realistic benchmark datasets for graph machine learning from Stanford SNAP. Includes node classification, link prediction, and graph classification tasks. (🟡 Intermediate)
   - 📖 Access: Fully open
   - 🏛️ Authority: Stanford SNAP (Jure Leskovec group)
-  - 🗂️ Datasets: ogbn-arxiv, ogbl-ppa, ogbg-molhiv, and more
+  - 📂 Datasets: ogbn-arxiv, ogbl-ppa, ogbg-molhiv, and more
   - [Tags: benchmark datasets stanford snap evaluation 2021]
   - [Verified: 2025-12-16]
 
@@ -241,7 +261,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 19 (14 courses + 3 docs + 4 tools + 3 benchmarks)
-**Last Link Validation:** December 16, 2025
+**Last Updated:** December 17, 2025 | **Total Resources:** 23 (16 courses + 3 docs + 4 tools + 5 benchmarks)
+**Last Link Validation:** December 17, 2025
 
-**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, free-courses-2025
+**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, free-courses-2025, aida-course
