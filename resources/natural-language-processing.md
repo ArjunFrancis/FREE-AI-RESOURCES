@@ -79,6 +79,14 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: certification nlp-basics transformers self-paced beginner 2025]
   - [Verified: 2025-12-16]
 
+- [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) – 18-lesson comprehensive course by Microsoft covering foundational concepts of generative AI and LLMs. Includes prompt engineering, model selection, and building generative applications. All materials freely available on GitHub. (🟢 Beginner)
+  - 📖 Access: Fully open (GitHub repository)
+  - 🏛️ Authority: Microsoft
+  - 🛠️ Hands-on: Yes, code examples and exercises
+  - ⏱️ Duration: 18 lessons, self-paced
+  - [Tags: microsoft github generative-ai llm prompt-engineering beginner 2024]
+  - [Verified: 2025-12-17]
+
 ### 🟡 Intermediate
 
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) – Hands-on introduction to NLP and transformers using Hugging Face ecosystem (Transformers, Datasets, Tokenizers). Build practical models for text classification, NER, question answering. (🟡 Intermediate)
@@ -129,6 +137,21 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: mooc course-design nlp-education transformers kaggle 2021]
   - [Verified: 2025-12-16]
 
+- [AWS Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) – DeepLearning.AI course in partnership with AWS covering LLM fundamentals, fine-tuning, optimization, and deployment on AWS. Available free via Coursera audit. (🟡 Intermediate)
+  - 📖 Access: Free audit available on Coursera (no certificate)
+  - ⏱️ Duration: 3 weeks full-time / 9 weeks part-time
+  - 🏛️ Authority: DeepLearning.AI + AWS
+  - ⚠️ Note: Requires free Coursera account
+  - [Tags: aws deeplearning-ai llm fine-tuning deployment intermediate 2024]
+  - [Verified: 2025-12-17]
+
+- [Cohere LLM University](https://cohere.com/llm-university) – Comprehensive learning platform covering NLP fundamentals to advanced LLM techniques. Includes semantic search, generation, classification, embeddings, and RAG systems. Free access to all modules. (🟡 Intermediate)
+  - 📖 Access: Fully open, free registration
+  - 🏛️ Authority: Cohere (leading LLM platform)
+  - 🛠️ Hands-on: Yes, interactive lessons
+  - [Tags: cohere llm university semantic-search rag intermediate 2024]
+  - [Verified: 2025-12-17]
+
 ### 🔴 Advanced
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
@@ -160,6 +183,20 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: arxiv deep-learning llm theory-to-practice nlp-methods 2024]
   - [Verified: 2025-12-16]
 
+- [Intro to Large Language Models by Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g) – Comprehensive 1-hour video by former Tesla AI director explaining LLM fundamentals, architecture, training, and inference. Direct insights from top AI researcher. (🔴 Advanced)
+  - 📖 Access: Fully open (YouTube)
+  - 📺 Video: 60 minutes comprehensive overview
+  - 🏛️ Authority: Andrej Karpathy (Tesla Director of AI)
+  - [Tags: youtube andrej-karpathy llm-fundamentals architecture training inference 2024]
+  - [Verified: 2025-12-17]
+
+- [LLM Bootcamp by UC Berkeley PhDs](https://fullstackdeeplearning.com/llm-bootcamp/) – Intensive course teaching best practices and tools for building LLM applications. Covers full stack from prompt engineering to user-centered design, taught by experienced practitioners. (🔴 Advanced)
+  - 📖 Access: Free audit available (full course videos accessible)
+  - 🏛️ Authority: UC Berkeley alumni PhD team + Full Stack Deep Learning
+  - ⏱️ Duration: Self-paced, ~20 hours content
+  - [Tags: llm-bootcamp berkeley phd full-stack prompt-engineering design advanced 2024]
+  - [Verified: 2025-12-17]
+
 ---
 
 ## 📖 Documentation & Guides
@@ -170,6 +207,8 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Verified: 2025-12-16]
 - [NLTK Book (Natural Language Processing with Python)](https://www.nltk.org/book/) – Free online book covering NLP fundamentals with NLTK library
   - [Verified: 2025-12-16]
+- [BERT 101: State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) – In-depth explanation of BERT architecture, capabilities, and applications with interactive examples
+  - [Verified: 2025-12-17]
 
 ---
 
@@ -223,7 +262,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 21 (11 courses + 3 docs + 4 tools + 3 related)
-**Last Link Validation:** December 16, 2025
+**Last Updated:** December 17, 2025 | **Total Resources:** 28 (20 courses + 4 docs + 4 tools)
+**Last Link Validation:** December 17, 2025
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, coursera, free-courses-2025
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, coursera, llm-2025, free-courses-2025, generative-ai
