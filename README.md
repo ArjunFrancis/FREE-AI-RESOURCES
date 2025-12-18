@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **328+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **340+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-328+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-340+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2016%2C%202025-brightblue.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2018%2C%202025-brightblue.svg)]()
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 328+ | Across all categories (verified Dec 16) |
+| **Total Resources** | 340+ | Across all categories (verified Dec 18) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~11 | Well-distributed across topics |
+| **Average/Category** | ~11.7 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), AI Ethics (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 16, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 18, 2025 | Regular verification & updates |
 
 ---
 
@@ -124,9 +124,9 @@
 | [World Models](resources/world-models.md) | ~10 | 🟢 Live | Physics simulation, AGI |
 | [Quantum AI](resources/quantum-ai.md) | ~13 | 🟢 Live | Quantum computing, ML |
 | [Multimodal AI](resources/multimodal-ai.md) | ~5 | 🟢 Live | Vision + language |
-| [Edge AI & IoT](resources/edge-ai-iot.md) | 10 | 🟢 Live | On-device AI, TinyML |
+| [Edge AI & IoT](resources/edge-ai-iot.md) | 14 | 🟢 Live | On-device AI, TinyML |
 
-**Total**: ~46 resources | **Perfect for**: Research and innovation
+**Total**: ~50 resources | **Perfect for**: Research and innovation
 
 ---
 
@@ -170,12 +170,12 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [MLOps](resources/mlops.md) | ~10 | 🟡 | Pipelines, automation |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 9 | 🟡 | Adversarial robustness, privacy |
+| [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 13 | 🟡 | Adversarial robustness, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 23 | 🟢 | Responsible AI |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | ~29 | 🟢 | PyTorch, TensorFlow, MLflow |
 
-**Total**: ~71 resources | **Perfect for**: Production engineers
+**Total**: ~79 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 16, 2025
-- **Last Verification**: Dec 16, 2025, 9:15 AM UTC+4
+- **Last Updated**: December 18, 2025
+- **Last Verification**: Dec 18, 2025, 9:15 AM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**328+ resources | 29 categories | 100% free | Quality assured**
+**340+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
