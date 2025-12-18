@@ -36,13 +36,11 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - ⏱️ Duration: Self-paced
   - 🛠️ Hands-on: Yes, with real hardware exercises
   - [Tags: beginner tinyml harvard mooc embedded-ml 2025]
-  - [Verified: 2025-12-16]
 
 - [TinyMLedu Free Online Courses](https://tinymlx.github.io/courses/) – Comprehensive collection of free TinyML courses and tutorials covering edge AI deployment concepts, programming microcontrollers, and building real-world embedded ML applications with step-by-step guidance. (🟢🟡 Beginner-Intermediate)
   - 📖 Access: Fully open, no signup required
   - 🌍 Global: Accessible worldwide
   - [Tags: beginner intermediate tinyml free-course deployment 2025]
-  - [Verified: 2025-12-16]
 
 - [Microsoft AI Show: Recognizing Words on Microcontroller using TinyML](https://learn.microsoft.com/en-us/shows/ai-show/recognizing-words-on-a-microcontroller-using-tinyml) – Video tutorial demonstrating wake word detection on microcontrollers, training model in cloud using Azure ML Studio, compressing to 18KB, and running on Adafruit EdgeBadge drawing <1mW power. (🟢 Beginner)
   - 📖 Access: Fully open (Microsoft Learn)
@@ -51,34 +49,45 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - 🛠️ Hands-on: Yes, with EdgeBadge hardware
   - ⏱️ Duration: 12 minutes
   - [Tags: beginner tinyml wake-word azure-ml microcontroller 2020]
-  - [Verified: 2025-12-16]
 
 - [Talent500: What is TinyML? Complete Guide to Edge Devices](https://talent500.com/blog/what-is-tinyml-introduction/) – Comprehensive introduction to TinyML covering machine learning on edge devices, model training/optimization workflow, deployment using TensorFlow Lite, real-world applications, and industry adoption across healthcare, manufacturing, automotive. (🟢 Beginner)
   - 📖 Access: Fully open blog article
   - 🏛️ Authority: Talent500
   - [Tags: beginner tinyml edge-inference iot-applications introduction 2025]
-  - [Verified: 2025-12-16]
 
 - [JanBask Training: TinyML and Edge AI - Running ML on Small Devices](https://www.janbasktraining.com/blog/tinyml-and-edge-ai/) – Article explaining TinyML and Edge AI fundamentals, tools (TensorFlow Lite, PyTorch Mobile, Edge Impulse), real-world projects, required skills, and career opportunities in embedded AI for 2025. (🟢 Beginner)
   - 📖 Access: Fully open blog article
   - 🏛️ Authority: JanBask Training
   - [Tags: beginner edge-ai career-guide tools projects 2025]
-  - [Verified: 2025-12-16]
+
+- [Top 10 Edge AI Projects for 2025](https://blog.huebits.in/top-10-edge-ai-projects-for-2025-real-time-intelligence-at-the-edge/) – List of practical Edge AI project ideas including real-time translation, predictive maintenance, and smart security, with recommended tools like TensorFlow Lite, OpenCV, and Edge Impulse. (🟢 Beginner)
+  - 📖 Access: Fully open blog article
+  - 🏛️ Authority: HueBits Blog
+  - [Tags: beginner edge-ai projects tinyml hands-on-ideas 2025]
+
+- [TinyML & Edge AI Guide (AIMultiple)](https://research.aimultiple.com/tinyml/) - In-depth research guide on TinyML concepts, hardware constraints, challenges, and development platforms like Edge Impulse. A great starting point for understanding the landscape. (🟢 Beginner)
+  - 📖 Access: Fully open research article
+  - 🏛️ Authority: AIMultiple Research
+  - [Tags: beginner tinyml edge-ai guide overview 2025]
 
 ### 🟡 Intermediate
+
+- [Edge Impulse: Continuous Motion Recognition](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/continuous-motion-recognition) - Step-by-step official tutorial for building a gesture recognition system on a microcontroller, covering data collection, signal processing, and neural network training with Edge Impulse. (🟡 Intermediate)
+  - 📖 Access: Fully open, official documentation
+  - 🏛️ Authority: Edge Impulse
+  - 🛠️ Hands-on: Yes, full project walkthrough
+  - [Tags: intermediate edge-impulse tutorial motion-recognition hands-on 2025]
 
 - [MathWorks: Rapid Deep Learning Deployment on Edge Devices](https://www.mathworks.com/company/technical-articles/rapid-deployment-of-deep-learning-on-edge-devices.html) – Technical guide for streamlining TinyML application development on resource-constrained devices using MATLAB, covering network compression, quantization, pruning, and benchmarking on STMicroelectronics edge hardware. (🟡 Intermediate)
   - 📖 Access: Fully open technical article
   - 🏛️ Authority: MathWorks + STMicroelectronics
   - 🛠️ Hands-on: MATLAB-based workflow
   - [Tags: intermediate edge-deployment model-compression benchmarking 2025]
-  - [Verified: 2025-12-16]
 
 - [Edge AI Foundation Talks & Livestreams](https://www.edgeaifoundation.org/livestreams) – Technical talks and discussions on on-device tiny machine learning, addressing memory, computation, and energy efficiency constraints with adaptive mechanisms for real-time inference and on-device training strategies. (🟡🔴 Intermediate-Advanced)
   - 📖 Access: Free livestreams and recordings
   - 🏛️ Authority: Edge AI Foundation
   - [Tags: intermediate advanced tinyml on-device-learning technical-talks 2025]
-  - [Verified: 2025-12-16]
 
 - [Edge Impulse: tinyML AutoML Deep Dive Tutorial (YouTube)](https://www.youtube.com/watch?v=ERoQiQhJ38U) – 44-minute hands-on video tutorial demonstrating Edge Impulse's EON Tuner for automated model selection, analyzing input data, signal processing blocks, and neural network architectures within device latency and memory constraints. (🟡 Intermediate)
   - 📖 Access: Fully open (YouTube)
@@ -87,14 +96,12 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - 🛠️ Hands-on: Yes, Edge Impulse Studio
   - ⏱️ Duration: 44 minutes
   - [Tags: intermediate automl edge-impulse tinyml tutorial hands-on 2022]
-  - [Verified: 2025-12-16]
 
 - [Noble Prog: Federated Learning for Privacy-Preserving AI Training](https://www.nobleprog.ae/cc/flppai) – Training course covering federated learning implementation for privacy-protected AI models on edge devices, including differential privacy, secure aggregation, encryption techniques, and real-world healthcare applications. (🟡 Intermediate)
   - 📖 Access: Course outline fully open
   - 🏛️ Authority: Noble Prog Training
   - 🛠️ Hands-on: Case studies and exercises
   - [Tags: intermediate federated-learning privacy edge-ai healthcare 2025]
-  - [Verified: 2025-12-16]
 
 ### 🔴 Advanced
 
@@ -103,7 +110,15 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - 🏛️ Authority: Washington State University
   - 📄 Format: Technical presentation (87 slides)
   - [Tags: advanced differential-privacy federated-learning mathematical research 2019]
-  - [Verified: 2025-12-16]
+
+---
+
+## 📚 Curated Lists & Collections
+
+- [Awesome TinyML (GitHub)](https://github.com/gauravfs-14/awesome-tinyml) - A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on TinyML.
+  - 📖 Access: Fully open GitHub repository
+  - 🌍 Global: Community-maintained awesome list
+  - [Tags: all-levels curated-list libraries projects 2025]
 
 ---
 
@@ -169,7 +184,7 @@ Found a great free Edge AI or TinyML resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 10 (9 courses + tools)
-**Last Link Validation:** December 16, 2025
+**Last Updated:** December 18, 2025 | **Total Resources:** 14
+**Last Link Validation:** December 18, 2025
 
 **Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, free-courses-2025
