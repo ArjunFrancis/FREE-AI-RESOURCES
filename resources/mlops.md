@@ -41,6 +41,14 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 📖 Access: Fully open
   - [Tags: beginner mlops-fundamentals devops-comparison]
 
+### 🟡 Intermediate
+
+- [Made With ML MLOps Course](https://madewithml.com/) – End-to-end MLOps course covering model development, testing, deployment, and monitoring with hands-on projects using PyTorch and MLflow. (🟡 Intermediate)
+  - 📖 Access: Fully open website
+  - 🏛️ Authority: Goku Mohandas
+  - 🛠️ Hands-on: Code-first approach
+  - [Tags: intermediate mlops-course end-to-end production-ml 2025]
+
 ---
 
 ## 📚 Official Documentation & Guides
@@ -88,6 +96,26 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 🏛️ Authority: arXiv (Cornell University)
   - 📜 Type: Research preprint
   - [Tags: intermediate healthcare-mlops clinical-ml medical-ai-deployment ethics 2025]
+
+- [Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers (arXiv)](https://arxiv.org/abs/2503.15577) – Comprehensive academic paper analyzing MLOps maturity models, lifecycles, tools, and career paths, offering a detailed roadmap for practitioners and organizations in 2025. (🟡 Intermediate)
+  - 📖 Access: Fully open arXiv preprint
+  - 🏛️ Authority: arXiv
+  - 📜 Type: Academic Survey
+  - [Tags: intermediate mlops-maturity careers tools-survey 2025]
+
+### 🔴 Advanced
+
+- [A Multivocal Review of MLOps Practices, Challenges and Open Issues (arXiv)](https://arxiv.org/abs/2406.09737) – Extensive review of current MLOps practices, challenges, and open issues in industry and academia, providing a systematic analysis of the state of the field. (🔴 Advanced)
+  - 📖 Access: Fully open arXiv preprint
+  - 🏛️ Authority: arXiv
+  - 📜 Type: Systematic Literature Review
+  - [Tags: advanced mlops-review challenges research 2024]
+
+- [Enabling more efficient AI/ML systems with Collective Mind (arXiv)](https://arxiv.org/abs/2406.16791) – Research on virtualized MLOps, MLPerf benchmarks, and reproducible optimization tournaments to create efficient and cost-effective AI systems using the Collective Mind framework. (🔴 Advanced)
+  - 📖 Access: Fully open arXiv preprint
+  - 🏛️ Authority: arXiv
+  - 📜 Type: Research Paper
+  - [Tags: advanced mlops-optimization collective-mind mlperf reproducibility 2024]
 
 ---
 
@@ -138,6 +166,6 @@ Found a great free MLOps resource? We'd love to add it!
 
 ---
 
-**Last Updated:** November 27, 2025 | **Total Resources:** 10
+**Last Updated:** December 18, 2025 | **Total Resources:** 14
 
 **Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment
