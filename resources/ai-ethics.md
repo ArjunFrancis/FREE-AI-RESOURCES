@@ -30,9 +30,9 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 **If you're completely new to AI Ethics, start with these 3 resources in order:**
 
-1. 🟢 [Elements of AI: AI Ethics Module](https://www.elementsofai.com/) - Quick introduction to ethical implications of AI in accessible language for non-technical audiences
-2. 🟢 [Ethics of AI - University of Helsinki](https://ethics-of-ai.mooc.fi) - Free self-paced course exploring what AI ethics means and how to develop AI ethically
-3. 🟡 [Practical Steps for Building Fair AI Algorithms (Coursera)](https://www.coursera.org/learn/algorithmic-fairness) - Learn fairness principles and design algorithms that minimize bias in healthcare and other high-stakes applications
+1. 🟢 [AI Ethics: Global Perspectives](https://aiethicscourse.org) - Comprehensive course by NYU, The GovLab, and UNESCO covering global ethical frameworks and AI policy
+2. 🟢 [Intro to AI Ethics (Kaggle)](https://www.kaggle.com/learn/intro-to-ai-ethics) - Hands-on practical course exploring human-centered design and bias identification in code
+3. 🟡 [Practical Data Ethics](https://ethics.fast.ai) - In-depth course covering disinformation, bias, and algorithmic accountability with practical focus
 
 **After completing the starter kit, explore the full resources below.**
 
@@ -41,6 +41,28 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 ## 🎓 University Courses
 
 ### 🟢 Beginner-Friendly
+
+- [AI Ethics: Global Perspectives](https://aiethicscourse.org) **(Beginner)** - Comprehensive free course developed by NYU, The GovLab, and UNESCO covering global ethical frameworks, AI policy, governance structures, and cross-cultural perspectives on responsible AI development. Includes case studies from diverse regions, policy analysis, and practical implementation strategies for ethical AI systems with focus on international cooperation and human rights.
+  - 📖 Access: Fully open online course
+  - 🌍 Authority: NYU, The GovLab, UNESCO (official partnership)
+  - 📝 Duration: Self-paced, approximately 20 hours
+  - 🎯 Topics: Global ethics frameworks, AI policy, governance, human rights, international cooperation
+  - [Tags: beginner unesco nyu global-perspectives policy governance 2025]
+
+- [Intro to AI Ethics (Kaggle)](https://www.kaggle.com/learn/intro-to-ai-ethics) **(Beginner)** - Free hands-on practical course by Kaggle exploring human-centered design principles and bias identification in code. Learn to identify and address fairness issues in real datasets and algorithms through interactive Python exercises. Covers bias types, fairness metrics, and ethical considerations with executable code examples in Kaggle notebooks.
+  - 📖 Access: Fully open, Kaggle Learn platform
+  - 🌍 Authority: Kaggle (Google)
+  - 🛠️ Hands-on: Yes (interactive Python notebooks)
+  - 📝 Duration: Approximately 4 hours
+  - 🎯 Topics: Human-centered AI, bias detection, fairness metrics, practical implementation
+  - [Tags: beginner kaggle hands-on python bias-detection code-examples 2025]
+
+- [Practical Data Ethics (fast.ai)](https://ethics.fast.ai) **(Intermediate)** - In-depth free course by fast.ai covering critical topics in data ethics: disinformation, bias and fairness, algorithmic accountability, privacy considerations, and the role of Silicon Valley in shaping technology ethics. Taught by Rachel Thomas with focus on real-world case studies and practical approaches to building ethical AI systems.
+  - 📖 Access: Fully open course with videos
+  - 🌍 Authority: fast.ai (Rachel Thomas)
+  - 📝 Duration: Self-paced, approximately 10 hours
+  - 🎯 Topics: Disinformation, bias, algorithmic accountability, privacy, tech ethics
+  - [Tags: intermediate fastai practical data-ethics disinformation accountability 2025]
 
 - [Ethics of AI - University of Helsinki](https://ethics-of-ai.mooc.fi) **(Beginner)** - Free comprehensive self-paced online course exploring what AI ethics means and how to develop AI ethically covering real-world cases including data usage, algorithmic decision-making, bias, fairness, and human rights considerations with practical exercises.
   - 📖 Access: Fully open, MOOC format
@@ -130,6 +152,12 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 ### 🔴 Advanced
 
+- [Catalog of General Ethical Requirements for AI Certification](https://arxiv.org/abs/2408.12289) **(Advanced)** - Free comprehensive research paper providing a detailed catalog of ethical requirements for certifying AI systems. Covers evaluation frameworks, compliance standards, assessment methodologies, and practical guidance for implementing ethical AI certifications. Essential reference for organizations developing AI governance and certification processes.
+  - 📖 Access: Free PDF (arXiv)
+  - 🌍 Authority: Research publication (peer-reviewed)
+  - 🎯 Topics: AI certification, ethical requirements, compliance, assessment frameworks
+  - [Tags: advanced arxiv certification governance compliance frameworks 2025]
+
 - [Fairness and Machine Learning: Limitations and Opportunities (Free Textbook)](https://fairmlbook.org/) **(Advanced)** - Comprehensive free online textbook by Barocas, Hardt, and Narayanan covering mathematical and computational aspects of fairness in machine learning. Topics include causality in fairness, testing for discrimination, fair representations, algorithmic interventions, and limitations of technical approaches with real-world examples from criminal justice, hiring, and lending.
   - 📖 Access: Fully open online textbook
   - 🌍 Authority: Cornell University, UC Berkeley, Princeton University
@@ -208,6 +236,6 @@ Found a great free AI ethics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 23
+**Last Updated:** December 21, 2025 | **Total Resources:** 27
 
-**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, industry-practices, case-studies, practical-tools, coursera, algorithmic-fairness, fairness-textbook, 2025
+**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, industry-practices, case-studies, practical-tools, coursera, algorithmic-fairness, fairness-textbook, unesco, nyu, kaggle, fastai, arxiv, certification, 2025
