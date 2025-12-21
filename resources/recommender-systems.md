@@ -67,6 +67,13 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - ⚠️ Note: Free access to core content, Pro subscription for additional features
   - [Tags: intermediate recommender-systems python collaborative-filtering hands-on codecademy 2021]
 
+- [Recommender Systems (Sungkyunkwan University - Coursera)](https://www.coursera.org/learn/recommender-systems-ml) – University-level course focused entirely on recommender systems, covering collaborative filtering, matrix factorization, evaluation metrics, cold-start strategies, and deep learning-based recommenders. Includes practical programming assignments using the Surprise library and real-world datasets. Free to audit. (🟡 Intermediate)
+  - 📖 Access: Free audit available (certificate paid)
+  - 🏛️ Authority: Sungkyunkwan University
+  - 🛠️ Hands-on: Yes (Surprise library, Python projects)
+  - 🔧 Topics: Collaborative filtering, matrix factorization, evaluation, deep models
+  - [Tags: intermediate coursera recommender-systems surprise collaborative-filtering matrix-factorization 2022]
+
 - [Recommendation System Tutorial with Python (TowardsAI)](https://towardsai.net/p/editorial/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering) – In-depth tutorial building Netflix-style recommendation system using Python. Covers data preprocessing, exploratory data analysis, implementing collaborative filtering, matrix factorization, and evaluating recommender quality. Complete walkthrough with code examples and real movie rating dataset. (🟡 Intermediate)
   - 📖 Access: Fully open, no account required
   - 💻 Tools: Python, pandas, NumPy, scikit-learn
@@ -219,6 +226,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 15
+**Last Updated:** December 21, 2025 | **Total Resources:** 14
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, 2025

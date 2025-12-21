@@ -63,6 +63,18 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🌍 Global: Accessible worldwide
   - [Tags: beginner fintech generative-ai llm free-masterclass industry-insights cfte 2025]
 
+- [9 Top Open-Source Tools for Financial AI Solutions (CakeAI)](https://www.cake.ai/blog/open-source-financial-ai-tools) – Curated guide to 9 essential open-source tools for building AI-driven financial solutions, including libraries and frameworks for risk modeling, algorithmic trading, portfolio optimization, and fraud detection. Ideal for practitioners who want to assemble a modern open-source financial AI stack without vendor lock-in. (🟢 Beginner)
+  - 📖 Access: Fully open blog post, no signup required
+  - 💻 Tools: Covers popular Python and open-source ecosystems
+  - 🔧 Topics: Risk modeling, trading, portfolio optimization, infrastructure
+  - [Tags: beginner open-source tools financial-ai python trading risk-modeling 2025]
+
+- [Top 10 Free AI Tools for Financial Analysis in 2025 (PDF.ai)](https://pdf.ai/resources/free-ai-tools-for-financial-analysis) – Practical overview of free AI tools that can assist with financial document analysis, report summarization, data extraction, and scenario analysis. Focuses on tools that can be used immediately by analysts and finance professionals without heavy setup. (🟢 Beginner)
+  - 📖 Access: Fully open, no login required
+  - 💼 Audience: Financial analysts, portfolio managers, finance students
+  - 🔧 Topics: Document understanding, summarization, data extraction
+  - [Tags: beginner financial-analysis ai-tools document-ai productivity 2025]
+
 ### 🟡 Intermediate
 
 - [Coursera GenAI for Algorithmic Trading](https://www.coursera.org/learn/genai-for-algorithmic-trading) – Modern course exploring generative AI and large language models (LLMs) for algorithmic trading and financial decision-making. Learn how to leverage ChatGPT, Claude, and other generative models for market analysis, strategy development, and automated trading systems. Free audit available. (🟡 Intermediate)
@@ -169,7 +181,7 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
 
 **Cross-reference:**
 - [Natural Language Processing](./natural-language-processing.md) - Sentiment analysis for financial news
-- [Reinforcement Learning](./reinforcement-learning.md) - RL for portfolio management and trading
+- [Reinforcement Learning](./recommender-systems.md) - RL for portfolio management and trading
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Python tools and backtesting frameworks
 - [Explainable AI](./explainable-ai.md) - Interpreting financial AI models
 
@@ -228,6 +240,6 @@ Found a great free AI for finance resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 15
+**Last Updated:** December 21, 2025 | **Total Resources:** 14
 
-**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, coursera, quantinsti, youtube, quantlib, edhec, cfte, 2025
+**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, coursera, quantinsti, youtube, quantlib, edhec, cfte, cakeai, pdfai, 2025

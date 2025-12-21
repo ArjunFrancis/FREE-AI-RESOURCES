@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **328+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **336+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-328+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-336+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2016%2C%202025-brightblue.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2021%2C%202025-brightblue.svg)]()
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 328+ | Across all categories (verified Dec 16) |
+| **Total Resources** | 336+ | Across all categories (verified Dec 21) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~11 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), AI Ethics (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 16, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 21, 2025 | Regular verification & updates |
 
 ---
 
@@ -154,13 +154,13 @@
 
 | Domain | Resources | Difficulty | Impact |
 |--------|-----------|------------|--------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | ~21 | 🟡 | Medical diagnosis, drug discovery |
-| [AI for Finance](resources/ai-for-finance.md) | ~15 | 🟡 | Trading, risk analysis |
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 19 | 🟡 | Medical diagnosis, drug discovery |
+| [AI for Finance](resources/ai-for-finance.md) | 14 | 🟡 | Trading, risk analysis |
 | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~16 | 🔴 | Autonomous systems |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | ~11 | 🟡 | Prediction, anomaly detection |
-| [Recommender Systems](resources/recommender-systems.md) | ~15 | 🟡 | Personalization |
+| [Recommender Systems](resources/recommender-systems.md) | 14 | 🟡 | Personalization |
 
-**Total**: ~78 resources | **Perfect for**: Domain specialists
+**Total**: ~74 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 16, 2025
-- **Last Verification**: Dec 16, 2025, 9:15 AM UTC+4
+- **Last Updated**: December 21, 2025
+- **Last Verification**: Dec 21, 2025, 4:00 AM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**328+ resources | 29 categories | 100% free | Quality assured**
+**336+ resources | 29 categories | 100% free | Quality assured**
 
 </div>

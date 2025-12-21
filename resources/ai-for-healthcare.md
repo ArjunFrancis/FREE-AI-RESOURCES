@@ -130,6 +130,13 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 💼 Professional development suitable for clinical teams
   - [Tags: intermediate clinical-medicine harvard medical-school implementation 2025]
 
+- [Machine Learning for Healthcare - MIT OpenCourseWare (6.S897)](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) – MIT's official open course introducing machine learning in healthcare. Covers clinical data characteristics, feature engineering from EHR, handling missing data, risk prediction models, interpretability, and causal inference. Includes full lecture notes, assignments, and exams for self-study. (🟡 Intermediate)
+  - 📖 Access: Fully open on MIT OpenCourseWare
+  - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
+  - 📚 Materials: Lecture notes, assignments, exams
+  - 📝 Topics: EHR analysis, risk prediction, interpretability, causal inference in healthcare
+  - [Tags: intermediate mit-opencourseware ehr-analysis risk-prediction interpretability causal-inference 2019]
+
 ### 🔴 Advanced
 
 - [Clinical NLP Overview (John Snow Labs)](https://www.johnsnowlabs.com/clinical-nlp/) – Comprehensive guide to state-of-the-art natural language processing for clinical text covering entity recognition, temporal information extraction, negation detection, sentiment analysis, clinical trials matching, adverse event detection, and EHR integration. Explains how NLP transforms unstructured clinical notes into structured insights for clinical decision support and personalized care. (🔴 Advanced)
@@ -156,6 +163,24 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🔬 Advanced: Production-ready medical imaging AI
   - [Tags: advanced open-source medical-imaging dicom reproducibility md-anderson mhub deployment 2025]
 
+- [3D Slicer: Open-Source Medical Image Computing Platform](https://www.slicer.org/) – Free, open-source software for 3D image processing, visualization, and analysis in medical imaging. Widely used in research and clinical settings for CT, MRI, ultrasound processing. Features AI integration, automatic segmentation, registration, and reconstruction. Extensive tutorials, documentation, and large community. Essential tool for medical imaging professionals. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub, free download
+  - 📊 Modalities: CT, MRI, ultrasound, pathology images
+  - 🛠️ Features: Segmentation, registration, visualization, 3D reconstruction
+  - 🤖 AI: Deep learning modules, extension ecosystem
+  - 📚 Extensive documentation and tutorial library
+  - 👥 Active community and research partnerships
+  - [Tags: advanced open-source medical-imaging 3d-visualization segmentation deep-learning 2025]
+
+- [Health AI Developer Foundations (HAI-DEF) - Google Research](https://arxiv.org/html/2411.15128) – Suite of pre-trained, domain-specific foundation models, tools, and recipes to accelerate building ML models for healthcare. Includes medical imaging models, clinical NLP models, and tabular healthcare data tools. Open-access research from Google Health and academic collaborators. Addresses cost and data challenges in healthcare AI development. (🔴 Advanced)
+  - 📖 Access: Open on arXiv, free access
+  - 🏛️ Authority: Google Health + academic institutions
+  - 🛠️ Type: Foundation models + development toolkit
+  - 📊 Domains: Medical imaging, clinical NLP, healthcare analytics
+  - 💻 Ready-to-use pre-trained models
+  - 🔬 Reduces barriers to healthcare AI development
+  - [Tags: advanced foundation-models medical-imaging clinical-nlp google-research arxiv 2024]
+
 ---
 
 ## 📊 Datasets & Resources
@@ -168,6 +193,20 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🌍 Includes: OpenNeuro, MIMIC-III, CheXpert, OASIS, 1000 Genomes, Kaggle datasets
   - 📈 Large-scale: From 1,000s to 100,000s of samples
   - [Tags: datasets medical-imaging genomics ehr open-source collection all-levels 2025]
+
+- [MIMIC-IV: Multiparameter Intelligent Monitoring in Intensive Care Database](https://mimic.mit.edu/) – Large, de-identified ICU database with over 40,000 patient stays, containing vitals, lab results, medications, diagnoses, procedures, and clinical notes. Gold-standard dataset for building and evaluating clinical risk prediction, mortality prediction, and treatment outcome models. Free for academic use with data use agreement. (All Levels)
+  - 📖 Access: Free for research (requires credentialed access & data use agreement)
+  - 📊 Size: 40,000+ ICU stays across multiple years
+  - 📝 Data Types: Time-series vitals, labs, medications, diagnoses, notes
+  - 🔬 Use Cases: Mortality prediction, ICU length-of-stay, early warning systems
+  - [Tags: dataset mimic-iv intensive-care ehr time-series clinical-prediction mit 2023]
+
+- [MIMIC-CXR-JPG: Large Chest X-ray Dataset with Reports](https://mimic-cxr.mit.edu/) – One of the largest publicly available chest X-ray datasets with 377,000+ images from over 65,000 patients, each paired with a free-text radiology report. Includes labels for common thoracic pathologies and supports research in diagnostic imaging, report generation, and multimodal learning. (All Levels)
+  - 📖 Access: Free for research (requires credentialed access & data use agreement)
+  - 📊 Size: 377,000+ chest X-rays, 65,000+ patients
+  - 📝 Annotations: Pathology labels + radiology reports
+  - 🔬 Use Cases: Disease classification, report generation, vision-language models
+  - [Tags: dataset mimic-cxr chest-xray radiology multimodal diagnostic-imaging mit 2019]
 
 ---
 
@@ -234,6 +273,6 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 21
+**Last Updated:** December 21, 2025 | **Total Resources:** 19
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, physiopedia, kuleuven, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, 2025
