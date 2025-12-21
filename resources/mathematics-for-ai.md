@@ -29,9 +29,9 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 **If you're completely new to Mathematics for AI, start with these 3 resources in order:**
 
-1. 🟢 [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - Interactive fundamentals with visual explanations and practice exercises
-2. 🟢 [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Beautiful visual intuition for 15 core linear algebra concepts
-3. 🟡 [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-home) - Build towards derivatives and integrals with step-by-step explanations
+1. 🟢 [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Beautiful visual series explaining the geometric intuition behind linear algebra
+2. 🟢 [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) - Interactive fundamentals with visual explanations and practice exercises
+3. 🟡 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - Fully interactive online textbook with manipulable 3D figures
 
 **After completing the starter kit, explore the full resources below.**
 
@@ -41,10 +41,11 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 ### 🟡 Intermediate
 
-- [Mathematics for Machine Learning (Cambridge University Press)](https://mml-book.github.io) **(Intermediate)** - Comprehensive 412-page free textbook by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong covering linear algebra, analytic geometry, matrix decompositions, vector calculus, probability, optimization, and their direct applications to machine learning.
+- [Mathematics for Machine Learning (Cambridge University Press)](https://mml-book.github.io) **(Advanced)** - The standard rigorous 412-page free textbook by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (Cambridge University Press) covering comprehensive mathematical foundations for ML: linear algebra, analytic geometry, matrix decompositions, vector calculus, probability distributions, continuous optimization, and their direct applications to machine learning. Essential reference for serious ML practitioners and researchers.
   - 📖 Access: Fully open, [Direct PDF download](https://mml-book.github.io/book/mml-book.pdf)
   - 🌍 Authority: Cambridge University Press (official textbook)
-  - [Tags: textbook linear-algebra calculus probability official]
+  - 📝 Topics: Linear algebra, calculus, probability, optimization, comprehensive ML math
+  - [Tags: advanced textbook linear-algebra calculus probability official cambridge 2025]
 
 - [Deep Learning Book - Mathematical Basics](https://www.deeplearningbook.org/contents/part_basics.html) **(Intermediate/Advanced)** - Free foundational chapters from the Deep Learning textbook by Ian Goodfellow, Yoshua Bengio, and Aaron Courville covering applied math essentials: linear algebra, probability, numerical computation, and machine learning basics.
   - 📖 Access: Fully open, online HTML format
@@ -70,6 +71,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 ### 🟢 Beginner-Friendly
 
+- [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) **(Beginner)** - The legendary visual series (3+ hours) by Grant Sanderson explaining the geometric intuition behind linear algebra concepts through stunning animations. Covers vectors, linear transformations, determinants, eigenvectors, eigenvalues, and their significance in ML. Perfect for building intuition before diving into rigorous treatments.
+  - 📖 Access: Free on YouTube
+  - 🌍 Authority: 3Blue1Brown (Grant Sanderson)
+  - 📝 Duration: 15 videos, approximately 3 hours total
+  - 🎯 Topics: Vectors, transformations, determinants, eigenvectors, visual intuition
+  - [Tags: beginner youtube visual-learning linear-algebra animations intuition 2025]
+
 - [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) **(Beginner)** - Free comprehensive interactive course covering vectors, matrices, matrix transformations, determinants, and essential linear algebra concepts for ML with practice exercises and visual explanations.
   - 📖 Access: Fully open, interactive
   - [Tags: beginner interactive linear-algebra fundamentals]
@@ -84,13 +92,17 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📝 Topics: Probability, distributions, hypothesis testing, regression, statistical inference
   - [Tags: beginner probability statistics interactive hypothesis-testing regression 2025]
 
-- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) **(Beginner/Intermediate)** - Beautiful 15-video series providing geometric intuition for linear algebra concepts including vectors, span, linear transformations, determinants, eigenvectors, and their significance in ML through stunning animations.
-  - 📖 Access: Free on YouTube
-  - [Tags: beginner visual-learning linear-algebra animations]
-
 - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) **(Beginner/Intermediate)** - 12-part video series building intuition for calculus fundamentals: derivatives, chain rule, integrals, Taylor series, and their connection to neural networks and optimization.
   - 📖 Access: Free on YouTube
   - [Tags: beginner calculus visual-learning gradients]
+
+- [Foundational Mathematics for AI (Johns Hopkins University)](https://www.coursera.org/learn/foundational-mathematics-for-ai) **(Beginner)** - Free comprehensive course from Johns Hopkins University building essential math skills for AI including linear algebra (vectors, matrices, systems), calculus (derivatives, gradients, optimization), and probability theory. Designed specifically for AI/ML applications with practical focus and no advanced prerequisites required.
+  - 📖 Access: Free to audit on Coursera (certificate paid)
+  - 🌍 Authority: Johns Hopkins University
+  - 📝 Duration: Self-paced, approximately 15 hours
+  - 🎯 Topics: Linear algebra, calculus, probability for AI applications
+  - ⚠️ Note: Requires free Coursera account
+  - [Tags: beginner coursera johns-hopkins linear-algebra calculus probability foundations 2025]
 
 - [Mathematics for Machine Learning - Simplilearn SkillUp](https://www.simplilearn.com/mathematics-for-machine-learning-free-course-skillup) **(Beginner to Intermediate)** - Comprehensive free course covering essential mathematical foundations for ML: linear algebra (vectors, matrices, eigenvalues), calculus (derivatives, gradients), probability theory, and statistics. Includes certificate upon completion. Perfect for ML beginners building mathematical intuition without prerequisites.
   - 📖 Access: Free with certificate option
@@ -193,6 +205,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 ### 🟢 Beginner-Friendly
 
+- [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) **(Intermediate)** - Fully interactive online textbook with manipulable 3D figures and animations to build intuition for linear algebra concepts. Covers vectors, dot/cross products, matrices, determinants, eigenvalues, and more through hands-on exploration. Revolutionary approach to learning linear algebra visually and interactively.
+  - 📖 Access: Fully open, interactive online book
+  - 🌍 Authority: J. Ström, K. Åström, T. Akenine-Möller
+  - 🛠️ Hands-on: Yes (manipulable 3D visualizations)
+  - 🎯 Topics: Vectors, matrices, transformations, eigenvalues, visual intuition
+  - [Tags: intermediate interactive linear-algebra visualization 3d hands-on 2025]
+
 - [Probability Fundamentals (Brilliant.org)](https://brilliant.org/courses/probability-fundamentals/) **(Beginner to Intermediate)** - Interactive probability course teaching how to represent and interpret data and events using probability. Covers estimating probabilities, simulating outcomes, conditional probability, Bayes' rule, and dependency/independence concepts through hands-on problem-solving and visualization.
   - 📖 Access: Free basic access (premium features available)
   - 🛠️ Hands-on: Yes (interactive problem-solving)
@@ -243,6 +262,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 29
+**Last Updated:** December 21, 2025 | **Total Resources:** 33
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, 2025
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, cambridge, immersive-linear-algebra, johns-hopkins, interactive, visual-learning, 2025
