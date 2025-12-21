@@ -30,12 +30,12 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ### 🟢 Beginner to Intermediate
 
-- [Ollama](https://ollama.org) **(Intermediate)** - Free open-source tool to run powerful LLMs (Llama 3, Mistral, Phi, Gemma) locally on your machine with a simple CLI interface. Download and run models with a single command, no cloud costs or internet required. Perfect for privacy-focused development, experimentation, and offline AI applications. Supports Mac, Linux, and Windows with optional REST API for integration.
+- [Ollama](https://ollama.org) **(Beginner to Intermediate)** - Open-source tool to run powerful large language models (Llama 3, Mistral, Gemma, Phi) locally on your machine with a simple command-line interface. Provides complete control over data privacy, eliminates cloud costs, and enables experimentation without internet dependency. Features model library with one-command downloads, API for integration, and cross-platform support (macOS, Linux, Windows).
   - 📖 Access: Fully open-source (MIT license)
-  - 🛠️ Hands-on: Yes - CLI and REST API
-  - 🎯 Best for: Local LLM deployment, privacy, experimentation, offline AI
-  - 💻 Platform: Mac, Linux, Windows
-  - [Tags: intermediate ollama llm-deployment local-inference open-source privacy 2025]
+  - 🛠️ Hands-on: Yes - run models from terminal or via REST API
+  - 🎯 Best for: Local LLM deployment, privacy-focused AI, offline experimentation
+  - 📝 Features: Simple CLI, model library, API server, cross-platform
+  - [Tags: beginner intermediate ollama llm-deployment local-inference open-source privacy offline 2025]
 
 - [Learn PyTorch for Deep Learning (Zero to Mastery)](https://www.learnpytorch.io) **(Beginner to Intermediate)** - Free comprehensive course teaching PyTorch fundamentals through hands-on coding with Google Colab. Covers PyTorch essentials, neural networks, computer vision, NLP, and deployment without requiring special hardware or prior ML experience.
   - 📖 Access: Fully open online course
@@ -114,12 +114,12 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ### 🟢 Beginner to Intermediate
 
-- [Hugging Face](https://huggingface.co) **(Intermediate)** - The premier open-source platform for machine learning models, datasets, and demos with extensive free tier access. Host and share ML models, access 500K+ pre-trained models (transformers, diffusion, audio), 250K+ datasets, run interactive demos in Spaces, and deploy models with Inference API. Essential hub for NLP, computer vision, audio, and generative AI with vibrant community.
-  - 📖 Access: Free tier with generous limits (paid plans available)
+- [Hugging Face](https://huggingface.co) **(Beginner to Intermediate)** - The premier open-source platform for machine learning models, datasets, and applications. Features 500,000+ pre-trained models (BERT, GPT, Llama, Mistral), 100,000+ datasets, and Spaces for hosting ML demos. Provides free access to state-of-the-art transformers, diffusion models, and tools for NLP, computer vision, audio, and multimodal AI with extensive documentation and community support.
+  - 📖 Access: Free platform with generous quotas (paid tiers available)
   - 🌍 Authority: Hugging Face (industry standard)
-  - 🛠️ Features: Model hosting, datasets, inference API, Spaces, AutoTrain
-  - 🎯 Best for: Pre-trained models, datasets, model hosting, demos, NLP
-  - [Tags: intermediate huggingface models datasets platform transformers nlp 2025]
+  - 🛠️ Hands-on: Yes (models, datasets, Spaces, APIs)
+  - 📝 Features: Model Hub, Datasets, Spaces, Inference API, AutoTrain
+  - [Tags: beginner intermediate huggingface transformers models datasets platform community 2025]
 
 - [Hugging Face Transformers: Official Documentation](https://huggingface.co/docs/transformers/index) **(Beginner to Intermediate)** - Comprehensive official documentation for the Transformers library covering pretrained models (BERT, GPT, T5, Llama), tokenization, training, fine-tuning, and inference for NLP tasks. Includes quick tour, tutorials, task guides, and complete API reference with PyTorch and TensorFlow support. Essential resource for working with state-of-the-art language models.
   - 📖 Access: Fully open, official documentation
@@ -159,12 +159,12 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ### 🟢 Beginner to Intermediate
 
-- [Kaggle Kernels](https://www.kaggle.com/code) **(Beginner)** - Free cloud computational environment providing Jupyter Notebooks with free access to GPUs (30 hours/week) and TPUs for training machine learning models. Includes pre-installed libraries (TensorFlow, PyTorch, scikit-learn), public datasets, and collaborative features. Perfect for learning, experimentation, and competitions without local hardware requirements.
-  - 📖 Access: Free with generous compute limits
+- [Kaggle Kernels (Notebooks)](https://www.kaggle.com/code) **(Beginner to Intermediate)** - Free cloud-based computational environment providing Jupyter notebooks with free access to GPUs (NVIDIA Tesla P100) and TPUs for training machine learning models. Includes 30+ hours/week of GPU time, pre-installed ML libraries (TensorFlow, PyTorch, scikit-learn), access to 50,000+ public datasets, and seamless integration with Kaggle competitions. Perfect for learning and experimentation without local hardware.
+  - 📖 Access: Completely free with generous quotas (requires Kaggle account)
   - 🌍 Authority: Kaggle (Google)
-  - 🛠️ Features: Free GPUs/TPUs, Jupyter notebooks, datasets, collaboration
-  - 🎯 Best for: Learning, experimentation, competitions, model training
-  - [Tags: beginner kaggle jupyter-notebooks free-gpu free-tpu cloud-compute 2025]
+  - 🛠️ Hands-on: Yes (Jupyter notebooks, GPU/TPU access)
+  - 📝 Features: Free GPU/TPU, pre-installed libraries, dataset integration, version control
+  - [Tags: beginner intermediate kaggle notebooks gpu tpu free cloud-compute datasets 2025]
 
 - [10+ Free AI Tools from Google Cloud 2025](https://cloud.google.com/use-cases/free-ai-tools) **(Beginner to Intermediate)** - Comprehensive collection of free-tier Google Cloud AI products including: Gemini API (multimodal AI), Google AI Studio (prompt engineering), Translation API (100+ languages), Speech-to-Text (audio transcription), Natural Language API (entity/sentiment analysis), Vision API (image analysis), Video Intelligence API (video analysis), and Vertex AI (ML platform). Includes monthly free quotas with no expiration for core services.
   - 📖 Access: Free tier with monthly limits (generous quotas)
@@ -210,6 +210,13 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 
 ### 🟡 Intermediate
 
+- [Continue](https://continue.dev) **(Intermediate)** - Open-source AI code assistant that integrates seamlessly into VS Code and JetBrains IDEs. Allows using any LLM (GPT-4, Claude, Llama, local models via Ollama) for intelligent code autocomplete, refactoring, debugging, and chat-based coding assistance. Features context awareness, tab autocomplete, inline editing, and customizable prompts with full control over model selection and API keys.
+  - 📖 Access: Fully open-source (Apache 2.0 license)
+  - 🛠️ Hands-on: Yes (VS Code/JetBrains extensions)
+  - 🎯 Best for: AI-powered coding, autocomplete, refactoring, any LLM
+  - 📝 Features: Multi-LLM support, context-aware, inline edits, customizable
+  - [Tags: intermediate continue ai-coding vscode jetbrains open-source autocomplete llm 2025]
+
 - [Top 10 Open Source ML Tools and Frameworks in 2025](https://www.portotheme.com/top-10-open-source-machine-learning-tools-and-frameworks-in-2025/) **(Intermediate)** - Detailed exploration of the top 10 open-source ML frameworks and tools for 2025: TensorFlow (enterprise powerhouse), PyTorch (research standard), Scikit-learn (traditional ML), XGBoost (gradient boosting), Hugging Face (NLP/generative AI), Keras (high-level API), and others. Includes strengths, use cases, and practical considerations.
   - 📖 Access: Free comprehensive guide
   - 📝 Covers: Deep learning, ML, NLP, deployment, tools comparison
@@ -231,14 +238,6 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 ## 📦 Resource Collections & Guides
 
 ### 🟡 Intermediate
-
-- [Continue](https://continue.dev) **(Intermediate)** - Free open-source AI code assistant that integrates into VS Code and JetBrains IDEs, allowing developers to use any LLM (GPT-4, Claude, local models via Ollama) for code autocomplete, inline editing, and chat. Fully customizable with support for context from codebase, documentation, and terminal. Privacy-focused with local deployment options.
-  - 📖 Access: Fully open-source (Apache 2.0 license)
-  - 🌍 Authority: Continue.dev (open-source project)
-  - 🛠️ Features: Code autocomplete, inline editing, chat, customizable LLMs
-  - 🎯 Best for: AI-assisted coding, IDE integration, local/cloud LLMs
-  - 💻 Platform: VS Code, JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
-  - [Tags: intermediate open-source code-assistant vscode jetbrains llm-integration 2025]
 
 - [Awesome Production Machine Learning - GitHub](https://github.com/EthicalML/awesome-production-machine-learning) **(Intermediate to Advanced)** - Comprehensive curated list of open-source libraries and frameworks for production machine learning including model serving, monitoring, versioning, testing, explainability, privacy, and deployment tools. Over 10,000 stars. Essential reference for MLOps practitioners.
   - 📖 Access: Fully open, GitHub
@@ -296,4 +295,4 @@ Found a great free AI tool or framework? We'd love to add it!
 
 **Last Updated:** December 21, 2025 | **Total Resources:** 33
 
-**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, mlflow, wandb, weights-and-biases, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, kubeflow, experiment-tracking, model-registry, continue, kaggle, code-assistant, vscode, jetbrains, 2025
+**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, mlflow, wandb, weights-and-biases, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, kubeflow, experiment-tracking, model-registry, kaggle, continue, ai-coding, 2025
