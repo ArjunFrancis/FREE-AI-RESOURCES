@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **336+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **348+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-336+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-348+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2021%2C%202025-brightblue.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2022%2C%202025-brightblue.svg)]()
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 336+ | Across all categories (verified Dec 21) |
+| **Total Resources** | 348+ | Across all categories (updated Dec 22) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~11 | Well-distributed across topics |
-| **Top Categories** | Mathematics (29), Generative AI (24), AI Ethics (23) | Comprehensive coverage |
+| **Average/Category** | ~12 | Well-distributed across topics |
+| **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 21, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 22, 2025 | Regular verification & updates |
 
 ---
 
@@ -108,9 +108,9 @@
 | [Generative AI](resources/generative-ai.md) | 24 | 🔴 | LLMs, diffusion models |
 | [Explainable AI](resources/explainable-ai.md) | ~12 | 🟡 | Interpretability |
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 19 | 🔴 | Graph learning |
-| [Prompt Engineering](resources/prompt-engineering.md) | 18 | 🟢 | Prompt optimization |
+| [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
 
-**Total**: ~132 resources | **Perfect for**: Ready to specialize
+**Total**: ~137 resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -123,10 +123,10 @@
 | [Spatial Intelligence](resources/spatial-intelligence.md) | ~8 | 🟢 Live | 3D AI, LGMs, robotics |
 | [World Models](resources/world-models.md) | ~10 | 🟢 Live | Physics simulation, AGI |
 | [Quantum AI](resources/quantum-ai.md) | ~13 | 🟢 Live | Quantum computing, ML |
-| [Multimodal AI](resources/multimodal-ai.md) | ~5 | 🟢 Live | Vision + language |
+| [Multimodal AI](resources/multimodal-ai.md) | 12 | 🟢 Live | Vision + language |
 | [Edge AI & IoT](resources/edge-ai-iot.md) | 10 | 🟢 Live | On-device AI, TinyML |
 
-**Total**: ~46 resources | **Perfect for**: Research and innovation
+**Total**: ~53 resources | **Perfect for**: Research and innovation
 
 ---
 
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 21, 2025
-- **Last Verification**: Dec 21, 2025, 4:00 AM UTC+4
+- **Last Updated**: December 22, 2025
+- **Last Verification**: Dec 22, 2025, 9:35 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**336+ resources | 29 categories | 100% free | Quality assured**
+**348+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
