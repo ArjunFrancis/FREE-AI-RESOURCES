@@ -30,6 +30,14 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 
 ### 🟢 Beginner-Friendly
 
+- **[Vision-Language Models Free Course - OpenCV University](https://opencv.org/university/free-courses/)** - Free Vision-Language Models bootcamp course covering CLIP for zero-shot image classification, Qwen2.5-VL for image captioning and object detection with detailed hands-on Python tutorials. Learn to implement vision-language models from beginner to advanced level with practical code examples.
+  - 📖 **Access:** Fully free, no login required  
+  - 🏛️ **Authority:** OpenCV (industry standard)  
+  - 🎯 **Level:** 🟢 Beginner  
+  - 🛠️ **Hands-on:** Yes (Python code examples and tutorials)  
+  - **Topics:** CLIP, Qwen2.5-VL, zero-shot classification, image captioning, object detection  
+  - [Tags: `beginner` `vlm-bootcamp` `clip` `vision-language` `hands-on` `opencv` `python` `2025`]
+
 - [Simplilearn: Free Multi-Modal LLMs Course](https://www.simplilearn.com/free-multimodal-llm-course-skillup) – Beginner-friendly introduction to multimodal large language models covering text-image integration, cross-modal understanding, and practical applications with free certificate upon completion.
   - 📖 Access: Free account required, certificate included
   - ⏱️ Duration: Self-paced
@@ -44,7 +52,45 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
   - **Topics:** Model selection, Transformers library, Text/audio/image/multimodal tasks, Gradio deployment, Hugging Face Spaces  
   - [Tags: `beginner` `open-source-models` `huggingface` `transformers` `multimodal` `deployment` `deeplearning-ai` `2025`]
 
+- **[Hugging Face Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=3xLTD5wSBEs)** - Beginner-friendly 11-minute tutorial covering HuggingFace platform essentials. Learn to explore pre-trained models, run NLP and multimodal tasks, use the transformers library effectively, and build real projects with step-by-step guidance.
+  - 📖 **Access:** Fully free on YouTube  
+  - ⏱️ **Duration:** 11 minutes (beginner-friendly)  
+  - 🎯 **Level:** 🟢🟡 Beginner-Intermediate  
+  - 🛠️ **Hands-on:** Yes (practical walkthrough)  
+  - **Topics:** HuggingFace platform, model exploration, transformers library, multimodal tasks  
+  - [Tags: `beginner` `huggingface-tutorial` `platform-guide` `transformers-library` `youtube` `practical` `2025`]
+
 ### 🟡 Intermediate
+
+- **[Modern AI Models for Vision and Multimodal Understanding - Coursera](https://www.coursera.org/learn/modern-ai-models-vision-multimodal-understanding)** - Advanced university course covering SVMs, RNNs, Vision Transformers (ViT), CLIP for multimodal learning, and diffusion models. Includes mathematical foundations, practical implementations, and 19 hands-on assignments with coding exercises.
+  - 📖 **Access:** Free audit available on Coursera (certificate optional paid)  
+  - 🏛️ **Authority:** University course  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - 🛠️ **Hands-on:** Yes (19 assignments, coding exercises)  
+  - **Topics:** Vision Transformers, CLIP, diffusion models, multimodal learning, mathematical foundations  
+  - [Tags: `intermediate-advanced` `vision-transformers` `clip` `diffusion-models` `coursera` `university-course` `hands-on` `2025`]
+
+- **[Vision-Language Models on the Edge - Embedded Vision Summit YouTube](https://www.youtube.com/watch?v=l_eJaNX0Pbo)** - Tutorial from Embedded Vision Summit covering deployment of vision-language models on edge devices using HuggingFace SmolVLM. Learn training processes, alignment techniques, and optimization strategies for resource-constrained environments.
+  - 📖 **Access:** Fully free on YouTube  
+  - 🏛️ **Authority:** Embedded Vision Summit (industry conference)  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Topics:** Edge deployment, SmolVLM, optimization, resource constraints, VLM training  
+  - [Tags: `intermediate` `edge-deployment` `optimization` `vlm-training` `huggingface` `youtube` `embedded-systems` `2025`]
+
+- **[CLIP Model Documentation - Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/clip)** - Official HuggingFace documentation for CLIP (Contrastive Language-Image Pre-training). Comprehensive guide explaining architecture, zero-shot transfer learning, image and text encoders, joint embedding space, and implementation with code examples.
+  - 📖 **Access:** Fully free, no login required  
+  - 🏛️ **Authority:** HuggingFace (Official)  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - 🛠️ **Hands-on:** Yes (code examples included)  
+  - **Topics:** CLIP architecture, zero-shot learning, encoders, joint embeddings, implementation  
+  - [Tags: `intermediate` `clip` `official-docs` `huggingface` `architecture` `zero-shot` `code-examples` `2025`]
+
+- **[Multimodal LLMs: Vision & Language Integration - ProjectPro](https://www.projectpro.io/article/multimodal-llms/1054)** - Comprehensive article explaining how multimodal LLMs integrate text and images. Covers architecture components, training techniques (contrastive learning), CLIP and BLIP-2 models, and real-world applications in image captioning and Visual Question Answering (VQA).
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Focus:** Theory and practical understanding, architecture, training techniques, applications  
+  - **Topics:** Multimodal LLM architecture, contrastive learning, CLIP, BLIP-2, image captioning, VQA  
+  - [Tags: `intermediate` `multimodal-llms` `architecture` `training-techniques` `clip` `blip-2` `applications` `2025`]
 
 - [Coursera: Build Multimodal Generative AI Applications (IBM)](https://www.coursera.org/learn/build-multimodal-generative-ai-applications) – Hands-on course using IBM watsonx.ai to build multimodal applications integrating Granite, Llama 3, Whisper, and DALL·E for text, image, and audio generation with 3-week project-based learning.
   - 📖 Access: Free audit available (certificate optional paid)
@@ -61,6 +107,14 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
   - [Tags: `intermediate` `huggingface` `transformers` `nlp` `multimodal` `fine-tuning` `pytorch` `tensorflow` `2025`]
 
 ### 🔴 Advanced
+
+- **[Multimodal Generative AI for Lung Cancer Research - Medical Application (arXiv)](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A058/763242/Abstract-A058-Multimodal-generative-AI-jointly)** - Advanced research on multimodal generative AI jointly learning pathology and clinical data for lung cancer cohort synthesis. Demonstrates cross-modal autoencoders, foundation models for healthcare, and AI-enabled evaluation frameworks in medical imaging.
+  - 📖 **Access:** Fully open (medical journal)  
+  - 🏛️ **Authority:** AACR Clinical Cancer Research (peer-reviewed)  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Application:** Healthcare, Medical imaging, Clinical AI  
+  - **Topics:** Cross-modal learning, foundation models, medical AI, pathology integration  
+  - [Tags: `advanced` `medical-ai` `cross-modal` `healthcare` `foundation-models` `research-paper` `2025`]
 
 - [MIT: How to AI (Almost) Anything - Spring 2025](https://ocw.mit.edu/courses/mas-s60-how-to-ai-almost-anything-spring-2025/) – MIT OpenCourseWare graduate-level course on advanced multimodal AI principles covering language, multimedia, music, art, sensing integration, and cross-modal reasoning with fully open materials including lectures, assignments, and readings.
   - 📖 Access: Fully open MIT OpenCourseWare
@@ -125,6 +179,6 @@ Found a great free Multimodal AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 15, 2025 | **Total Resources:** 5 (+2 new)
+**Last Updated:** December 22, 2025 | **Total Resources:** 12 (+7 new)
 
 **Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, gpt-4v, multimodal-transformers, audio-visual-learning, multimodal-llms, text-to-image, image-captioning, vqa, cross-modal-retrieval, huggingface, transformers, deeplearning-ai
