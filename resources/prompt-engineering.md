@@ -25,6 +25,20 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - **Topics:** Prompt techniques, best practices, interactive learning, generative AI fundamentals  
   - [Tags: `beginner` `prompt-engineering` `generative-ai` `interactive` `open-source` `community-driven` `2025`]
 
+- **[Anthropic Claude Prompt Engineering Interactive Course](https://github.com/anthropics/prompt-eng-interactive-tutorial)** - Comprehensive 9-chapter interactive course by Anthropic covering Claude prompt fundamentals through advanced techniques. Includes role prompting, few-shot learning, avoiding hallucinations, chain-of-thought reasoning, function calling, and industry-specific applications. Features hands-on playgrounds for each chapter.
+  - 📖 **Access:** Fully free on GitHub  
+  - 🏛️ **Authority:** Anthropic (Official)  
+  - 🎯 **Level:** 🟢 Beginner → 🟡 Intermediate  
+  - 🛠️ **Hands-on:** Yes (interactive playgrounds for each chapter)  
+  - **9 Chapters:** Basics, Role prompting, Few-shot, Hallucinations, Chain-of-thought, Function calling, Industry applications, Advanced techniques, Real-world use cases  
+  - [Tags: `beginner-intermediate` `anthropic` `claude` `interactive-tutorial` `hands-on-exercises` `official` `2025`]
+
+- **[One-Stop Developer Guide to Prompt Engineering - Dev.to](https://dev.to/kenangain/one-stop-developer-guide-to-prompt-engineering-across-openai-anthropic-and-google-4bfb)** - Comprehensive guide comparing prompt engineering across OpenAI GPT-4, Anthropic Claude, and Google Gemini. Covers official resources, platform-specific best practices, use cases, and developer-focused implementation strategies for each major LLM provider.
+  - 📖 **Access:** Fully free (Dev.to)  
+  - 🎯 **Level:** 🟢🟡 Beginner-Intermediate  
+  - **Focus:** Cross-platform comparison, developer guide, multi-provider strategies  
+  - [Tags: `comparison-guide` `openai` `anthropic` `google` `multi-platform` `developer-focused` `2025`]
+
 - [Prompt Engineering Course (Simplilearn SkillUp, 2025)](https://www.simplilearn.com/prompt-engineering-free-course-skillup) - Completely free, self-paced online course covering the fundamentals of AI, NLP, and the core principles and practice of prompt engineering. Earn a certificate of completion and learn real-world prompt design for LLMs and generative AI.
   - 📖 Access: Fully open, free certificate
   - ⏱️ Duration: Self-paced
@@ -45,6 +59,20 @@ Prompt engineering is the art and science of designing inputs that elicit the be
 
 ### 🟡 Intermediate
 
+- **[OpenAI Prompt Engineering Tutorial Videos - Official Series](https://platform.openai.com/docs/guides/prompt-engineering)** - Three-part official video series by OpenAI covering Introduction to Prompt Engineering, Advanced Techniques, and Mastering Prompt Engineering. Comprehensive tutorial from basics to expert level with practical demonstrations and real-world applications.
+  - 📖 **Access:** Free with email (OpenAI platform)  
+  - 🏛️ **Authority:** OpenAI (Official)  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Format:** 3-part video tutorial series  
+  - **Topics:** Introduction, Advanced techniques, Mastering prompts  
+  - [Tags: `official-tutorial` `openai` `video-series` `three-part-course` `intermediate` `2025`]
+
+- **[Guide to OpenAI Prompt Engineering 2025 - eesel AI](https://www.eesel.ai/blog/openai-prompt-engineering)** - 2025 practical guide to prompt engineering fundamentals with OpenAI models. Covers clear instructions, providing context, using examples, defining formats, and real-world business applications. Explains prompt components and best practices without requiring developer expertise.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Focus:** Business applications, practical tips, 2025 best practices  
+  - [Tags: `2025-guide` `practical-tips` `business-applications` `openai` `intermediate`]
+
 - [Prompt Engineering Full Course by Edureka](https://www.youtube.com/watch?v=YvKJ8Xyjs6E) - Free comprehensive YouTube course covering prompt engineering with LLMs including practical examples and real-world applications.
   - 📖 Access: Free on YouTube
   - [Tags: intermediate video-course practical-examples]
@@ -53,6 +81,15 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 Access: Free audit available (certificate paid)
   - ⚠️ Note: Requires free Coursera account
   - [Tags: intermediate specialization university-course]
+
+### 🔴 Advanced
+
+- **[GAIDE: Generative AI for Instructional Development (arXiv)](http://arxiv.org/pdf/2308.12276.pdf)** - Novel framework for using generative AI to enhance educational content creation and advanced prompting strategies at scale. Demonstrates sophisticated prompt design techniques for instructional contexts and systematic approaches to leveraging AI for content generation.
+  - 📖 **Access:** Fully open on arXiv (PDF)  
+  - 🏛️ **Source:** Academic research paper  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Focus:** Framework design, educational prompting, content creation, advanced techniques  
+  - [Tags: `framework` `advanced` `educational-prompting` `content-creation` `research-paper` `arxiv`]
 
 ---
 
@@ -148,6 +185,6 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 15, 2025 | **Total Resources:** 18 (+3 new)
+**Last Updated:** December 22, 2025 | **Total Resources:** 23 (+5 new)
 
 **Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design, structured-prompting, xml-tags, best-practices
