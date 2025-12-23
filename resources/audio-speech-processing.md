@@ -109,6 +109,16 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📜 Components: VAD, STT, LLM, TTS pipeline
   - [Tags: beginner tutorial speech-to-speech voice-assistant pipeline end-to-end 2025]
 
+### 🟡 Intermediate
+
+- [Stanford CS224S: Spoken Language Processing](https://cs224s.stanford.edu) – Comprehensive university course on modern spoken language technology covering speech recognition (ASR), text-to-speech synthesis (TTS), dialogue systems, and neural approaches. Features lectures, assignments, projects using Python/PyTorch, and recorded video content. Taught by Stanford faculty with industry expertise. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully free, complete course materials
+  - 🏛️ Authority: Stanford University (official course)
+  - 🛠️ Hands-on: Python/PyTorch projects and assignments
+  - 📜 Features: Video lectures, slides, homeworks
+  - 📺 Format: Recorded lectures available online
+  - [Tags: stanford cs224s spoken-language university-course asr tts python pytorch 2025]
+
 ---
 
 ## 🛠️ Tools & Software
@@ -122,6 +132,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 💾 Formats: LJSpeech, CSV, JSON, TXT
   - [Tags: dataset-creation tool browser-based tts stt no-code 2025]
 
+- [ChatTTS: Open Source Text-to-Speech](https://github.com/2noise/ChatTTS) – Open-source generative TTS model optimized for natural, conversational speech synthesis. Delivers high-quality voice output with emotional control and multiple speaker options. Features YouTube tutorial demonstrating installation, basic usage, and integration with Ollama for local deployment. Perfect for beginners building voice applications. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open, MIT license
+  - 🏛️ Authority: Community-driven (30,000+ GitHub stars)
+  - 🛠️ Hands-on: Python package with simple API
+  - 📜 Features: Natural speech, emotion control, speaker variety
+  - 📺 Tutorial: YouTube installation guide available
+  - ⭐ GitHub: 30,000+ stars, actively maintained
+  - [Tags: chattts open-source tts conversational-speech python beginner-friendly 2025]
+
 ### 🟡 Intermediate
 
 - [OpenAI Whisper](https://github.com/openai/whisper) – State-of-the-art open-source automatic speech recognition (ASR) model trained on 680,000 hours of multilingual data. Achieves human-level accuracy on English transcription and supports 99 languages with robust performance on accents, background noise, and technical language. (🟡 Intermediate)
@@ -132,6 +151,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - ⭐ GitHub: 70,000+ stars
   - [Tags: whisper openai asr speech-recognition multilingual state-of-the-art 2025]
 
+- [Parler TTS: Open Source Text-to-Speech](https://github.com/huggingface/parler-tts) – High-quality open-source TTS model from Hugging Face trained on 45,000+ hours of audio data. Features fine-grained control over speaker characteristics including gender, pitch, speaking rate, and emotion. Available in two variants: Large (2.4B parameters) and Mini (880M parameters). Ideal for projects requiring customizable, natural-sounding voice synthesis. (🟡 Intermediate)
+  - 📖 Access: Fully open, Apache 2.0 license
+  - 🏛️ Authority: Hugging Face (official release)
+  - 🛠️ Hands-on: Python package with Transformers library
+  - 📜 Features: Voice control (gender/pitch/rate), 45K hours training, 2 model sizes
+  - ⭐ GitHub: 2,000+ stars, actively maintained
+  - 💾 Models: Large (2.4B) and Mini (880M parameters)
+  - [Tags: parler-tts huggingface voice-control tts open-source transformers 2025]
+
 ### 🔴 Advanced
 
 - [ESPnet (End-to-End Speech Processing Toolkit)](https://github.com/espnet/espnet) – Comprehensive open-source toolkit for end-to-end speech processing including ASR, TTS, speech translation, speech enhancement, and more. Built on PyTorch with extensive pre-trained models, recipes for 100+ corpora, and production-ready pipelines. (🔴 Advanced)
@@ -141,6 +169,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📜 Features: ASR, TTS, translation, 100+ recipes
   - ⭐ GitHub: 8,000+ stars
   - [Tags: espnet end-to-end pytorch asr tts speech-translation research 2025]
+
+- [SpeechBrain: A General-Purpose Speech Toolkit](https://github.com/speechbrain/speechbrain) – Comprehensive all-in-one PyTorch-based speech toolkit supporting ASR, speaker recognition, speech enhancement, speech separation, text-to-speech, and voice conversion. Features 100+ ready-to-use recipes, pre-trained models for major tasks, and modular architecture for research and production. Built for both beginners and researchers with extensive documentation and tutorials. (🔴 Advanced)
+  - 📖 Access: Fully open, Apache 2.0 license
+  - 🏛️ Authority: SpeechBrain Team (research-grade quality)
+  - 🛠️ Hands-on: PyTorch framework with 100+ recipes
+  - 📜 Features: ASR, speaker-ID, enhancement, separation, TTS, voice-conversion
+  - ⭐ GitHub: 8,000+ stars, actively maintained
+  - 🎯 Use cases: End-to-end speech pipelines, custom model training
+  - [Tags: speechbrain pytorch asr speaker-verification speech-enhancement tts advanced-toolkit 2025]
 
 ---
 
@@ -196,6 +233,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 15
+**Last Updated:** December 23, 2025 | **Total Resources:** 20
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s
