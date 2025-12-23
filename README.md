@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **360+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **368+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-360+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-368+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2023%2C%202025-brightblue.svg)]()
 
@@ -14,9 +14,9 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 360+ | Across all categories (updated Dec 23) |
+| **Total Resources** | 368+ | Across all categories (updated Dec 23) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~12 | Well-distributed across topics |
+| **Average/Category** | ~13 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
@@ -170,12 +170,12 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [MLOps](resources/mlops.md) | ~10 | 🟡 | Pipelines, automation |
+| [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
 | [AI Security & Privacy](resources/ai-security-privacy.md) | 9 | 🟡 | Adversarial robustness, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 23 | 🟢 | Responsible AI |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | ~29 | 🟢 | PyTorch, TensorFlow, MLflow |
 
-**Total**: ~71 resources | **Perfect for**: Production engineers
+**Total**: ~75 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -186,10 +186,10 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [Research Papers & Publications](resources/research-papers-publications.md) | ~12 | 🔴 | arXiv, Papers with Code |
-| [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 18 | 🟡 | Training data, evaluation |
+| [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 22 | 🟡 | Training data, evaluation |
 | [Audio & Speech Processing](resources/audio-speech-processing.md) | 20 | 🟡 | ASR, TTS, speech |
 
-**Total**: ~50 resources | **Perfect for**: Researchers
+**Total**: ~54 resources | **Perfect for**: Researchers
 
 ---
 
@@ -461,7 +461,7 @@ Resources linked from this repository are subject to their own respective licens
 ## 📈 Repository Activity
 
 - **Last Updated**: December 23, 2025
-- **Last Verification**: Dec 23, 2025, 12:15 PM UTC+4
+- **Last Verification**: Dec 23, 2025, 6:50 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**360+ resources | 29 categories | 100% free | Quality assured**
+**368+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
