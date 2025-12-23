@@ -42,6 +42,12 @@ Quality datasets are the foundation of successful machine learning projects. Thi
   - 🌍 Global dataset discovery
   - [Tags: google dataset-search data-discovery]
 
+- **[OpenDataLab: AI Dataset Platform](https://arxiv.org/html/2407.13773v1)** 🟢 Beginner - Platform designed to bridge the gap between diverse data sources and unified data processing (June 2025). Integrates wide range of open-source AI datasets with intelligent querying and high-speed downloading. Uses next-generation AI Data Set Description Language (DSDL) for standardized multimodal data representation. Enhanced data acquisition efficiency for researchers.
+  - 📖 Access: Fully open, arXiv paper + platform
+  - 🏛️ Authority: arXiv research (academic)
+  - 📊 Features: DSDL, intelligent search, fast downloads
+  - [Tags: beginner dataset-platform multimodal open-source unified-processing 2025]
+
 ---
 
 ## 🖼️ Image & Computer Vision Datasets
@@ -83,6 +89,13 @@ Quality datasets are the foundation of successful machine learning projects. Thi
   - 🎓 Authority: Stanford University
   - [Tags: intermediate nlp question-answering stanford]
 
+- **[FinePDFs: 3-Trillion-Token PDF Dataset (Hugging Face)](https://www.infoq.com/news/2025/09/finepdfs/)** 🔴 Advanced - Largest publicly available corpus built entirely from PDFs (Sept 2025). Spans 475 million documents in 1,733 languages, totaling ~3 trillion tokens. 3.65 terabytes in size. Perfect for long-context training, includes documented processing pipeline from OCR to deduplication. Open Data Commons Attribution license.
+  - 📖 Access: Fully free, Hugging Face Hub
+  - 🏛️ Authority: Hugging Face (official release)
+  - 📊 Size: 3.65 TB, 475M documents, 3T tokens
+  - 🐍 Tools: datasets, huggingface_hub, Datatrove
+  - [Tags: advanced nlp pdf-corpus long-context multilingual huggingface 2025]
+
 ---
 
 ## 🎵 Audio & Speech Datasets
@@ -121,6 +134,27 @@ Quality datasets are the foundation of successful machine learning projects. Thi
 
 ---
 
+## 📊 Specialized & Emerging Datasets
+
+### 🟡 Tabular Data
+
+- **[TabPFN: Tabular Foundation Model (Nature 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11711098/)** 🟡 Intermediate - Tabular foundation model (Jan 2025, Nature publication) that outperforms all previous methods on datasets with up to 10,000 samples by wide margin using substantially less training time. Revolutionizes small-data ML in biomedical risk models, drug discovery, materials science. Game-changer for tabular data predictions.
+  - 📖 Access: Fully open, Nature publication
+  - 🏛️ Authority: Nature (peer-reviewed)
+  - 📊 Focus: Tabular data, small datasets, foundation models
+  - 💼 Applications: Healthcare, drug discovery, materials science
+  - [Tags: intermediate tabular-data foundation-model small-data biomedical nature 2025]
+
+### 📚 Curated Lists & Guides
+
+- **[Best Public Datasets for Machine Learning in 2025 (365 Data Science)](https://365datascience.com/trending/public-datasets-machine-learning/)** 🟢 Beginner - Comprehensive curated guide (Jan 2025) to best ML datasets for beginner-to-advanced projects. Covers MNIST, Dog Breed Identification, WorldStrat (geospatial AI), MIMIC-IV (healthcare), MultiWOZ (conversational AI), and more. Includes real-world complexity, labeling quality, and relevance to 2025 challenges.
+  - 📖 Access: Fully free, curated guide
+  - 🏛️ Authority: 365 Data Science
+  - 📊 Categories: Vision, NLP, healthcare, geospatial, conversational AI
+  - [Tags: beginner curated-list dataset-guide mnist healthcare conversational-ai 2025]
+
+---
+
 ## 🔗 Related Resources
 
 **See also:**
@@ -155,6 +189,6 @@ Found a great free dataset or benchmark? We'd love to add it!
 
 ---
 
-**Last Updated:** November 22, 2025 | **Total Resources:** 18
+**Last Updated:** December 23, 2025 | **Total Resources:** 22 (+4 new)
 
-**Keywords:** machine-learning-datasets, training-data, benchmarks, huggingface-datasets, kaggle-datasets, computer-vision, nlp-datasets, audio-datasets, imagenet, coco-dataset, mnist, papers-with-code, dataset-hub, open-data, ai-datasets
+**Keywords:** machine-learning-datasets, training-data, benchmarks, huggingface-datasets, kaggle-datasets, computer-vision, nlp-datasets, audio-datasets, imagenet, coco-dataset, mnist, papers-with-code, dataset-hub, open-data, ai-datasets, finepdfs, tabular-data, tabpfn, opendatalab, 2025
