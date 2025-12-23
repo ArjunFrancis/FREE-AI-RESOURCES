@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **348+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **352+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-348+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-352+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2022%2C%202025-brightblue.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2023%2C%202025-brightblue.svg)]()
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 348+ | Across all categories (updated Dec 22) |
+| **Total Resources** | 352+ | Across all categories (updated Dec 23) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~12 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 22, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 23, 2025 | Regular verification & updates |
 
 ---
 
@@ -187,9 +187,9 @@
 |----------|-----------|------------|-------|
 | [Research Papers & Publications](resources/research-papers-publications.md) | ~12 | 🔴 | arXiv, Papers with Code |
 | [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 18 | 🟡 | Training data, evaluation |
-| [Audio & Speech Processing](resources/audio-speech-processing.md) | ~13 | 🟡 | ASR, TTS, speech |
+| [Audio & Speech Processing](resources/audio-speech-processing.md) | 20 | 🟡 | ASR, TTS, speech |
 
-**Total**: ~43 resources | **Perfect for**: Researchers
+**Total**: ~50 resources | **Perfect for**: Researchers
 
 ---
 
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 22, 2025
-- **Last Verification**: Dec 22, 2025, 9:35 PM UTC+4
+- **Last Updated**: December 23, 2025
+- **Last Verification**: Dec 23, 2025, 9:20 AM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**348+ resources | 29 categories | 100% free | Quality assured**
+**352+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
