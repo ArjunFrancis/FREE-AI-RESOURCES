@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **352+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **360+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-352+-blue.svg)]()  
+[![Resources](https://img.shields.io/badge/resources-360+-blue.svg)]()  
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2023%2C%202025-brightblue.svg)]()
 
@@ -14,7 +14,7 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 352+ | Across all categories (updated Dec 23) |
+| **Total Resources** | 360+ | Across all categories (updated Dec 23) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~12 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
@@ -88,10 +88,10 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [Mathematics for AI](resources/mathematics-for-ai.md) | 29 | 🟢 | Linear algebra, calculus, stats |
-| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | ~6 | 🟢 | Core ML concepts |
-| [Data Science & Analytics](resources/data-science-analytics.md) | ~5 | 🟢 | EDA, visualization, SQL |
+| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 10 | 🟢 | Core ML concepts |
+| [Data Science & Analytics](resources/data-science-analytics.md) | 7 | 🟢 | EDA, visualization, SQL |
 
-**Total**: ~40 resources | **Perfect for**: Complete beginners
+**Total**: ~46 resources | **Perfect for**: Complete beginners
 
 ---
 
@@ -101,7 +101,7 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | ~5 | 🟡 | Architectures, backprop |
+| [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures, backprop |
 | [Natural Language Processing](resources/natural-language-processing.md) | 21 | 🟡🔴 | Language understanding |
 | [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 🟡🔴 | Agent training |
@@ -110,7 +110,7 @@
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 19 | 🔴 | Graph learning |
 | [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
 
-**Total**: ~137 resources | **Perfect for**: Ready to specialize
+**Total**: ~142 resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -461,7 +461,7 @@ Resources linked from this repository are subject to their own respective licens
 ## 📈 Repository Activity
 
 - **Last Updated**: December 23, 2025
-- **Last Verification**: Dec 23, 2025, 9:20 AM UTC+4
+- **Last Verification**: Dec 23, 2025, 12:15 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +481,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**352+ resources | 29 categories | 100% free | Quality assured**
+**360+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
