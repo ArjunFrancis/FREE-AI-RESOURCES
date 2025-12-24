@@ -114,7 +114,22 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 💻 Python-based with MuJoCo
   - [Tags: intermediate github large-scale-simulation manipulation imitation-learning demonstrations 2024]
 
+- [Game-Based Learning in Mobile Robotics: Teaching ROS2 Through Competitive Games](https://onlinelibrary.wiley.com/doi/10.1002/cae.70071) – Novel approach to teaching ROS2 and mobile robotics through game-based learning. Students learn practical ROS2 programming, robot navigation, and collaboration by competing in coding challenges and robot competitions. Highly engaging pedagogical method for intermediate learners. (🟡 Intermediate)
+  - 📖 Access: Published article with free abstract and methodology details
+  - 🎮 Method: Game-based learning for enhanced engagement
+  - 💻 Tools: ROS2, mobile robotics, competitive coding
+  - 🤖 Topics: ROS2 fundamentals, navigation, team programming
+  - [Tags: intermediate game-based-learning ros2 mobile-robotics competitive-programming 2025]
+
 ### 🔴 Advanced
+
+- [Modern Robot Learning (MIT IAP 2025 - Hands-on Tutorial)](https://modern-robot-learning.github.io) – Cutting-edge practical course from MIT on training robots using data-driven methods. Covers data collection via teleoperation with VR interfaces, policy training using behavioral cloning and reinforcement learning, simulation for safe testing, and optional real robot deployment. Hands-on experience with actual robot manipulation learning workflow. Taught by MIT CSAIL researchers. (🔴 Advanced)
+  - 📖 Access: Fully open, course materials and videos available
+  - 🏛️ Authority: MIT CSAIL (top robotics institution)
+  - 🛠️ Hands-on: Yes, includes real robot deployment option
+  - 💻 Tools: VR teleoperation, MuJoCo, policy training frameworks
+  - 🤖 Topics: Data collection, behavioral cloning, RL for manipulation, sim2real transfer
+  - [Tags: advanced mit-csail 2025 hands-on robot-learning data-driven policy-training 2025]
 
 - [SkillMimicGen: Automated Demonstration Generation for Robot Manipulation](https://arxiv.org/abs/2410.18907) – Advanced research on automatically generating diverse robot demonstrations from minimal human examples using MimicGen. Enables large-scale imitation learning for complex manipulation tasks. Addresses the critical challenge of scaling robot learning through demonstration generation. (🔴 Advanced)
   - 📖 Access: Free on arXiv
@@ -151,6 +166,13 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 - [MIT OpenCourseWare - Underactuated Robotics](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/) - A comprehensive course from MIT on the robotics of underactuated systems, with lecture notes, assignments, and projects. (🔴 Advanced)
   - 📖 Access: Fully open, free
   - [Tags: mit, ocw, course, robotics, advanced, underactuated]
+
+- [VizFlyt: Perception-Centric Pedagogical Framework For Autonomous Aerial Robots](https://ieeexplore.ieee.org/document/11128463/) – Open-source Hardware-In-The-Loop (HITL) simulation framework for teaching autonomous aerial robotics. Uses 3D Gaussian Splatting for photorealistic visual feedback while testing drone algorithms safely without crash risk. Achieves 100Hz update rates. Includes curriculum design for aerial robotics courses. (🔴 Advanced)
+  - 📖 Access: Published paper with open-source resources
+  - 🏛️ Authority: Academic robotics research
+  - 🛠️ Tools: 3D Gaussian Splatting, simulation, curriculum design
+  - 🤖 Applications: Autonomous aerial vehicles, perception, safe testing
+  - [Tags: advanced aerial-robotics simulation gauss-splatting hitl 2025]
 
 ---
 
@@ -217,6 +239,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 16
+**Last Updated:** December 24, 2025 | **Total Resources:** 22 (Courses: 16 + Docs: 2 + Tools: 4)
 
-**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics
+**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning
