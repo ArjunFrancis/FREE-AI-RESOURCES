@@ -27,6 +27,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 - Audio feature extraction (MFCCs, spectrograms)
 - End-to-end neural speech models
 - Real-time speech processing
+- Speech synthesis agents and emotional TTS
 
 ---
 
@@ -111,13 +112,30 @@ Audio and speech processing enables machines to understand, generate, and analyz
 
 ### 🟡 Intermediate
 
-- [Stanford CS224S: Spoken Language Processing](https://cs224s.stanford.edu) – Comprehensive university course on modern spoken language technology covering speech recognition (ASR), text-to-speech synthesis (TTS), dialogue systems, and neural approaches. Features lectures, assignments, projects using Python/PyTorch, and recorded video content. Taught by Stanford faculty with industry expertise. (🟡 Intermediate to 🔴 Advanced)
+- [Stanford CS224S: Spoken Language Processing](https://web.stanford.edu/class/cs224s/) – Comprehensive university course on modern spoken language technology covering speech recognition (ASR), text-to-speech synthesis (TTS), dialogue systems, and neural approaches. Features lectures, assignments, projects using Python/PyTorch, and recorded video content. Taught by Stanford faculty with industry expertise. Spring 2025 offering with latest techniques. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Fully free, complete course materials
-  - 🏛️ Authority: Stanford University (official course)
+  - 🏛️ Authority: Stanford University (official course 2025)
   - 🛠️ Hands-on: Python/PyTorch projects and assignments
   - 📜 Features: Video lectures, slides, homeworks
   - 📺 Format: Recorded lectures available online
   - [Tags: stanford cs224s spoken-language university-course asr tts python pytorch 2025]
+
+- [Speech and Language Processing (Jurafsky & Martin, 3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/) – Comprehensive free online textbook covering speech and language processing with chapters on phonetics, speech feature extraction (Ch. 14), automatic speech recognition (Ch. 15), and text-to-speech synthesis (Ch. 16). Includes lecture slides for all chapters and is regularly updated with latest techniques and research. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully free, complete textbook online
+  - 🏛️ Authority: Stanford University (Jurafsky & Martin)
+  - 📜 Features: 16 chapters + appendices, slides for each chapter
+  - 📚 Coverage: ASR, TTS, linguistic fundamentals, LLMs
+  - [Tags: textbook jurafsky-martin stanford slp3 speech-processing comprehensive 2025]
+
+### 🔴 Advanced
+
+- [Deep Dive into Speech Synthesis Agents (2025)](https://sparkco.ai/blog/deep-dive-into-2025-speech-synthesis-agents) – Comprehensive guide exploring modern speech synthesis agents with focus on emotional intelligence, multilingual support, personalization, and real-time synthesis. Covers architecture, implementation best practices, integration with LangChain/LangGraph frameworks, and emerging 2025 trends including voice cloning, emotion control, and commerce integration. Perfect for advanced developers building next-gen voice AI. (🔴 Advanced)
+  - 📖 Access: Fully free, detailed technical guide
+  - 🏛️ Authority: Sparkco AI (2025 industry analysis)
+  - 🛠️ Hands-on: Code examples with LangChain/LangGraph
+  - 📜 Topics: Emotional TTS, personalization, multilingual, real-time synthesis
+  - 🔧 Frameworks: LangChain, LangGraph, AutoGen
+  - [Tags: advanced speech-synthesis agents emotional-ai 2025 langchain implementation]
 
 ---
 
@@ -159,6 +177,14 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - ⭐ GitHub: 2,000+ stars, actively maintained
   - 💾 Models: Large (2.4B) and Mini (880M parameters)
   - [Tags: parler-tts huggingface voice-control tts open-source transformers 2025]
+
+- [AssemblyAI Speech-to-Text API Guide (2025)](https://assemblyai.com/blog/the-top-free-speech-to-text-apis-and-open-source-engines) – Comprehensive guide comparing top free speech-to-text APIs and open-source engines including AssemblyAI, Google Cloud Speech-to-Text, and AWS Transcribe. Covers API features, pricing, accuracy, multilingual support, speaker diarization, and real-world use cases. Updated 2025 with latest models and free tier options. (🟡 Intermediate)
+  - 📖 Access: Fully free, detailed comparison guide
+  - 🏛️ Authority: AssemblyAI (industry leader)
+  - 📜 Covers: 3+ major STT providers, free tier comparisons
+  - 💡 Features: Diarization, sentiment analysis, punctuation
+  - 📊 Comparison: API pricing, accuracy metrics, language support
+  - [Tags: stt-apis comparison free-tier assemblyai google-cloud aws-transcribe 2025]
 
 ### 🔴 Advanced
 
@@ -233,6 +259,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 23, 2025 | **Total Resources:** 20
+**Last Updated:** December 24, 2025 | **Total Resources:** 25 (Courses: 5 + Datasets: 5 + Tools: 10 + Research: 1 + Guides: 4)
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts
