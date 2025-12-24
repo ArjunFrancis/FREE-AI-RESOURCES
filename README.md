@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **368+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **376+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-368+-blue.svg)]()  
-[![Categories](https://img.shields.io/badge/categories-29-green.svg)]()  
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2023%2C%202025-brightblue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-376+-blue.svg)]()
+[![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2024%2C%202025-brightblue.svg)]
 
 ---
 
@@ -14,14 +14,14 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 368+ | Across all categories (updated Dec 23) |
+| **Total Resources** | 376+ | Across all categories (updated Dec 24) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~13 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 23, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 24, 2025 | Regular verification & updates |
 
 ---
 
@@ -102,15 +102,16 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures, backprop |
-| [Natural Language Processing](resources/natural-language-processing.md) | 21 | 🟡🔴 | Language understanding |
+| [Natural Language Processing](resources/natural-language-processing.md) | 28 | 🟡🔴 | Language understanding |
 | [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 🟡🔴 | Agent training |
 | [Generative AI](resources/generative-ai.md) | 24 | 🔴 | LLMs, diffusion models |
 | [Explainable AI](resources/explainable-ai.md) | ~12 | 🟡 | Interpretability |
-| [Graph Neural Networks](resources/graph-neural-networks.md) | 19 | 🔴 | Graph learning |
+| [Graph Neural Networks](resources/graph-neural-networks.md) | 23 | 🔴 | Graph learning |
 | [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
+| [Audio & Speech Processing](resources/audio-speech-processing.md) | 25 | 🟡 | ASR, TTS, speech synthesis |
 
-**Total**: ~142 resources | **Perfect for**: Ready to specialize
+**Total**: ~158 resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -156,11 +157,11 @@
 |--------|-----------|------------|--------|
 | [AI for Healthcare](resources/ai-for-healthcare.md) | 19 | 🟡 | Medical diagnosis, drug discovery |
 | [AI for Finance](resources/ai-for-finance.md) | 14 | 🟡 | Trading, risk analysis |
-| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~16 | 🔴 | Autonomous systems |
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~22 | 🔴 | Autonomous systems |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | ~11 | 🟡 | Prediction, anomaly detection |
 | [Recommender Systems](resources/recommender-systems.md) | 14 | 🟡 | Personalization |
 
-**Total**: ~74 resources | **Perfect for**: Domain specialists
+**Total**: ~80 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -187,9 +188,8 @@
 |----------|-----------|------------|-------|
 | [Research Papers & Publications](resources/research-papers-publications.md) | ~12 | 🔴 | arXiv, Papers with Code |
 | [Datasets & Benchmarks](resources/datasets-benchmarks.md) | 22 | 🟡 | Training data, evaluation |
-| [Audio & Speech Processing](resources/audio-speech-processing.md) | 20 | 🟡 | ASR, TTS, speech |
 
-**Total**: ~54 resources | **Perfect for**: Researchers
+**Total**: ~34 resources | **Perfect for**: Researchers
 
 ---
 
@@ -209,7 +209,7 @@ Weeks 10-11: Prompt Engineering + LLMs
 Week 12: Build NLP Project (chatbot/summarizer)
 ```
 
-**Resources**: 25-30 | **Tools**: PyTorch, Hugging Face, transformers  
+**Resources**: 25-30 | **Tools**: PyTorch, Hugging Face, transformers
 **Final**: Production NLP application
 
 ---
@@ -226,7 +226,7 @@ Weeks 6-10: Computer Vision + CNNs
 Weeks 11-12: Advanced project + deployment
 ```
 
-**Resources**: 20-25 | **Tools**: OpenCV, PyTorch, TensorFlow  
+**Resources**: 20-25 | **Tools**: OpenCV, PyTorch, TensorFlow
 **Final**: Real-world vision application
 
 ---
@@ -243,7 +243,7 @@ Weeks 7-8: MLOps & Deployment
 Weeks 9-10: Build production ML system
 ```
 
-**Resources**: 18-22 | **Tools**: Docker, Kubernetes, MLflow, DVC  
+**Resources**: 18-22 | **Tools**: Docker, Kubernetes, MLflow, DVC
 **Final**: Deployed, monitored ML system
 
 ---
@@ -260,7 +260,7 @@ Weeks 9-12: Robotics Core + Embodied AI
 Weeks 13-14: Real robot project
 ```
 
-**Resources**: 30-35 | **Tools**: Gym, ROS, Gazebo, PyBullet  
+**Resources**: 30-35 | **Tools**: Gym, ROS, Gazebo, PyBullet
 **Final**: Autonomous robot agent
 
 ---
@@ -277,7 +277,7 @@ Explore: Emerging fields (Spatial AI, World Models)
 Contribute: Publish papers, open-source code
 ```
 
-**Resources**: Unlimited | **Tools**: arXiv, Papers with Code, GitHub  
+**Resources**: Unlimited | **Tools**: arXiv, Papers with Code, GitHub
 **Final**: Advance the AI field
 
 ---
@@ -404,13 +404,13 @@ We welcome contributions! Adding resources is easy:
 **[Full Contributing Guide →](CONTRIBUTING.md)**
 
 ### Quality Standards
-✅ 100% free (no paywalls)  
-✅ Reputable source  
-✅ Active/maintained  
-✅ Relevant to AI/ML  
-✅ Difficulty tagged  
-✅ SEO keywords included  
-✅ Globally accessible  
+✅ 100% free (no paywalls)
+✅ Reputable source
+✅ Active/maintained
+✅ Relevant to AI/ML
+✅ Difficulty tagged
+✅ SEO keywords included
+✅ Globally accessible
 
 ---
 
@@ -418,23 +418,23 @@ We welcome contributions! Adding resources is easy:
 
 ### ✅ What We Include
 
-✅ **Completely free** - No payment required ever  
-✅ **Globally accessible** - Available worldwide  
-✅ **Legally distributed** - Authorized sources only  
-✅ **Ethically sourced** - Respects creator rights  
-✅ **University courses** - Free online classes (MIT, Stanford, Harvard, Berkeley)  
-✅ **Open datasets** - Public research datasets  
-✅ **Open-source tools** - Free software and libraries  
-✅ **Academic papers** - arXiv pre-prints and open access  
-✅ **YouTube educational content** - Official channels verified  
+✅ **Completely free** - No payment required ever
+✅ **Globally accessible** - Available worldwide
+✅ **Legally distributed** - Authorized sources only
+✅ **Ethically sourced** - Respects creator rights
+✅ **University courses** - Free online classes (MIT, Stanford, Harvard, Berkeley)
+✅ **Open datasets** - Public research datasets
+✅ **Open-source tools** - Free software and libraries
+✅ **Academic papers** - arXiv pre-prints and open access
+✅ **YouTube educational content** - Official channels verified
 
 ### ❌ What We Exclude
 
-❌ Pirated or unauthorized content  
-❌ Paywalled resources  
-❌ Time-limited trials requiring payment  
-❌ Resources requiring paid subscriptions for core content  
-❌ Authentication-walled content  
+❌ Pirated or unauthorized content
+❌ Paywalled resources
+❌ Time-limited trials requiring payment
+❌ Resources requiring paid subscriptions for core content
+❌ Authentication-walled content
 
 **Our Commitment**: If you find a resource that violates these criteria, please open an issue and we'll investigate and remove it immediately.
 
@@ -460,8 +460,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 23, 2025
-- **Last Verification**: Dec 23, 2025, 6:50 PM UTC+4
+- **Last Updated**: December 24, 2025
+- **Last Verification**: Dec 24, 2025, 5:03 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -473,14 +473,14 @@ Resources linked from this repository are subject to their own respective licens
 
 ### 🌟 Join the community building the future of AI! 🌟
 
-**Status**: ✅ Active & Growing  
-**Goal**: #1 free AI/ML resource repository on GitHub  
-**Mission**: Democratizing AI education globally  
+**Status**: ✅ Active & Growing
+**Goal**: #1 free AI/ML resource repository on GitHub
+**Mission**: Democratizing AI education globally
 
 **[Browse Categories →](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/tree/main/resources)** | **[Contribute →](CONTRIBUTING.md)** | **[Report Issue →](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)**
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**368+ resources | 29 categories | 100% free | Quality assured**
+**376+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
