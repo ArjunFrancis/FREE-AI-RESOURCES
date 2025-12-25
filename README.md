@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **376+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **387+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-376+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-387+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2024%2C%202025-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2025%2C%202025-brightblue.svg)]
 
 ---
 
@@ -14,14 +14,15 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 376+ | Across all categories (updated Dec 24) |
+| **Total Resources** | 387+ | Across all categories (updated Dec 25) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
 | **Average/Category** | ~13 | Well-distributed across topics |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
+| **Today's Additions** | Time Series (+6), Recommender Systems (+5) | Foundation models, GNN, LLM applications |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 24, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 25, 2025 | Regular verification & updates |
 
 ---
 
@@ -110,8 +111,10 @@
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 23 | 🔴 | Graph learning |
 | [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
 | [Audio & Speech Processing](resources/audio-speech-processing.md) | 25 | 🟡 | ASR, TTS, speech synthesis |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡🔴 | **NEW** Foundation models, TimeGPT, LLM forecasting |
+| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡🔴 | **NEW** GNN, Knowledge graphs, RDF |
 
-**Total**: ~158 resources | **Perfect for**: Ready to specialize
+**Total**: ~216 resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -158,10 +161,10 @@
 | [AI for Healthcare](resources/ai-for-healthcare.md) | 19 | 🟡 | Medical diagnosis, drug discovery |
 | [AI for Finance](resources/ai-for-finance.md) | 14 | 🟡 | Trading, risk analysis |
 | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~22 | 🔴 | Autonomous systems |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | ~11 | 🟡 | Prediction, anomaly detection |
-| [Recommender Systems](resources/recommender-systems.md) | 14 | 🟡 | Personalization |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡 | Prediction, anomaly detection |
+| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡 | Personalization |
 
-**Total**: ~80 resources | **Perfect for**: Domain specialists
+**Total**: ~93 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -460,8 +463,8 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 24, 2025
-- **Last Verification**: Dec 24, 2025, 5:03 PM UTC+4
+- **Last Updated**: December 25, 2025
+- **Last Verification**: Dec 25, 2025, 5:56 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
@@ -481,6 +484,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**376+ resources | 29 categories | 100% free | Quality assured**
+**387+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
