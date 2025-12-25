@@ -1,11 +1,11 @@
-# 🎯 Recommender Systems
+# 🎏 Recommender Systems
 Build intelligent systems that suggest relevant items to users based on preferences and behavior.
 
 ## 📖 Overview
 
 Recommender Systems power personalized experiences across Netflix, Spotify, Amazon, YouTube, and countless other platforms. These systems analyze user preferences, item features, and interaction patterns to predict and recommend relevant content, products, or services. Techniques range from collaborative filtering to deep learning-based approaches, and modern recommenders combine multiple strategies for optimal results.
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking, deep-learning-recommenders
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking, deep-learning-recommenders, graph-neural-networks, knowledge-graphs, gnn-recommendation, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -17,6 +17,8 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - Matrix factorization (SVD, NMF, ALS)
 - Hybrid recommendation approaches
 - Deep learning for recommendations (neural collaborative filtering, RNNs, attention)
+- Graph Neural Networks for recommendations (GNN-CF, LightGCN, NGCF)
+- Knowledge graphs in recommendations
 - Evaluation metrics (precision, recall, NDCG, MAP, RMSE)
 - Cold start problem solutions
 - Implicit and explicit feedback mechanisms
@@ -78,7 +80,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📖 Access: Fully open, no account required
   - 💻 Tools: Python, pandas, NumPy, scikit-learn
   - 🛠️ Hands-on: Yes (complete implementation)
-  - 📊 Real dataset (movie ratings)
+  - 📃 Real dataset (movie ratings)
   - [Tags: intermediate recommendation-system collaborative-filtering python netflix towardsai 2020]
 
 - [Build a Rating Recommendation Engine with Collaborative Filtering (Pluralsight)](https://www.pluralsight.com/courses/build-rating-recommendation-engine-collaborative-filtering) – Practical course teaching how to build a ratings-based recommendation engine using collaborative filtering. Covers user-based and item-based approaches, similarity metrics, and producing recommendations. Project-based learning with real implementation. Free trial available. (🟡 Intermediate)
@@ -90,10 +92,10 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 
 - [LinkedIn Learning: Recommendation Systems - Practical Hands-On Introduction](https://www.linkedin.com/learning/recommendation-systems-a-practical-hands-on-introduction) – Practical guide by Miguel González-Fierro teaching how to build and deploy recommendation systems. Covers collaborative filtering, content-based filtering, evaluation metrics, and real-world deployment and testing considerations. Learn best practices for building production recommendation systems. (🟡 Intermediate)
   - 📖 Access: Free (LinkedIn Learning Premium optional)
-  - 👨‍🏫 Instructor: Miguel González-Fierro
+  - 🐨 Instructor: Miguel González-Fierro
   - 🛠️ Hands-on: Yes (practical examples)
   - 🔧 Topics: Collaborative filtering, evaluation, deployment, testing
-  - 🎥 Real-world best practices
+  - 🎹 Real-world best practices
   - [Tags: intermediate recommendation-systems collaborative-filtering deployment linkedin-learning 2025]
 
 ### 🔴 Advanced
@@ -151,6 +153,36 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📜 Industry-recognized specialization
   - [Tags: advanced specialization recommender-systems collaborative-filtering matrix-factorization coursera lenskit 2024]
 
+- [Graph Neural Networks in Recommender Systems Survey (ACM)](https://dl.acm.org/doi/10.1145/3535101) – Comprehensive survey of Graph Neural Network (GNN) applications in recommendation systems. Covers GNN fundamentals, GNN-based recommendation architectures, handling different data types (user-item interactions, knowledge graphs), and addresses challenges like scalability and over-smoothing. With curated collection of papers and open-source implementations. Essential reading for understanding modern GNN-based recommenders. (🔴 Advanced)
+  - 📖 Access: Fully open survey
+  - 🏛️ Authority: ACM (Association for Computing Machinery)
+  - 🔧 Topics: GNN architectures, graph construction, message passing, recommendation tasks
+  - 📄 Taxonomy of GNN-based recommendation models
+  - 🔗 Links to papers and open-source code
+  - [Tags: advanced gnn graph-neural-networks recommendation-systems acm survey 2025]
+
+- [Knowledge Graph Embedded Recommender Systems Review (ScienceDirect 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007425) – Comprehensive review of recommender systems utilizing knowledge graph embedding techniques. Covers KG fundamentals, KG embedding methods (TransE, DistMult, etc.), integration with CF methods, and various recommendation application scenarios. Includes datasets, benchmarks, and future research directions. Critical resource for understanding knowledge graph-enhanced recommendations. (🔴 Advanced)
+  - 📖 Access: Abstract open (article available on ScienceDirect)
+  - 🔧 Topics: Knowledge graph embedding, KG-enhanced CF, hybrid methods, applications
+  - 📈 Methodology analysis and evaluation metrics
+  - 📚 Datasets and benchmarks
+  - [Tags: advanced knowledge-graphs embeddings collaborative-filtering review systematic 2024]
+
+- [Bridging RDF Knowledge Graphs with Graph Neural Networks for Recommendation (DASFAA 2025)](https://arxiv.org/abs/2506.08743) – Cutting-edge research integrating RDF (Resource Description Framework) knowledge graphs with GNNs for recommendation on multi-million-node knowledge bases. Demonstrates how semantic features from RDF datatype and object properties enhance GNN-based recommendations on Linked Open Data. Open-source implementation provided. State-of-the-art approach to leveraging semantic web standards. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 🔧 Topics: RDF knowledge graphs, semantic web, GNN integration, LOD recommendations
+  - 🔬 Multi-million node graphs evaluation
+  - 🔗 GitHub implementation available
+  - 📚 Accepted at DASFAA 2025 conference
+  - [Tags: advanced rdf knowledge-graphs gnn semantic-web linked-data arxiv 2025]
+
+- [LightGNN: Simple Graph Neural Network for Recommendation (2025)](https://arxiv.org/html/2501.03228v1) – Novel GNN pruning framework for scalable and denoised recommendation systems. Introduces explicit edge and embedding redundancy identification using hierarchical knowledge distillation to maintain performance under high-rate compression. Addresses scalability challenges of GNN-based CF for million+ interaction graphs. Advanced technique for production-grade GNN recommenders. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 🔧 Topics: GNN pruning, graph structure learning, knowledge distillation, efficiency
+  - 🚀 High compression ratios with maintained accuracy
+  - 🔬 Framework includes importance distillation and alignment strategies
+  - [Tags: advanced gnn-pruning scalability efficiency graph-neural-networks arxiv 2025]
+
 ---
 
 ## 🛠️ Tools & Libraries
@@ -165,6 +197,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - Cornac (open-source recommender framework)
   - PyTorch Recommenders (PyTorch-based)
   - SSLRec (self-supervised learning framework)
+  - **LightGNN** (scalable GNN-based recommendations)
 - **Frameworks:** PyTorch, TensorFlow, JAX
 - **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing
 - **Evaluation:** Python's scikit-learn, specialized recommendation metrics
@@ -176,8 +209,8 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 **See also:**
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - ML foundations for recommendation algorithms
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural approaches to recommendations (neural CF, RNNs, attention)
+- [Graph Neural Networks](./graph-neural-networks.md) - GNN fundamentals and advanced techniques for recommendations
 - [Natural Language Processing](./natural-language-processing.md) - Text-based content filtering and embeddings
-- [Graph Neural Networks](./graph-neural-networks.md) - Graph-based recommendation approaches
 
 **Cross-reference:**
 - [Data Science & Analytics](./data-science-analytics.md) - User behavior analysis and visualization
@@ -191,18 +224,6 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - Linear algebra basics (matrix operations, SVD, eigenvalues)
 - Understanding of collaborative filtering concepts
 - Familiarity with similarity metrics (cosine, Euclidean distance)
-
----
-
-## 🎓 Starter Kit: Absolute Beginners (Start Here!)
-
-If you're completely new to Recommender Systems, start with these resources in order:
-
-1. **Google Machine Learning Recommendation Systems Course** - Why start here: Comprehensive introduction from Google covering all fundamentals with interactive exercises
-2. **Codecademy Learn Recommender Systems** - Next step: Hands-on Python implementation of recommendation algorithms with real projects
-3. **Recommendation System Tutorial with Python (TowardsAI)** - Advance to: In-depth Netflix case study with complete implementation
-
-After completing the starter kit, explore advanced topics: neural collaborative filtering, graph neural networks, self-supervised learning, and large-scale systems with RecBole or implicit feedback libraries.
 
 ---
 
@@ -226,6 +247,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 21, 2025 | **Total Resources:** 14
+**Last Updated:** December 25, 2025 | **Total Resources:** 19+ (Courses: 17 + Surveys: 2)
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, 2025
