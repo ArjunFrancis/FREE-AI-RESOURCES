@@ -3,9 +3,9 @@ Apply artificial intelligence to medical imaging, clinical decision support, hea
 
 ## 📖 Overview
 
-AI for Healthcare leverages machine learning, deep learning, computer vision, and natural language processing to revolutionize medical diagnosis, treatment planning, drug discovery, and patient care. From analyzing medical images to processing clinical notes, AI is transforming how healthcare professionals make decisions and deliver care. Recent advances in deep learning, transformers, and generative AI are accelerating innovation in radiology, pathology, drug discovery, and clinical decision support.
+AI for Healthcare leverages machine learning, deep learning, computer vision, and natural language processing to revolutionize medical diagnosis, treatment planning, drug discovery, and patient care. From analyzing medical images to processing clinical notes, AI is transforming how healthcare professionals make decisions and deliver care. Recent advances in deep learning, transformers, and generative AI are accelerating innovation in radiology, pathology, drug discovery, and clinical decision support. 2025 sees unprecedented integration of pathology and radiology through multimodal AI, FDA approvals accelerating, and foundation models revolutionizing medical imaging.
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-ml, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, healthcare-analytics, precision-medicine, diagnostic-ai, pytorch, tensorflow, monai, deep-learning-healthcare
+**Keywords:** ai-healthcare, medical-ai, healthcare-ml, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, healthcare-analytics, precision-medicine, diagnostic-ai, pytorch, tensorflow, monai, deep-learning-healthcare, pathology-radiology, medical-imaging-integration, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -14,6 +14,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 ## 📚 Topics Covered
 - Medical image analysis (X-ray, CT, MRI, ultrasound, pathology)
 - Radiology AI and diagnostic imaging
+- Pathology AI and digital pathology
+- Pathology-Radiology integration and multimodal imaging
 - Clinical natural language processing (NLP) and EHR analysis
 - Electronic health records (EHR) processing
 - Predictive healthcare analytics
@@ -24,6 +26,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - Telemedicine and remote monitoring
 - Medical imaging datasets and benchmarks
 - Generative AI in healthcare
+- Foundation models for medical imaging
+- FDA-approved AI diagnostic systems
 
 ---
 
@@ -35,7 +39,7 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 
 1. 🟢 [RCSI AI in Healthcare Free Course](https://rcsi.com/dublin/courses/graduate/artificial-intelligence-healthcare) - Why start here: No prerequisites, covers fundamentals, ethics, and practical applications for healthcare professionals
 2. 🟢 [Google Generative AI for Healthcare](https://dimesociety.org/courses/generative-ai-for-healthcare/) - Next step: Learn about modern LLMs and generative AI applications in clinical settings
-3. 🟡 [freeCodeCamp TensorFlow Medical AI (Chest X-ray)](https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/) - Advance to: Hands-on project building diagnostic AI with real medical data
+3. 🟡 [freeCodeCamp Deep Learning for Medical Imaging (2025)](https://www.youtube.com/watch?v=M3ZWfamWrBM) - Advance to: Hands-on project building diagnostic AI with real medical data
 
 **After completing the starter kit, explore PyTorch + MONAI for advanced imaging, clinical NLP, and healthcare datasets.**
 
@@ -48,20 +52,20 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🏛️ Authority: RCSI (Royal College of Surgeons Ireland) + Microsoft Ireland
   - ⏱️ Duration: ~10 hours (self-paced)
   - 🌍 Global: Accessible anywhere in the world
-  - 📜 Certificate: Free certificate upon completion
+  - 📄 Certificate: Free certificate upon completion
   - [Tags: beginner healthcare-professionals ai-fundamentals ethics free-certificate rcsi microsoft 2025]
 
 - [Google's Generative AI for Healthcare (DiMe Society)](https://dimesociety.org/courses/generative-ai-for-healthcare/) – Free Google course for healthcare professionals, administrators, medical researchers, and technology innovators that demystifies generative AI and large language models (LLMs). Equips learners with skills to apply these tools in real-world healthcare settings through digital courses covering fundamentals, applications, and practical implementation. (🟢 Beginner)
   - 📖 Access: Fully open, free online
   - 🏛️ Authority: Google (official healthcare AI course)
   - 🎓 Audience: Healthcare professionals, administrators, researchers, tech innovators
-  - 🔍 Topics: LLMs, generative AI, clinical applications
+  - 🔧 Topics: LLMs, generative AI, clinical applications
   - [Tags: beginner generative-ai llm google healthcare-applications free 2025]
 
 - [Medical Imaging and Radiology Free Course - Alison](https://alison.com/course/medical-imaging-and-radiology) – Free, comprehensive introduction to medical imaging fundamentals and radiology. Learn imaging modalities (X-ray, CT, MRI, ultrasound), anatomy, pathology, and AI's role in diagnostic imaging. Perfect foundation before diving into AI-specific medical imaging. Includes free certificate upon completion. (🟢 Beginner)
   - 📖 Access: Fully open, free on Alison
   - ⏱️ Duration: ~5 hours
-  - 📜 Certificate: Free upon completion
+  - 📄 Certificate: Free upon completion
   - 🎓 Perfect as prerequisite for AI medical imaging courses
   - [Tags: beginner medical-imaging radiology fundamentals free-certificate alison 2025]
 
@@ -73,7 +77,7 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🌍 Global: Accessible from 150+ countries
   - 🎥 Format: Video lessons + interactive webinars
   - ⏱️ Duration: 6-8 weeks (self-paced)
-  - 📜 Free certificate included
+  - 📄 Free certificate included
   - [Tags: beginner healthcare-professionals ai-masterclass free-mooc webinars physiopedia 2024]
 
 - [KU Leuven MOOC: AI in Healthcare](https://med.kuleuven.be/en/study/programmes/AI-in-healthcare) – Free 10-module online course from prestigious KU Leuven Faculty of Medicine introducing AI principles, explaining AI's added value in healthcare, and providing foundational knowledge to develop AI applications in healthcare. Structured for healthcare professionals, scholars, and anyone interested in AI applications in healthcare. No prerequisites except high school mathematics and healthcare interest. Audit track completely free. (🟢 Beginner)
@@ -90,27 +94,27 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - [MIT 6.S191: AI in Healthcare (YouTube Lecture Series)](https://www.youtube.com/watch?v=cvXVK8oqU4Q) – Official MIT course (6.S191) lectures on artificial intelligence in healthcare. Covers computer vision for medical imaging, NLP for clinical text, predictive models for patient outcomes, and challenges in deploying AI in clinical settings. Taught by MIT faculty and leading healthcare AI researchers. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
   - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
-  - 👨‍🏫 Format: Official lecture series
+  - 🐨 Format: Official lecture series
   - ⏱️ Duration: Full course with multiple lectures
-  - 🎯 Topics: Medical imaging AI, clinical NLP, predictive models, deployment challenges
+  - 🎏 Topics: Medical imaging AI, clinical NLP, predictive models, deployment challenges
   - [Tags: intermediate mit official-lecture medical-imaging clinical-nlp predictive-models 2025]
 
 - [PyTorch and Monai for AI Healthcare Imaging (freeCodeCamp)](https://www.youtube.com/watch?v=M3ZWfamWrBM) – Comprehensive 5-hour hands-on course teaching how to use PyTorch, MONAI, and Python for computer vision in medical imaging. Build an algorithm for automatic liver segmentation using real medical data. Covers U-Net architecture, dataset preparation, pre-processing medical images with MONAI transforms, and deploying healthcare AI models. Complete with code repository on GitHub. (🟡 Intermediate)
   - 📖 Access: Free on YouTube
-  - 👨‍🏫 Instructor: Mohammed El Amine MOKHTARI (PyCad)
+  - 🐨 Instructor: Mohammed El Amine MOKHTARI (PyCad)
   - 🛠️ Hands-on: Yes (full code on GitHub)
   - ⏱️ Duration: 5 hours 10 minutes
   - 💻 Tools: PyTorch, MONAI, Python, ITK-SNAP
-  - 📊 Real medical data (liver segmentation)
+  - 📃 Real medical data (liver segmentation)
   - [Tags: intermediate medical-imaging pytorch monai liver-segmentation hands-on freecodecamp 2025]
 
 - [Medical AI Models with TensorFlow (freeCodeCamp)](https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/) – Hands-on 1-hour course teaching how to build and evaluate medical AI models using TensorFlow for chest X-ray analysis. Learn to create diagnostic models, understand model architecture, optimize performance, and evaluate using metrics like AUC curves, sensitivity, and specificity. Taught by Dr. Jason Adleberg, a radiologist and programmer. (🟡 Intermediate)
   - 📖 Access: Free on freeCodeCamp YouTube
-  - 👨‍🏫 Instructor: Dr. Jason Adleberg (Radiologist, NYC)
+  - 🐨 Instructor: Dr. Jason Adleberg (Radiologist, NYC)
   - 🛠️ Hands-on: Yes (TensorFlow implementation)
   - ⏱️ Duration: 1 hour
   - 💻 Tools: TensorFlow, Python, Google Colab
-  - 📊 Chest X-ray diagnostic models
+  - 📃 Chest X-ray diagnostic models
   - [Tags: intermediate tensorflow chest-xray diagnostic-ai radiologist hands-on freecodecamp 2025]
 
 - [Learn2Trust: Video Program for AI Medical Image Analysis](https://arxiv.org/abs/2208.07314) – Video and Streamlit-based educational program for AI-based medical image analysis targeted at medical students and healthcare professionals. Learn to build, evaluate, and interpret AI models for medical imaging with interactive demonstrations and real examples. Free and open-source. (🟡 Intermediate)
@@ -126,7 +130,7 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🏛️ Authority: Harvard Medical School (HMS)
   - 👥 Target: Physicians and clinical practitioners
   - ⏱️ Duration: 2 days (intensive virtual)
-  - 🎯 Topics: Clinical AI systems, implementation, practical workflows
+  - 🎏 Topics: Clinical AI systems, implementation, practical workflows
   - 💼 Professional development suitable for clinical teams
   - [Tags: intermediate clinical-medicine harvard medical-school implementation 2025]
 
@@ -146,6 +150,22 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🔬 Covers cutting-edge clinical NLP techniques
   - [Tags: advanced clinical-nlp entity-recognition ehr text-mining healthcare-ai john-snow-labs]
 
+- [Deep Learning Image Classification for Pathology & Radiology (Frontiers 2025)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1574514/full) – Cutting-edge 2025 research introducing innovative deep learning framework for AI-assisted medical imaging. Proposes AMRI-Net (Adaptive Multi-Resolution Imaging Network) and EDAL (Explainable Domain-Adaptive Learning) for unified pathology-radiology analysis. Achieves 94.95% accuracy on multi-modal datasets (X-ray, CT, MRI). Bridges gap between pathology and radiology through advanced deep learning. Published in Frontiers in Medicine 2025. (🔴 Advanced)
+  - 📖 Access: Free on Frontiers in Medicine
+  - 🔬 Topics: Multimodal medical imaging, pathology-radiology integration, explainability
+  - 🎏 Multi-resolution feature extraction, attention mechanisms
+  - 📊 94.95% classification accuracy on diverse modalities
+  - 🔗 Includes uncertainty-aware learning and interpretability
+  - [Tags: advanced medical-imaging pathology-radiology integration deep-learning frontiers 2025]
+
+- [AI in Radiology: 2025 Trends, FDA Approvals & Adoption (IntuitionLabs)](https://intuitionlabs.ai/articles/ai-radiology-trends-2025) – Comprehensive 2025 review of AI radiology covering FDA approvals, clinical adoption rates, and key technologies from CNNs to foundation models. Discusses emerging applications (3D reconstruction, metascanning, integration with genomics), challenges, and next-generation tools for radiologists and AI developers. (🔴 Advanced)
+  - 📖 Access: Fully open, no login required
+  - 📊 2025 Market Overview: Trends, FDA landscape, adoption metrics
+  - 🔬 Topics: CNNs, vision transformers, foundation models, 3D reconstruction
+  - 🚀 Emerging tools: Virtual reality surgical planning, integration with omics
+  - 🌟 Future directions in radiological AI
+  - [Tags: advanced radiology-ai fda-approvals trends adoption clinical-integration 2025]
+
 - [Medical Imaging AI Tutorials & Resources Collection (ISBI 2025)](https://biomedicalimaging.org/2025/tutorials/) – ISBI 2025 conference tutorials on AI in medical imaging covering digital twins, multi-site imaging, graph learning for brain imaging, cortical patterns, multiresolution analysis, wavelets, frames, curvelets for biomedical imaging, image compression, and AI's role in processing clinical images. Combines mathematical physics, signal processing, and computer science. (🔴 Advanced)
   - 📖 Access: Fully open, conference resources
   - 🏛️ Authority: ISBI (International Symposium on Biomedical Imaging)
@@ -158,14 +178,14 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🏛️ Authority: MD Anderson Cancer Center (leading cancer research institution)
   - 🛠️ Type: Deployment platform + model hub
   - 💻 Tools: 26+ pre-trained models, DICOM integration, Python SDK
-  - 📊 Modalities: CT, MR, X-ray, ultrasound, pathology
+  - 📃 Modalities: CT, MR, X-ray, ultrasound, pathology
   - ⚙️ Features: Model reproducibility, validation, easy deployment
   - 🔬 Advanced: Production-ready medical imaging AI
   - [Tags: advanced open-source medical-imaging dicom reproducibility md-anderson mhub deployment 2025]
 
 - [3D Slicer: Open-Source Medical Image Computing Platform](https://www.slicer.org/) – Free, open-source software for 3D image processing, visualization, and analysis in medical imaging. Widely used in research and clinical settings for CT, MRI, ultrasound processing. Features AI integration, automatic segmentation, registration, and reconstruction. Extensive tutorials, documentation, and large community. Essential tool for medical imaging professionals. (🔴 Advanced)
   - 📖 Access: Fully open on GitHub, free download
-  - 📊 Modalities: CT, MRI, ultrasound, pathology images
+  - 📃 Modalities: CT, MRI, ultrasound, pathology images
   - 🛠️ Features: Segmentation, registration, visualization, 3D reconstruction
   - 🤖 AI: Deep learning modules, extension ecosystem
   - 📚 Extensive documentation and tutorial library
@@ -176,34 +196,34 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 📖 Access: Open on arXiv, free access
   - 🏛️ Authority: Google Health + academic institutions
   - 🛠️ Type: Foundation models + development toolkit
-  - 📊 Domains: Medical imaging, clinical NLP, healthcare analytics
+  - 📃 Domains: Medical imaging, clinical NLP, healthcare analytics
   - 💻 Ready-to-use pre-trained models
   - 🔬 Reduces barriers to healthcare AI development
   - [Tags: advanced foundation-models medical-imaging clinical-nlp google-research arxiv 2024]
 
 ---
 
-## 📊 Datasets & Resources
+## 📃 Datasets & Resources
 
 ### All Levels
 
 - [22 Free and Open Medical Datasets for AI Development (Shaip)](https://www.shaip.com/blog/healthcare-datasets-for-machine-learning-projects/) – Comprehensive collection of 22 free open-source medical datasets across categories: general healthcare, medical imaging (MRI, CT, X-ray), genomics, hospital data, and clinical records. Includes OpenNeuro (563 datasets, 19,187 participants), MIMIC-III (ICU data), CheXpert (224K+ chest X-rays), OASIS (neuroimaging), 1000 Genomes Project, and more. Each entry includes access information and use cases. (All Levels)
   - 📖 Access: Fully open, various platforms (AWS, Kaggle, dedicated sites)
-  - 📊 Categories: Medical imaging, genomics, EHR, critical care, radiology
+  - 📃 Categories: Medical imaging, genomics, EHR, critical care, radiology
   - 🌍 Includes: OpenNeuro, MIMIC-III, CheXpert, OASIS, 1000 Genomes, Kaggle datasets
   - 📈 Large-scale: From 1,000s to 100,000s of samples
   - [Tags: datasets medical-imaging genomics ehr open-source collection all-levels 2025]
 
 - [MIMIC-IV: Multiparameter Intelligent Monitoring in Intensive Care Database](https://mimic.mit.edu/) – Large, de-identified ICU database with over 40,000 patient stays, containing vitals, lab results, medications, diagnoses, procedures, and clinical notes. Gold-standard dataset for building and evaluating clinical risk prediction, mortality prediction, and treatment outcome models. Free for academic use with data use agreement. (All Levels)
   - 📖 Access: Free for research (requires credentialed access & data use agreement)
-  - 📊 Size: 40,000+ ICU stays across multiple years
+  - 📃 Size: 40,000+ ICU stays across multiple years
   - 📝 Data Types: Time-series vitals, labs, medications, diagnoses, notes
   - 🔬 Use Cases: Mortality prediction, ICU length-of-stay, early warning systems
   - [Tags: dataset mimic-iv intensive-care ehr time-series clinical-prediction mit 2023]
 
 - [MIMIC-CXR-JPG: Large Chest X-ray Dataset with Reports](https://mimic-cxr.mit.edu/) – One of the largest publicly available chest X-ray datasets with 377,000+ images from over 65,000 patients, each paired with a free-text radiology report. Includes labels for common thoracic pathologies and supports research in diagnostic imaging, report generation, and multimodal learning. (All Levels)
   - 📖 Access: Free for research (requires credentialed access & data use agreement)
-  - 📊 Size: 377,000+ chest X-rays, 65,000+ patients
+  - 📃 Size: 377,000+ chest X-rays, 65,000+ patients
   - 📝 Annotations: Pathology labels + radiology reports
   - 🔬 Use Cases: Disease classification, report generation, vision-language models
   - [Tags: dataset mimic-cxr chest-xray radiology multimodal diagnostic-imaging mit 2019]
@@ -273,6 +293,6 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 21, 2025 | **Total Resources:** 19
+**Last Updated:** December 27, 2025 | **Total Resources:** 24+
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, 2025
