@@ -3,9 +3,9 @@ Apply artificial intelligence to financial analysis, trading, risk assessment, a
 
 ## 📖 Overview
 
-AI for Finance revolutionizes how we analyze markets, manage portfolios, assess risk, detect fraud, and make investment decisions. This field combines machine learning, deep learning, time series analysis, and natural language processing to extract insights from financial data, automate trading strategies, and optimize financial operations. From predicting stock prices to detecting fraud patterns, AI is transforming quantitative finance and investment management.
+AI for Finance revolutionizes how we analyze markets, manage portfolios, assess risk, detect fraud, and make investment decisions. This field combines machine learning, deep learning, time series analysis, and natural language processing to extract insights from financial data, automate trading strategies, and optimize financial operations. From predicting stock prices to detecting fraud patterns, AI is transforming quantitative finance and investment management. Recent advances in generative AI, large language models, and agentic systems are enabling fully autonomous trading agents and intelligent financial copilots.
 
-**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, portfolio-optimization, risk-modeling, fraud-detection, sentiment-analysis, stock-prediction, machine-learning-finance, deep-learning-finance
+**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, portfolio-optimization, risk-modeling, fraud-detection, sentiment-analysis, stock-prediction, machine-learning-finance, deep-learning-finance, llm-trading, agentic-ai, financial-workspace-ai, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -23,6 +23,10 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
 - High-frequency trading strategies
 - Options pricing and derivatives
 - Deep learning for financial prediction
+- Large Language Models (LLMs) for trading
+- Agentic AI and autonomous trading agents
+- Financial workspace AI platforms
+- Generative AI for finance
 
 ---
 
@@ -114,7 +118,44 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 💹 Real-world investment applications
   - [Tags: intermediate portfolio-optimization risk-management python machine-learning edhec coursera 2024]
 
+- [Machine Learning for Trading Specialization (Google Cloud & NYIF)](https://www.coursera.org/courses?query=machine+learning+for+trading) – Comprehensive 3-course specialization from Google Cloud and New York Institute of Finance on applying machine learning and AI to quantitative trading. Covers algorithmic trading fundamentals, ML for trading strategies, and reinforcement learning for trading. Free audit available. (🟡 Intermediate)
+  - 📖 Access: Free audit track available (certificate paid)
+  - 🏛️ Authority: Google Cloud + NYIF
+  - 💻 Tools: Python, GCP, TensorFlow
+  - 🔧 Topics: Algorithmic trading, ML strategies, reinforcement learning
+  - [Tags: intermediate algorithmic-trading machine-learning google-cloud reinforcement-learning coursera 2025]
+
 ### 🔴 Advanced
+
+- [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning (ACL 2025)](https://aclanthology.org/2025.findings-acl.716/) – Cutting-edge research on integrating Large Language Models with reinforcement learning for financial trading. Proposes FLAG-Trader framework that uses LLMs as policy networks with gradient-based RL optimization for trading rewards. Demonstrates how LLMs can be fine-tuned for multi-step financial decision-making. Published at ACL 2025 conference. (🔴 Advanced)
+  - 📖 Access: Free on ACL Anthology (PDF available)
+  - 🏛️ Authority: ACL 2025 Conference (top NLP venue)
+  - 🔬 Topics: LLM agents, reinforcement learning, policy gradient optimization
+  - 🧠 Novel: Combines linguistic processing with RL for trading
+  - 📊 Empirical validation on trading tasks
+  - [Tags: advanced llm trading reinforcement-learning agents acl 2025 research]
+
+- [Alpha-GPT 2.0: Human-in-the-Loop AI for Quantitative Investment (arXiv 2024)](https://arxiv.org/pdf/2402.09746.pdf) – Advanced framework for interactive alpha discovery combining large language models with quantitative finance. Introduces Human-in-the-Loop approach where LLMs collaborate with quantitative analysts to mine trading alpha. Demonstrates how generative AI can accelerate alpha generation. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 💻 Tools: LLMs, Python, backtesting frameworks
+  - 🔬 Topics: LLM-assisted alpha mining, human-AI collaboration, trading strategies
+  - 🎯 Framework: Interactive iterative process
+  - [Tags: advanced llm generative-ai alpha-mining quantitative-finance arxiv 2024]
+
+- [TradExpert: Mixture of Expert LLMs for Trading (arXiv 2024)](http://arxiv.org/pdf/2411.00782.pdf) – Novel approach using ensemble of specialized LLMs (Mixture of Experts) for quantitative trading. Demonstrates how multiple LLM experts can synthesize insights from diverse financial data sources and integrate structured/unstructured data. Open approach to multi-modal financial analysis. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (PDF)
+  - 🔬 Topics: Mixture of experts, LLMs, multimodal financial data
+  - 🧠 Novel: Expert ensemble for trading decisions
+  - 📊 Superior performance on financial tasks
+  - [Tags: advanced llm mixture-of-experts trading multimodal arxiv 2024]
+
+- [Financial Workspace AI: Quant Trading Platforms Accelerate 2025 (AICerts)](https://www.aicerts.ai/news/financial-workspace-ai-quant-trading-platforms-accelerate-2025/) – Comprehensive 2025 overview of emerging Financial Workspace AI platforms (LSEG, QuantConnect, etc.) and agentic trading tools. Covers LLM-integrated platforms, automated strategy generation, real-time execution systems, and regulatory considerations. Discusses market size (USD 17-22B today, projected USD 43B by 2030) and skill requirements. (🔴 Advanced)
+  - 📖 Access: Fully open, no login required
+  - 📊 Market Analysis: 2025 trends, growth projections
+  - 🔧 Topics: Agentic AI, workspace platforms, tool-integrated systems
+  - 💼 For: Quant developers, traders, FinTech professionals
+  - 🌟 Highlights: Skill evolution, risk considerations
+  - [Tags: advanced fintech workspace-ai agentic-trading platforms 2025 market-trends]
 
 - [QuantLib - Free Quantitative Finance Library](https://www.quantlib.org/) – Production-ready, mature C++ open-source library for quantitative finance. Used extensively in investment banks and hedge funds worldwide. Covers derivatives pricing, trading systems, risk management, and fixed income calculations. Comprehensive documentation, multiple language bindings (Python, Java, C#), and active community. Modified BSD license suitable for proprietary applications. (🔴 Advanced)
   - 📖 Access: Fully open on GitHub (modified BSD license)
@@ -131,7 +172,7 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🔬 Topics: Advanced architectures, attention mechanisms, transformer models
   - [Tags: advanced deep-learning lstm transformers financial-prediction github 2024]
 
-- [FinML-Chain: Blockchain-Integrated Financial Machine Learning Dataset](https://arxiv.org/pdf/2411.16277.pdf) – Novel framework combining financial machine learning with blockchain integration for enhanced model development and reproducibility. Demonstrates LSTM, XGBoost, and neural network approaches for financial analysis. Includes dataset, evaluation framework, and methodology for blockchain-verified ML models. Research paper with reproducible experiments. (🔴 Advanced)
+- [FinRL-Chain: Blockchain-Integrated Financial Machine Learning Dataset (arXiv 2024)](https://arxiv.org/pdf/2411.16277.pdf) – Novel framework combining financial machine learning with blockchain integration for enhanced model development and reproducibility. Demonstrates LSTM, XGBoost, and neural network approaches for financial analysis. Includes dataset, evaluation framework, and methodology for blockchain-verified ML models. Research paper with reproducible experiments. (🔴 Advanced)
   - 📖 Access: Open on arXiv (free PDF)
   - 💻 Techniques: LSTM, XGBoost, neural networks, blockchain
   - 🔬 Topics: Financial ML, blockchain integration, reproducibility
@@ -151,6 +192,26 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🔧 Topics: Backtesting methodology, validation, optimization pitfalls
   - [Tags: advanced backtesting python trading-strategy validation methodology]
 
+- [FinRL: Deep Reinforcement Learning Framework (Open-Source)](https://github.com/AI4Finance-Foundation/FinRL) – Production-ready open-source framework for applying deep reinforcement learning to quantitative trading. Simplifies building RL-based trading agents with easy-to-use API. Comprehensive documentation, multiple trading environments, and pre-trained models. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, TensorFlow/PyTorch
+  - 🔧 Topics: Deep RL, trading agents, strategy optimization
+  - 🚀 Production-ready implementation
+  - [Tags: advanced reinforcement-learning trading github open-source finrl 2024]
+
+- [Deep Reinforcement Learning for Quantitative Trading (arXiv)](https://arxiv.org/pdf/2312.15730.pdf) – Research paper on applying deep reinforcement learning to quantitative trading. Covers advanced RL algorithms, financial environments, reward shaping for trading, and empirical validation. Theoretical foundations with practical implementation guidance. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (PDF)
+  - 🔬 Topics: Deep RL, temporal difference learning, policy optimization
+  - 📊 Empirical results on trading tasks
+  - [Tags: advanced reinforcement-learning trading arxiv research 2023]
+
+- [Automate Strategy Finding with LLM in Quant Investment (arXiv 2025)](https://arxiv.org/html/2409.06289) – Cutting-edge 2025 research on using LLMs to automatically generate quantitative trading strategies. Demonstrates multi-agent architecture with LLM-generated alphas achieving superior trading performance and stability. Novel approach to strategy generation and optimization. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 🔬 Topics: LLM agents, alpha generation, multi-agent systems
+  - 🧠 Novel: Automated strategy discovery
+  - 📊 Superior performance vs baselines
+  - [Tags: advanced llm alpha-generation multi-agent trading arxiv 2025]
+
 ---
 
 ## 🛠️ Tools & Libraries
@@ -166,8 +227,10 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - Zipline (algorithmic trading)
   - yfinance (market data)
   - SHAP (model interpretability)
-- **Platforms:** QuantConnect, Alpaca, Interactive Brokers API, Binance API
+  - **FinRL** (reinforcement learning framework)
+- **Platforms:** QuantConnect, Alpaca, Interactive Brokers API, Binance API, Financial Workspace AI
 - **Data Sources:** Yahoo Finance, Alpha Vantage, Quandl, Polygon.io, IEX Cloud
+- **LLM Tools:** OpenAI API, Anthropic Claude, LLaMA, Hugging Face Transformers
 
 ---
 
@@ -178,12 +241,14 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - ML foundations for finance applications
 - [Data Science & Analytics](./data-science-analytics.md) - Financial data analysis and visualization
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural networks for trading strategies
+- [Generative AI](./generative-ai.md) - LLMs and generative models for finance
+- [Reinforcement Learning](./reinforcement-learning.md) - RL for trading and portfolio management
 
 **Cross-reference:**
 - [Natural Language Processing](./natural-language-processing.md) - Sentiment analysis for financial news
-- [Reinforcement Learning](./recommender-systems.md) - RL for portfolio management and trading
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Python tools and backtesting frameworks
 - [Explainable AI](./explainable-ai.md) - Interpreting financial AI models
+- [Research Papers & Publications](./research-papers-publications.md) - Latest fintech and quantitative research
 
 **Prerequisites:**
 - Python programming proficiency
@@ -202,7 +267,7 @@ If you're completely new to AI for Finance, start with these resources in order:
 2. **QuantInsti 8-Course Quantitative Trading Path** - Next step: Structured progression with hands-on Python projects
 3. **Coursera GenAI for Algorithmic Trading** - Advance to: Modern AI techniques in trading systems
 
-After completing the starter kit, explore backtesting, deep learning for time series, and portfolio optimization.
+After completing the starter kit, explore advanced topics: reinforcement learning, LLM-based agents, and quantitative finance fundamentals.
 
 ---
 
@@ -216,6 +281,7 @@ After completing the starter kit, explore backtesting, deep learning for time se
 - Start with paper trading before risking real capital
 - Understand regulations in your jurisdiction
 - Consult with licensed financial advisors
+- Be cautious with automated trading systems - model risk is real
 
 ---
 
@@ -240,6 +306,6 @@ Found a great free AI for finance resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 21, 2025 | **Total Resources:** 14
+**Last Updated:** December 27, 2025 | **Total Resources:** 20+ (Courses: 18 + Tools: 2+)
 
-**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, coursera, quantinsti, youtube, quantlib, edhec, cfte, cakeai, pdfai, 2025
+**Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, llm-trading, agentic-ai, reinforcement-learning-trading, financial-workspace-ai, coursera, quantinsti, youtube, quantlib, edhec, cfte, cakeai, pdfai, acl, arxiv, 2025
