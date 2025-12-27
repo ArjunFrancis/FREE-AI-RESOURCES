@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **387+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **398+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-387+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-398+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2025%2C%202025-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2027%2C%202025-brightblue.svg)]
 
 ---
 
@@ -14,15 +14,17 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 387+ | Across all categories (updated Dec 25) |
+| **Total Resources** | 398+ | Across all categories (updated Dec 27) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~13 | Well-distributed across topics |
+| **Average/Category** | ~13.7 | Well-distributed across topics |
+| **Recent Growth** | +38 resources (5 days) | 7.6 resources/day pace |
 | **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
 | **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
-| **Today's Additions** | Time Series (+6), Recommender Systems (+5) | Foundation models, GNN, LLM applications |
+| **Today's Additions** | Finance (+6 LLM trading), Healthcare (+5 medical imaging) | 2025 cutting-edge research |
+| **2025 Content** | 70%+ | Latest research prioritized |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 25, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 27, 2025 | Regular verification & updates |
 
 ---
 
@@ -74,9 +76,10 @@
 
 | Domain | Path | Duration | Resources |
 |--------|------|----------|----------|
-| **Healthcare** | Vision + Domain knowledge | 12 weeks | [Computer Vision](resources/computer-vision.md) + [Healthcare AI](resources/ai-for-healthcare.md) |
-| **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) + [Finance AI](resources/ai-for-finance.md) |
+| **Healthcare** | Vision + Domain knowledge | 12 weeks | [Computer Vision](resources/computer-vision.md) + [Healthcare AI](resources/ai-for-healthcare.md) (24 resources) |
+| **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) (19 resources) + [Finance AI](resources/ai-for-finance.md) (20 resources) |
 | **Robotics** | RL + Control systems | 14 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) + [Robotics](resources/robotics-embodied-ai.md) |
+| **Recommendations** | Collaborative filtering, GNNs | 8 weeks | [Recommender Systems](resources/recommender-systems.md) (19 resources) |
 
 ---
 
@@ -111,8 +114,8 @@
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 23 | 🔴 | Graph learning |
 | [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
 | [Audio & Speech Processing](resources/audio-speech-processing.md) | 25 | 🟡 | ASR, TTS, speech synthesis |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡🔴 | **NEW** Foundation models, TimeGPT, LLM forecasting |
-| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡🔴 | **NEW** GNN, Knowledge graphs, RDF |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡🔴 | **NEW**: Foundation models, TimeGPT, LLM forecasting |
+| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡🔴 | **NEW**: GNN, Knowledge graphs, RDF, LightGNN |
 
 **Total**: ~216 resources | **Perfect for**: Ready to specialize
 
@@ -156,15 +159,15 @@
 
 **Real-world AI in specific fields**
 
-| Domain | Resources | Difficulty | Impact |
-|--------|-----------|------------|--------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | 19 | 🟡 | Medical diagnosis, drug discovery |
-| [AI for Finance](resources/ai-for-finance.md) | 14 | 🟡 | Trading, risk analysis |
-| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~22 | 🔴 | Autonomous systems |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡 | Prediction, anomaly detection |
-| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡 | Personalization |
+| Domain | Resources | Difficulty | Latest Updates | Impact |
+|--------|-----------|------------|---|--------|
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 24 | 🟡 | **+5 Dec 27**: Medical imaging, pathology-radiology integration, FDA trends | Medical diagnosis, drug discovery |
+| [AI for Finance](resources/ai-for-finance.md) | 20 | 🟡 | **+6 Dec 27**: LLM trading, agentic AI, financial workspace | Trading, risk analysis |
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~22 | 🔴 | Modern robot learning, embodied intelligence | Autonomous systems |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡 | Foundation models, TimeGPT, LLM reasoning | Prediction, anomaly detection |
+| [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡 | GNNs, knowledge graphs, RDF integration | Personalization |
 
-**Total**: ~93 resources | **Perfect for**: Domain specialists
+**Total**: ~104 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -463,12 +466,14 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 25, 2025
-- **Last Verification**: Dec 25, 2025, 5:56 PM UTC+4
+- **Last Updated**: December 27, 2025
+- **Last Verification**: Dec 27, 2025, 5:30 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
 - **Update Frequency**: Multiple times per week
+- **Growth Rate**: 7.6 resources/day (Dec 23-27)
+- **Path to 500+**: March 2026 (estimated)
 
 ---
 
@@ -484,6 +489,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**387+ resources | 29 categories | 100% free | Quality assured**
+**398+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
