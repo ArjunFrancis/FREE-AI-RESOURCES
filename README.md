@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **398+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **410+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-398+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-410+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2027%2C%202025-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2028%2C%202025-brightblue.svg)]
 
 ---
 
@@ -14,17 +14,17 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 398+ | Across all categories (updated Dec 27) |
+| **Total Resources** | 410+ | Across all categories (updated Dec 28) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~13.7 | Well-distributed across topics |
-| **Recent Growth** | +38 resources (5 days) | 7.6 resources/day pace |
-| **Top Categories** | Mathematics (29), Generative AI (24), Prompt Engineering (23) | Comprehensive coverage |
-| **Newest Categories** | Spatial Intelligence, World Models, Quantum AI | Cutting-edge emerging fields |
-| **Today's Additions** | Finance (+6 LLM trading), Healthcare (+5 medical imaging) | 2025 cutting-edge research |
-| **2025 Content** | 70%+ | Latest research prioritized |
+| **Average/Category** | ~14.1 | Well-distributed across topics |
+| **Recent Growth** | +50 resources (6 days) | 8.3 resources/day pace |
+| **Top Categories** | Mathematics (33), Generative AI (24), Tools (33), Prompt Engineering (23) | Comprehensive coverage |
+| **Newest Additions** | Ethics (+4), Mathematics (+4), Tools (+4) | 2025 cutting-edge resources |
+| **Today's Additions (Dec 28)** | Ethics, Mathematics, Tools (+12) | LSE masterclass, MIT courses, MLOps platforms |
+| **2025 Content** | 75%+ | Latest research prioritized |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 27, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 28, 2025 | Regular verification & updates |
 
 ---
 
@@ -91,11 +91,11 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [Mathematics for AI](resources/mathematics-for-ai.md) | 29 | 🟢 | Linear algebra, calculus, stats |
+| [Mathematics for AI](resources/mathematics-for-ai.md) | 33 | 🟢 | Linear algebra, calculus, stats, probability engineering |
 | [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 10 | 🟢 | Core ML concepts |
 | [Data Science & Analytics](resources/data-science-analytics.md) | 7 | 🟢 | EDA, visualization, SQL |
 
-**Total**: ~46 resources | **Perfect for**: Complete beginners
+**Total**: ~50 resources | **Perfect for**: Complete beginners
 
 ---
 
@@ -178,11 +178,11 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
+| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 33 | 🟢 | PyTorch, TensorFlow, MLflow, platform comparisons |
 | [AI Security & Privacy](resources/ai-security-privacy.md) | 9 | 🟡 | Adversarial robustness, privacy |
-| [AI Ethics](resources/ai-ethics.md) | 23 | 🟢 | Responsible AI |
-| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | ~29 | 🟢 | PyTorch, TensorFlow, MLflow |
+| [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness, human rights |
 
-**Total**: ~75 resources | **Perfect for**: Production engineers
+**Total**: ~83 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -466,14 +466,14 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 27, 2025
-- **Last Verification**: Dec 27, 2025, 5:30 PM UTC+4
+- **Last Updated**: December 28, 2025
+- **Last Verification**: Dec 28, 2025, 6:15 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
 - **Update Frequency**: Multiple times per week
-- **Growth Rate**: 7.6 resources/day (Dec 23-27)
-- **Path to 500+**: March 2026 (estimated)
+- **Growth Rate**: 8.3 resources/day (Dec 23-28)
+- **Path to 500+**: February 2026 (estimated)
 
 ---
 
@@ -489,6 +489,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**398+ resources | 29 categories | 100% free | Quality assured**
+**410+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
