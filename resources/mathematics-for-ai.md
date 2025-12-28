@@ -4,9 +4,9 @@ Essential mathematical foundations including linear algebra, calculus, probabili
 
 ## 📖 Overview
 
-Mathematics forms the theoretical foundation of AI and machine learning. Understanding linear algebra, calculus, probability, and optimization is crucial for comprehending how algorithms work, implementing models from scratch, and advancing research.
+Mathematics forms the theoretical foundation of AI and machine learning. Understanding linear algebra, calculus, probability, and optimization is crucial for comprehending how algorithms work, implementing models from scratch, and advancing research. Recent 2025 advances include practical probability engineering approaches for deep learning and comprehensive reviews of statistics in the AI era.
 
-**Keywords:** mathematics-for-ai, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, gradient-descent, mathematical-foundations, ml-math
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, gradient-descent, mathematical-foundations, ml-math, probability-engineering, statistics-ai-era, deep-learning-theory, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -22,6 +22,9 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 - Information theory
 - Markov chains and stochastic processes
 - Discrete mathematics and graph theory
+- Probability engineering and randomness modeling
+- Statistical foundations of deep learning
+- Bayesian inference and variational methods
 
 ---
 
@@ -63,6 +66,20 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌍 Authority: MIT Mathematics Department
   - 📝 Topics: Matrix derivatives, Jacobians, automatic differentiation, optimization algorithms
   - [Tags: advanced matrix-calculus optimization gradient-computation mit 2025]
+
+- [Advancing Deep Learning through Probability Engineering: A Pragmatic Paradigm for Modern AI](https://arxiv.org/html/2503.18958v1) **(Advanced)** ⭐ **2025 RESEARCH** - Cutting-edge arXiv paper from March 2025 proposing probability engineering as fundamental paradigm for modern deep learning. Demonstrates how explicit probabilistic modeling, uncertainty quantification, and stochastic sampling enhance neural networks beyond standard backpropagation. Covers Bayesian deep learning, variational inference, normalizing flows, diffusion models, and energy-based models with practical implementation insights. Bridges classical probability theory and modern generative AI.
+  - 📖 Access: Free on arXiv (HTML format)
+  - 🔬 Novel: Practical probability engineering for modern AI
+  - 📝 Topics: Uncertainty quantification, variational inference, diffusion models, energy-based models, Bayesian deep learning
+  - 🧠 Emerging field: Probability engineering as ML paradigm
+  - [Tags: advanced probability-engineering deep-learning uncertainty bayesian arxiv 2025]
+
+- [Applied Statistics in the Era of Artificial Intelligence: A Review and Vision](https://arxiv.org/pdf/2412.10331.pdf) **(Advanced)** - Comprehensive 2024 research review examining how classical statistics is evolving in context of AI and machine learning. Covers estimation, inference, causal inference, experimental design, robustness, and applications in generative models. Addresses tensions between statistical rigor and ML scalability with vision for future of AI-enhanced statistics and statistics-grounded AI.
+  - 📖 Access: Free PDF (arXiv)
+  - 🔬 Analysis: Statistics meets AI era
+  - 📝 Topics: Bayesian inference, causal inference, robustness, experimental design, generative models
+  - 🌟 Vision: Unified statistics-AI future
+  - [Tags: advanced statistics ai-era causal-inference bayesian robustness arxiv 2024]
 
 ---
 
@@ -121,7 +138,7 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 - [Mathematics for Machine Learning (Coursera, Imperial College London)](https://www.coursera.org/specializations/mathematics-machine-learning) **(Beginner/Intermediate)** - Free foundational specialization from Imperial College London (via Coursera) that covers essential linear algebra, multivariate calculus, and PCA (Principal Component Analysis) concepts for AI/ML. Suitable for absolute beginners and those refreshing core math skills for machine learning. Audit for free (certificate available with fee).
   - 📖 Access: Free audit available (certificate requires fee)
   - 🏛️ Source: Imperial College London (Coursera)
-  - 👨‍🏫 Instructors: Imperial College London faculty
+  - 🐨 Instructors: Imperial College London faculty
   - ⚠️ Note: Requires free Coursera account
   - [Tags: beginner intermediate mathematics-for-ai linear-algebra calculus statistics machine-learning imperial-college-london free-course fundamentals 2025]
 
@@ -129,6 +146,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📖 Access: Fully open, MIT OCW
   - 🌍 Authority: MIT (Professor Gilbert Strang)
   - [Tags: intermediate university-course linear-algebra mit]
+
+- [MIT 18.05: Introduction to Probability and Statistics (Spring 2022)](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) **(Intermediate)** ⭐ **UPDATED 2025** - Official MIT OpenCourseWare course covering probability foundations and statistics essentials for data science and machine learning. Covers probability axioms, random variables, distributions, Bayesian inference, hypothesis testing, confidence intervals, and regression with full lecture notes, recitation videos, assignments, and exams. Last updated Spring 2022 with 2025 course materials.
+  - 📖 Access: Fully open, MIT OCW
+  - 🌍 Authority: MIT Mathematics Department
+  - 📝 Topics: Probability theory, Bayesian inference, hypothesis testing, statistical inference, regression
+  - 🎥 Format: Lecture notes, videos, problem sets, exams with solutions
+  - [Tags: intermediate mit probability statistics bayesian-inference hypothesis-testing confidence-intervals 2025]
 
 - [Stanford CS229 Math Resources](https://cs229.stanford.edu) **(Intermediate)** - Comprehensive collection of mathematical review materials from Stanford's legendary machine learning course covering linear algebra, probability theory, convex optimization, and hidden Markov models with detailed notes and problem sets designed specifically for ML applications.
   - 📖 Access: Fully open, course website
@@ -243,6 +267,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 29
+**Last Updated:** December 28, 2025 | **Total Resources:** 33 (+4 new 2025 resources)
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, 2025
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, 2025
