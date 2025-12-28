@@ -4,9 +4,9 @@ Ethical considerations, frameworks, and guidelines for developing and deploying 
 
 ## 📖 Overview
 
-AI Ethics addresses the moral implications and societal impacts of artificial intelligence systems. It encompasses principles for responsible development, bias mitigation, fairness, transparency, accountability, privacy protection, and ensuring AI benefits humanity while minimizing potential harms.
+AI Ethics addresses the moral implications and societal impacts of artificial intelligence systems. It encompasses principles for responsible development, bias mitigation, fairness, transparency, accountability, privacy protection, and ensuring AI benefits humanity while minimizing potential harms. Recent 2025 advances include comprehensive masterclasses from leading universities, human rights-centered approaches, and practical frameworks for transparency and fairness in deployed systems.
 
-**Keywords:** ai-ethics, responsible-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, ai-safety, human-rights-ai, data-privacy
+**Keywords:** ai-ethics, responsible-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, ai-safety, human-rights-ai, data-privacy, trustworthy-ai, llm-ethics, generative-ai-ethics, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -23,6 +23,9 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 - Explainable AI (XAI) and interpretability
 - Environmental and social impact of AI
 - Algorithmic decision-making and impact assessment
+- Ethics in large language models and generative AI
+- International regulatory frameworks (EU AI Act, GDPR)
+- Human control and meaningful oversight
 
 ---
 
@@ -31,10 +34,10 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 **If you're completely new to AI Ethics, start with these 3 resources in order:**
 
 1. 🟢 [Elements of AI: AI Ethics Module](https://www.elementsofai.com/) - Quick introduction to ethical implications of AI in accessible language for non-technical audiences
-2. 🟢 [Ethics of AI - University of Helsinki](https://ethics-of-ai.mooc.fi) - Free self-paced course exploring what AI ethics means and how to develop AI ethically
-3. 🟡 [Practical Steps for Building Fair AI Algorithms (Coursera)](https://www.coursera.org/learn/algorithmic-fairness) - Learn fairness principles and design algorithms that minimize bias in healthcare and other high-stakes applications
+2. 🟢 [Responsible AI: Transparency & Ethics - Coursera 2025](https://www.coursera.org/learn/responsible-ai-transparency--ethics) - Practical tools and hands-on frameworks for building ethical and trustworthy AI systems (2025 updated)
+3. 🟡 [LSE Ethics of AI Masterclass](https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ethics-of-ai) - Three-week intensive covering moral concepts, real-world dilemmas, and ethical frameworks
 
-**After completing the starter kit, explore the full resources below.**
+**After completing the starter kit, explore specialized courses and advanced research below.**
 
 ---
 
@@ -54,6 +57,14 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 ### 🟡 Intermediate
 
+- [Responsible AI: Transparency & Ethics - Coursera 2025](https://www.coursera.org/learn/responsible-ai-transparency--ethics) **(Intermediate)** - Newly updated 2025 course exploring practical tools and frameworks to build ethical and trustworthy AI systems. Learn to identify common sources of bias and apply tools to assess and mitigate them. Implement explainability methods (SHAP, LIME), develop responsible AI checklists, evaluate AI projects for ethical risks, and ensure alignment with compliance frameworks like NIST AI RMF. Hands-on experience with AI Fairness 360, demonstrating that while 75% of business leaders agree AI ethics is important, most lack necessary tools—this course fills that gap.
+  - 📖 Access: Free (audit mode), Coursera platform
+  - 🏛️ Authority: Industry practitioners (multi-company collaboration)
+  - 🛠️ Hands-on: Yes (AI Fairness 360, SHAP, LIME tools)
+  - ⏱️ Duration: 1 week, self-paced
+  - 📝 Topics: Bias detection, fairness assessment, explainability, responsible AI checklists, NIST AI RMF, model cards
+  - [Tags: intermediate hands-on tools fairness explainability compliance 2025]
+
 - [Ethics of Artificial Intelligence (Coursera)](https://www.coursera.org/learn/ethics-of-artificial-intelligence) **(Intermediate)** - Free course (audit mode) dealing with ethical issues created by AI using case studies and ethical frameworks to analyze AI's impact on society, privacy, autonomy, and decision-making.
   - 📖 Access: Free to audit (certificate paid)
   - ⚠️ Note: Requires free Coursera account
@@ -65,6 +76,22 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 📝 Duration: 4 modules, self-paced
   - ⚠️ Note: Requires free Coursera account
   - [Tags: intermediate fairness algorithmic-bias case-studies healthcare criminal-justice chatgpt 2025]
+
+- [LSE Ethics of AI Masterclass](https://www.lse.ac.uk/study-at-lse/executive-education/programmes/ethics-of-ai) **(Intermediate)** - Three-week intensive online masterclass from London School of Economics examining ethical challenges and opportunities presented by AI technologies. Apply moral concepts—inequality, fairness, transparency—to real-world situations to understand and resolve ethical dilemmas. Gain insight into how AI technologies are used in business contexts (hiring, employee supervision) and understand implications for discrimination, power imbalances, and organizational ethics. Taught by LSE faculty experts with practical case studies and interactive discussions.
+  - 📖 Access: Fully open, self-paced online
+  - 🏛️ Authority: London School of Economics (LSE)
+  - ⏱️ Duration: 3 weeks intensive
+  - 👥 Format: Online masterclass with interactive components
+  - 📝 Topics: Moral philosophy, fairness, transparency, real-world case studies, organizational ethics
+  - [Tags: intermediate masterclass lse business-applications hiring discrimination 2025]
+
+- [Responsible AI: Transparency, Accountability, Explainability and Privacy (UC San Diego)](https://extendedstudies.ucsd.edu/courses/responsible-ai-transparency-accountability-explainability-and-privacy-cse-41402) **(Intermediate)** - Comprehensive course from UC San Diego examining ethical, social, and political dimensions of AI technology. Explore how AI technologies influence fairness, privacy, bias, democracy, and social justice. Through engaging case studies, dynamic discussions, and practical hands-on exercises, develop a comprehensive framework for designing, developing, and deploying AI systems responsibly. Learn critical analysis skills to evaluate AI systems for ethical implications, frameworks and tools for bias mitigation and transparency, empathetic design principles, and awareness of policy/regulatory landscapes. Taught by faculty with real-world industry experience.
+  - 📖 Access: Free audit track available
+  - 🏛️ Authority: University of California, San Diego
+  - 🛠️ Hands-on: Yes (bias audit challenges, demystifying model decisions)
+  - 📝 Duration: Self-paced (typically 8-10 weeks)
+  - 📝 Topics: Ethical implications, bias and fairness, privacy/security, data protection, governance, surveillance, algorithmic fairness, communication skills
+  - [Tags: intermediate hands-on case-studies ucsd fairness privacy governance 2025]
 
 ---
 
@@ -104,6 +131,21 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 📝 Duration: Self-paced (approximately 45 minutes)
   - 🎯 Topics: Fairness, transparency, accountability, privacy, inclusiveness, safety
   - [Tags: beginner intermediate microsoft governance principles frameworks 2025]
+
+---
+
+## 🌍 International & Human Rights Perspectives
+
+### 🟡 Intermediate
+
+- [Summer School on AI, Ethics and Human Rights (UNICRI 2025)](https://unicri.org/advanced-education-artificial-intelligence-ai-ethics-human-rights-2025) **(Intermediate to Advanced)** - Two-week intensive summer school from UN Interregional Crime and Justice Research Institute (UNICRI) examining artificial intelligence through human rights lens. Explore how AI reshapes societies and the ethical challenges it presents, particularly for marginalized communities. Study algorithmic bias, discrimination, inequalities, power imbalances, and surveillance. Understand tensions between public safety and personal freedom. Examine neuro-AI convergence and specific applications in healthcare, criminal justice, and labor. Through lectures, document analysis, case studies, interactive debates, and expert insights from international practitioners, develop nuanced understanding of AI's role in society and how to ensure ethical development respecting human rights. Includes AI literacy and human rights foundation modules.
+  - 📖 Access: Free to apply (deadline June 16, 2025)
+  - 🏛️ Authority: UN Interregional Crime and Justice Research Institute (UNICRI)
+  - ⏱️ Duration: 2 weeks intensive (hosted The Hague, Netherlands)
+  - 🌍 Focus: Human rights, marginalized communities, global perspective
+  - 📝 Topics: AI fundamentals, ethics, human rights, algorithmic bias, surveillance, neuro-AI, criminal justice, labor rights, ethical accountability
+  - 👥 Format: In-person lectures, case studies, debates, expert sessions
+  - [Tags: intermediate advanced unicri human-rights summer-school ethics international perspective 2025]
 
 ---
 
@@ -181,10 +223,11 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 - [Natural Language Processing](./natural-language-processing.md) - Bias in language models
 - [Explainable AI](./explainable-ai.md) - XAI techniques for transparency and interpretability
 - [AI Security & Privacy](./ai-security-privacy.md) - Privacy-preserving AI techniques and governance
+- [Generative AI](./generative-ai.md) - Ethics considerations in large language models
 
 **Cross-reference:**
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Tools for fairness testing and explainability
-- [Generative AI](./generative-ai.md) - Ethics considerations in large language models
+- [Mathematics for AI](./mathematics-for-ai.md) - Mathematical foundations of fairness concepts
 
 ---
 
@@ -208,6 +251,6 @@ Found a great free AI ethics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 14, 2025 | **Total Resources:** 23
+**Last Updated:** December 28, 2025 | **Total Resources:** 27 (Courses: 23 + Collections: 2 + Research: 2)
 
-**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, industry-practices, case-studies, practical-tools, coursera, algorithmic-fairness, fairness-textbook, 2025
+**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, lse, unicri, industry-practices, case-studies, practical-tools, coursera, masterclass, summer-school, international-perspective, neural-rights, llm-ethics, generative-ai-ethics, 2025
