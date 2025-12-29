@@ -1,34 +1,34 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **410+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **416+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-410+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-416+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2028%2C%202025-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2029%2C%202025-brightblue.svg)]
 
 ---
 
-## 📊 Repository Statistics
+## 📈 Repository Statistics
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 410+ | Across all categories (updated Dec 28) |
+| **Total Resources** | 416+ | Across all categories (updated Dec 29) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~14.1 | Well-distributed across topics |
-| **Recent Growth** | +50 resources (6 days) | 8.3 resources/day pace |
-| **Top Categories** | Mathematics (33), Generative AI (24), Tools (33), Prompt Engineering (23) | Comprehensive coverage |
-| **Newest Additions** | Ethics (+4), Mathematics (+4), Tools (+4) | 2025 cutting-edge resources |
-| **Today's Additions (Dec 28)** | Ethics, Mathematics, Tools (+12) | LSE masterclass, MIT courses, MLOps platforms |
+| **Average/Category** | ~14.3 | Well-distributed across topics |
+| **Recent Growth** | +59 resources (7 days) | 8.4 resources/day pace |
+| **Top Categories** | Mathematics (33), Generative AI (24), Tools (33), Prompt Engineering (23), AI Security (15) | Comprehensive coverage |
+| **Newest Additions** | AI Security (+6), Ethics (+4), Mathematics (+4) | 2025 cutting-edge resources |
+| **Today's Additions (Dec 29)** | AI Security & Privacy (+6) | Coursera, Microsoft, Stanford, Bellet, arXiv, Pluralsight |
 | **2025 Content** | 75%+ | Latest research prioritized |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 28, 2025 | Regular verification & updates |
+| **Last Updated** | Dec 29, 2025, 3:37 PM UTC+4 | Continuous verification & updates |
 
 ---
 
-## 🎯 Quick Start Guide
+## 🎏 Quick Start Guide
 
 ### 👶 **For Complete Beginners (4-6 weeks)**
 
@@ -137,7 +137,7 @@
 
 ---
 
-### 🏛 **University Programs** (World-Class Education)
+### 🏰 **University Programs** (World-Class Education)
 
 **Goal**: University-level education from top institutions - **ALL FREE**
 
@@ -155,7 +155,7 @@
 
 ---
 
-### 🌍 **Domain Applications** (Industry Use Cases)
+### 🌐 **Domain Applications** (Industry Use Cases)
 
 **Real-world AI in specific fields**
 
@@ -179,10 +179,10 @@
 |----------|-----------|------------|-------|
 | [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 33 | 🟢 | PyTorch, TensorFlow, MLflow, platform comparisons |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 9 | 🟡 | Adversarial robustness, privacy |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | **+6 NEW**: Red teaming, privacy-preserving ML, secure AI systems |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness, human rights |
 
-**Total**: ~83 resources | **Perfect for**: Production engineers
+**Total**: ~89 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -335,14 +335,14 @@ FREE-AI-RESOURCES/
 
 ## ✨ What Makes This Repository Special
 
-### 🎯 Quality Over Quantity
+### 🎉 Quality Over Quantity
 - Every resource personally vetted
 - Difficulty levels clearly marked (🟢🟡🔴)
 - Real-world applicability verified
 - No low-quality or outdated content
 - Regular verification and updates
 
-### 📊 Expertly Organized
+### 📈 Expertly Organized
 - Organized by learning format (not just topics)
 - Multiple ways to navigate (difficulty, type, path)
 - Clear prerequisites and connections
@@ -356,7 +356,7 @@ FREE-AI-RESOURCES/
 - University Programs (36 courses from top 5 universities)
 - Not just traditional ML—future of AI included
 
-### 🌍 100% Free & Accessible
+### 🌐 100% Free & Accessible
 - Every resource completely free (no paywalls)
 - No subscriptions or payment gates
 - Accessible globally (not region-locked)
@@ -460,19 +460,19 @@ Resources linked from this repository are subject to their own respective licens
 - 🗣️ **Discussions**: [Join community Q&A](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions)
 - 🔗 **Pull Requests**: [Contribute resources](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/pulls)
 - 📧 **Contact**: [@ArjunFrancis](https://github.com/ArjunFrancis)
-- 🌍 **GitHub**: [FREE-AI-RESOURCES Repository](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
+- 🌐 **GitHub**: [FREE-AI-RESOURCES Repository](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
 
 ---
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 28, 2025
-- **Last Verification**: Dec 28, 2025, 6:15 PM UTC+4
+- **Last Updated**: December 29, 2025, 3:37 PM UTC+4
+- **Last Verification**: Dec 29, 2025
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
 - **Update Frequency**: Multiple times per week
-- **Growth Rate**: 8.3 resources/day (Dec 23-28)
+- **Growth Rate**: 8.4 resources/day (Dec 23-29)
 - **Path to 500+**: February 2026 (estimated)
 
 ---
@@ -489,6 +489,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**410+ resources | 29 categories | 100% free | Quality assured**
+**416+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
