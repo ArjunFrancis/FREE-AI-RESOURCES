@@ -87,6 +87,13 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: microsoft github generative-ai llm prompt-engineering beginner 2024]
   - [Verified: 2025-12-17]
 
+- [Learn NLP for Free - Complete Beginner Guide (YouTube)](https://www.youtube.com/watch?v=gVAJ_l_S7uQ) – Educational video guide explaining how to start learning NLP from scratch with recommended free resources, learning paths, and prerequisite knowledge. Perfect roadmap for complete beginners with no prior experience. (🟢 Beginner)
+  - 📖 Access: Fully open (YouTube)
+  - 📺 Video: Comprehensive learning roadmap
+  - 🏛️ Authority: Educational YouTube channel
+  - [Tags: youtube beginner-guide learning-roadmap free-resources 2022]
+  - [Verified: 2025-12-31]
+
 ### 🟡 Intermediate
 
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) – Hands-on introduction to NLP and transformers using Hugging Face ecosystem (Transformers, Datasets, Tokenizers). Build practical models for text classification, NER, question answering. (🟡 Intermediate)
@@ -152,6 +159,13 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: cohere llm university semantic-search rag intermediate 2024]
   - [Verified: 2025-12-17]
 
+- [The Self-Taught NLP Engineer: A Complete Curriculum](https://jamescalam.medium.com/the-self-taught-nlp-engineer-curriculum-c425c3fc3ff6) – Comprehensive learning roadmap covering prerequisites, core NLP topics, advanced techniques, and career guidance. Structured curriculum with recommended resources, project ideas, and timeline. (🟡 Intermediate)
+  - 📖 Access: Fully open (Medium article)
+  - 🏛️ Authority: James Clam (NLP expert)
+  - 📋 Type: Learning curriculum and roadmap
+  - [Tags: curriculum roadmap self-taught learning-path intermediate 2022]
+  - [Verified: 2025-12-31]
+
 ### 🔴 Advanced
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
@@ -169,13 +183,15 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: cmu advanced-nlp vision-language llm-security interpretability research 2024]
   - [Verified: 2025-12-16]
 
-- [Natural Language Processing Full Course 2025 (Edureka)](https://www.youtube.com/watch?v=SNG7yLLh_lA) – Comprehensive 8+ hour NLP course from beginner to advanced covering tokenization, stemming, vectorization, word embeddings, sentiment analysis, BERT, and transformers. Hands-on Python coding with NLTK, spaCy, and Hugging Face. (🔴 Advanced)
+- [Natural Language Processing Full Course 2025 (Edureka)](https://www.youtube.com/watch?v=SNG7yLLh_lA) – Comprehensive 8+ hour NLP course from beginner to advanced covering tokenization, stemming, vectorization, word embeddings, sentiment analysis, BERT, and transformers. Hands-on Python coding with NLTK, spaCy, Hugging Face, and TensorFlow with real-world projects. (🔴 Advanced)
   - 📖 Access: Fully open (YouTube)
-  - 🛠️ Hands-on: Yes, complete Python examples
-  - 📺 Video: 8+ hours comprehensive tutorial
+  - 🛠️ Hands-on: Yes, complete Python examples with live projects
+  - 📺 Video: 8+ hours comprehensive tutorial with code walkthrough
   - ⏱️ Duration: Full course (8+ hours)
+  - 🏛️ Authority: Edureka (leading online learning platform)
+  - **Topics:** Tokenization, stemming, TF-IDF, word embeddings, Word2Vec, sentiment analysis, BERT, Transformers, NER, machine translation
   - [Tags: edureka full-course python transformers bert hands-on 2025]
-  - [Verified: 2025-12-16]
+  - [Verified: 2025-12-31]
 
 - [Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application](https://arxiv.org/abs/2411.05026) – Comprehensive exploration of ML and DL for NLP with focus on LLMs, tokenization, text classification, entity recognition. Bridges theory and practical application. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv preprint)
@@ -262,7 +278,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 17, 2025 | **Total Resources:** 28 (20 courses + 4 docs + 4 tools)
-**Last Link Validation:** December 17, 2025
+**Last Updated:** December 31, 2025 | **Total Resources:** 32 (24 courses + 4 docs + 4 tools)
+**Last Link Validation:** December 31, 2025
 
 **Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, coursera, llm-2025, free-courses-2025, generative-ai
