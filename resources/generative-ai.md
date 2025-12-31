@@ -94,6 +94,21 @@ Generative AI represents one of the most transformative developments in artifici
   - **Topics:** Transformers architecture, Fine-tuning, Training, NLP applications, Model deployment  
   - [Tags: `intermediate` `huggingface` `transformers` `nlp` `fine-tuning` `pytorch` `tensorflow` `2025`]
 
+- **[Code an LLM From Scratch (freeCodeCamp)](https://www.youtube.com/watch?v=UU1WVnMk4E8)** - Comprehensive 5+ hour course teaching how to build a complete Large Language Model from the ground up, covering tokenization, embeddings, attention mechanisms, training loops, inference optimization, and RLHF. Step-by-step Python implementation with full code walkthrough and explanations.
+  - 📖 **Access:** Fully open (YouTube)
+  - 🛠️ **Hands-on:** Yes, complete Python implementation
+  - ⏱️ **Duration:** 5 hours 43 minutes
+  - 🏛️ **Source:** freeCodeCamp (trusted education platform)
+  - **Topics:** Tokenization, embeddings, attention, transformer blocks, training, inference, RLHF
+  - [Tags: `intermediate` `from-scratch` `llm-implementation` `python` `hands-on` `freecodecamp` `2023`]
+
+- **[LLM Fundamentals: A Free Complete Course](https://github.com/mlabonne/llm-course)** - Comprehensive open-source learning path covering LLM fundamentals, hands-on implementation, and advanced techniques. Includes notebooks, code examples, and structured curriculum with free resources for all skill levels. Community-driven with active maintenance.
+  - 📖 **Access:** Fully open (GitHub repository)
+  - 🛠️ **Hands-on:** Yes, Jupyter notebooks with code
+  - 🏛️ **Source:** GitHub community (mlabonne)
+  - **Topics:** LLM basics, fine-tuning, quantization, deployment, inference optimization
+  - [Tags: `intermediate` `github` `open-source` `curriculum` `hands-on` `llm-fundamentals` `2025`]
+
 ### 🔴 Advanced
 
 - **[Technical Fundamentals of Generative AI - Stanford Online](https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai)** - Conference-style course featuring distinguished Stanford faculty and experts from Stanford HAI. Covers deep technical principles of foundation models, LLM training, prompt engineering, benchmarking, multimodal systems, and broader societal implications. Designed for leaders and practitioners who need profound understanding of technical architecture and human-centered AI.
@@ -116,6 +131,21 @@ Generative AI represents one of the most transformative developments in artifici
   - 🎓 **Level:** Academic/Advanced  
   - **Courses Include:** Machine Learning fundamentals, Matrix Calculus, Computational Thinking, AI ethics, Generative AI  
   - [Tags: `advanced` `mit-ocw` `machine-learning` `mathematical-foundations` `academic` `2025`]
+
+- **[Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://www.youtube.com/watch?v=quh7z1q7-uc)** - Advanced practical workshop by Sebastian Raschka teaching how to build Large Language Models from first principles. Covers neural network fundamentals, attention mechanisms, transformer architecture, and complete implementation. Hands-on coding with mathematical explanations and best practices.
+  - 📖 **Access:** Fully open (YouTube)
+  - 🛠️ **Hands-on:** Yes, complete implementation
+  - ⏱️ **Duration:** 2 hours 43 minutes
+  - 👨‍🏫 **Instructor:** Sebastian Raschka (ML expert, author)
+  - **Topics:** Neural networks, attention, transformers, parameter initialization, training techniques
+  - [Tags: `advanced` `from-scratch` `workshop` `transformers` `hands-on` `sebastian-raschka` `2024`]
+
+- **[Coding LLMs from the Ground Up - Complete Course Series](https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up)** - Comprehensive multi-part educational series by Sebastian Raschka breaking down LLM development into digestible chapters. Covers fundamental concepts, implementation details, training strategies, and deployment considerations with clear explanations and code examples.
+  - 📖 **Access:** Fully open (Substack magazine)
+  - 📖 **Type:** Educational article series
+  - 👨‍🏫 **Author:** Sebastian Raschka (renowned ML educator)
+  - **Topics:** LLM architecture, training, optimization, practical implementation, inference
+  - [Tags: `advanced` `course-series` `educational` `llm-development` `sebastian-raschka` `2025`]
 
 ---
 
@@ -262,8 +292,8 @@ Found a great **free** Generative AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 15, 2025  
-**Total Resources:** 24 (+8 new)  
+**Last Updated:** December 31, 2025  
+**Total Resources:** 29 (+5 new)  
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
