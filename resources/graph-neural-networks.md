@@ -68,6 +68,22 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: tutorial gnn-implementation hands-on beginner 2024]
   - [Verified: 2025-12-17]
 
+- [Code a Graph Neural Network from Scratch in 30 Minutes (YouTube)](https://www.youtube.com/watch?v=sozkSRE8wyc) – Super practical 30-minute video tutorial showing how to implement a complete GNN from scratch with minimal code. Perfect for hands-on learners who want to understand GNNs by building them. Includes message passing, aggregation, and node classification. (🟢 Beginner)
+  - 📖 Access: Fully open (YouTube)
+  - 🛠️ Hands-on: Yes, complete from-scratch implementation
+  - 📺 Video: 30 minutes with live coding
+  - 🏛️ Authority: Vizuara (education channel)
+  - **Topics:** Message passing, aggregation functions, node classification, training loops
+  - [Tags: youtube beginner quick-start hands-on message-passing 2024]
+  - [Verified: 2025-12-31]
+
+- [Introduction to Graph Neural Networks - Coursera Article](https://www.coursera.org/articles/graph-neural-networks) – Beginner-friendly overview article explaining what GNNs are, how they work, and why they matter. Covers fundamental concepts with clear language suitable for those new to graph learning. Includes real-world applications and resource recommendations. (🟢 Beginner)
+  - 📖 Access: Fully open (web article)
+  - 🏛️ Authority: Coursera
+  - 📄 Type: Educational article/guide
+  - [Tags: article overview beginner foundational-concepts applications 2024]
+  - [Verified: 2025-12-31]
+
 ### 🟡 Intermediate
 
 - [PyTorch Geometric: Colab Notebooks and Video Tutorials](https://pytorch-geometric.readthedocs.io/en/2.6.1/get_started/colabs.html) – Official collection of Google Colab notebooks covering GNN implementations, advanced techniques, and real-world applications. Interactive, hands-on learning with runnable code. (🟡 Intermediate)
@@ -82,9 +98,18 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - 🛠️ Hands-on: Yes, Colab notebook provided
   - 🏛️ Authority: Stanford University CS224W
   - 📺 Video: 2 hours comprehensive tutorial
-  - 📝 Colab: [Notebook Link](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
+  - 📄 Colab: [Notebook Link](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
   - [Tags: stanford cs224w youtube pytorch-geometric hands-on intermediate 2020]
   - [Verified: 2025-12-16]
+
+- [Graph Neural Networks in TensorFlow: A Practical Guide (YouTube)](https://www.youtube.com/watch?v=JqWROPYeqjA) – Comprehensive practical tutorial on building and deploying GNNs using TensorFlow. Covers graph representations, layer implementations, and real-world applications. Excellent for practitioners using TensorFlow ecosystem. (🟡 Intermediate)
+  - 📖 Access: Fully open (YouTube)
+  - 🛠️ Hands-on: Yes, complete code examples
+  - 📺 Video: Tutorial with live coding
+  - 🏛️ Authority: Conference speaker (TensorFlow expert)
+  - **Topics:** Graph representation, TensorFlow GNN, layer implementation, applications
+  - [Tags: youtube tensorflow tutorial practical-guide hands-on 2022]
+  - [Verified: 2025-12-31]
 
 - [Hugging Face LLM Course - Chapter 1: Introduction](https://huggingface.co/learn/llm-course/chapter1/1) – While focused on LLMs, Chapters 5-8 teach NLP fundamentals that relate to graph-structured text processing. Covers Datasets, Tokenizers, and classic NLP tasks using transformers. (🟡 Intermediate)
   - 📖 Access: Fully open
@@ -92,12 +117,14 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: huggingface llm transformers nlp intermediate 2021]
   - [Verified: 2025-12-16]
 
-- [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) – Free comprehensive GNN course with Jupyter notebooks covering theory, implementations, and real-world applications. Includes hands-on projects with PyTorch Geometric. (🟡 Intermediate)
+- [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) – Free comprehensive GNN course with Jupyter notebooks covering theory, implementations, and real-world applications. Includes hands-on projects with PyTorch Geometric. Well-structured curriculum for self-directed learning. (🟡 Intermediate)
   - 📖 Access: Fully open (GitHub)
   - 🛠️ Hands-on: Yes, Jupyter notebooks with exercises
   - 🌍 Global: Interactive notebooks, self-paced
+  - 🏛️ Authority: Community expert (mlabonne)
+  - **Topics:** GNN theory, PyTorch Geometric implementation, real-world projects
   - [Tags: github course pytorch-geometric jupyter hands-on intermediate 2022]
-  - [Verified: 2025-12-16]
+  - [Verified: 2025-12-31]
 
 - [Fast.ai Forum: Graph Neural Networks - Tutorials and Resources](https://forums.fast.ai/t/graph-neural-networks-tutorials-and-resources/110234) – Curated collection of GNN tutorials, papers, and learning resources compiled by the Fast.ai community. Excellent for self-directed learning. (🟡 Intermediate)
   - 📖 Access: Fully open
@@ -188,12 +215,12 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 
 ---
 
-## 📊 Datasets & Benchmarks
+## 📂 Datasets & Benchmarks
 
 - [Open Graph Benchmark (OGB)](https://snap-stanford.github.io/ogb-web/) – Large-scale, realistic benchmark datasets for graph machine learning from Stanford SNAP. Includes node classification, link prediction, and graph classification tasks. (🟡 Intermediate)
   - 📖 Access: Fully open
   - 🏛️ Authority: Stanford SNAP (Jure Leskovec group)
-  - 📂 Datasets: ogbn-arxiv, ogbl-ppa, ogbg-molhiv, and more
+  - 📋 Datasets: ogbn-arxiv, ogbl-ppa, ogbg-molhiv, and more
   - [Tags: benchmark datasets stanford snap evaluation 2021]
   - [Verified: 2025-12-16]
 
@@ -211,7 +238,7 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 
 ---
 
-## 📝 Research Papers
+## 📄 Research Papers
 
 - [PyTorch Geometric Temporal: Spatiotemporal Signal Processing](https://arxiv.org/abs/2104.07788) – Extension of PyTorch Geometric for temporal graphs and time-series on graphs
 - [TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs](https://arxiv.org/abs/2112.02052) – Performance optimization techniques for GNNs
@@ -261,7 +288,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 17, 2025 | **Total Resources:** 23 (16 courses + 3 docs + 4 tools + 5 benchmarks)
-**Last Link Validation:** December 17, 2025
+**Last Updated:** December 31, 2025 | **Total Resources:** 27 (19 courses + 3 docs + 4 tools + 6 benchmarks)
+**Last Link Validation:** December 31, 2025
 
-**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, free-courses-2025, aida-course
+**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, free-courses-2025, tensorflow-gnn
