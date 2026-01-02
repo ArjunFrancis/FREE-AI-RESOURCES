@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **429+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **440+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-429+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-440+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Dec%2031%2C%202025-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%202%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,23 +14,22 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 429+ | Across all categories (updated Dec 31) |
+| **Total Resources** | 440+ | Across all categories (updated Jan 2, 2026) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~14.8 | Well-distributed across topics |
-| **Recent Growth** | +72 resources (8 days) | 9.0 resources/day pace |
+| **Average/Category** | ~15.2 | Well-distributed across topics |
+| **Recent Growth** | +11 resources (Jan 2, 2026) | Continuous daily updates |
 | **Top Categories** | Mathematics (33), AI Tools (33), Generative AI (29), Prompt Engineering (23), Natural Language Processing (32), Audio/Speech (25), AI Security (15) | Comprehensive coverage |
-| **Newest Additions** | NLP (+4), Generative AI (+5), Graph Neural Networks (+4) | Dec 31, 2025 |
-| **Today's Additions (Dec 31)** | NLP, Generative AI, GNN | 13 new resources |
-| **2025 Content** | 80%+ | Latest research prioritized |
+| **Newest Additions** | RL (+3), Robotics (+4), Time Series (+4) | Jan 2, 2026 |
+| **2025 Content** | 85%+ | Latest research prioritized |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Dec 31, 2025, 5:58 AM UTC+4 | Continuous verification & updates |
+| **Last Updated** | Jan 2, 2026, 3:45 PM UTC+4 | Continuous verification & updates |
 
 ---
 
 ## 🌐 Quick Start Guide
 
-### 🐛 **For Complete Beginners (4-6 weeks)**
+### 🟢 **For Complete Beginners (4-6 weeks)**
 
 **Goal**: Understand AI/ML fundamentals and build your first project
 
@@ -53,7 +52,7 @@
 |------|-------|----------|---------------|
 | **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) (32 resources) → [Generative AI](resources/generative-ai.md) (29 resources) |
 | **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) → [Multimodal AI](resources/multimodal-ai.md) |
-| **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) → [Robotics](resources/robotics-embodied-ai.md) |
+| **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) (24 resources) → [Robotics](resources/robotics-embodied-ai.md) (26 resources) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
 
 **Starting Point**: Choose your specialization above
@@ -77,8 +76,8 @@
 | Domain | Path | Duration | Resources |
 |--------|------|----------|----------|
 | **Healthcare** | Vision + Domain knowledge | 12 weeks | [Computer Vision](resources/computer-vision.md) + [Healthcare AI](resources/ai-for-healthcare.md) (24 resources) |
-| **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) (19 resources) + [Finance AI](resources/ai-for-finance.md) (20 resources) |
-| **Robotics** | RL + Control systems | 14 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) + [Robotics](resources/robotics-embodied-ai.md) |
+| **Finance** | Time series + Analysis | 10 weeks | [Time Series](resources/time-series-forecasting.md) (21+ resources) + [Finance AI](resources/ai-for-finance.md) (20 resources) |
+| **Robotics** | RL + Control systems | 14 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) (24 resources) + [Robotics](resources/robotics-embodied-ai.md) (26 resources) |
 | **Recommendations** | Collaborative filtering, GNNs | 8 weeks | [Recommender Systems](resources/recommender-systems.md) (19 resources) + [GNN](resources/graph-neural-networks.md) (27 resources) |
 
 ---
@@ -106,34 +105,35 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures, backprop |
-| [Natural Language Processing](resources/natural-language-processing.md) | 32 | 🟡🔴 | **+4 NEW**: Language understanding, from-scratch implementations |
+| [Natural Language Processing](resources/natural-language-processing.md) | 32 | 🟡🔴 | Language understanding, from-scratch implementations |
 | [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding |
-| [Reinforcement Learning](resources/reinforcement-learning.md) | 21 | 🟡🔴 | Agent training |
-| [Generative AI](resources/generative-ai.md) | 29 | 🔴 | **+5 NEW**: LLMs from scratch, diffusion models, hands-on implementation |
+| [Reinforcement Learning](resources/reinforcement-learning.md) | 24 | 🟡🔴 | **+3 NEW**: Agent training, Deep RL methods |
+| [Generative AI](resources/generative-ai.md) | 29 | 🔴 | LLMs from scratch, diffusion models, hands-on implementation |
 | [Explainable AI](resources/explainable-ai.md) | ~12 | 🟡 | Interpretability |
-| [Graph Neural Networks](resources/graph-neural-networks.md) | 27 | 🔴 | **+4 NEW**: Graph learning, hands-on tutorials, TensorFlow/PyTorch |
+| [Graph Neural Networks](resources/graph-neural-networks.md) | 27 | 🔴 | Graph learning, hands-on tutorials, TensorFlow/PyTorch |
 | [Prompt Engineering](resources/prompt-engineering.md) | 23 | 🟢 | Prompt optimization |
 | [Audio & Speech Processing](resources/audio-speech-processing.md) | 25 | 🟡 | ASR, TTS, speech synthesis |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡🔴 | Foundation models, TimeGPT, LLM forecasting |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | **+4 NEW**: Classical, ML, and deep learning approaches |
 | [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡🔴 | GNN, Knowledge graphs, RDF, LightGNN |
 
-**Total**: ~229 resources | **Perfect for**: Ready to specialize
+**Total**: ~233 resources | **Perfect for**: Ready to specialize
 
 ---
 
-### 🌟 **Emerging & Cutting-Edge** (Frontiers)
+### 🌟 **Embodied AI & Robotics** (Emerging Frontier)
 
-**Goal**: Explore cutting-edge AI technologies
+**Goal**: Intelligent systems interacting with the physical world
 
 | Category | Resources | Status | Focus |
 |----------|-----------|--------|-------|
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 26 | 🟢 Live | **+4 NEW**: ROS/ROS2, robot learning, simulation, manipulation |
 | [Spatial Intelligence](resources/spatial-intelligence.md) | ~8 | 🟢 Live | 3D AI, LGMs, robotics |
 | [World Models](resources/world-models.md) | ~10 | 🟢 Live | Physics simulation, AGI |
 | [Quantum AI](resources/quantum-ai.md) | ~13 | 🟢 Live | Quantum computing, ML |
 | [Multimodal AI](resources/multimodal-ai.md) | 12 | 🟢 Live | Vision + language |
 | [Edge AI & IoT](resources/edge-ai-iot.md) | 10 | 🟢 Live | On-device AI, TinyML |
 
-**Total**: ~53 resources | **Perfect for**: Research and innovation
+**Total**: ~79 resources | **Perfect for**: Physical world AI
 
 ---
 
@@ -160,14 +160,14 @@
 **Real-world AI in specific fields**
 
 | Domain | Resources | Difficulty | Latest Updates | Impact |
-|--------|-----------|------------|---|--------|
+|--------|-----------|------------|---|----------|
 | [AI for Healthcare](resources/ai-for-healthcare.md) | 24 | 🟡 | Medical imaging, pathology-radiology integration, FDA trends | Medical diagnosis, drug discovery |
 | [AI for Finance](resources/ai-for-finance.md) | 20 | 🟡 | LLM trading, agentic AI, financial workspace | Trading, risk analysis |
-| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | ~22 | 🔴 | Modern robot learning, embodied intelligence | Autonomous systems |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 19 | 🟡 | Foundation models, TimeGPT, LLM reasoning | Prediction, anomaly detection |
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 26 | 🔴 | **+4 NEW**: Modern robot learning, embodied intelligence | Autonomous systems |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡 | **+4 NEW**: Foundation models, transformers, LLMs | Prediction, anomaly detection |
 | [Recommender Systems](resources/recommender-systems.md) | 19 | 🟡 | GNNs, knowledge graphs, RDF integration | Personalization |
 
-**Total**: ~104 resources | **Perfect for**: Domain specialists
+**Total**: ~110 resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -261,7 +261,7 @@ Weeks 1-4: Fundamentals + Deep Learning
   →
 Weeks 5-8: Reinforcement Learning
   →
-Weeks 9-12: Robotics Core + Embodied AI
+Weeks 9-12: Robotics Core + Embodied AI (26 resources)
   →
 Weeks 13-14: Real robot project
 ```
@@ -466,13 +466,13 @@ Resources linked from this repository are subject to their own respective licens
 
 ## 📈 Repository Activity
 
-- **Last Updated**: December 31, 2025, 5:58 AM UTC+4
-- **Last Verification**: Dec 31, 2025
+- **Last Updated**: January 2, 2026, 3:45 PM UTC+4
+- **Last Verification**: Jan 2, 2026
 - **Active Maintenance**: ✅ Yes
 - **Community Contributors**: Growing
 - **Issue Response Time**: <24 hours
 - **Update Frequency**: Multiple times per day
-- **Growth Rate**: 9.0 resources/day (Dec 23-31)
+- **Growth Rate**: 9+ resources/day (sustained)
 - **Path to 500+**: January 2026 (estimated)
 
 ---
@@ -489,6 +489,6 @@ Resources linked from this repository are subject to their own respective licens
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**429+ resources | 29 categories | 100% free | Quality assured**
+**440+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
