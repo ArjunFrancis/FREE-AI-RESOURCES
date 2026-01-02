@@ -86,6 +86,22 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 ### 🟡 Intermediate
 
+- [Programming for Robotics - ROS (ETH Zurich)](https://rsl.ethz.ch/education-students/lectures/ros.html) – Comprehensive ROS programming course from ETH Zurich (Swiss Federal Institute of Technology). Covers fundamentals to advanced ROS concepts with emphasis on practical robot programming. Includes video lectures, assignments, and access to simulation environments. Taught by leading robotics researchers. One of the most respected academic ROS courses. (🟡 Intermediate)
+  - 📖 Access: Fully open, lecture videos and materials online
+  - 🏛️ Authority: ETH Zurich (top-tier robotics institution)
+  - 🎥 Format: Video lectures with assignments
+  - 🛠️ Hands-on: Yes, ROS programming projects
+  - 🔧 Topics: ROS architecture, nodes, packages, services, actions, sensors, actuators
+  - [Tags: intermediate eth-zurich university ros programming robotics 2024-2025]
+
+- [Learn ROS2: Beginner to Advanced Course (Full Learning Path)](https://www.youtube.com/watch?v=HJAE5Pk8Nyw) – Complete video course teaching ROS2 from absolute beginner to advanced level. Covers installation, core concepts, creating nodes, building real-world robot applications, and debugging. Structured learning path with clear progression from basics to complex systems. Excellent for visual learners wanting comprehensive ROS2 mastery. (🟡 Intermediate)
+  - 📖 Access: Fully open on YouTube, free
+  - 🎥 Format: Complete video course with clear sections
+  - ⏱️ Duration: 8+ hours comprehensive coverage
+  - 🛠️ Hands-on: Yes, follow-along projects
+  - 🔧 Topics: ROS2 installation, architecture, nodes, topics, services, real robot apps
+  - [Tags: intermediate youtube ros2 complete-course video-learning 2025]
+
 - [Robot Learning: A Tutorial (2025)](https://www.youtube.com/watch?v=NXwEN39yrEk) – Comprehensive tutorial covering robot learning from a modern perspective. Discusses reinforcement learning, behavioral cloning, generalist models, imitation learning, and diffusion models for robotics. Features insights from robotics researchers on real-world robot learning challenges and solutions. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
   - 🎥 Duration: ~1 hour comprehensive overview
@@ -158,6 +174,20 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 🎓 Level: Graduate-level
   - ⚠️ Note: Check JHU for enrollment details
   - [Tags: advanced embodied-intelligence graduate-level johns-hopkins robotics 2025]
+
+- [ROS Official Documentation & Tutorials](https://www.ros.org) – Comprehensive official Robot Operating System documentation covering ROS2 and legacy ROS. Includes installation guides, core concepts, tutorials, and API references. Directly from the ROS development team. Essential reference for all ROS programming work. Free and continuously updated. (🔴 Advanced)
+  - 📖 Access: Fully open, official documentation
+  - 📚 Complete API references and guides
+  - 🔧 Topics: Nodes, topics, services, actions, parameters
+  - 🤖 Industry standard for robotics development
+  - [Tags: advanced ros documentation official reference API 2024-2025]
+
+- [Free Electronics and Robotics Courses (Raspberry Pi Foundation)](https://www.raspberrypi.org/courses/electronics-and-robotics) – Free robotics courses from the Raspberry Pi Foundation covering hardware, electronics, and robotics fundamentals. Great for learning hands-on robotics with accessible hardware (Raspberry Pi). Includes tutorials for building and programming simple robots. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open, free
+  - 🎈 Hardware: Affordable Raspberry Pi kits
+  - 🛠️ Hands-on: Yes, practical projects
+  - 🔧 Topics: Electronics, robot building, Python programming
+  - [Tags: beginner-intermediate raspberry-pi electronics robotics hands-on 2024-2025]
 
 - [University of Michigan Robotics Courses](https://robotics.umich.edu/academic-program/courses/) - A collection of free robotics courses from the University of Michigan, covering topics from linear algebra to the Robot Operating System (ROS). (🟢 Beginner to 🔴 Advanced)
   - 📖 Access: Fully open on GitHub and YouTube
@@ -239,6 +269,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 24, 2025 | **Total Resources:** 22 (Courses: 16 + Docs: 2 + Tools: 4)
+**Last Updated:** January 02, 2026 | **Total Resources:** 26 (Courses: 20 + Docs: 6)
 
-**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning
+**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics
