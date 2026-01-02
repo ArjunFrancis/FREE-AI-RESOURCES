@@ -110,6 +110,14 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🔧 Covers policy gradient, actor-critic, off-policy methods
   - [Tags: intermediate hands-on deep-rl algorithms pytorch tensorflow openai 2018]
 
+- [Stanford CS234: Reinforcement Learning (Winter 2025)](http://web.stanford.edu/class/cs234/) – University-level course on RL theory and applications taught by Stanford faculty. Covers MDPs, value iteration, policy iteration, Q-learning, deep Q-networks, policy gradients, and actor-critic methods. Includes lecture notes, assignments, and projects. One of the most comprehensive academic RL courses available free online. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open, course materials publicly available
+  - 🏛️ Source: Stanford University
+  - 📚 Includes: Lecture notes, slides, readings
+  - 🛠️ Projects: Real-world RL applications
+  - 🔧 Topics: MDPs, value/policy methods, deep RL, applications
+  - [Tags: intermediate-advanced stanford cs234 university-course free materials 2025]
+
 - [Kaggle Learn: Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) – Interactive mini-course perfect for learning RL through game development. Covers game AI basics, reinforcement learning concepts, and practical implementation in game environments. Includes hands-on exercises with the Halite competition. Free, no prerequisites. (🟡 Intermediate)
   - 📖 Access: Fully open, free Kaggle account required
   - ⏱️ Duration: 3-4 hours
@@ -134,6 +142,14 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - [Tags: documentation, matlab, official, toolbox, intermediate]
 
 ### 🔴 Advanced
+
+- [Introduction to Machine Learning for the Sciences (Lecture Notes & Code)](https://arxiv.org/abs/2102.04883) – Comprehensive lecture notes introducing machine learning with strong emphasis on reinforcement learning for scientific discovery and control problems. Covers MDPs, Q-learning, policy gradients, and deep RL with applications to physics simulations and optimization. Ideal for scientists and researchers using RL to solve domain-specific problems. (🔴 Advanced)
+  - 📖 Access: Free on arXiv and course website
+  - 📚 Format: Lecture notes with code examples
+  - 🔬 Focus: Scientific applications of RL
+  - 💻 Tools: Python with TensorFlow/PyTorch
+  - 🧪 Applications: Physics, chemistry, materials science
+  - [Tags: advanced scientific-computing rl arxiv lecture-notes domain-specific 2021]
 
 - [Deep Reinforcement Learning: A Brief Survey (2405.11457, arXiv)](https://arxiv.org/abs/2405.11457) – Deep dive into model-free reinforcement learning for biological and robotic systems from a theoretical and practical perspective. Covers mathematical and algorithmic aspects of actor-critic methods, exploration strategies, and real-world applications. Excellent for understanding deep RL from first principles. (🔴 Advanced)
   - 📖 Access: Fully open on arXiv
@@ -210,6 +226,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 12, 2025 | **Total Resources:** 21
+**Last Updated:** January 02, 2026 | **Total Resources:** 24
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, dqn, actor-critic, multi-agent-rl, mdp, temporal-difference, openai-gym, deepmind, hugging-face, policy-optimization, rl-algorithms, curriculum-learning, model-based-rl, imitation-learning
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, dqn, actor-critic, multi-agent-rl, mdp, temporal-difference, openai-gym, deepmind, hugging-face, policy-optimization, rl-algorithms, curriculum-learning, model-based-rl, imitation-learning, stanford-cs234, spinning-up, scientific-ml
