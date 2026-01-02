@@ -1,4 +1,4 @@
-# 📬 Time Series Forecasting
+# 🛋 Time Series Forecasting
 Predict future values by analyzing patterns in temporal data sequences.
 
 ## 📖 Overview
@@ -98,6 +98,13 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🔧 Topics: Classical methods, ML, deep learning, transformers, N-BEATS, N-HiTS
   - [Tags: intermediate-advanced open-source course classical-ml deep-learning transformers free 2025]
 
+- [PyTorch Forecasting Documentation & Tutorials](https://pytorch-forecasting.readthedocs.io) – Official documentation and tutorials for PyTorch Forecasting, a comprehensive PyTorch-based time series library. Covers temporal convolutional networks, attention mechanisms, multi-step forecasting, and handling multivariate series. Includes practical examples and best practices. Essential for deep learning-based forecasting. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open, official documentation
+  - 💻 Tools: PyTorch, Python
+  - 🔧 Topics: Neural forecasting, attention, multivariate series
+  - 🎈 Modern architectures: TemporalFusionTransformer, N-BEATS, N-HiTS
+  - [Tags: intermediate-advanced pytorch documentation deep-learning neural-forecasting 2024-2025]
+
 ### 🔴 Advanced
 
 - [ARIMA vs Prophet vs LSTM for Time Series Prediction (Neptune.ai)](https://neptune.ai/blog/arima-vs-prophet-vs-lstm) – Advanced comparison of three major forecasting approaches: ARIMA (classical), Prophet (additive model), and LSTM (deep learning). Discusses strengths, weaknesses, implementation details, and practical guidelines for choosing the right method. Includes code snippets and real-world examples. (🔴 Advanced)
@@ -136,6 +143,13 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - ⭐ Production-ready: Used by 50+ companies globally
   - [Tags: advanced github foundation-models zero-shot timegpt nixtla open-source 2025]
 
+- [Flow Forecast: Time Series Forecasting Library Built in PyTorch](https://github.com/AIStream-Peelisha/flow-forecast) – Advanced PyTorch-based time series forecasting library supporting multiple architectures (Transformers, LSTMs, GRUs, attention mechanisms). Includes tools for data preprocessing, model training, evaluation, and inference. Great for building custom deep learning forecasting models. Active development and community. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 🛠️ Hands-on: Yes (Python implementation)
+  - 💻 Tools: PyTorch, Python
+  - 🔧 Topics: Multiple architectures, custom models, preprocessing pipelines
+  - [Tags: advanced github pytorch time-series deep-learning library implementation 2024-2025]
+
 - [Guide to Time-Series Analysis in Python (Advanced Sections – Tiger Data)](https://www.tigerdata.com/learn/how-to-work-with-time-series-in-python) – Advanced sections cover building robust ARIMA models, handling exogenous variables, and multi-step forecasting with Python. Good bridge from basic ARIMA to more complex scenarios. (🔴 Advanced)
   - 📖 Access: Fully open
   - 🔧 Topics: ARIMA with exogenous features, longer-horizon forecasts
@@ -155,6 +169,8 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - pmdarima – Auto-ARIMA model selection
   - tslearn – Machine learning for time series
   - sktime – Unified toolbox for time series learning (forecasting, classification)
+  - **PyTorch Forecasting** – Neural forecasting library with modern architectures
+  - **Flow Forecast** – Flexible PyTorch-based forecasting library
   - **TimeGPT (Nixtla)** – Foundation model for time series (production-ready)
 
 - **Databases & Infrastructure:**
@@ -207,6 +223,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 25, 2025 | **Total Resources:** 14+ (Courses: 13 + Tools: 1 + Reference)
+**Last Updated:** January 02, 2026 | **Total Resources:** 21+ (Courses: 19 + Tools: 2 + Reference)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, 2025-advanced
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, 2025-advanced
