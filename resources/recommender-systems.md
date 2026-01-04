@@ -1,11 +1,11 @@
-# 🎏 Recommender Systems
+# 🌏 Recommender Systems
 Build intelligent systems that suggest relevant items to users based on preferences and behavior.
 
 ## 📖 Overview
 
-Recommender Systems power personalized experiences across Netflix, Spotify, Amazon, YouTube, and countless other platforms. These systems analyze user preferences, item features, and interaction patterns to predict and recommend relevant content, products, or services. Techniques range from collaborative filtering to deep learning-based approaches, and modern recommenders combine multiple strategies for optimal results.
+Recommender Systems power personalized experiences across Netflix, Spotify, Amazon, YouTube, and countless other platforms. These systems analyze user preferences, item features, and interaction patterns to predict and recommend relevant content, products, or services. Modern recommender systems combine collaborative filtering, content-based filtering, and deep learning—with emerging advances leveraging graph neural networks, knowledge graphs, and Large Language Models (LLMs) to enable conversational, agentic, and reasoning-based recommendations. In 2025, LLM-powered agentic recommenders are reshaping the field, enabling multi-step reasoning, dynamic memory, and autonomous agent-based suggestion systems.
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking, deep-learning-recommenders, graph-neural-networks, knowledge-graphs, gnn-recommendation, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, neural-collaborative-filtering, recommendation-algorithms, personalization, ranking, deep-learning-recommenders, graph-neural-networks, knowledge-graphs, gnn-recommendation, agentic-recommenders, llm-recommenders, conversational-recommendation, generative-ai-recommenders, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -23,6 +23,10 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - Cold start problem solutions
 - Implicit and explicit feedback mechanisms
 - Ranking algorithms and re-ranking
+- Agentic Recommender Systems powered by LLMs
+- Conversational and dialogue-based recommendations
+- Large Language Models (LLMs) for recommendations
+- Generative recommendations and reasoning-based systems
 - Real-world recommendation systems (Netflix, Spotify, Amazon)
 
 ---
@@ -37,7 +41,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 2. 🟡 [Codecademy Learn Recommender Systems](https://www.codecademy.com/learn/learn-recommender-systems) - Next step: Hands-on Python implementation of recommendation algorithms
 3. 🟡 [Recommendation System Tutorial with Python (TowardsAI)](https://towardsai.net/p/editorial/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering) - Advance to: In-depth Netflix case study with collaborative filtering
 
-**After completing the starter kit, explore neural networks, hybrid approaches, and large-scale systems.**
+**After completing the starter kit, explore neural networks, hybrid approaches, large-scale systems, and emerging LLM-based agentic recommenders.**
 
 ---
 
@@ -92,11 +96,20 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 
 - [LinkedIn Learning: Recommendation Systems - Practical Hands-On Introduction](https://www.linkedin.com/learning/recommendation-systems-a-practical-hands-on-introduction) – Practical guide by Miguel González-Fierro teaching how to build and deploy recommendation systems. Covers collaborative filtering, content-based filtering, evaluation metrics, and real-world deployment and testing considerations. Learn best practices for building production recommendation systems. (🟡 Intermediate)
   - 📖 Access: Free (LinkedIn Learning Premium optional)
-  - 🐨 Instructor: Miguel González-Fierro
+  - 👩‍🎫 Instructor: Miguel González-Fierro
   - 🛠️ Hands-on: Yes (practical examples)
   - 🔧 Topics: Collaborative filtering, evaluation, deployment, testing
-  - 🎹 Real-world best practices
+  - 💼 Real-world best practices
   - [Tags: intermediate recommendation-systems collaborative-filtering deployment linkedin-learning 2025]
+
+- [Recommender Systems: An Applied Approach using Deep Learning (Coursera-Packt)](https://www.coursera.org/learn/packt-recommender-systems-an-applied-approach-using-deep-learning-9o6q1) – Comprehensive course on deep learning approaches to recommender systems. Covers transition from machine learning to deep learning, deep learning models for recommendations, neural collaborative filtering, two-tower models, embeddings for user context, VAE-based collaborative filtering, and TensorFlow Recommenders implementation. Hands-on project: build Amazon product recommendation system. (🟡 Intermediate-Advanced)
+  - 📖 Access: Free audit available (certificate paid)
+  - 🏛️ Source: Coursera (Packt)
+  - 🛠️ Hands-on: Yes (TensorFlow Recommenders, two-tower model)
+  - 💻 Tools: TensorFlow, Python, TensorFlow Recommenders
+  - 🔧 Topics: Deep learning recommenders, embeddings, NCF, VAE-CF, two-tower models
+  - 📃 Real project: Amazon product recommendation system
+  - [Tags: intermediate-advanced deep-learning recommender-systems tensorflow coursera neural-cf two-tower 2025]
 
 ### 🔴 Advanced
 
@@ -111,7 +124,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📖 Access: Fully open on GitHub
   - 💻 Tools: Python, PyTorch
   - 🔬 80+ algorithms implemented
-  - 📈 Benchmarking and evaluation tools
+  - 💪 Benchmarking and evaluation tools
   - 📚 Comprehensive documentation
   - [Tags: advanced github framework pytorch recommendation-systems recbole state-of-the-art 2024]
 
@@ -126,7 +139,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📖 Access: Fully open on GitHub
   - 💻 Language: Python, PyTorch
   - 🔬 Topics: Self-supervised learning, graph CF, sequential, social, KG-enhanced
-  - 📈 Framework: 20+ SSL-based algorithms
+  - 💪 Framework: 20+ SSL-based algorithms
   - 📚 Well-documented with examples
   - [Tags: advanced self-supervised learning recommendation-systems graph-cf pytorch github 2024]
 
@@ -137,23 +150,23 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 🚀 Highly optimized for large-scale systems
   - [Tags: advanced implicit-feedback als recommendation-engine github python 2024]
 
-- [RAMO: Retrieval-Augmented Generation for MOOC Recommendations](https://arxiv.org/pdf/2407.04925.pdf) – Novel research combining Retrieval-Augmented Generation (RAG) with Large Language Models for course recommendation in online learning platforms (MOOCs). Addresses cold-start problem in educational recommendation systems using LLMs and RAG principles. Advanced approach to hybrid recommendation combining neural and symbolic methods. (🔴 Advanced)
+- [RAMO: Retrieval-Augmented Generation for MOOC Recommendations (arXiv 2024)](https://arxiv.org/pdf/2407.04925.pdf) – Novel research combining Retrieval-Augmented Generation (RAG) with Large Language Models for course recommendation in online learning platforms (MOOCs). Addresses cold-start problem in educational recommendation systems using LLMs and RAG principles. Advanced approach to hybrid recommendation combining neural and symbolic methods. (🔴 Advanced)
   - 📖 Access: Open on arXiv (free PDF)
   - 🔬 Topics: RAG, LLMs, MOOC recommendations, cold-start problem
   - 📚 Novel hybrid approach
   - 📄 Full research paper with methodology
   - [Tags: advanced rag llm mooc-recommendations cold-start arxiv research 2024]
 
-- [Recommender Systems Specialization - Coursera](https://www.coursera.org/specializations/recommender-systems) – 5-course specialization from University of Minnesota covering comprehensive recommender systems knowledge from fundamentals to advanced techniques. Topics include collaborative filtering, matrix factorization, content-based approaches, evaluation metrics, and hybrid systems. Honors track includes hands-on projects with LensKit open-source toolkit. Free audit + honors track with toolkit. (🔴 Advanced)
+- [Recommender Systems Specialization - University of Minnesota (Coursera)](https://www.coursera.org/specializations/recommender-systems) – 5-course specialization from University of Minnesota covering comprehensive recommender systems knowledge from fundamentals to advanced techniques. Topics include collaborative filtering, matrix factorization, content-based approaches, evaluation metrics, and hybrid systems. Honors track includes hands-on projects with LensKit open-source toolkit. Free audit + honors track with toolkit. (🔴 Advanced)
   - 📖 Access: Free audit + honors track with LensKit
   - 🏛️ Authority: University of Minnesota
   - 💻 Tools: LensKit (open-source recommendation toolkit)
   - 🔧 Topics: Collaborative filtering, matrix factorization, evaluation, hybrid approaches
-  - 🌈 5 courses with capstone project
-  - 📜 Industry-recognized specialization
+  - 🎏 5 courses with capstone project
+  - 📄 Industry-recognized specialization
   - [Tags: advanced specialization recommender-systems collaborative-filtering matrix-factorization coursera lenskit 2024]
 
-- [Graph Neural Networks in Recommender Systems Survey (ACM)](https://dl.acm.org/doi/10.1145/3535101) – Comprehensive survey of Graph Neural Network (GNN) applications in recommendation systems. Covers GNN fundamentals, GNN-based recommendation architectures, handling different data types (user-item interactions, knowledge graphs), and addresses challenges like scalability and over-smoothing. With curated collection of papers and open-source implementations. Essential reading for understanding modern GNN-based recommenders. (🔴 Advanced)
+- [Graph Neural Networks in Recommender Systems Survey (ACM 2025)](https://dl.acm.org/doi/10.1145/3535101) – Comprehensive survey of Graph Neural Network (GNN) applications in recommendation systems. Covers GNN fundamentals, GNN-based recommendation architectures, handling different data types (user-item interactions, knowledge graphs), and addresses challenges like scalability and over-smoothing. With curated collection of papers and open-source implementations. Essential reading for understanding modern GNN-based recommenders. (🔴 Advanced)
   - 📖 Access: Fully open survey
   - 🏛️ Authority: ACM (Association for Computing Machinery)
   - 🔧 Topics: GNN architectures, graph construction, message passing, recommendation tasks
@@ -164,7 +177,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - [Knowledge Graph Embedded Recommender Systems Review (ScienceDirect 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0957417424007425) – Comprehensive review of recommender systems utilizing knowledge graph embedding techniques. Covers KG fundamentals, KG embedding methods (TransE, DistMult, etc.), integration with CF methods, and various recommendation application scenarios. Includes datasets, benchmarks, and future research directions. Critical resource for understanding knowledge graph-enhanced recommendations. (🔴 Advanced)
   - 📖 Access: Abstract open (article available on ScienceDirect)
   - 🔧 Topics: Knowledge graph embedding, KG-enhanced CF, hybrid methods, applications
-  - 📈 Methodology analysis and evaluation metrics
+  - 💪 Methodology analysis and evaluation metrics
   - 📚 Datasets and benchmarks
   - [Tags: advanced knowledge-graphs embeddings collaborative-filtering review systematic 2024]
 
@@ -176,12 +189,38 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 📚 Accepted at DASFAA 2025 conference
   - [Tags: advanced rdf knowledge-graphs gnn semantic-web linked-data arxiv 2025]
 
-- [LightGNN: Simple Graph Neural Network for Recommendation (2025)](https://arxiv.org/html/2501.03228v1) – Novel GNN pruning framework for scalable and denoised recommendation systems. Introduces explicit edge and embedding redundancy identification using hierarchical knowledge distillation to maintain performance under high-rate compression. Addresses scalability challenges of GNN-based CF for million+ interaction graphs. Advanced technique for production-grade GNN recommenders. (🔴 Advanced)
+- [LightGNN: Simple Graph Neural Network for Recommendation (arXiv 2025)](https://arxiv.org/html/2501.03228v1) – Novel GNN pruning framework for scalable and denoised recommendation systems. Introduces explicit edge and embedding redundancy identification using hierarchical knowledge distillation to maintain performance under high-rate compression. Addresses scalability challenges of GNN-based CF for million+ interaction graphs. Advanced technique for production-grade GNN recommenders. (🔴 Advanced)
   - 📖 Access: Free on arXiv
   - 🔧 Topics: GNN pruning, graph structure learning, knowledge distillation, efficiency
   - 🚀 High compression ratios with maintained accuracy
   - 🔬 Framework includes importance distillation and alignment strategies
   - [Tags: advanced gnn-pruning scalability efficiency graph-neural-networks arxiv 2025]
+
+- [RecSys 2025 Tutorials: Agentic Recommender Systems Powered by LLMs](https://recsys.acm.org/recsys25/tutorials/) – Cutting-edge tutorial from RecSys 2025 conference on agentic recommender systems powered by Large Language Models. Covers core agentic capabilities: context interpretation via chain-of-thought prompting, dynamic memory for sequential profile updates, and policy-driven action selection. Includes practical design of modular system components integrating LLM-based reasoning with user modeling. Addresses challenges: explainability, bias mitigation, safety, and lifelong personalization. Real-world case studies from industrial RecSys teams with open-source framework insights. (🔴 Advanced)
+  - 📖 Access: Free conference resources and tutorials
+  - 🏛️ Authority: RecSys 2025 (top conference on recommender systems)
+  - 🤬 Topics: Agentic AI, LLM reasoning, chain-of-thought, dynamic memory, policy-driven decisions
+  - 🛠️ Hands-on: Yes, with real-world case studies and design patterns
+  - 📄 Practical implementation strategies for production systems
+  - 🔬 Advanced: Explainability, bias, safety, lifelong learning
+  - [Tags: advanced agentic-ai llm recommender-systems chain-of-thought memory recsys 2025]
+
+- [Standard Practices for Data Processing in Recommendation with DataRec and Ducho (RecSys 2025)](https://sites.google.com/view/dd4rec-tutorial) – Tutorial from RecSys 2025 on standardizing data preprocessing in recommendation systems using open-source frameworks DataRec and Ducho. Addresses critical but understudied preprocessing stage with formal taxonomy of standard practices. Includes hands-on sessions on DataRec (data standardization) and Ducho (multimodal feature extraction). Essential for reproducibility and comparability of recommendation systems across industries. (🔴 Advanced)
+  - 📖 Access: Free tutorial materials and code
+  - 🏛️ Authority: RecSys 2025 Community
+  - 🛠️ Hands-on: Yes (DataRec and Ducho frameworks)
+  - 🔧 Topics: Data preprocessing standardization, multimodal feature extraction, taxonomy of practices
+  - 💻 Tools: DataRec (standardization), Ducho (multimodal extraction)
+  - 📄 Framework for reproducibility and benchmarking
+  - [Tags: advanced data-preprocessing multimodal-features standardization datarec ducho recsys 2025]
+
+- [Recent Advances in Generative Conversational Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/tutorials/) – Cutting-edge tutorial covering the latest advances in generative and conversational approaches to recommender systems. Explores how large language models enable dynamic, multi-step recommendation workflows beyond conventional one-shot approaches. Topics include conversational recommendation, context-aware autonomy, evaluation frameworks, user behavior simulation, and explanation generation. Targets researchers and industry engineers with ML background seeking to implement next-generation agentic recommenders. (🔴 Advanced)
+  - 📖 Access: Free conference resources
+  - 🏛️ Authority: RecSys 2025 (top recommender systems conference)
+  - 🤬 Topics: Generative AI, conversational recommendation, LLM integration, multi-step workflows
+  - 📄 Advanced: Multi-agent architectures, evaluation metrics, user simulation
+  - 🔧 Emerging directions in agentic recommenders
+  - [Tags: advanced generative-ai conversational-recommenders llm multi-agent recsys dialogue-systems 2025]
 
 ---
 
@@ -201,6 +240,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - **Frameworks:** PyTorch, TensorFlow, JAX
 - **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing
 - **Evaluation:** Python's scikit-learn, specialized recommendation metrics
+- **LLM Integration:** OpenAI API, Anthropic Claude, LLaMA, Hugging Face Transformers for agentic/conversational recommenders
 
 ---
 
@@ -211,6 +251,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural approaches to recommendations (neural CF, RNNs, attention)
 - [Graph Neural Networks](./graph-neural-networks.md) - GNN fundamentals and advanced techniques for recommendations
 - [Natural Language Processing](./natural-language-processing.md) - Text-based content filtering and embeddings
+- [Generative AI](./generative-ai.md) - LLMs for conversational and agentic recommenders
 
 **Cross-reference:**
 - [Data Science & Analytics](./data-science-analytics.md) - User behavior analysis and visualization
@@ -224,6 +265,19 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - Linear algebra basics (matrix operations, SVD, eigenvalues)
 - Understanding of collaborative filtering concepts
 - Familiarity with similarity metrics (cosine, Euclidean distance)
+- For advanced topics: knowledge of deep learning, graph neural networks, and LLMs
+
+---
+
+## 🌟 Emerging Trends 2025
+
+- **Agentic Recommenders**: LLM-powered agents with reasoning, memory, and autonomous decision-making
+- **Conversational Recommendations**: Multi-turn dialogue systems for dynamic, context-aware suggestions
+- **Generative Recommendations**: Using generative models to create novel recommendations beyond training data
+- **LLM Integration**: Fine-tuning LLMs for domain-specific recommendation tasks
+- **Multimodal Recommendations**: Combining text, images, audio, and structured data
+- **Explainable Agentic Systems**: Making LLM-based recommendations transparent and interpretable
+- **Knowledge Graph Fusion**: Semantic enhancement of recommendations through structured knowledge
 
 ---
 
@@ -247,6 +301,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 25, 2025 | **Total Resources:** 19+ (Courses: 17 + Surveys: 2)
+**Last Updated:** January 4, 2026 | **Total Resources:** 23+ (Courses: 19 + Frameworks: 2 + Surveys: 2)
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, agentic-recommenders, llm-recommenders, conversational-recommendation, generative-ai-recommenders, chain-of-thought, memory-systems, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, recsys, 2025
