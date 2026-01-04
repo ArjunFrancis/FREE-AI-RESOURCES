@@ -5,7 +5,7 @@ Apply artificial intelligence to medical imaging, clinical decision support, hea
 
 AI for Healthcare leverages machine learning, deep learning, computer vision, and natural language processing to revolutionize medical diagnosis, treatment planning, drug discovery, and patient care. From analyzing medical images to processing clinical notes, AI is transforming how healthcare professionals make decisions and deliver care. Recent advances in deep learning, transformers, and generative AI are accelerating innovation in radiology, pathology, drug discovery, and clinical decision support. 2025 sees unprecedented integration of pathology and radiology through multimodal AI, FDA approvals accelerating, and foundation models revolutionizing medical imaging.
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-ml, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, healthcare-analytics, precision-medicine, diagnostic-ai, pytorch, tensorflow, monai, deep-learning-healthcare, pathology-radiology, medical-imaging-integration, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-ml, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, healthcare-analytics, precision-medicine, diagnostic-ai, pytorch, tensorflow, monai, deep-learning-healthcare, pathology-radiology, medical-imaging-integration, foundation-models, multimodal-ai, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -28,6 +28,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - Generative AI in healthcare
 - Foundation models for medical imaging
 - FDA-approved AI diagnostic systems
+- Vision-Language Models (VLMs) for medical imaging
+- Multimodal Large Language Models (MLLMs) for radiology
 
 ---
 
@@ -141,6 +143,15 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 📝 Topics: EHR analysis, risk prediction, interpretability, causal inference in healthcare
   - [Tags: intermediate mit-opencourseware ehr-analysis risk-prediction interpretability causal-inference 2019]
 
+- [Deep Learning for Medical Image Analysis (VU Amsterdam)](https://research.vu.nl/en/courses/deep-learning-for-medical-image-analysis-2/) – Comprehensive course from Vrije Universiteit Amsterdam teaching deep learning principles and applications to medical image analysis. Learn convolutional neural networks, U-Net architecture, and how to apply deep learning to medical imaging pipeline including image acquisition, reconstruction, enhancement, segmentation, and classification. Combines technical deep learning with medical imaging physics and domain expertise. (🟡 Intermediate)
+  - 📖 Access: Fully open, free course materials
+  - 🏛️ Authority: VU Amsterdam (research university)
+  - 🛠️ Hands-on: Yes, using NumPy and neural networks
+  - ⏱️ Duration: Full semester course
+  - 🔬 Topics: CNNs, U-Net, medical image physics, segmentation, classification
+  - 💻 Tools: TensorFlow, PyTorch, NumPy
+  - [Tags: intermediate deep-learning medical-imaging cnn unet physics vu-amsterdam 2024]
+
 ### 🔴 Advanced
 
 - [Clinical NLP Overview (John Snow Labs)](https://www.johnsnowlabs.com/clinical-nlp/) – Comprehensive guide to state-of-the-art natural language processing for clinical text covering entity recognition, temporal information extraction, negation detection, sentiment analysis, clinical trials matching, adverse event detection, and EHR integration. Explains how NLP transforms unstructured clinical notes into structured insights for clinical decision support and personalized care. (🔴 Advanced)
@@ -201,6 +212,24 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🔬 Reduces barriers to healthcare AI development
   - [Tags: advanced foundation-models medical-imaging clinical-nlp google-research arxiv 2024]
 
+- [MICCAI 2025 Foundation Models Tutorial](https://sites.google.com/view/miccai-2025-tutorial) – Cutting-edge tutorial from MICCAI 2025 exploring foundation models and generative AI for medical imaging. Covers Vision-Language Models (VLMs), generative models, multimodal Large Language Models (MLLMs) like MedGemini, and practical medical imaging applications. Includes hands-on demonstrations on knowledge graph infusion and advanced adaptation techniques for radiology. Morning and afternoon sessions with both theory and practical exercises. (🔴 Advanced)
+  - 📖 Access: Free conference resources
+  - 🏛️ Authority: MICCAI 2025 (Medical Image Computing & Computer-Assisted Intervention)
+  - 🎯 Topics: Foundation models, Vision-Language models, multimodal MLLMs, zero-shot learning
+  - 🛠️ Hands-on: Yes, with practical demonstrations
+  - 📝 Covers: Model training, adaptation, domain knowledge integration, radiology applications
+  - [Tags: advanced foundation-models vlm multimodal miccai hands-on medical-imaging 2025]
+
+- [Deep Learning for Medical Imaging School (DLMI25)](https://awesome-mlss.com/summerschool/dlmi25.html) – The 6th edition of the Deep Learning for Medical Imaging School (May 2025) designed for both beginners and experts. Covers fundamentals of machine learning progressing to latest deep learning advancements specifically for medical imaging. Includes 16 hours of oral presentations and four hands-on sessions (4 hours each). No expertise required; basic Python knowledge sufficient for hands-on sessions. Multiple attendance options: Full Registration, Courses Only, or Virtual. (🔴 Advanced)
+  - 📖 Access: Free to register (some registration options may have fees)
+  - 🏛️ Authority: Community-organized school with university partnerships
+  - 🎯 Topics: ML basics → deep learning, medical imaging applications
+  - 🛠️ Hands-on: 4 sessions x 4 hours each with computing resources provided
+  - 📝 Includes both on-site and virtual attendance options
+  - 🌍 International participants welcome
+  - ⏱️ Duration: 2 days (May 5-6, 2025)
+  - [Tags: advanced medical-imaging deep-learning hands-on school summer-school 2025]
+
 ---
 
 ## 📃 Datasets & Resources
@@ -238,6 +267,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Neural architectures for healthcare AI
 - [Data Science & Analytics](./data-science-analytics.md) - Healthcare data analysis and visualization
 - [Time Series Forecasting](./time-series-forecasting.md) - Patient monitoring and disease progression
+- [Generative AI](./generative-ai.md) - LLMs and diffusion models for healthcare
+- [Multimodal AI](./multimodal-ai.md) - Vision-language models for medical imaging
 
 **Cross-reference:**
 - [AI Ethics](./ai-ethics.md) - Ethical considerations in healthcare AI
@@ -293,6 +324,6 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 27, 2025 | **Total Resources:** 24+
+**Last Updated:** January 4, 2026 | **Total Resources:** 29+
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, vlm-medical, miccai, deep-learning-medical-imaging, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, 2025
