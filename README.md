@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **453+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **467+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-453+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-467+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%204%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%205%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,39 +14,39 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 453+ | Across all categories (updated Jan 4, 2026) |
+| **Total Resources** | 467+ | Across all categories (updated Jan 5, 2026) |
 | **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~15.6 | Well-distributed across topics |
-| **Recent Growth** | +11 resources (Jan 4, 2026) | Continuous daily updates |
-| **Top Categories** | Mathematics (33), AI Tools (33), Generative AI (29), NLP (32), Audio/Speech (25), Healthcare (29), Finance (22) | Comprehensive coverage |
-| **2025 Content** | 90%+ | Latest research & emerging trends prioritized |
+| **Average/Category** | ~16.1 | Well-distributed across topics |
+| **Recent Growth** | +14 resources (Jan 5, 2026) | Monday: Gen AI, Prompt Eng, Multimodal |
+| **Top Categories** | Mathematics (33), AI Tools (33), Generative AI (34), NLP (32), Prompt Eng (27) | Comprehensive coverage |
+| **2025 Content** | 92%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 4, 2026, 10:15 AM UTC+4 | Continuous verification & updates |
+| **Last Updated** | Jan 5, 2026, 4:10 PM UTC+4 | Continuous verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 4, 2026)
+## 🌟 What's New (Jan 5, 2026 - Monday Rotation)
 
-### 💰 Finance AI: +2 Resources
-- **Financial Workspace AI: Quant Trading Platforms 2025** - LLM-integrated platforms, agentic trading systems, USD 17-22B market analysis
-- **FinRL: Deep Reinforcement Learning Framework** - Production-ready open-source RL trading framework on GitHub
-- *Emerging Trends*: Agentic AI, LLM agents for strategy generation, workspace platforms
+### 🎨 Generative AI: +5 Resources
+- **Microsoft Generative AI for Beginners** - 12-week official course, 21 lessons, GitHub-based, hands-on projects
+- **Simplilearn Prompt Engineering Full Course 2026** - 7+ hour YouTube course, agentic AI, multimodal prompting, LangChain
+- **Advanced Prompt Engineering - Learn Prompting** - 3-day intensive, 60+ modules, advanced techniques, systematic approach
+- **Survey of State-of-the-Art Large Vision Language Models** - Arxiv survey, 25+ VLMs analyzed, benchmark comparisons, 2025 models
+- **Generative AI Literacy: Twelve Defining Competencies** - Framework paper, 12 competencies, educational structure
 
-### 🐟 Healthcare AI: +5 Resources
-- **VU Amsterdam: Deep Learning for Medical Image Analysis** - CNNs, U-Net, medical imaging physics
-- **MICCAI 2025: Foundation Models Tutorial** - Vision-Language Models, multimodal MLLMs, medical imaging
-- **Google HAI-DEF: Foundation Models Suite** - Pre-trained domain-specific healthcare models
-- **DLMI25: Deep Learning for Medical Imaging School** - Comprehensive summer school program
-- **Harvard Medical School: Clinical AI Implementation** - 2-day intensive for physicians
-- *Emerging Trends*: Foundation models, pathology-radiology integration, FDA approvals
+### 🎱 Prompt Engineering: +4 Resources
+- **OpenAI Prompt Engineering Tutorial Videos** - Official 3-part video series, intermediate-advanced techniques
+- **ADVANCED 2025 Guide to Prompt Engineering** - YouTube guide, 21 game-changing prompts, beginner to expert level
+- **Ultimate Guide to Prompt Engineering 2025 - Lakera** - Comprehensive 2025 guide, practical applications, security awareness
+- **Advanced Prompt Engineering for Everyone - Vanderbilt** - University course, free audit, RAG & in-context learning focus
 
-### 🌏 Recommender Systems: +4 Resources
-- **RecSys 2025: Agentic Recommender Systems** - LLM agents, chain-of-thought, dynamic memory, policy-driven decisions
-- **Standard Practices Data Processing: DataRec & Ducho** - Standardized preprocessing, multimodal feature extraction
-- **Generative Conversational Recommenders** - Multi-step workflows, LLM integration
-- **Coursera-Packt: Deep Learning Recommenders** - Neural CF, two-tower models, TensorFlow Recommenders
-- *Emerging Trends*: Agentic AI, conversational agents, LLM integration
+### 🌈 Multimodal AI: +5 Resources
+- **Best Open Source Multimodal Vision Models 2025 - Koyeb** - Comparative guide, Gemma 3, Qwen 2.5 VL, Pixtral, DeepSeek Janus
+- **Ultimate Guide: Best Open Source Multimodal Models 2025 - SiliconFlow** - GLM-4.5V, 3D-RoPE, MoE architectures, state-of-the-art VLMs
+- **Vision-Language Models: Future of Multimodal AI - Code-B Dev** - Top 10 VLMs analysis, architecture deep-dive, 2025 challenges
+- **Vision Language Models (Better, Faster, Stronger) - Hugging Face Blog** - 2025 improvements, MoE decoders, multimodal retrievers, Llama 4 Vision
+- **Best Open-Source Vision Language Models 2025 - LabellerR** - Technical specifications, Qwen 2.5 VL, LLaMA 3.2-Vision, DeepSeek-VL
 
 ---
 
@@ -73,12 +73,12 @@
 
 | Path | Focus | Duration | Key Resources |
 |------|-------|----------|---------------|
-| **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) (32) → [Generative AI](resources/generative-ai.md) (29) |
-| **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) → [Multimodal AI](resources/multimodal-ai.md) |
+| **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) (32) → [Generative AI](resources/generative-ai.md) (34) |
+| **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) → [Multimodal AI](resources/multimodal-ai.md) (17) |
 | **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) (24) → [Robotics](resources/robotics-embodied-ai.md) (26) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
-| **Recommendations** | Collaborative filtering, GNNs | 8 weeks | [Recommender Systems](resources/recommender-systems.md) (23) → [GNN](resources/graph-neural-networks.md) (27) |
-| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) (21+) → [AI for Finance](resources/ai-for-finance.md) (22) |
+| **Prompting** | Advanced prompt engineering | 4-6 weeks | [Prompt Engineering](resources/prompt-engineering.md) (27) → [Generative AI](resources/generative-ai.md) |
+| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) (21+) → [Finance AI](resources/ai-for-finance.md) (22) |
 | **Healthcare** | Medical AI, diagnosis | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) (29) |
 
 **Starting Point**: Choose your specialization above
@@ -123,12 +123,13 @@
 | [Natural Language Processing](resources/natural-language-processing.md) | 32 | 🟡🔴 | Language understanding | LLMs, agentic NLP |
 | [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding | Vision transformers |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 24 | 🟡🔴 | Agent training | Deep RL |
-| [Generative AI](resources/generative-ai.md) | 29 | 🔴 | LLMs, diffusion | Multimodal, agentic |
+| [Generative AI](resources/generative-ai.md) | **34** | 🔴 | LLMs, diffusion | **+5 NEW**: Microsoft, Simplilearn, arxiv |
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 27 | 🔴 | Graph learning | RDF, scalability |
-| [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models, LLMs |
-| [Recommender Systems](resources/recommender-systems.md) | **23** | 🟡🔴 | Personalization | **Agentic AI, LLMs** |
+| [Prompt Engineering](resources/prompt-engineering.md) | **27** | 🟡🔴 | LLM interaction | **+4 NEW**: OpenAI, Lakera, Vanderbilt |
+| [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
+| [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
 
-**Total**: ~250+ resources | **Perfect for**: Ready to specialize
+**Total**: ~260+ resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -138,8 +139,8 @@
 
 | Domain | Resources | Difficulty | Latest Updates | Impact |
 |--------|-----------|------------|---|----------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | **29** | 🟡 | **+5 NEW**: Foundation models, multimodal imaging, FDA trends | Medical diagnosis |
-| [AI for Finance](resources/ai-for-finance.md) | **22** | 🟡 | **+2 NEW**: Agentic trading, workspace AI platforms | Trading, risk analysis |
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 29 | 🟡 | Foundation models, multimodal imaging, FDA | Medical diagnosis |
+| [AI for Finance](resources/ai-for-finance.md) | 22 | 🟡 | Agentic trading, workspace AI | Trading, risk |
 | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 26 | 🔴 | Modern robot learning | Autonomous systems |
 
 **Total**: ~110+ resources | **Perfect for**: Domain specialists
@@ -161,58 +162,64 @@
 
 ---
 
+### 🌈 **Multimodal AI** (Vision-Language Integration)
+
+**Cross-modal learning and generation**
+
+| Category | Resources | Difficulty | Focus | Latest |
+|----------|-----------|------------|-------|---------|
+| [Multimodal AI](resources/multimodal-ai.md) | **17** | 🟡🔴 | VLM, cross-modal | **+5 NEW**: 2025 VLM guides, open-source models |
+
+**Total**: 17 resources | **Perfect for**: Multimodal specialists
+
+---
+
 ## 🔗 Complete Learning Paths
 
-### Path 1: NLP Specialist (12 weeks)
+### Path 1: Prompt Engineering Expert (6-8 weeks)
 
 ```
-Weeks 1-2: Foundations
+Weeks 1-2: Fundamentals (Learn Prompting basics)
   →
-Weeks 3-5: Deep Learning Basics
+Weeks 3-4: Advanced Techniques (Lakera guide, OpenAI tutorials)
   →
-Weeks 6-9: NLP Core + Transformers (32 resources)
+Weeks 5-6: Real-world Applications (Prompt Engineering projects)
   →
-Weeks 10-11: Prompt Engineering + LLMs (29 resources)
-  →
-Week 12: Build NLP Project
+Weeks 7-8: Specialization (Claude, GPT-4, Gemini specific)
 ```
 
-**Resources**: 30-35 | **Tools**: PyTorch, Hugging Face
-**Final**: Production NLP application
+**Resources**: 15-20 | **Tools**: ChatGPT, Claude, Gemini  
+**Final**: Production prompt engineering system
 
 ---
 
-### Path 2: Finance AI Specialist (10 weeks)
+### Path 2: Generative AI Engineer (12 weeks)
 
 ```
-Weeks 1-2: Foundations
+Weeks 1-4: Foundations (Microsoft course, LLM basics)
   →
-Weeks 3-5: Time Series Fundamentals (21+ resources)
+Weeks 5-8: Advanced GenAI (Diffusion models, RAG, LLMOps)
   →
-Weeks 6-8: Finance Specialization (22 resources)
-  →  
-Weeks 9-10: Trading System Project
+Weeks 9-12: Production Deployment (Prompt engineering + MLOps)
 ```
 
-**Resources**: 20-25 | **Tools**: QuantLib, FinRL, Backtrader
-**Final**: Automated trading system or risk model
+**Resources**: 30-40 | **Tools**: PyTorch, Hugging Face, LangChain  
+**Final**: Production LLM application
 
 ---
 
-### Path 3: Healthcare AI Engineer (12 weeks)
+### Path 3: Multimodal AI Specialist (10 weeks)
 
 ```
-Weeks 1-2: Foundations
+Weeks 1-3: Vision-Language Fundamentals (VLM courses)
   →
-Weeks 3-5: Deep Learning Basics
+Weeks 4-7: Open-Source Models (GLM-4.5V, Qwen2.5-VL, Llama Vision)
   →
-Weeks 6-10: Medical Imaging + Healthcare AI (29 resources)
-  →
-Weeks 11-12: Clinical Project
+Weeks 8-10: Production Deployment & Fine-tuning
 ```
 
-**Resources**: 25-30 | **Tools**: PyTorch, MONAI, 3D Slicer
-**Final**: Medical imaging diagnostic model
+**Resources**: 15-20 | **Tools**: Hugging Face, Vision Transformers  
+**Final**: Multimodal AI application
 
 ---
 
@@ -232,6 +239,7 @@ We welcome contributions! Adding resources is easy:
 **[Full Contributing Guide →](CONTRIBUTING.md)**
 
 ### Quality Standards
+
 ✅ 100% free (no paywalls)
 ✅ Reputable source
 ✅ Active/maintained
@@ -279,11 +287,11 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 4, 2026, 10:15 AM UTC+4
+- **Last Updated**: January 5, 2026, 4:10 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 11+ resources/day
-- **Path to 500+**: January 15, 2026 (estimated)
+- **Growth Rate**: 14+ resources/day (sustained)
+- **Path to 500+**: January 16, 2026 (estimated)
 
 ---
 
@@ -299,6 +307,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**453+ resources | 29 categories | 100% free | Quality assured**
+**467+ resources | 29 categories | 100% free | Quality assured**
 
 </div>
