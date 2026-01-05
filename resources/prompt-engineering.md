@@ -73,6 +73,23 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - **Focus:** Business applications, practical tips, 2025 best practices  
   - [Tags: `2025-guide` `practical-tips` `business-applications` `openai` `intermediate`]
 
+- **[The ADVANCED 2025 Guide to Prompt Engineering - AI Master](https://www.youtube.com/watch?v=qBlX6FhDm2E)** - Comprehensive YouTube video guide covering 21 game-changing prompts that transform beginners into prompt engineering experts. Master beginner fundamentals (basic structure, role-playing, formatting), intermediate techniques (chain-of-thought reasoning, nested complexity, perspective switching, image generation), and expert-level techniques (study mode, advanced data analysis, creative combinations, template systems).
+  - 📖 **Access:** Fully free on YouTube  
+  - ⏱️ **Duration:** 20+ minutes  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - **21 Prompts:** Copy-paste ready with explanations  
+  - **Topics:**  
+    - Beginner: Basic structure, role-playing, formatting, context  
+    - Intermediate: Chain-of-thought, nested complexity, perspective switching  
+    - Advanced: Study mode, data analysis, creative mastery, template systems  
+  - [Tags: `intermediate-advanced` `youtube` `21-prompts` `gpt-5` `hands-on` `2025`]
+
+- **[The Ultimate Guide to Prompt Engineering in 2025 - Lakera](https://www.lakera.ai/blog/prompt-engineering-guide)** - Comprehensive 2025 guide bringing together advanced prompt engineering techniques from latest research and practice. Covers LLM output control, security considerations, tone management, structure control, practical use cases, and real-world applications from beginner to expert levels.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Focus:** Comprehensive techniques, security, practical applications  
+  - [Tags: `2025-guide` `comprehensive` `practical` `security-aware` `intermediate`]
+
 - [Prompt Engineering Full Course by Edureka](https://www.youtube.com/watch?v=YvKJ8Xyjs6E) - Free comprehensive YouTube course covering prompt engineering with LLMs including practical examples and real-world applications.
   - 📖 Access: Free on YouTube
   - [Tags: intermediate video-course practical-examples]
@@ -83,6 +100,18 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - [Tags: intermediate specialization university-course]
 
 ### 🔴 Advanced
+
+- **[Advanced Prompt Engineering for Everyone - Vanderbilt University](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone)** - Advanced university course from Vanderbilt covering deep techniques for prompt engineering. Master in-context learning, retrieval-augmented generation (RAG), and template-based output formats for precision in AI interactions. Learn to unlock full potential of generative AI with structured approaches to prompt design and evaluation.
+  - 📖 **Access:** Free audit on Coursera (certificate optional paid)  
+  - 🏛️ **Authority:** Vanderbilt University  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **5 Modules:**  
+    - Module 1: Prompt Engineering fundamentals  
+    - Module 2: In-context Learning advanced patterns  
+    - Module 3: Retrieval Augmented Generation (RAG) deep dive  
+    - Module 4: Template-based output formats for precision  
+    - Module 5: Advanced prompt evaluation and optimization  
+  - [Tags: `advanced` `vanderbilt-university` `coursera` `rag` `in-context-learning` `output-formatting` `university-course` `2024`]
 
 - **[GAIDE: Generative AI for Instructional Development (arXiv)](http://arxiv.org/pdf/2308.12276.pdf)** - Novel framework for using generative AI to enhance educational content creation and advanced prompting strategies at scale. Demonstrates sophisticated prompt design techniques for instructional contexts and systematic approaches to leveraging AI for content generation.
   - 📖 **Access:** Fully open on arXiv (PDF)  
@@ -108,7 +137,7 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - 📖 **Access:** Fully open, official documentation (downloadable PDF)  
   - 🏛️ **Authority:** Google AI (Official)  
   - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced  
-  - 📝 **Format:** 68-page comprehensive guide  
+  - 📖 **Format:** 68-page comprehensive guide  
   - **Topics:** Structured prompting, Iterative refinement, Gemini API techniques, XML/Markdown formatting, Best practices  
   - [Tags: `official` `google-ai` `gemini` `vertex-ai` `api` `structured-prompting` `intermediate` `advanced` `2025`]
 
@@ -185,6 +214,6 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 22, 2025 | **Total Resources:** 23 (+5 new)
+**Last Updated:** January 5, 2026 | **Total Resources:** 27 (+4 new)
 
 **Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design, structured-prompting, xml-tags, best-practices
