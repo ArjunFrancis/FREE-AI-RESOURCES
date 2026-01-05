@@ -18,6 +18,17 @@ Generative AI represents one of the most transformative developments in artifici
 
 ### 🟢 Beginner-Friendly
 
+- **[Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)** - Official 12-week Microsoft course with 21 lessons covering foundations of generative AI, prompt engineering, responsible AI practices, and building real-world applications. Complete curriculum with GitHub repo, hands-on projects, multilingual support. From understanding how generative AI works to deploying enterprise-grade AI applications.
+  - 📖 **Access:** 100% free on GitHub  
+  - ⏱️ **Duration:** 12 weeks (self-paced, ~2-3 hours/week)  
+  - 🛠️ **Hands-on:** Yes (24 projects, practical labs)  
+  - 👨‍🏫 **Authority:** Microsoft (official course)  
+  - **Topics:**  
+    - Week 1-4: AI/ML fundamentals, GenAI intro, LLMs  
+    - Week 5-8: Prompt engineering, RAG, LLM application lifecycle  
+    - Week 9-12: Responsible AI, LLMOps, production deployment  
+  - [Tags: `beginner` `microsoft-official` `github` `hands-on` `llm-fundamentals` `prompt-engineering` `responsible-ai` `llmops` `2025`]
+
 - **[Generative AI for Everyone (DeepLearning.AI & Andrew Ng)](https://www.coursera.org/learn/generative-ai-for-everyone)** - Beginner-friendly course by AI pioneer Andrew Ng covering how generative AI works, capabilities and limitations of LLMs, practical prompting techniques, and the lifecycle of AI projects from conception to launch. Perfect for non-technical learners and business professionals seeking to understand generative AI fundamentals.
   - 📖 **Access:** Free audit on Coursera (certificate paid)  
   - ⏱️ **Duration:** ~6 hours (self-paced)  
@@ -109,7 +120,51 @@ Generative AI represents one of the most transformative developments in artifici
   - **Topics:** LLM basics, fine-tuning, quantization, deployment, inference optimization
   - [Tags: `intermediate` `github` `open-source` `curriculum` `hands-on` `llm-fundamentals` `2025`]
 
+- **[Prompt Engineering Full Course 2026 - Simplilearn (YouTube)](https://www.youtube.com/watch?v=RMTJee3EyxE)** - Comprehensive 7+ hour YouTube course covering prompt engineering fundamentals through advanced techniques. Learn elements of prompt engineering, patterns in ChatGPT, advanced prompting techniques, agentic AI, multimodal prompting, context engineering, and hands-on with tools like LangChain, OpenAI Codex, n8n, and GitHub Copilot. Industry-ready prompt engineering and AI workflow techniques.
+  - 📖 **Access:** Fully open (YouTube)  
+  - ⏱️ **Duration:** 7+ hours  
+  - 🛠️ **Hands-on:** Yes (tool walkthroughs and demos)  
+  - 🏛️ **Source:** Simplilearn (trusted platform)  
+  - **Topics:**  
+    - Prompt engineering fundamentals & elements  
+    - Prompt patterns (ChatGPT, Claude, Gemini)  
+    - Advanced techniques (chain-of-thought, role-playing)  
+    - Agentic AI & multimodal prompting  
+    - Tool integration: LangChain, OpenAI Codex, n8n, GitHub Copilot  
+    - Job interview preparation with AI tools  
+  - [Tags: `intermediate` `youtube` `simplilearn` `prompt-engineering` `agentic-ai` `multimodal` `langchain` `hands-on` `2026`]
+
 ### 🔴 Advanced
+
+- **[Generative AI Literacy: Twelve Defining Competencies](http://arxiv.org/pdf/2412.12107.pdf)** - Comprehensive competency framework paper defining 12 essential skills for generative AI literacy covering foundational AI knowledge, prompt engineering, programming, ethical/legal considerations, and responsible deployment. Provides structured framework for educators, policymakers, and learners to understand GenAI competencies and build effective education programs.
+  - 📖 **Access:** Free on arXiv (PDF)  
+  - 🏛️ **Authority:** Academic research paper  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - **12 Competencies:** AI literacy, prompt engineering, programming, domain knowledge, critical evaluation, ethical awareness, legal knowledge, security, bias detection, responsible deployment, continuous learning, societal impact  
+  - [Tags: `advanced` `competency-framework` `educational` `literacy` `ethical-ai` `responsible-ai` `research-paper` `arxiv` `2024`]
+
+- **[Advanced Prompt Engineering - Learn Prompting](https://learnprompting.org/courses/advanced-prompt-engineering)** - 3-day intensive course with 1,750+ learners covering advanced prompting techniques for complex AI applications. Master systematic approaches including few-shot prompting, chain-of-thought reasoning, self-refinement, and problem decomposition. Learn how to test and refine prompts for GPT-4o, Claude, and Gemini with expert-level techniques.
+  - 📖 **Access:** Fully free (Learn Prompting platform)  
+  - ⏱️ **Duration:** 3 days (self-paced)  
+  - 🏛️ **Authority:** Learn Prompting (most comprehensive platform, 60+ modules)  
+  - 👨‍🏫 **Instructor:** Sander Schulhoff (CEO, Learn Prompting)  
+  - **Topics:**  
+    - Few-shot prompting & in-context learning  
+    - Chain-of-thought & self-refinement  
+    - Problem decomposition  
+    - Prompt optimization & systematic testing  
+    - Advanced multi-model reasoning  
+  - **Certificate:** Available with Learn Prompting Plus (optional)  
+  - [Tags: `advanced` `prompt-engineering` `learn-prompting` `advanced-techniques` `systematic-approach` `gpt-4o` `claude` `gemini` `2025`]
+
+- **[A Survey of State-of-the-Art Large Vision Language Models](https://arxiv.org/html/2501.02189v5)** - Comprehensive arxiv survey of state-of-the-art vision-language models (VLMs) from 2019-2025. Analyzes 25+ models including CLIP, Flamingo, GPT-4V, Gemini, LLaVA, Qwen2-VL, DeepSeek-VL, and latest 2025 models. Detailed comparison tables with architecture, training data, parameters, vision encoders, and performance benchmarks.
+  - 📖 **Access:** Free on arXiv (HTML version)  
+  - 🏛️ **Authority:** Peer-reviewed research  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Scope:** 25+ models analyzed, training objectives, architectures, benchmarks  
+  - **Key Models:** CLIP (2021), Flamingo (2022), GPT-4V (2023), Gemini (2023), LLaVA, InstructBLIP, CogVLM, Claude 3, Emu3, NVLM, Qwen2-VL, Pixtral, LLaMA 3.2-vision, DeepSeek-VL2, DeepSeek-Janus-Pro (2025), Qwen2.5-VL (2025)  
+  - **Table:** Comprehensive comparison of 25+ models with metrics  
+  - [Tags: `advanced` `vision-language-models` `vlm-survey` `arxiv` `research-paper` `benchmark-comparison` `2025` `foundation-models`]
 
 - **[Technical Fundamentals of Generative AI - Stanford Online](https://online.stanford.edu/courses/xfm110-technical-fundamentals-generative-ai)** - Conference-style course featuring distinguished Stanford faculty and experts from Stanford HAI. Covers deep technical principles of foundation models, LLM training, prompt engineering, benchmarking, multimodal systems, and broader societal implications. Designed for leaders and practitioners who need profound understanding of technical architecture and human-centered AI.
   - 📖 **Access:** Course info freely available, [YouTube lectures free](https://www.youtube.com/watch?v=CFrziAQ85WE)  
@@ -292,8 +347,8 @@ Found a great **free** Generative AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 31, 2025  
-**Total Resources:** 29 (+5 new)  
+**Last Updated:** January 5, 2026  
+**Total Resources:** 34 (+5 new)  
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
