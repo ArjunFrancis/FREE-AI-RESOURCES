@@ -92,7 +92,22 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
   - **Topics:** Multimodal LLM architecture, contrastive learning, CLIP, BLIP-2, image captioning, VQA  
   - [Tags: `intermediate` `multimodal-llms` `architecture` `training-techniques` `clip` `blip-2` `applications` `2025`]
 
-- [Coursera: Build Multimodal Generative AI Applications (IBM)](https://www.coursera.org/learn/build-multimodal-generative-ai-applications) – Hands-on course using IBM watsonx.ai to build multimodal applications integrating Granite, Llama 3, Whisper, and DALL·E for text, image, and audio generation with 3-week project-based learning.
+- **[Best Open Source Multimodal Vision Models in 2025 - Koyeb](https://www.koyeb.com/blog/best-multimodal-vision-models-in-2025)** - Comparative guide of top open-source multimodal vision models released in 2025. Covers Gemma 3, Qwen 2.5 VL 72B Instruct, Pixtral, Phi 4 Multimodal, DeepSeek Janus Pro with technical details, architecture descriptions, and deployment recommendations for serverless GPUs.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Focus:** 2025 models, benchmarks, technical comparison, deployment strategies  
+  - **Models Covered:** Gemma 3, Qwen 2.5 VL, Pixtral, Phi 4 Multimodal, DeepSeek Janus Pro  
+  - [Tags: `intermediate` `2025-models` `comparative-guide` `deployment` `benchmarks` `koyeb` `serverless-gpu` `2025`]
+
+- **[Ultimate Guide - Best Open Source Multimodal Models 2025 - SiliconFlow](https://www.siliconflow.com/articles/en/best-open-source-multimodal-models-2025)** - Comprehensive guide comparing state-of-the-art open-source multimodal models in 2025. Detailed analysis of GLM-4.5V with 3D-RoPE and Thinking Mode, GLM-4.1V-9B-Thinking for efficiency, and Qwen2.5-VL 72B with advanced vision capabilities. Includes benchmarks, architectural innovations, and use case recommendations.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Focus:** State-of-the-art models, benchmarks, architectural innovations  
+  - **Models:** GLM-4.5V (106B parameters, MoE), GLM-4.1V-9B-Thinking (efficient), Qwen2.5-VL (vision capabilities)  
+  - **Key Tech:** 3D-RoPE for spatial reasoning, Mixture-of-Experts (MoE) architecture, Thinking Mode  
+  - [Tags: `intermediate` `2025-models` `glm-4.5v` `qwen2.5-vl` `moe-architecture` `3d-rope` `benchmarks` `siliconflow` `2025`]
+
+- [Coursera: Build Multimodal Generative AI Applications (IBM)](https://www.coursera.org/learn/build-multimodal-generative-ai-applications) – Hands-on course using IBM watsonx.ai to build multimodal applications integrating Granite, Llama 3, Whisper, and DALL·3 for text, image, and audio generation with 3-week project-based learning.
   - 📖 Access: Free audit available (certificate optional paid)
   - 🏛️ Authority: IBM + Coursera
   - ⏱️ Duration: 3 weeks, 2-3 hours/week
@@ -107,6 +122,30 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
   - [Tags: `intermediate` `huggingface` `transformers` `nlp` `multimodal` `fine-tuning` `pytorch` `tensorflow` `2025`]
 
 ### 🔴 Advanced
+
+- **[Vision–Language Models (VLMs): The Future of Multimodal AI - Code-B Dev](https://code-b.dev/blog/vision-llm)** - Comprehensive analysis of top 10 vision-language models in 2025 including GPT-5, Gemini 2, Claude 4, Gemma 3, and DeepSeek VL. Deep dive into VLM architectures (vision encoders, language models, fusion mechanisms), capabilities across modalities, and emerging challenges including bias, transparency, and responsible deployment.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - **Top 10 Models:** GPT-5, Gemini 2, Claude 4, Gemma 3, DeepSeek VL, Qwen, LLaVA, Pixtral, others  
+  - **Focus:** Architecture, capabilities, reasoning, challenges, future directions  
+  - [Tags: `advanced` `vision-language-models` `top-10` `2025` `vlm-architecture` `challenges` `code-b`]
+
+- **[Vision Language Models (Better, faster, stronger) - Hugging Face Blog](https://huggingface.co/blog/vlms-2025)** - Latest developments in vision language models for 2025 covering improvements in speed, accuracy, and capabilities. Deep analysis of Mixture-of-Experts (MoE) decoders for enhanced performance (Kimi-VL reasoning, MoE-LLaVA efficiency, DeepSeek-VL2), multimodal retrieval systems for PDF processing, and Llama 4 vision capabilities.
+  - 📖 **Access:** Fully free  
+  - 🏛️ **Authority:** Hugging Face (Official Blog)  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Focus:** 2025 improvements, MoE architectures, multimodal retrieval, latest models  
+  - **Key Models:** Kimi-VL, MoE-LLaVA, DeepSeek-VL2, Llama 4 Vision  
+  - **Topics:** Mixture-of-Experts decoders, Multimodal retrievers, Performance benchmarks, Emerging architectures  
+  - [Tags: `advanced` `2025-developments` `moe-architectures` `multimodal-retrieval` `huggingface-blog` `llama-4` `kimi-vl` `2025`]
+
+- **[Best Open-Source Vision Language Models of 2025 - LabellerR](https://www.labellerr.com/blog/top-open-source-vision-language-models/)** - In-depth technical comparison of leading open-source vision-language models in 2025. Detailed breakdown of Qwen 2.5 VL 72B Instruct, LLaMA 3.2 Vision (multi-size options), DeepSeek-VL with Mixture-of-Experts, Phi 4 Multimodal, and other cutting-edge models with technical specifications, use cases, and performance characteristics.
+  - 📖 **Access:** Fully free  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Focus:** Technical specifications, use cases, comparative analysis  
+  - **Models:** Qwen 2.5 VL, LLaMA 3.2-Vision, DeepSeek-VL, Phi 4 Multimodal, others  
+  - **Technical Details:** Parameters, architecture, training data, strengths, license  
+  - [Tags: `advanced` `technical-comparison` `2025-models` `qwen-2.5-vl` `llama-3.2-vision` `deepseek-vl` `open-source` `labellerr` `2025`]
 
 - **[Multimodal Generative AI for Lung Cancer Research - Medical Application (arXiv)](https://aacrjournals.org/clincancerres/article/31/13_Supplement/A058/763242/Abstract-A058-Multimodal-generative-AI-jointly)** - Advanced research on multimodal generative AI jointly learning pathology and clinical data for lung cancer cohort synthesis. Demonstrates cross-modal autoencoders, foundation models for healthcare, and AI-enabled evaluation frameworks in medical imaging.
   - 📖 **Access:** Fully open (medical journal)  
@@ -128,7 +167,7 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 
 **Popular Multimodal Models:**
 - **CLIP** (OpenAI) - Vision-language contrastive learning
-- **DALL·E 2/3** (OpenAI) - Text-to-image generation
+- **DALL·3** (OpenAI) - Text-to-image generation
 - **GPT-4V** (OpenAI) - Multimodal large language model
 - **Flamingo** (DeepMind) - Few-shot visual question answering
 - **Whisper** (OpenAI) - Speech recognition and translation
@@ -179,6 +218,6 @@ Found a great free Multimodal AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 22, 2025 | **Total Resources:** 12 (+7 new)
+**Last Updated:** January 5, 2026 | **Total Resources:** 17 (+5 new)
 
 **Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, gpt-4v, multimodal-transformers, audio-visual-learning, multimodal-llms, text-to-image, image-captioning, vqa, cross-modal-retrieval, huggingface, transformers, deeplearning-ai
