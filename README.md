@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **467+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **480+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-467+-blue.svg)]()
-[![Categories](https://img.shields.io/badge/categories-29-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%205%2C%202026-brightblue.svg)]
+[![Resources](https://img.shields.io/badge/resources-480+-blue.svg)]()
+[![Categories](https://img.shields.io/badge/categories-30-green.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%206%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,39 +14,38 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 467+ | Across all categories (updated Jan 5, 2026) |
-| **Total Categories** | 29 | Organized by topic & expertise level |
-| **Average/Category** | ~16.1 | Well-distributed across topics |
-| **Recent Growth** | +14 resources (Jan 5, 2026) | Monday: Gen AI, Prompt Eng, Multimodal |
-| **Top Categories** | Mathematics (33), AI Tools (33), Generative AI (34), NLP (32), Prompt Eng (27) | Comprehensive coverage |
-| **2025 Content** | 92%+ | Latest research & emerging trends prioritized |
+| **Total Resources** | 480+ | Across all categories (updated Jan 6, 2026) |
+| **Total Categories** | 30 | Organized by topic & expertise level |
+| **Average/Category** | ~16 | Well-distributed across topics |
+| **Recent Growth** | +13 resources (Jan 6, 2026) | Tuesday: CV, XAI, Audio & Speech |
+| **Top Categories** | Mathematics (33), AI Tools (33), Generative AI (34), NLP (32), Computer Vision (20) | Comprehensive coverage |
+| **2025 Content** | 95%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 5, 2026, 4:10 PM UTC+4 | Continuous verification & updates |
+| **Last Updated** | Jan 6, 2026, 3:32 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 5, 2026 - Monday Rotation)
+## 🌟 What's New (Jan 6, 2026 - Tuesday Rotation)
 
-### 🎨 Generative AI: +5 Resources
-- **Microsoft Generative AI for Beginners** - 12-week official course, 21 lessons, GitHub-based, hands-on projects
-- **Simplilearn Prompt Engineering Full Course 2026** - 7+ hour YouTube course, agentic AI, multimodal prompting, LangChain
-- **Advanced Prompt Engineering - Learn Prompting** - 3-day intensive, 60+ modules, advanced techniques, systematic approach
-- **Survey of State-of-the-Art Large Vision Language Models** - Arxiv survey, 25+ VLMs analyzed, benchmark comparisons, 2025 models
-- **Generative AI Literacy: Twelve Defining Competencies** - Framework paper, 12 competencies, educational structure
+### 📝 Computer Vision: +4 Resources
+- **Stanford CS231n: Deep Learning for Computer Vision** - World-renowned Stanford course, CNNs, visual recognition, lecture notes + videos
+- **OpenCV Free Bootcamp Courses (PyTorch, TensorFlow, Fundamentals)** - Three official 3-5 hour bootcamps with hands-on training
+- **Computational Thinking with Computer Vision** - Introductory CS course integrating CV with computational thinking and AI ethics
+- **Deep Learning Applications for Computer Vision (CU Boulder)** - Free Coursera audit, comprehensive CV fundamentals
 
-### 🎱 Prompt Engineering: +4 Resources
-- **OpenAI Prompt Engineering Tutorial Videos** - Official 3-part video series, intermediate-advanced techniques
-- **ADVANCED 2025 Guide to Prompt Engineering** - YouTube guide, 21 game-changing prompts, beginner to expert level
-- **Ultimate Guide to Prompt Engineering 2025 - Lakera** - Comprehensive 2025 guide, practical applications, security awareness
-- **Advanced Prompt Engineering for Everyone - Vanderbilt** - University course, free audit, RAG & in-context learning focus
+### 🔍 Explainable AI (XAI): +4 Resources (NEW CATEGORY!)
+- **Mastering Explainable AI in 2025** - SuperAGI comprehensive guide, market growth analysis, LIME/SHAP/saliency maps
+- **Tutorials for eXplainable AI Methods** - Jupyter notebooks with executable XAI code examples
+- **Comprehensive Review of Explainable AI in Computer Vision** - Peer-reviewed research, activation maps, transformers
+- **Explainable AI, LIME & SHAP Model Interpretability** - DataCamp tutorial on model interpretation techniques
 
-### 🌈 Multimodal AI: +5 Resources
-- **Best Open Source Multimodal Vision Models 2025 - Koyeb** - Comparative guide, Gemma 3, Qwen 2.5 VL, Pixtral, DeepSeek Janus
-- **Ultimate Guide: Best Open Source Multimodal Models 2025 - SiliconFlow** - GLM-4.5V, 3D-RoPE, MoE architectures, state-of-the-art VLMs
-- **Vision-Language Models: Future of Multimodal AI - Code-B Dev** - Top 10 VLMs analysis, architecture deep-dive, 2025 challenges
-- **Vision Language Models (Better, Faster, Stronger) - Hugging Face Blog** - 2025 improvements, MoE decoders, multimodal retrievers, Llama 4 Vision
-- **Best Open-Source Vision Language Models 2025 - LabellerR** - Technical specifications, Qwen 2.5 VL, LLaMA 3.2-Vision, DeepSeek-VL
+### 🎵 Audio & Speech Processing: +5 Resources
+- **Speech and Audio Foundation Models TTIC 2025** - Advanced workshop on spoken language models, 120+ language ASR
+- **Top 8 Open Source STT Options 2025** - Comparative analysis: Whisper, Wav2Vec2, SpeechT5, NeMo, Kaldi
+- **Automatic Speech Recognition in 2025: How ASR Works** - Comprehensive 2025 guide to ASR technology
+- **Complete Guide to Text-to-Speech (TTS) Technology 2025** - TTS architectures, benchmarking, voice characteristics
+- **Best Speech Recognition API 2025 Benchmark** - AWS, Google Cloud, Microsoft Azure comparative analysis
 
 ---
 
@@ -61,7 +60,7 @@
 | 1-2 | Foundations | [Math for AI](resources/mathematics-for-ai.md), [ML Fundamentals](resources/machine-learning-fundamentals.md) | 10-12 hrs |
 | 3 | Programming | [Data Science Basics](resources/data-science-analytics.md) | 8-10 hrs |
 | 4-5 | Hands-on | [Datasets](resources/datasets-benchmarks.md), First Project | 10-12 hrs |
-| 6 | Ethics & Impact | [AI Ethics](resources/ai-ethics.md) | 6-8 hrs |
+| 6 | Ethics & Impact | [AI Ethics](resources/ai-ethics.md), [XAI Basics](resources/explainable-ai-xai.md) | 6-8 hrs |
 
 **Starting Point**: [Harvard CS50 AI](resources/university-programs.md) (most beginner-friendly)
 
@@ -73,13 +72,13 @@
 
 | Path | Focus | Duration | Key Resources |
 |------|-------|----------|---------------|
-| **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) (32) → [Generative AI](resources/generative-ai.md) (34) |
-| **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) → [Multimodal AI](resources/multimodal-ai.md) (17) |
-| **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) (24) → [Robotics](resources/robotics-embodied-ai.md) (26) |
+| **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20 🆕) → [Multimodal AI](resources/multimodal-ai.md) (17) |
+| **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30 🆕) → [Generative AI](resources/generative-ai.md) |
+| **Interpretability** | Understanding models, debugging, trust | 6-8 weeks | [Explainable AI](resources/explainable-ai-xai.md) (4 🆕) → [AI Ethics](resources/ai-ethics.md) |
+| **NLP** | Language models, transformers, LLMs | 10 weeks | [NLP](resources/natural-language-processing.md) (32) → [Generative AI](resources/generative-ai.md) (34) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
-| **Prompting** | Advanced prompt engineering | 4-6 weeks | [Prompt Engineering](resources/prompt-engineering.md) (27) → [Generative AI](resources/generative-ai.md) |
-| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) (21+) → [Finance AI](resources/ai-for-finance.md) (22) |
-| **Healthcare** | Medical AI, diagnosis | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) (29) |
+| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
+| **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) |
 
 **Starting Point**: Choose your specialization above
 
@@ -92,7 +91,7 @@
 **Recommended Path**:
 1. **Emerging Fields**: [Spatial Intelligence](resources/spatial-intelligence.md), [World Models](resources/world-models.md), [Quantum AI](resources/quantum-ai.md)
 2. **Research**: [Research Papers](resources/research-papers-publications.md), [arXiv](https://arxiv.org)
-3. **University Courses**: [MIT, Stanford, Harvard](resources/university-programs.md)
+3. **University Courses**: [Stanford CS231N](resources/computer-vision.md), [MIT](resources/robotics-embodied-ai.md), [Carnegie Mellon](resources/mlops.md)
 4. **Implementation**: Paper reproduction, open-source contribution
 
 ---
@@ -121,15 +120,30 @@
 |----------|-----------|------------|-------|---------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
 | [Natural Language Processing](resources/natural-language-processing.md) | 32 | 🟡🔴 | Language understanding | LLMs, agentic NLP |
-| [Computer Vision](resources/computer-vision.md) | 12 | 🟡🔴 | Image understanding | Vision transformers |
+| **[Computer Vision](resources/computer-vision.md)** | **20** | 🟡🔴 | Image understanding | **+4 NEW**: Stanford, OpenCV, CU Boulder |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 24 | 🟡🔴 | Agent training | Deep RL |
-| [Generative AI](resources/generative-ai.md) | **34** | 🔴 | LLMs, diffusion | **+5 NEW**: Microsoft, Simplilearn, arxiv |
+| [Generative AI](resources/generative-ai.md) | 34 | 🔴 | LLMs, diffusion | Microsoft, Simplilearn, VLMs |
 | [Graph Neural Networks](resources/graph-neural-networks.md) | 27 | 🔴 | Graph learning | RDF, scalability |
-| [Prompt Engineering](resources/prompt-engineering.md) | **27** | 🟡🔴 | LLM interaction | **+4 NEW**: OpenAI, Lakera, Vanderbilt |
+| [Prompt Engineering](resources/prompt-engineering.md) | 27 | 🟡🔴 | LLM interaction | OpenAI, Lakera, Vanderbilt |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
 | [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
+| **[Audio & Speech](resources/audio-speech-processing.md)** | **30** | 🟡🔴 | Speech/Audio AI | **+5 NEW**: 2025 Foundation models, TTIC |
 
-**Total**: ~260+ resources | **Perfect for**: Ready to specialize
+**Total**: ~290+ resources | **Perfect for**: Ready to specialize
+
+---
+
+### 🟠 **Interpretability & Trust** (Growing Domain)
+
+**Making AI transparent and trustworthy**
+
+| Category | Resources | Difficulty | Latest | Market Trend |
+|----------|-----------|------------|--------|---------------|
+| **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **4** | 🟡🔴 | **🆕 NEW**: LIME, SHAP, CV XAI, 2025 guide | **Market: $30B by 2032** |
+| [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Fairness, accountability | Regulatory driven |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | Red teaming, privacy | Growing importance |
+
+**Total**: ~46+ resources | **Perfect for**: Responsible AI focus
 
 ---
 
@@ -158,17 +172,19 @@
 | [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | Red teaming, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness |
 
-**Total**: ~89 resources | **Perfect for**: Production engineers
+**Total**: ~89+ resources | **Perfect for**: Production engineers
 
 ---
 
-### 🌈 **Multimodal AI** (Vision-Language Integration)
+### 🌈 **Multimodal & Emerging** (Cutting-Edge)
 
-**Cross-modal learning and generation**
+**Cross-modal learning and next-generation AI**
 
 | Category | Resources | Difficulty | Focus | Latest |
 |----------|-----------|------------|-------|---------|
-| [Multimodal AI](resources/multimodal-ai.md) | **17** | 🟡🔴 | VLM, cross-modal | **+5 NEW**: 2025 VLM guides, open-source models |
+| [Multimodal AI](resources/multimodal-ai.md) | 17 | 🟡🔴 | VLM, cross-modal | 2025 open-source VLMs |
+| [Spatial Intelligence](resources/spatial-intelligence.md) | TBD | 🔴 | 3D, embodied AI | Emerging |
+| [World Models](resources/world-models.md) | TBD | 🔴 | Simulation, forecasting | Research frontier |
 
 **Total**: 17 resources | **Perfect for**: Multimodal specialists
 
@@ -176,50 +192,48 @@
 
 ## 🔗 Complete Learning Paths
 
-### Path 1: Prompt Engineering Expert (6-8 weeks)
+### Path 1: Computer Vision Specialist (12 weeks)
 
 ```
-Weeks 1-2: Fundamentals (Learn Prompting basics)
+Weeks 1-4: Fundamentals (Stanford CS231n basics or OpenCV bootcamps)
   →
-Weeks 3-4: Advanced Techniques (Lakera guide, OpenAI tutorials)
+Weeks 5-8: Advanced Techniques (CNN architectures, YOLO, semantic segmentation)
   →
-Weeks 5-6: Real-world Applications (Prompt Engineering projects)
-  →
-Weeks 7-8: Specialization (Claude, GPT-4, Gemini specific)
+Weeks 9-12: Production Deployment (OpenCV optimization, real-time inference)
 ```
 
-**Resources**: 15-20 | **Tools**: ChatGPT, Claude, Gemini  
-**Final**: Production prompt engineering system
+**Resources**: 20 | **Tools**: PyTorch, OpenCV, YOLO  
+**Final**: Production computer vision application
 
 ---
 
-### Path 2: Generative AI Engineer (12 weeks)
+### Path 2: Audio & Speech AI Engineer (10 weeks)
 
 ```
-Weeks 1-4: Foundations (Microsoft course, LLM basics)
+Weeks 1-3: Fundamentals (Digital Speech Processing, Whisper basics)
   →
-Weeks 5-8: Advanced GenAI (Diffusion models, RAG, LLMOps)
+Weeks 4-7: Advanced Models (Foundation models, ASR/TTS training)
   →
-Weeks 9-12: Production Deployment (Prompt engineering + MLOps)
+Weeks 8-10: Production (Speech API integration, voice agents)
 ```
 
-**Resources**: 30-40 | **Tools**: PyTorch, Hugging Face, LangChain  
-**Final**: Production LLM application
+**Resources**: 30 | **Tools**: Whisper, ESPnet, SpeechBrain  
+**Final**: End-to-end speech application (STT + TTS pipeline)
 
 ---
 
-### Path 3: Multimodal AI Specialist (10 weeks)
+### Path 3: Explainable AI Specialist (8 weeks)
 
 ```
-Weeks 1-3: Vision-Language Fundamentals (VLM courses)
+Weeks 1-2: Fundamentals (XAI overview, LIME, SHAP basics)
   →
-Weeks 4-7: Open-Source Models (GLM-4.5V, Qwen2.5-VL, Llama Vision)
+Weeks 3-5: Hands-on Implementation (Model interpretability, feature importance)
   →
-Weeks 8-10: Production Deployment & Fine-tuning
+Weeks 6-8: Advanced Applications (CV interpretability, regulatory compliance)
 ```
 
-**Resources**: 15-20 | **Tools**: Hugging Face, Vision Transformers  
-**Final**: Multimodal AI application
+**Resources**: 4 + [AI Ethics](resources/ai-ethics.md) (27) | **Tools**: SHAP, LIME, Captum  
+**Final**: Explainable AI system with trust metrics
 
 ---
 
@@ -287,11 +301,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 5, 2026, 4:10 PM UTC+4
+- **Last Updated**: January 6, 2026, 3:32 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 14+ resources/day (sustained)
-- **Path to 500+**: January 16, 2026 (estimated)
+- **Growth Rate**: 13 resources/day (Tuesday), 14 resources/day (Monday)
+- **Path to 500+**: January 10, 2026 (estimated)
+- **2025 Growth**: 480+ resources in first week, 30 categories launched
 
 ---
 
@@ -307,6 +322,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**467+ resources | 29 categories | 100% free | Quality assured**
+**480+ resources | 30 categories | 100% free | Quality assured**
 
 </div>
