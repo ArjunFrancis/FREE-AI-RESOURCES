@@ -28,6 +28,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 - End-to-end neural speech models
 - Real-time speech processing
 - Speech synthesis agents and emotional TTS
+- Foundation models for speech and audio
 
 ---
 
@@ -129,6 +130,14 @@ Audio and speech processing enables machines to understand, generate, and analyz
 
 ### 🔴 Advanced
 
+- [Speech and Audio Foundation Models TTIC 2025](https://sites.google.com/view/speech-ai-ttic-2025/schedule-talks) **(Advanced)** - Advanced workshop on spoken language models and audio foundation models from Toyota Technological Institute at Chicago (TTIC). Covers latest research in speech foundation models, audio understanding, multilingual ASR (120+ languages), voice AI agents, Audio Flamingo 3, and emerging 2025 trends. Speakers include leading researchers from Meta AI, Apple, UT Austin, and major tech companies. Perfect for advanced practitioners staying current with state-of-the-art. (🔴 Advanced)
+  - 📖 Access: Fully free, workshop materials and talks
+  - 🏛️ Authority: TTIC (leading AI research institution)
+  - 🛠️ Focus: Foundation models, spoken language models, audio AI
+  - 📜 Topics: ASR 120+ languages, TTS, voice agents, Audio Flamingo 3
+  - 🎓 Speakers: Meta, Apple, UT Austin researchers
+  - [Tags: advanced ttic workshop foundation-models spoken-language-models audio-ai 2025]
+
 - [Deep Dive into Speech Synthesis Agents (2025)](https://sparkco.ai/blog/deep-dive-into-2025-speech-synthesis-agents) – Comprehensive guide exploring modern speech synthesis agents with focus on emotional intelligence, multilingual support, personalization, and real-time synthesis. Covers architecture, implementation best practices, integration with LangChain/LangGraph frameworks, and emerging 2025 trends including voice cloning, emotion control, and commerce integration. Perfect for advanced developers building next-gen voice AI. (🔴 Advanced)
   - 📖 Access: Fully free, detailed technical guide
   - 🏛️ Authority: Sparkco AI (2025 industry analysis)
@@ -136,6 +145,41 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📜 Topics: Emotional TTS, personalization, multilingual, real-time synthesis
   - 🔧 Frameworks: LangChain, LangGraph, AutoGen
   - [Tags: advanced speech-synthesis agents emotional-ai 2025 langchain implementation]
+
+---
+
+## 🔬 Guides & Comparative Analysis
+
+### 🟡 Intermediate
+
+- [Top 8 Open Source STT Options for Voice Applications 2025](https://assemblyai.com/blog/top-open-source-stt-options-for-voice-applications) **(Intermediate)** - Comprehensive comparative guide of open-source speech-to-text engines for 2025. Analyzes Whisper (99 languages), Wav2Vec2 (multilingual), SpeechT5, NeMo, Kaldi, PocketSphinx, and emerging models. Covers Word Error Rate (WER) performance metrics, strengths/limitations, language support, and use case recommendations. Essential for choosing the right STT engine for your project. (🟡 Intermediate)
+  - 📖 Access: Fully free, detailed comparison guide
+  - 🏛️ Authority: AssemblyAI (industry leader)
+  - 📜 Coverage: 8+ open-source STT options
+  - 📓 Metrics: WER performance, language support, features
+  - 🎯 Purpose: Model selection, use case matching
+  - [Tags: intermediate stt-comparison open-source whisper wav2vec 2025]
+
+- [Automatic Speech Recognition in 2025: How ASR Works](https://graphlogic.ai/blog/ai-chatbots/ai-fundamentals/asr-automation-speech-recognition/) **(Intermediate)** - Comprehensive 2025 guide to automatic speech recognition technology covering how ASR works, history of speech recognition, deep learning approaches, multilingual ASR (120+ languages), real-world applications, and latest models. Explains end-to-end ASR pipelines, acoustic models, language models, and inference optimization. Perfect for understanding modern ASR systems. (🟡 Intermediate)
+  - 📖 Access: Fully free, detailed technical guide
+  - 📜 Coverage: ASR fundamentals, history, deep learning, multilingual
+  - 🎓 Topics: 120+ language support, real-world applications, latest models
+  - 💪 Scope: Comprehensive ASR overview 2025
+  - [Tags: intermediate asr guide deep-learning multilingual fundamentals 2025]
+
+- [Complete Guide to Text-to-Speech (TTS) Technology 2025](https://picovoice.ai/blog/complete-guide-to-text-to-speech/) **(Intermediate)** - Comprehensive 2025 guide to text-to-speech technology covering on-device TTS, cloud TTS, streaming TTS, neural TTS architectures, quality metrics, and benchmarking approaches. Explains TTS technology evolution, voice characteristics, prosody control, multilingual synthesis, and selection criteria for choosing TTS solutions. Updated with latest 2025 models and trends. (🟡 Intermediate)
+  - 📖 Access: Fully free, comprehensive technical guide
+  - 📜 Coverage: On-device, cloud, streaming TTS architectures
+  - 💡 Topics: Voice characteristics, prosody, neural TTS, benchmarking
+  - 🎓 Scope: Selection criteria, latest 2025 models, quality metrics
+  - [Tags: intermediate tts guide neural-tts benchmarking prosody-control 2025]
+
+- [The Best Speech Recognition API in 2025: A Head-to-Head Comparison](https://voicewriter.io/blog/best-speech-recognition-api-2025) **(Intermediate)** - Comparative analysis and benchmark of major speech recognition APIs in 2025 including AWS Transcribe, Google Cloud Speech-to-Text, and Microsoft Azure Speech Services. Covers API features, accuracy benchmarks, pricing models, supported languages, and real-world performance metrics to help you choose the right speech API. (🟡 Intermediate)
+  - 📖 Access: Fully free, detailed API comparison
+  - 💪 Providers: AWS, Google Cloud, Microsoft Azure
+  - 📓 Metrics: Accuracy, latency, language support, pricing
+  - 🎯 Purpose: API selection, benchmark comparison
+  - [Tags: intermediate api-comparison aws-transcribe google-cloud azure-speech 2025]
 
 ---
 
@@ -259,6 +303,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 24, 2025 | **Total Resources:** 25 (Courses: 5 + Datasets: 5 + Tools: 10 + Research: 1 + Guides: 4)
+**Last Updated:** January 6, 2026 | **Total Resources:** 30 (Courses: 7 + Datasets: 5 + Tools: 10 + Research: 1 + Guides: 7)
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts, audio-foundation-models, spoken-language-models, ttic-2025
