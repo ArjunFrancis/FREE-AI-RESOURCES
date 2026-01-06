@@ -53,6 +53,18 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: Columbia University (Professor Shree Nayar)
   - [Tags: intermediate video-lectures fundamentals]
 
+- [Deep Learning Applications for Computer Vision (University of Colorado Boulder)](https://www.coursera.org/learn/deep-learning-computer-vision) **(Intermediate)** - Free Coursera audit course covering computer vision as a field of study and research, deep learning applications, practical projects, and hands-on learning in visual understanding and analysis.
+  - 📖 Access: Free to audit
+  - 🏛️ Authority: University of Colorado Boulder
+  - [Tags: intermediate coursera deep-learning applications 2025]
+
+- [Computational Thinking with Computer Vision: Developing AI Competency](https://arxiv.org/html/2503.19006) **(Intermediate)** - Introductory computer science course teaching computational thinking through computer vision applications and AI competency development. Balances technical learning with critical thinking about AI challenges and ethics in modern AI landscape. (🟡 Intermediate)
+  - 📖 Access: Free on arXiv
+  - 🏛️ Authority: Academic research, educational focus
+  - 📜 Format: Course paper with pedagogical insights
+  - 🎓 Features: Computational thinking, critical thinking, AI literacy
+  - [Tags: intermediate educational computer-vision computational-thinking ai-ethics 2025]
+
 ---
 
 ## 📘 Tutorials & Practical Guides
@@ -77,6 +89,30 @@ Computer vision enables machines to interpret and understand visual information 
   - 🛠️ Hands-on: Python notebooks, executable code
   - 📜 Features: CLIP, Qwen2.5-VL, multimodal AI
   - [Tags: beginner vlm vision-language-models clip multimodal python 2025]
+
+- [OpenCV PyTorch Bootcamp (Free 5-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner/Intermediate)** - Free official OpenCV bootcamp covering PyTorch fundamentals for deep learning with hands-on training. Learn tensors, neural networks, optimization, and real-world applications including object detection and segmentation. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully free, official bootcamp
+  - 🏛️ Authority: OpenCV Foundation
+  - ⏱️ Duration: 5 hours
+  - 🛠️ Hands-on: PyTorch, tensors, neural networks
+  - 📜 Features: Object detection, segmentation, real-world applications
+  - [Tags: beginner pytorch bootcamp neural-networks deep-learning opencv 2025]
+
+- [OpenCV TensorFlow Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp teaching neural networks, multi-layer perceptrons, and convolutional neural networks (CNNs) for image classification and segmentation. Train your own CNN model on custom datasets in just 3 hours. (🟢 Beginner)
+  - 📖 Access: Fully free, official bootcamp
+  - 🏛️ Authority: OpenCV Foundation
+  - ⏱️ Duration: 3 hours
+  - 🛠️ Hands-on: TensorFlow, CNN training on custom data
+  - 📜 Features: Image classification, segmentation
+  - [Tags: beginner tensorflow cnn bootcamp custom-datasets 2025]
+
+- [OpenCV Fundamentals Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp covering image and video manipulation, object detection, and facial recognition fundamentals. Master the world's largest computer vision library with hands-on practical exercises. (🟢 Beginner)
+  - 📖 Access: Fully free, official bootcamp
+  - 🏛️ Authority: OpenCV Foundation (official)
+  - ⏱️ Duration: 3 hours
+  - 🛠️ Hands-on: Image/video manipulation, object & face detection
+  - 📜 Features: Practical fundamentals, real-time applications
+  - [Tags: beginner opencv bootcamp image-processing video-analysis face-detection 2025]
 
 - [GeeksforGeeks Computer Vision Tutorial](https://www.geeksforgeeks.org/computer-vision/) **(Beginner)** - Comprehensive beginner-friendly tutorial covering computer vision fundamentals, image processing operations, feature detection, object detection methods, and practical Python implementations with clear explanations.
   - 📖 Access: Fully open
@@ -166,6 +202,6 @@ Found a great free computer vision resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 16
+**Last Updated:** January 6, 2025 | **Total Resources:** 20
 
-**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv
+**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, tensorflow, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv, bootcamp, 2025
