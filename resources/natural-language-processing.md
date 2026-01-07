@@ -20,6 +20,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - Large Language Models (LLMs)
 - Attention mechanisms
 - Sequence-to-sequence models
+- **NEW (2025):** Fine-tuning, instruction tuning, LLM alignment, RLHF
 
 ---
 
@@ -166,6 +167,14 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: curriculum roadmap self-taught learning-path intermediate 2022]
   - [Verified: 2025-12-31]
 
+- [Natural Language Processing Demystified: Full Course](https://www.nlpdemystified.org/course) – Free comprehensive course covering 15+ modules from NLP fundamentals to transformers, pre-training, transfer learning, fine-tuning, and advanced applications. No login required, fully accessible online. (🟡 Intermediate)
+  - 📖 Access: Fully open, no login or paywall
+  - 🛠️ Hands-on: Yes, practical code examples
+  - ⏱️ Duration: Self-paced, comprehensive
+  - 📝 Topics: Tokenization, embeddings, attention, BERT, GPT, fine-tuning, question-answering, transfer learning
+  - [Tags: nlp-demystified free-course transformers bert gpt fine-tuning intermediate 2025]
+  - [Verified: 2025-01-07]
+
 ### 🔴 Advanced
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
@@ -173,15 +182,59 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 🏛️ Authority: Stanford University (Christopher Manning, Director of Stanford AI Lab)
   - 🛠️ Hands-on: Assignments and past projects available
   - 📺 Video: [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOBuwVSdefLN0E1g6lA7YwM)
+  - ⏱️ Duration: Winter 2025 offering, comprehensive
+  - 📝 Topics: Deep learning fundamentals, RNNs, LSTMs, seq2seq, attention, transformers, BERT, GPT, LLMs, RLHF, inference, scaling
   - [Tags: stanford cs224n deep-learning transformers christopher-manning advanced 2025]
-  - [Verified: 2025-12-16]
+  - [Verified: 2025-01-07]
 
-- [CMU Advanced NLP by Graham Neubig](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp) – Cutting-edge NLP course covering latest research including vision-language models, in-context learning, LLM security, interpretability, and hands-on assignments. Updated regularly with newest techniques. (🔴 Advanced)
-  - 📖 Access: Fully open, YouTube + course site
-  - 🏛️ Authority: Carnegie Mellon University (Graham Neubig)
-  - 🛠️ Hands-on: Research-focused assignments
-  - [Tags: cmu advanced-nlp vision-language llm-security interpretability research 2024]
-  - [Verified: 2025-12-16]
+- [CMU Advanced Natural Language Processing (Spring 2025)](https://cmu-l3.github.io/anlp-spring2025/) – Graduate-level cutting-edge NLP course covering modern neural methods, fundamental algorithms, and latest research. Full course materials, video lectures, assignments, and projects. Covers emerging topics like inference optimization, multimodal models, and AI agents. (🔴 Advanced)
+  - 📖 Access: Fully open (course website + videos)
+  - 🏛️ Authority: Carnegie Mellon University (LTI Department)
+  - 🛠️ Hands-on: Yes, research-focused assignments and final project
+  - 📺 Video: Full lecture videos and recitation sessions
+  - ⏱️ Duration: Spring 2025, graduate-level depth
+  - 📝 Topics: Tokenization, neural networks, RNNs, transformers, prompting, fine-tuning, inference, reinforcement learning, multimodal models, agents
+  - 🎯 Projects: Literature survey, competitive baseline reproduction, research project
+  - [Tags: cmu advanced-nlp spring-2025 research modern-methods neural-networks cutting-edge advanced 2025]
+  - [Verified: 2025-01-07]
+
+- [Foundations of Large Language Models (arXiv 2501.09223)](https://arxiv.org/abs/2501.09223) – Comprehensive academic book on LLM foundations covering pre-training, generative models, prompting techniques, alignment methods, and inference. Covers foundational concepts for students, professionals, and researchers in NLP and AI. Published January 2025, updated June 2025. (🔴 Advanced)
+  - 📖 Access: Fully open (arXiv, PDF download)
+  - 🏛️ Authority: Academic research (arXiv publication)
+  - 📝 Topics: Pre-training, generative models, prompting, alignment, inference, LLM theory
+  - ⏱️ Duration: Self-paced academic reference
+  - 🎯 Audience: College students, professionals, practitioners, researchers
+  - 🔗 Format: Book-style with 5 main chapters
+  - [Tags: arxiv llm foundations pre-training generative-models alignment inference advanced 2025]
+  - [Verified: 2025-01-07]
+
+- [Fine-Tune an Open-Source LLM: Step-by-Step 2025 Edition](https://www.ashutosh.dev/how-to-fine-tune-an-open-source-llm-step-by-step-2025-edition/) – Comprehensive step-by-step guide to fine-tuning open-source LLMs (Mistral, LLaMA, Gemma) with detailed explanations of QLoRA, LoRA, PEFT, and parameter-efficient techniques. Includes model selection, dataset preparation, tokenization, training setup, hyperparameter tuning, and deployment. (🔴 Advanced)
+  - 📖 Access: Fully open (blog post)
+  - 🛠️ Hands-on: Yes, code examples and JSON schemas
+  - 📝 Topics: Model selection, QLoRA/LoRA, dataset preparation, tokenization, training environment, hyperparameter tuning, deployment
+  - 🏛️ Authority: Industry practitioner (Ashutosh Sharma)
+  - 📊 Details: Covers Mistral, LLaMA 3, Gemma, Phi-3; explains hardware requirements
+  - [Tags: fine-tuning lora-qlora mistral llama gemma instruction-tuning 2025 advanced]
+  - [Verified: 2025-01-07]
+
+- [Instruction Fine-Tuning with Open-Source LLMs](https://www.emergentmind.com/topics/instruction-fine-tuning-with-open-source-llms) – Comprehensive guide on instruction fine-tuning paradigms for adapting LLMs to follow explicit instructions. Covers principles, parameter-efficient methods (LoRA/QLoRA), best practices, benchmarks (MT-Bench, AlpacaEval), and applications across domains (finance, medical, code). Updated December 2025. (🔴 Advanced)
+  - 📖 Access: Fully open (research guide)
+  - 📝 Topics: Instruction fine-tuning principles, parameter-efficient methods, LoRA/QLoRA, best practices, domain applications
+  - 🏛️ Authority: Emergent Mind (AI research aggregator)
+  - 🎯 Benchmarks: MT-Bench, AlpacaEval, HHH, domain-specific evaluation
+  - 📊 Applications: Financial, medical, code, educational models
+  - [Tags: instruction-fine-tuning parameter-efficient qlora lora best-practices benchmarks advanced 2025]
+  - [Verified: 2025-01-07]
+
+- [Intro to Fine-Tuning Large Language Models (freeCodeCamp, 2025)](https://www.youtube.com/watch?v=H-oCV5brtU4) – Comprehensive YouTube course (2+ hours) covering fine-tuning LLMs from theory to practice. Includes supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and QLoRA for fine-tuning massive models on consumer hardware. Practical implementation with Python, PyTorch, and Hugging Face. (🟡 Intermediate-Advanced)
+  - 📖 Access: Fully open (YouTube)
+  - 🛠️ Hands-on: Yes, practical code examples
+  - 📺 Video: 2+ hours comprehensive tutorial
+  - 📝 Topics: Supervised fine-tuning, RLHF, QLoRA, Llama 70B on consumer GPUs, PyTorch implementation
+  - 🏛️ Authority: freeCodeCamp (trusted educational platform)
+  - 🎯 Focus: From theoretical foundations to practical deployment
+  - [Tags: youtube freecodcamp fine-tuning llm qlohf rlhf pytorch 2025]
+  - [Verified: 2025-01-07]
 
 - [Natural Language Processing Full Course 2025 (Edureka)](https://www.youtube.com/watch?v=SNG7yLLh_lA) – Comprehensive 8+ hour NLP course from beginner to advanced covering tokenization, stemming, vectorization, word embeddings, sentiment analysis, BERT, and transformers. Hands-on Python coding with NLTK, spaCy, Hugging Face, and TensorFlow with real-world projects. (🔴 Advanced)
   - 📖 Access: Fully open (YouTube)
@@ -196,7 +249,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Deep Learning and Machine Learning -- Natural Language Processing: From Theory to Application](https://arxiv.org/abs/2411.05026) – Comprehensive exploration of ML and DL for NLP with focus on LLMs, tokenization, text classification, entity recognition. Bridges theory and practical application. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv preprint)
   - 🏛️ Authority: arXiv (academic preprint)
-  - [Tags: arxiv deep-learning llm theory-to-practice nlp-methods 2024]
+  - [Tags: arxiv deep-learning llm theory-to-practice nlm-methods 2024]
   - [Verified: 2025-12-16]
 
 - [Intro to Large Language Models by Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g) – Comprehensive 1-hour video by former Tesla AI director explaining LLM fundamentals, architecture, training, and inference. Direct insights from top AI researcher. (🔴 Advanced)
@@ -278,7 +331,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 31, 2025 | **Total Resources:** 32 (24 courses + 4 docs + 4 tools)
-**Last Link Validation:** December 31, 2025
+**Last Updated:** January 7, 2026 | **Total Resources:** 39 (31 courses + 4 docs + 4 tools)
+**Last Link Validation:** January 7, 2026
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, coursera, llm-2025, free-courses-2025, generative-ai
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai
