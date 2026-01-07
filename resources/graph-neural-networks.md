@@ -20,6 +20,7 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 - Spectral and spatial methods
 - Graph pooling and coarsening
 - Applications: molecular property prediction, social network analysis, recommendation systems
+- **NEW (2025):** Graphons, transferability at scale, manifold neural networks, generalization analysis
 
 ---
 
@@ -80,7 +81,7 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 - [Introduction to Graph Neural Networks - Coursera Article](https://www.coursera.org/articles/graph-neural-networks) – Beginner-friendly overview article explaining what GNNs are, how they work, and why they matter. Covers fundamental concepts with clear language suitable for those new to graph learning. Includes real-world applications and resource recommendations. (🟢 Beginner)
   - 📖 Access: Fully open (web article)
   - 🏛️ Authority: Coursera
-  - 📄 Type: Educational article/guide
+  - 💴 Type: Educational article/guide
   - [Tags: article overview beginner foundational-concepts applications 2024]
   - [Verified: 2025-12-31]
 
@@ -93,14 +94,32 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: colab interactive notebooks hands-on intermediate 2025]
   - [Verified: 2025-12-16]
 
+- [Tutorial 7: Graph Neural Networks (UVA Deep Learning Labs)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html) – Comprehensive Jupyter notebook tutorial from University of Amsterdam covering graph convolutions, attention layers, and applications. Covers node-level, edge-level, and graph-level tasks with implementations. Perfect for intermediate practitioners. (🟡 Intermediate)
+  - 📖 Access: Fully open (Jupyter notebook)
+  - 🛠️ Hands-on: Yes, interactive implementation
+  - 🏛️ Authority: University of Amsterdam (UVA-DLC)
+  - 📝 Topics: Graph convolutions, attention layers, node/edge/graph classification
+  - [Tags: uva-dlc tutorial jupyter comprehensive hands-on intermediate 2019]
+  - [Verified: 2025-01-07]
+
 - [Stanford CS224W: Graph Neural Networks Hands-on Session (YouTube)](https://www.youtube.com/watch?v=-UjytpbqX4A) – Comprehensive 2-hour tutorial from Stanford's CS224W course covering GNN implementation with PyTorch Geometric. Includes GCN, custom convolutions, message passing, aggregation, and graph pooling. (🟡 Intermediate)
   - 📖 Access: Fully open (YouTube)
   - 🛠️ Hands-on: Yes, Colab notebook provided
   - 🏛️ Authority: Stanford University CS224W
   - 📺 Video: 2 hours comprehensive tutorial
-  - 📄 Colab: [Notebook Link](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
+  - 💴 Colab: [Notebook Link](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
   - [Tags: stanford cs224w youtube pytorch-geometric hands-on intermediate 2020]
   - [Verified: 2025-12-16]
+
+- [Graph Neural Networks Explained: Knowledge Graphs & GNNs Masterclass (YouTube)](https://www.youtube.com/watch?v=FeKxoTuLQ2U) – 1.5-hour masterclass from Graphcore covering GNN fundamentals, knowledge graphs, and real-world applications. Includes OGB-winning models (GPS++, Distributed KGE) and molecular GNN training acceleration case study. Free Jupyter notebooks provided. (🟡 Intermediate)
+  - 📖 Access: Fully open (YouTube + notebooks)
+  - 🛠️ Hands-on: Yes, free Jupyter notebooks + code examples
+  - 📺 Video: 1.5 hours (Feb 24, 2023)
+  - 🏛️ Authority: Graphcore (GNN industry leader)
+  - 📝 Topics: GNN architectures, knowledge graphs, performance optimization, GPU acceleration
+  - 📋 Applications: Molecular modeling, drug discovery, OGB benchmarks
+  - [Tags: youtube graphcore masterclass knowledge-graphs molecular-gnns performance intermediate 2023]
+  - [Verified: 2025-01-07]
 
 - [Graph Neural Networks in TensorFlow: A Practical Guide (YouTube)](https://www.youtube.com/watch?v=JqWROPYeqjA) – Comprehensive practical tutorial on building and deploying GNNs using TensorFlow. Covers graph representations, layer implementations, and real-world applications. Excellent for practitioners using TensorFlow ecosystem. (🟡 Intermediate)
   - 📖 Access: Fully open (YouTube)
@@ -150,6 +169,14 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - [Tags: survey gnn-methods applications state-of-art intermediate 2020]
   - [Verified: 2025-12-17]
 
+- [A Gentle Introduction to Graph Neural Networks (Distill.pub)](https://distill.pub/2021/gnn-intro/) – Interactive article providing intuitive visual explanations of how graph neural networks work. Uses message passing framework with interactive diagrams to build understanding. Perfect for visual learners. (🟡 Intermediate)
+  - 📖 Access: Fully open (web article)
+  - 📼 Visual: Yes, interactive diagrams and explanations
+  - 🏛️ Authority: Distill.pub (peer-reviewed AI journalism)
+  - 📝 Topics: Message passing neural networks, graph symmetries, permutation invariance
+  - [Tags: distill interactive visual learning message-passing intermediate 2021]
+  - [Verified: 2025-01-07]
+
 ### 🔴 Advanced
 
 - [Stanford CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) – The definitive course on graph machine learning taught by Jure Leskovec at Stanford. Covers GNNs, knowledge graphs, graph generation, deep graph generative models. Lectures, assignments, and Colab notebooks available. (🔴 Advanced)
@@ -171,6 +198,24 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
   - 🛠️ Hands-on: Yes, browser-based interactive
   - [Tags: arxiv interactive visualization education advanced 2025]
   - [Verified: 2025-12-16]
+
+- [Graph Neural Networks AAAI 2025 Tutorial](https://gnn.seas.upenn.edu/aaai-2025/) – Official 4-hour AAAI 2025 conference tutorial covering GNN foundations, properties, and applications. Taught by leading GNN researchers from University of Pennsylvania including Alejandro Ribeiro, Luana Ruiz, Navid Naderi, Zhiyang Wang. Topics: equivariance, stability, transferability, generalization with real-world applications (recommendation systems, wireless networks, bioinformatics). (🔴 Advanced)
+  - 📖 Access: Fully open (tutorial materials + schedule)
+  - ⏱️ Duration: 4 hours (Feb 26, 2025)
+  - 🏛️ Authority: AAAI 2025, University of Pennsylvania
+  - 📅 Speakers: Alejandro Ribeiro, Luana Ruiz, Navid Naderi, Zhiyang Wang (leading GNN researchers)
+  - 📝 Modules: GNN architectures & stability, applications, graphon neural networks, manifold neural networks
+  - [Tags: aaai-2025 tutorial gnn-foundations transferability graphons manifold-networks advanced 2025]
+  - [Verified: 2025-01-07]
+
+- [Must-Read Papers on Graph Neural Networks (GitHub: thunlp/GNNPapers)](https://github.com/thunlp/GNNPapers) – Curated collection of essential GNN research papers maintained by Tsinghua University NLP Lab. Categorized by: survey papers, GNN models, pooling methods, analysis, efficiency, explainability, and applications (node classification, clustering, matching, RL, traffic, program representation, social networks). Excellent resource for researchers. (🔴 Advanced)
+  - 📖 Access: Fully open (GitHub)
+  - 🏛️ Authority: Tsinghua University NLP Lab
+  - 💴 Format: Curated paper collection with structured categories
+  - 📝 Categories: Survey, models, pooling, analysis, efficiency, explainability, applications
+  - 📊 Applications: Node classification, link prediction, graph classification, clustering, RL, traffic networks, program analysis
+  - [Tags: github curated-papers tsinghua research-survey gnn-papers advanced 2025]
+  - [Verified: 2025-01-07]
 
 - [MIT OpenCourseWare: Natural Language Processing Part 1](https://learn.mit.edu/c/unit/ocw?resource=7600) – MIT course covering NLP fundamentals with connections to graph-based text representations. Academic-level content with lecture materials. (🔴 Advanced)
   - 📖 Access: Fully open (MIT OCW)
@@ -215,7 +260,7 @@ Graph Neural Networks (GNNs) extend deep learning to non-Euclidean data structur
 
 ---
 
-## 📂 Datasets & Benchmarks
+## 📋 Datasets & Benchmarks
 
 - [Open Graph Benchmark (OGB)](https://snap-stanford.github.io/ogb-web/) – Large-scale, realistic benchmark datasets for graph machine learning from Stanford SNAP. Includes node classification, link prediction, and graph classification tasks. (🟡 Intermediate)
   - 📖 Access: Fully open
@@ -288,7 +333,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** December 31, 2025 | **Total Resources:** 27 (19 courses + 3 docs + 4 tools + 6 benchmarks)
-**Last Link Validation:** December 31, 2025
+**Last Updated:** January 7, 2026 | **Total Resources:** 33 (25 courses + 3 docs + 4 tools + 6 benchmarks)
+**Last Link Validation:** January 7, 2026
 
-**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, free-courses-2025, tensorflow-gnn
+**Keywords:** graph-neural-networks, gnn, pytorch-geometric, graph-ml, node-classification, link-prediction, graph-convolution, message-passing, graph-attention, network-analysis, stanford-cs224w, colab-notebooks, hands-on-tutorials, aaai-2025-tutorial, distill-pub, graphcore-masterclass, free-courses-2025, tensorflow-gnn, postgraduate, advanced
