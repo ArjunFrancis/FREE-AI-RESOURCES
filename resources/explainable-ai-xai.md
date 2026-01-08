@@ -22,10 +22,24 @@ Explainable AI (XAI) focuses on making machine learning and deep learning models
 - Trust and fairness in AI systems
 - Regulatory compliance and AI governance
 - Causal reasoning in machine learning
+- XAI for computer vision applications
+- XAI implementation in production systems
+- Fairness-aware explanations
+- Feature attribution methods
 
 ---
 
 ## 🎓 Comprehensive Guides
+
+### 🟢 Beginner
+
+- **[Explainable AI: A Comprehensive Guide for 2025 - ShadeCoder](https://www.shadecoder.com/topics/explainable-ai-a-comprehensive-guide-for-2025)** - Practical 2025 guide to XAI explaining what explainable AI is, why it matters, implementation guidance with step-by-step instructions, and common pitfalls to avoid. Covers real-world uses, methods, and best practices for making AI systems transparent and accountable without sacrificing performance. Ideal for teams implementing interpretability.
+  - 📖 **Access:** Fully free guide  
+  - 🎯 **Level:** 🟢🟡 Beginner-Intermediate  
+  - **Focus:** Practical implementation, stakeholder needs, method selection, validation  
+  - **Topics:** XAI definitions, benefits, implementation steps, pitfalls, best practices, 2025 trends  
+  - **Key Insight:** Explainability as practical necessity (not luxury) in 2025, audit readiness, trust-building  
+  - [Tags: `beginner-intermediate` `xai-guide` `2025` `implementation` `best-practices` `shadecoder` `practical` `2025`]
 
 ### 🟡 Intermediate
 
@@ -51,6 +65,24 @@ Explainable AI (XAI) focuses on making machine learning and deep learning models
   - 📜 Features: LIME, SHAP, model interpretability, Python libraries
   - [Tags: intermediate datacamp lime shap python model-interpretability 2025]
 
+- **[Understanding & Explaining Fairness in Machine Learning - MIT](https://csail.mit.edu/news/understanding-explainability-fairness-machine-learning)** - MIT research on the intersection of XAI and fairness in machine learning. Comprehensive exploration of how explainability techniques help identify and mitigate bias, ensure equitable outcomes, and build trustworthy AI systems. Covers fairness definitions, explanation methods for detecting bias, and fairness-aware model interpretability.
+  - 📖 **Access:** Fully free (MIT CSAIL research)  
+  - 🏛️ **Authority:** MIT (leading research institution)  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - **Focus:** Fairness-aware XAI, bias detection, equitable AI, trustworthiness  
+  - **Topics:** Fairness definitions, bias identification, explanation-based fairness, ethical AI  
+  - **Key Insight:** XAI as tool for detecting and mitigating algorithmic bias  
+  - [Tags: `intermediate-advanced` `fairness` `xai` `bias-mitigation` `ethical-ai` `mit` `research` `2025`]
+
+- **[Feature Attribution Methods: LIME, SHAP & Beyond - Towards Data Science](https://towardsdatascience.com/decoding-feature-importance-methods-for-machine-learning-64c3b6b1ef3a)** - Comprehensive guide comparing feature attribution methods beyond LIME and SHAP including permutation importance, integrated gradients, layer-wise relevance propagation (LRP), and DeepLIFT. Practical comparison of when to use each method, implementation examples, and trade-offs between local vs global explanations, model-specific vs model-agnostic approaches.
+  - 📖 **Access:** Fully free (Towards Data Science article)  
+  - 🛠️ **Hands-on:** Code examples and comparisons  
+  - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
+  - **Methods Covered:** LIME, SHAP, permutation importance, integrated gradients, LRP, DeepLIFT  
+  - **Focus:** Practical comparison, use cases, implementation guidance  
+  - **Key Topics:** Local vs global explanations, model-specific vs model-agnostic, trade-offs  
+  - [Tags: `intermediate-advanced` `feature-attribution` `lime-shap` `permutation-importance` `integrated-gradients` `lrp` `towardsdatascience` `2025`]
+
 ### 🔴 Advanced
 
 - [Comprehensive Review of Explainable AI in Computer Vision](https://pmc.ncbi.nlm.nih.gov/articles/PMC12252469/) **(Advanced)** - Peer-reviewed comprehensive research article on explainable AI applications in computer vision from PMC/NIH. Covers activation maps, saliency maps, transformer explanations, medical imaging interpretation, and cutting-edge XAI techniques. Essential for understanding state-of-the-art XAI in vision domains. (🔴 Advanced)
@@ -60,9 +92,19 @@ Explainable AI (XAI) focuses on making machine learning and deep learning models
   - 🎯 Focus: Research-level understanding, advanced applications
   - [Tags: advanced xai computer-vision peer-reviewed research saliency-maps attention-mechanisms 2025]
 
+- **[Vision Transformer Explainability: Attention as Explanation - arXiv](https://arxiv.org/abs/2406.07284)** - Advanced research on Vision Transformer (ViT) interpretability and attention mechanisms as explanations. Demonstrates how attention weights in visual transformers provide insights into model decisions, attention visualization for object detection, and methods for extracting meaningful explanations from transformer architectures. Critical for understanding modern vision model interpretability.
+  - 📖 **Access:** Fully free (arXiv PDF)  
+  - 🏛️ **Authority:** arXiv (peer-reviewed research)  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Application:** Computer vision, transformer interpretability, attention analysis  
+  - **Focus:** Attention mechanisms as explanations, visualization techniques, interpretable ViT design  
+  - **Topics:** Self-attention interpretation, multi-head attention analysis, spatial reasoning in vision models  
+  - **Key Insight:** Transformer attention as inherently interpretable mechanism for vision tasks  
+  - [Tags: `advanced` `vision-transformers` `xai` `attention-mechanisms` `interpretability` `arxiv` `2025`]
+
 ---
 
-## 📘 Tools & Libraries
+## 📦 Tools & Libraries
 
 ### 🟡 Intermediate
 
@@ -77,6 +119,14 @@ Explainable AI (XAI) focuses on making machine learning and deep learning models
   - 📜 Features: Local explanations, perturbation-based interpretation
   - [Tags: intermediate lime github model-agnostic explanations]
 
+- **[Captum: A Model Interpretability Library for PyTorch - Official](https://captum.ai/)** - Official Meta/Facebook Captum library for model interpretability covering feature attribution, layer attribution, and neuron attribution methods. Provides ready-to-use interpretability algorithms (Integrated Gradients, GradCAM, DeepLIFT, attention) and supports PyTorch models with visualization tools.
+  - 📖 **Access:** Fully free, official documentation  
+  - 🏛️ **Authority:** Meta/Facebook (official library)  
+  - 🛠️ **Framework:** Python, PyTorch integration  
+  - **Methods:** Integrated Gradients, GradCAM, DeepLIFT, attention attribution  
+  - **Features:** Feature/layer/neuron attribution, visualization, benchmark utilities  
+  - [Tags: `intermediate` `captum` `pytorch` `feature-attribution` `official-library` `meta` `2025`]
+
 ---
 
 ## 🔗 Related Resources
@@ -86,6 +136,7 @@ Explainable AI (XAI) focuses on making machine learning and deep learning models
 - [AI Security & Privacy](./ai-security-privacy.md) - Model robustness and adversarial examples
 - [Computer Vision](./computer-vision.md) - XAI applications in vision tasks
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Understanding neural network architectures
+- [Multimodal AI](./multimodal-ai.md) - Interpretability in multimodal models
 
 **Cross-reference:**
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - Core ML concepts
@@ -113,6 +164,6 @@ Found a great free XAI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 6, 2026 | **Total Resources:** 4
+**Last Updated:** January 8, 2026 | **Total Resources:** 9 (+5 new)
 
-**Keywords:** explainable-ai, xai, interpretability, transparency, lime, shap, shapley-values, saliency-maps, attention-mechanisms, model-agnostic, trust-ai, ai-ethics, feature-importance, neural-network-interpretation, 2025
+**Keywords:** explainable-ai, xai, interpretability, transparency, lime, shap, shapley-values, saliency-maps, attention-mechanisms, model-agnostic, trust-ai, ai-ethics, feature-importance, neural-network-interpretation, fairness, captum, vision-transformers, 2025
