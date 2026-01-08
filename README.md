@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **493+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **505+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-493+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-505+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-30-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%207%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%208%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,36 +14,35 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 493+ | Across all categories (updated Jan 7, 2026) |
+| **Total Resources** | 505+ | Across all categories (updated Jan 8, 2026) |
 | **Total Categories** | 30 | Organized by topic & expertise level |
-| **Average/Category** | ~16 | Well-distributed across topics |
-| **Recent Growth** | +13 resources (Jan 7, 2026) | Wednesday: NLP, Graph Neural Networks |
-| **Top Categories** | NLP (39), Generative AI (34), Mathematics (33), AI Tools (33), GNN (33), Audio (30) | Comprehensive coverage |
+| **Average/Category** | ~17 | Well-distributed across topics |
+| **Recent Growth** | +12 resources (Jan 8, 2026) | Thursday: Multimodal AI, XAI |
+| **Top Categories** | NLP (39), Generative AI (34), Mathematics (33), AI Tools (33), Multimodal (24), GNN (33), Audio (30), XAI (9) | Comprehensive coverage |
 | **2025 Content** | 95%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 7, 2026, 7:23 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 8, 2026, 7:24 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 7, 2026 - Wednesday Rotation)
+## 🌟 What's New (Jan 8, 2026 - Thursday Rotation)
 
-### 📝 Natural Language Processing: +7 Resources (32 → 39)
-- **Foundations of Large Language Models (arXiv 2501.09223)** - Latest academic book covering LLM pre-training, generative models, prompting, alignment, inference
-- **Stanford CS224N: NLP with Deep Learning (Winter 2025)** - World-renowned Stanford course with 19 lectures: RNNs, LSTMs, Transformers, RLHF, inference
-- **CMU Advanced NLP (Spring 2025)** - Graduate-level course covering modern neural methods, multimodal AI, agents, latest research
-- **Fine-Tune an Open-Source LLM: 2025 Edition** - Comprehensive guide: QLoRA, LoRA, PEFT, model selection (Mistral, LLaMA, Gemma), deployment
-- **Instruction Fine-Tuning with Open-Source LLMs** - Research guide covering instruction tuning principles, LoRA/QLoRA, benchmarks (MT-Bench, AlpacaEval)
-- **Intro to Fine-Tuning Large Language Models (freeCodeCamp, 2025)** - 2+ hour YouTube course on supervised fine-tuning, RLHF, QLoRA with PyTorch/HuggingFace
-- **Natural Language Processing Demystified (Full Course)** - Free comprehensive course (15+ modules) covering transformers, pre-training, transfer learning, fine-tuning
+### 🌈 Multimodal AI: +7 Resources (17 → 24)
+- **LLaVA: Large Language and Vision Assistant Architecture Deep Dive (LearnOpenCV)** - Comprehensive technical tutorial on LLaVA architecture, training methodology, CLIP vision encoder, MLP projector, two-stage training strategy, and practical optimizations
+- **A Survey of State of the Art Large Vision Language Models 2025 (arXiv)** - Comprehensive survey of 20+ VLM developments covering architectures, alignment methods, benchmarks, and evaluation metrics
+- **Towards Comprehensive Benchmarking of Medical Vision Language Models (Oxford Academic)** - Framework for evaluating 24 state-of-the-art medical MLLMs including CheXzero, LLaVA-Med, with efficiency and trust metrics
+- **A Benchmark Multimodal Oro-Dental Dataset (arXiv)** - Advanced research dataset with 8,775 dental checkups, 50K images, fine-tuning Qwen-VL for medical diagnostics
+- **Large VLM-based Vision-Language-Action Models for Robotics Survey (arXiv)** - Comprehensive survey of VLA models for robotic manipulation covering monolithic and hierarchical designs
+- **MMRL: Multi-Modal Representation Learning (arXiv)** - Research on few-shot adaptation and overfitting challenges in VLMs using enhanced cross-modal alignment
+- **Magma: A Foundation Model for Multimodal AI Agents (arXiv)** - Advanced foundation model combining vision-language understanding with spatial-temporal reasoning for agentic tasks
 
-### 🕸️ Graph Neural Networks: +6 Resources (27 → 33)
-- **Graph Neural Networks AAAI 2025 Tutorial** - 4-hour official AAAI tutorial covering GNN foundations, graphons, transferability, manifold neural networks (UPenn)
-- **Tutorial 7: Graph Neural Networks (UVA Deep Learning Labs)** - Comprehensive Jupyter notebook covering graph convolutions, attention layers, node/edge/graph tasks
-- **Graph Neural Networks Explained: GNN Masterclass (Graphcore)** - 1.5-hour masterclass with OGB-winning models, molecular GNNs, GPU acceleration, free notebooks
-- **A Gentle Introduction to Graph Neural Networks (Distill.pub)** - Interactive article with visual explanations of message passing, graph symmetries
-- **Must-Read Papers on Graph Neural Networks (GitHub: thunlp/GNNPapers)** - Curated research paper collection by Tsinghua University NLP Lab
-- **Comprehensive Introduction to GNNs (DataCamp)** - Step-by-step tutorial covering GNN fundamentals, architectures, PyTorch implementation
+### 🔍 Explainable AI (XAI): +5 Resources (4 → 9)
+- **Explainable AI: A Comprehensive Guide for 2025 (ShadeCoder)** - Practical 2025 guide covering XAI implementation, stakeholder needs, method selection, and best practices for transparent AI systems
+- **Understanding & Explaining Fairness in ML (MIT)** - MIT CSAIL research on intersection of XAI and fairness, bias detection, and trustworthy AI systems
+- **Feature Attribution Methods: LIME, SHAP & Beyond (Towards Data Science)** - Comprehensive comparison of feature attribution methods including permutation importance, integrated gradients, LRP, and DeepLIFT
+- **Vision Transformer Explainability: Attention as Explanation (arXiv)** - Advanced research on ViT interpretability, attention visualization, and transformer explanation techniques
+- **Captum: A Model Interpretability Library (Official)** - Meta/Facebook Captum library for PyTorch featuring Integrated Gradients, GradCAM, DeepLIFT, and attention attribution
 
 ---
 
@@ -70,11 +69,12 @@
 
 | Path | Focus | Duration | Key Resources |
 |------|-------|----------|---------------|
-| **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20 🆕) → [Multimodal AI](resources/multimodal-ai.md) (17) |
-| **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30 🆕) → [Generative AI](resources/generative-ai.md) |
-| **Interpretability** | Understanding models, debugging, trust | 6-8 weeks | [Explainable AI](resources/explainable-ai-xai.md) (4 🆕) → [AI Ethics](resources/ai-ethics.md) |
-| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (39 🆕) → [Generative AI](resources/generative-ai.md) (34) |
-| **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33 🆕) → [Recommender Systems](resources/recommender-systems.md) |
+| **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20) → [Multimodal AI](resources/multimodal-ai.md) (24 🆕) |
+| **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24 🆕) → [Generative AI](resources/generative-ai.md) (34) |
+| **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30) → [Generative AI](resources/generative-ai.md) |
+| **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9 🆕) → [AI Ethics](resources/ai-ethics.md) |
+| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (39) → [Generative AI](resources/generative-ai.md) (34) |
+| **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
 | **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) |
@@ -90,7 +90,7 @@
 **Recommended Path**:
 1. **Emerging Fields**: [Spatial Intelligence](resources/spatial-intelligence.md), [World Models](resources/world-models.md), [Quantum AI](resources/quantum-ai.md)
 2. **Research**: [Research Papers](resources/research-papers-publications.md), [arXiv](https://arxiv.org)
-3. **University Courses**: [Stanford CS224N](resources/natural-language-processing.md), [Stanford CS224W](resources/graph-neural-networks.md), [MIT](resources/robotics-embodied-ai.md)
+3. **University Courses**: [Stanford CS224N (NLP)](resources/natural-language-processing.md), [Stanford CS224W (GNNs)](resources/graph-neural-networks.md), [MIT](resources/robotics-embodied-ai.md)
 4. **Implementation**: Paper reproduction, open-source contribution
 
 ---
@@ -118,17 +118,18 @@
 | Category | Resources | Difficulty | Focus | Latest |
 |----------|-----------|------------|-------|---------||
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
-| **[Natural Language Processing](resources/natural-language-processing.md)** | **39** | 🟡🔴 | Language understanding | **+7 NEW**: Stanford CS224N, CMU, fine-tuning, LLM foundations |
+| **[Natural Language Processing](resources/natural-language-processing.md)** | **39** | 🟡🔴 | Language understanding | Stanford CS224N, fine-tuning, LLM foundations |
 | [Computer Vision](resources/computer-vision.md) | 20 | 🟡🔴 | Image understanding | Stanford, OpenCV, CU Boulder |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 24 | 🟡🔴 | Agent training | Deep RL |
 | [Generative AI](resources/generative-ai.md) | 34 | 🔴 | LLMs, diffusion | Microsoft, Simplilearn, VLMs |
-| **[Graph Neural Networks](resources/graph-neural-networks.md)** | **33** | 🔴 | Graph learning | **+6 NEW**: AAAI 2025, UVA, Graphcore, Distill.pub |
+| **[Graph Neural Networks](resources/graph-neural-networks.md)** | **33** | 🔴 | Graph learning | AAAI 2025, UVA, Graphcore, Distill.pub |
 | [Prompt Engineering](resources/prompt-engineering.md) | 27 | 🟡🔴 | LLM interaction | OpenAI, Lakera, Vanderbilt |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
 | [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
-| [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models, TTIC |
+| [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models |
+| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | **🆕 NEW: LLaVA, VLA, robotics, medical VLM benchmarks** |
 
-**Total**: ~300+ resources | **Perfect for**: Ready to specialize
+**Total**: ~310+ resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -138,11 +139,11 @@
 
 | Category | Resources | Difficulty | Latest | Market Trend |
 |----------|-----------|------------|--------|---------------|
-| [Explainable AI (XAI)](resources/explainable-ai-xai.md) | 4 | 🟡🔴 | 🆕 LIME, SHAP, CV XAI, 2025 guide | **Market: $30B by 2032** |
+| **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **9** | 🟡🔴 | 🆕 2025 guide, fairness XAI, ViT interpretability, Captum | **Market: $30B by 2032** |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Fairness, accountability | Regulatory driven |
 | [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | Red teaming, privacy | Growing importance |
 
-**Total**: ~46+ resources | **Perfect for**: Responsible AI focus
+**Total**: ~51+ resources | **Perfect for**: Responsible AI focus
 
 ---
 
@@ -152,9 +153,9 @@
 
 | Domain | Resources | Difficulty | Latest Updates | Impact |
 |--------|-----------|------------|---|----------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | 29 | 🟡 | Foundation models, multimodal imaging, FDA | Medical diagnosis |
+| [AI for Healthcare](resources/ai-for-healthcare.md) | 29 | 🟡 | Medical VLM benchmarks, multimodal imaging | Medical diagnosis |
 | [AI for Finance](resources/ai-for-finance.md) | 22 | 🟡 | Agentic trading, workspace AI | Trading, risk |
-| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 26 | 🔴 | Modern robot learning | Autonomous systems |
+| [Robotics & Embodied AI](resources/robotics-embodied-ai.md) | 26 | 🔴 | VLA models, visual reasoning | Autonomous systems |
 
 **Total**: ~110+ resources | **Perfect for**: Domain specialists
 
@@ -181,11 +182,11 @@
 
 | Category | Resources | Difficulty | Focus | Latest |
 |----------|-----------|------------|-------|---------||
-| [Multimodal AI](resources/multimodal-ai.md) | 17 | 🟡🔴 | VLM, cross-modal | 2025 open-source VLMs |
+| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | VLM, cross-modal, vision-language-action | 🆕 2025 VLM architectures, robotics, medical |
 | [Spatial Intelligence](resources/spatial-intelligence.md) | TBD | 🔴 | 3D, embodied AI | Emerging |
 | [World Models](resources/world-models.md) | TBD | 🔴 | Simulation, forecasting | Research frontier |
 
-**Total**: 17 resources | **Perfect for**: Multimodal specialists
+**Total**: 24 resources | **Perfect for**: Multimodal specialists
 
 ---
 
@@ -206,7 +207,22 @@ Weeks 9-12: Production Deployment (RAG, agents, prompt engineering)
 
 ---
 
-### Path 2: Graph Machine Learning Engineer (10 weeks)
+### Path 2: Multimodal AI Specialist (12 weeks)
+
+```
+Weeks 1-4: Fundamentals (Vision-Language Models, CLIP, OpenCV courses)
+  →
+Weeks 5-8: Advanced VLMs (LLaVA architecture, medical VLM benchmarks, VLA robotics)
+  →
+Weeks 9-12: Production Systems (Multimodal agents, edge deployment, applications)
+```
+
+**Resources**: 24 | **Tools**: PyTorch, Hugging Face, OpenCV  
+**Final**: End-to-end multimodal application (image understanding + reasoning + action)
+
+---
+
+### Path 3: Graph Machine Learning Engineer (10 weeks)
 
 ```
 Weeks 1-3: Fundamentals (PyTorch Geometric, UVA tutorial, Distill.pub)
@@ -221,7 +237,22 @@ Weeks 8-10: Production (Recommendation systems, knowledge graphs, molecular ML)
 
 ---
 
-### Path 3: Computer Vision Specialist (12 weeks)
+### Path 4: Explainable AI & Fairness (8-10 weeks)
+
+```
+Weeks 1-2: Fundamentals (XAI definitions, LIME, SHAP basics)
+  →
+Weeks 3-5: Advanced Methods (Feature attribution, fairness-aware XAI, ViT interpretability)
+  →
+Weeks 6-8: Production Implementation (Model explanations, compliance, bias detection)
+```
+
+**Resources**: 9 + [AI Ethics](resources/ai-ethics.md) (27) | **Tools**: SHAP, LIME, Captum  
+**Final**: Explainable AI system with fairness metrics and compliance
+
+---
+
+### Path 5: Computer Vision Specialist (12 weeks)
 
 ```
 Weeks 1-4: Fundamentals (Stanford CS231n basics or OpenCV bootcamps)
@@ -300,12 +331,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 7, 2026, 7:23 PM UTC+4
+- **Last Updated**: January 8, 2026, 7:24 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 13 resources/day (Wed), 13 resources/day (Tue), 14 resources/day (Mon)
-- **Path to 500+**: January 8-9, 2026 (estimated)
-- **2025 Growth**: 493+ resources in first week, 30 categories launched
+- **Growth Rate**: 12 resources/day (Thu), 13 resources/day (Wed), 13 resources/day (Tue), 14 resources/day (Mon)
+- **Path to 520+**: January 10, 2026 (estimated)
+- **2025 Growth**: 505+ resources in first week, 30 categories launched
 
 ---
 
@@ -321,6 +352,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**493+ resources | 30 categories | 100% free | Quality assured**
+**505+ resources | 30 categories | 100% free | Quality assured**
 
 </div>
