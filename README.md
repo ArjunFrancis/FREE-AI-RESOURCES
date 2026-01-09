@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **505+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **524+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-505+-blue.svg)]()
-[![Categories](https://img.shields.io/badge/categories-30-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%208%2C%202026-brightblue.svg)]
+[![Resources](https://img.shields.io/badge/resources-524+-blue.svg)]()
+[![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%209%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,35 +14,34 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 505+ | Across all categories (updated Jan 8, 2026) |
-| **Total Categories** | 30 | Organized by topic & expertise level |
+| **Total Resources** | 524+ | Across all categories (updated Jan 9, 2026) |
+| **Total Categories** | 31 | Organized by topic & expertise level |
 | **Average/Category** | ~17 | Well-distributed across topics |
-| **Recent Growth** | +12 resources (Jan 8, 2026) | Thursday: Multimodal AI, XAI |
-| **Top Categories** | NLP (39), Generative AI (34), Mathematics (33), AI Tools (33), Multimodal (24), GNN (33), Audio (30), XAI (9) | Comprehensive coverage |
+| **Recent Growth** | +19 resources (Jan 9, 2026) | Friday: AI Security (4), AI Hardware (10), Index (5) |
+| **Top Categories** | NLP (39), Generative AI (34), Mathematics (33), AI Tools (33), Multimodal (24), GNN (33), Audio (30), AI Hardware (10) | Comprehensive coverage |
 | **2025 Content** | 95%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 8, 2026, 7:24 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 9, 2026, 3:53 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 8, 2026 - Thursday Rotation)
+## 🌟 What's New (Jan 9, 2026 - Friday Rotation)
 
-### 🌈 Multimodal AI: +7 Resources (17 → 24)
-- **LLaVA: Large Language and Vision Assistant Architecture Deep Dive (LearnOpenCV)** - Comprehensive technical tutorial on LLaVA architecture, training methodology, CLIP vision encoder, MLP projector, two-stage training strategy, and practical optimizations
-- **A Survey of State of the Art Large Vision Language Models 2025 (arXiv)** - Comprehensive survey of 20+ VLM developments covering architectures, alignment methods, benchmarks, and evaluation metrics
-- **Towards Comprehensive Benchmarking of Medical Vision Language Models (Oxford Academic)** - Framework for evaluating 24 state-of-the-art medical MLLMs including CheXzero, LLaVA-Med, with efficiency and trust metrics
-- **A Benchmark Multimodal Oro-Dental Dataset (arXiv)** - Advanced research dataset with 8,775 dental checkups, 50K images, fine-tuning Qwen-VL for medical diagnostics
-- **Large VLM-based Vision-Language-Action Models for Robotics Survey (arXiv)** - Comprehensive survey of VLA models for robotic manipulation covering monolithic and hierarchical designs
-- **MMRL: Multi-Modal Representation Learning (arXiv)** - Research on few-shot adaptation and overfitting challenges in VLMs using enhanced cross-modal alignment
-- **Magma: A Foundation Model for Multimodal AI Agents (arXiv)** - Advanced foundation model combining vision-language understanding with spatial-temporal reasoning for agentic tasks
+### 🔒 AI Security & Privacy: +4 Resources (15 → 19)
+- **HarmBench: Standardized Evaluation Framework for Red Teaming (Center for AI Safety)** - Open-source framework for automated red teaming with 18+ attack methods and 33+ LLM defenses. Enables systematic evaluation and co-development of attacks and defenses.
+- **AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration (arXiv)** - Dual-agent framework for continuous autonomous red teaming that discovers new attacks via research analysis. Modular, scalable approach to AI security.
+- **Purple-teaming LLMs with Adversarial Defender Training (arXiv 2024)** - Novel integration of red + blue team methodology. Advanced adversarial training for LLM robustness against jailbreaking.
 
-### 🔍 Explainable AI (XAI): +5 Resources (4 → 9)
-- **Explainable AI: A Comprehensive Guide for 2025 (ShadeCoder)** - Practical 2025 guide covering XAI implementation, stakeholder needs, method selection, and best practices for transparent AI systems
-- **Understanding & Explaining Fairness in ML (MIT)** - MIT CSAIL research on intersection of XAI and fairness, bias detection, and trustworthy AI systems
-- **Feature Attribution Methods: LIME, SHAP & Beyond (Towards Data Science)** - Comprehensive comparison of feature attribution methods including permutation importance, integrated gradients, LRP, and DeepLIFT
-- **Vision Transformer Explainability: Attention as Explanation (arXiv)** - Advanced research on ViT interpretability, attention visualization, and transformer explanation techniques
-- **Captum: A Model Interpretability Library (Official)** - Meta/Facebook Captum library for PyTorch featuring Integrated Gradients, GradCAM, DeepLIFT, and attention attribution
+### ⚙️ AI Hardware & Acceleration: +10 Resources (NEW CATEGORY 🎉)
+- **Google Cloud Skills: AI Infrastructure - Cloud TPUs (2025)** - Official 30-minute Google course on TPU selection, optimization, and GPU/TPU interoperability
+- **Cognitive Class: Accelerating Deep Learning with GPUs** - Comprehensive GPU acceleration course with CNN training and distributed deep learning projects
+- **CUDA Programming Course - High-Performance Computing (freeCodeCamp)** - 12-hour video course covering GPU fundamentals, CUDA kernels, matrix optimization
+- **Oxford CUDA Programming Course (2025)** - Week-long hands-on CUDA course at Oxford University (July 2025)
+- **An Even Easier Introduction to CUDA (NVIDIA Official)** - Quick accessible intro to CUDA C++ programming
+- **Edge AI Model Optimization for IoT: Best Practices (2025)** - Expert guide to model compression, hardware acceleration, NPU integration
+- **Hardware Accelerators for Artificial Intelligence (arXiv 2024)** - 30+ page technical paper on GPU/TPU/FPGA/ASIC architectures
+- **Trends in Embedded AI: Designing Hardware for ML (2025)** - In-depth analysis of edge AI hardware design, NPU specialization, FPGA/ASIC tradeoffs
 
 ---
 
@@ -68,14 +67,14 @@
 **Goal**: Master a specialization and build portfolio projects
 
 | Path | Focus | Duration | Key Resources |
-|------|-------|----------|---------------|
-| **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20) → [Multimodal AI](resources/multimodal-ai.md) (24 🆕) |
-| **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24 🆕) → [Generative AI](resources/generative-ai.md) (34) |
+|------|-------|----------|----------------|
+| **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20) → [Multimodal AI](resources/multimodal-ai.md) (24) |
+| **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24) → [Generative AI](resources/generative-ai.md) (34) |
 | **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30) → [Generative AI](resources/generative-ai.md) |
-| **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9 🆕) → [AI Ethics](resources/ai-ethics.md) |
+| **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
 | **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (39) → [Generative AI](resources/generative-ai.md) (34) |
 | **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) |
-| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) |
+| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Hardware](resources/ai-hardware-acceleration.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
 | **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) |
 
@@ -116,7 +115,7 @@
 **Goal**: Master specialized AI/ML domains
 
 | Category | Resources | Difficulty | Focus | Latest |
-|----------|-----------|------------|-------|---------||
+|----------|-----------|------------|-------|---------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
 | **[Natural Language Processing](resources/natural-language-processing.md)** | **39** | 🟡🔴 | Language understanding | Stanford CS224N, fine-tuning, LLM foundations |
 | [Computer Vision](resources/computer-vision.md) | 20 | 🟡🔴 | Image understanding | Stanford, OpenCV, CU Boulder |
@@ -127,7 +126,7 @@
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
 | [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
 | [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models |
-| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | **🆕 NEW: LLaVA, VLA, robotics, medical VLM benchmarks** |
+| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical VLM benchmarks |
 
 **Total**: ~310+ resources | **Perfect for**: Ready to specialize
 
@@ -139,11 +138,11 @@
 
 | Category | Resources | Difficulty | Latest | Market Trend |
 |----------|-----------|------------|--------|---------------|
-| **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **9** | 🟡🔴 | 🆕 2025 guide, fairness XAI, ViT interpretability, Captum | **Market: $30B by 2032** |
+| **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **9** | 🟡🔴 | 2025 guide, fairness XAI, ViT interpretability, Captum | **Market: $30B by 2032** |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Fairness, accountability | Regulatory driven |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | Red teaming, privacy | Growing importance |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 19 | 🟡 | Red teaming, privacy, purple-teaming | Growing importance |
 
-**Total**: ~51+ resources | **Perfect for**: Responsible AI focus
+**Total**: ~55+ resources | **Perfect for**: Responsible AI focus
 
 ---
 
@@ -169,10 +168,12 @@
 |----------|-----------|------------|-------|
 | [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 33 | 🟢 | PyTorch, TensorFlow, MLflow |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 15 | 🟡 | Red teaming, privacy |
+| **[AI Hardware & Acceleration](resources/ai-hardware-acceleration.md)** | **10** | 🟡🔴 | GPU/TPU, CUDA, edge AI |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 19 | 🟡 | Red teaming, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness |
+| [Edge AI & IoT](resources/edge-ai-iot.md) | 11 | 🟡 | Edge deployment |
 
-**Total**: ~89+ resources | **Perfect for**: Production engineers
+**Total**: ~114+ resources | **Perfect for**: Production engineers
 
 ---
 
@@ -181,12 +182,13 @@
 **Cross-modal learning and next-generation AI**
 
 | Category | Resources | Difficulty | Focus | Latest |
-|----------|-----------|------------|-------|---------||
-| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | VLM, cross-modal, vision-language-action | 🆕 2025 VLM architectures, robotics, medical |
-| [Spatial Intelligence](resources/spatial-intelligence.md) | TBD | 🔴 | 3D, embodied AI | Emerging |
-| [World Models](resources/world-models.md) | TBD | 🔴 | Simulation, forecasting | Research frontier |
+|----------|-----------|------------|-------|---------|
+| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | VLM, cross-modal, vision-language-action | VLM architectures, robotics, medical |
+| [Spatial Intelligence](resources/spatial-intelligence.md) | 12 | 🔴 | 3D, embodied AI | Emerging |
+| [World Models](resources/world-models.md) | 16 | 🔴 | Simulation, forecasting | Research frontier |
+| [Quantum AI](resources/quantum-ai.md) | 13 | 🔴 | Quantum computing | Early research |
 
-**Total**: 24 resources | **Perfect for**: Multimodal specialists
+**Total**: 65 resources | **Perfect for**: Multimodal & emerging tech specialists
 
 ---
 
@@ -237,7 +239,22 @@ Weeks 8-10: Production (Recommendation systems, knowledge graphs, molecular ML)
 
 ---
 
-### Path 4: Explainable AI & Fairness (8-10 weeks)
+### Path 4: AI Hardware & GPU Engineer (10 weeks)
+
+```
+Weeks 1-3: GPU Fundamentals (CUDA basics, GPU architecture, Oxford course or YouTube)
+  →
+Weeks 4-7: Advanced GPU Programming (Kernel optimization, distributed training)
+  →
+Weeks 8-10: Deployment (Edge AI, TPU optimization, hardware-aware model design)
+```
+
+**Resources**: 10 | **Tools**: CUDA, PyTorch GPU, Google Cloud TPUs  
+**Final**: Production GPU-optimized deep learning system
+
+---
+
+### Path 5: Explainable AI & Fairness (8-10 weeks)
 
 ```
 Weeks 1-2: Fundamentals (XAI definitions, LIME, SHAP basics)
@@ -252,7 +269,7 @@ Weeks 6-8: Production Implementation (Model explanations, compliance, bias detec
 
 ---
 
-### Path 5: Computer Vision Specialist (12 weeks)
+### Path 6: Computer Vision Specialist (12 weeks)
 
 ```
 Weeks 1-4: Fundamentals (Stanford CS231n basics or OpenCV bootcamps)
@@ -331,12 +348,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 8, 2026, 7:24 PM UTC+4
+- **Last Updated**: January 9, 2026, 3:53 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 12 resources/day (Thu), 13 resources/day (Wed), 13 resources/day (Tue), 14 resources/day (Mon)
-- **Path to 520+**: January 10, 2026 (estimated)
-- **2025 Growth**: 505+ resources in first week, 30 categories launched
+- **Growth Rate**: 19 resources/day (Fri), 12-14 resources/day (Mon-Thu)
+- **Path to 540+**: January 15, 2026 (estimated)
+- **2026 Growth**: 524+ resources (Jan 9), 31 categories launched
 
 ---
 
@@ -352,6 +369,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**505+ resources | 30 categories | 100% free | Quality assured**
+**524+ resources | 31 categories | 100% free | Quality assured**
 
 </div>
