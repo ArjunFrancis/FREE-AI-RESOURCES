@@ -87,6 +87,22 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: intermediate pluralsight privacy differential-privacy federated-learning 2025]
   - [Verified: 2025-12-29]
 
+- [HarmBench: Standardized Evaluation Framework for Red Teaming (Center for AI Safety)](https://github.com/centerforaisafety/HarmBench) ⭐ **NEW JAN 2026** – Open-source evaluation framework for automated red teaming with 18+ evaluated attack methods and 33+ LLM defenses. Identifies desirable red teaming properties (coverage, clarity, efficiency), systematically designs benchmarks, and enables co-development of attacks and defenses. Includes highly efficient adversarial training method for LLM robustness across diverse attack types. Essential for understanding cutting-edge attack-defense dynamics. (🟡 Intermediate)
+  - 📖 Access: Fully open, GitHub repository
+  - 🏛️ Authority: Center for AI Safety (CAIS)
+  - 🛠️ Code: Python, Jupyter notebooks included
+  - 🎯 Topics: Red teaming evaluation, robust refusal, attack-defense co-development, LLM security
+  - [Tags: intermediate red-teaming evaluation harmbench llm-security 2026]
+  - [Verified: 2026-01-09]
+
+- [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration (arXiv)](https://arxiv.org/pdf/2502.05637.pdf) ⭐ **NEW MARCH 2025** – Advanced framework for autonomous red teaming using dual-agent architecture: red-teaming agent generates test cases from high-level risk categories, and strategy proposer autonomously discovers new attacks via recent research analysis. Modular design enables continuous evolution with new attack vectors. Comprehensive, scalable approach to AI system security evaluation. (🟡 Intermediate-Advanced)
+  - 📖 Access: Fully open (arXiv preprint, March 2025)
+  - 🏛️ Authority: arXiv peer-reviewed research
+  - 📄 Format: Technical paper with implementation details
+  - 🎯 Topics: Autonomous red teaming, attack discovery, lifelong learning, AI system robustness
+  - [Tags: intermediate red-teaming autonomous-attacks research 2025]
+  - [Verified: 2026-01-09]
+
 - [FedLearn: Security & Adversarial AI](https://www.fedlearn.com/courses/security-adversarial-ai/) – Essential online course providing introduction to vulnerabilities in ML systems with focus on DoD operations, covering data poisoning, Trojan insertion, backdoors, evasion attacks, and defense methods like adversarial training and differential privacy. (🟡 Intermediate)
   - 📖 Access: Fully open, self-paced
   - 🏛️ Authority: FedLearn (Defense-focused AI education)
@@ -153,6 +169,14 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: advanced nist standards government trustworthy-ai 2025]
   - [Verified: 2025-12-16]
 
+- [Purple-teaming LLMs with Adversarial Defender Training (arXiv 2024)](https://arxiv.org/html/2407.01850v1) ⭐ **NEW JAN 2026** – Novel approach to LLM safety combining red teaming (finding vulnerabilities) and blue teaming (building defenses) through purple-teaming methodology. Advanced adversarial training methods to enhance LLM robustness against jailbreaking attempts. Research-grade insights into modern LLM defense strategies. (🔴 Advanced)
+  - 📖 Access: Fully open (arXiv HTML version)
+  - 🏛️ Authority: arXiv peer-reviewed research
+  - 📄 Format: Technical research paper
+  - 🎯 Topics: Purple teaming, adversarial training, LLM safety, red-blue teaming integration
+  - [Tags: advanced purple-teaming llm-safety adversarial-training 2024]
+  - [Verified: 2026-01-09]
+
 ---
 
 ## 📖 Documentation & Guides
@@ -195,6 +219,7 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **Robustness Certification** - Provable defenses
 - **Input Sanitization** - Filtering malicious inputs
 - **Red Teaming** - Simulated attacks to find vulnerabilities
+- **Purple Teaming** - Integrated red + blue team defense
 - **Prompt-Level Protections** - LLM input/output guardrails
 
 **Tools & Frameworks:**
@@ -205,6 +230,7 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **PrivacyRaven** - Privacy attack testing
 - **TensorFlow Federated** - Privacy-preserving ML framework
 - **PyRIT** (Microsoft) - Red teaming automation
+- **HarmBench** (CAIS) - Red teaming evaluation
 - **OpenMined PySyft** - Encrypted ML framework
 
 ---
@@ -246,7 +272,7 @@ Found a great free AI Security resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 29, 2025 | **Total Resources:** 15+ (12 courses + 5 guides + tools)
-**Last Link Validation:** December 29, 2025
+**Last Updated:** January 9, 2026 | **Total Resources:** 19 (13 courses + 5 guides + tools)
+**Last Link Validation:** January 9, 2026
 
-**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, nist-standards, tensorflow-federated, prompt-injection, red-teaming, generative-ai-security, llm-safety, free-courses-2025
+**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, nist-standards, tensorflow-federated, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, free-courses-2025-2026
