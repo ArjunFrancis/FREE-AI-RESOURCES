@@ -61,11 +61,12 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 
 ### 🔴 Advanced
 
-- [Matrix Calculus for Machine Learning and Beyond (MIT 18.S096)](https://arxiv.org/pdf/2501.14787.pdf) **(Advanced)** - Comprehensive undergraduate-level course from MIT introducing differential calculus extended to vector spaces. Covers derivatives for large-scale optimization, efficient derivative propagation methods, and computational applications in machine learning. Emphasizes practical implementations and matrix/tensor operations essential for deep learning.
-  - 📖 Access: Free PDF (full course materials)
-  - 🌍 Authority: MIT Mathematics Department
-  - 📝 Topics: Matrix derivatives, Jacobians, automatic differentiation, optimization algorithms
-  - [Tags: advanced matrix-calculus optimization gradient-computation mit 2025]
+- [Matrix Calculus for Machine Learning and Beyond (MIT 18.S096)](https://arxiv.org/pdf/2501.14787.pdf) ⭐ **2025 MIT COURSE** - Comprehensive undergraduate-level course from MIT introducing differential calculus extended to vector spaces. Covers derivatives for large-scale optimization, efficient derivative propagation methods, and computational applications in machine learning. Emphasizes practical implementations and matrix/tensor operations essential for deep learning. Full course materials with lecture notes and problem sets.
+  - 📖 Access: Free PDF (full course materials, arXiv)
+  - 🌍 Authority: MIT Mathematics Department (official course 18.S096)
+  - 📝 Topics: Matrix derivatives, Jacobians, Hessians, automatic differentiation, optimization algorithms
+  - 🛠️ Hands-on: Yes (with implementations)
+  - [Tags: advanced matrix-calculus optimization gradient-computation mit autograd 2025]
 
 - [Advancing Deep Learning through Probability Engineering: A Pragmatic Paradigm for Modern AI](https://arxiv.org/html/2503.18958v1) **(Advanced)** ⭐ **2025 RESEARCH** - Cutting-edge arXiv paper from March 2025 proposing probability engineering as fundamental paradigm for modern deep learning. Demonstrates how explicit probabilistic modeling, uncertainty quantification, and stochastic sampling enhance neural networks beyond standard backpropagation. Covers Bayesian deep learning, variational inference, normalizing flows, diffusion models, and energy-based models with practical implementation insights. Bridges classical probability theory and modern generative AI.
   - 📖 Access: Free on arXiv (HTML format)
@@ -101,9 +102,12 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 📝 Topics: Probability, distributions, hypothesis testing, regression, statistical inference
   - [Tags: beginner probability statistics interactive hypothesis-testing regression 2025]
 
-- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) **(Beginner/Intermediate)** - Beautiful 15-video series providing geometric intuition for linear algebra concepts including vectors, span, linear transformations, determinants, eigenvectors, and their significance in ML through stunning animations.
-  - 📖 Access: Free on YouTube
-  - [Tags: beginner visual-learning linear-algebra animations]
+- [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) **(Beginner/Intermediate)** - Beautiful 15-video series providing geometric intuition for linear algebra concepts including vectors, span, linear transformations, determinants, eigenvectors, and their significance in ML through stunning animations. Now with interactive exercises!
+  - 📖 Access: Free on YouTube + interactive exercises at 3Blue1Brown.com
+  - 📝 Format: 15 animated video lessons (~3 hours total)
+  - 🎯 Topics: Vectors, transformations, eigenvalues, determinants, applications
+  - ✨ New: Interactive exercises now available directly on videos
+  - [Tags: beginner intermediate visual-learning linear-algebra animations interactive 2025]
 
 - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) **(Beginner/Intermediate)** - 12-part video series building intuition for calculus fundamentals: derivatives, chain rule, integrals, Taylor series, and their connection to neural networks and optimization.
   - 📖 Access: Free on YouTube
@@ -147,12 +151,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌍 Authority: MIT (Professor Gilbert Strang)
   - [Tags: intermediate university-course linear-algebra mit]
 
-- [MIT 18.05: Introduction to Probability and Statistics (Spring 2022)](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) **(Intermediate)** ⭐ **UPDATED 2025** - Official MIT OpenCourseWare course covering probability foundations and statistics essentials for data science and machine learning. Covers probability axioms, random variables, distributions, Bayesian inference, hypothesis testing, confidence intervals, and regression with full lecture notes, recitation videos, assignments, and exams. Last updated Spring 2022 with 2025 course materials.
-  - 📖 Access: Fully open, MIT OCW
+- [MIT 18.05: Introduction to Probability and Statistics (Spring 2022)](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) **(Intermediate)** ⭐ **UPDATED SPRING 2022** - Official MIT OpenCourseWare course covering probability foundations and statistics essentials for data science and machine learning. Covers probability axioms, random variables, distributions, Bayesian inference, hypothesis testing, confidence intervals, and regression with full lecture notes, recitation videos, assignments, exams, and interactive components. Updated 2022 with latest course materials including reading questions and problem checkers.
+  - 📖 Access: Fully open, MIT OCW + Open Learning Library
   - 🌍 Authority: MIT Mathematics Department
-  - 📝 Topics: Probability theory, Bayesian inference, hypothesis testing, statistical inference, regression
-  - 🎥 Format: Lecture notes, videos, problem sets, exams with solutions
-  - [Tags: intermediate mit probability statistics bayesian-inference hypothesis-testing confidence-intervals 2025]
+  - 📝 Topics: Probability theory, Bayesian inference, hypothesis testing, statistical inference, regression, R programming
+  - 🎥 Format: Lecture notes, videos, problem sets, exams with solutions, interactive components
+  - ⏱️ Duration: Full semester course (13+ weeks)
+  - [Tags: intermediate mit probability statistics bayesian-inference hypothesis-testing confidence-intervals r-programming 2022-2025]
 
 - [Stanford CS229 Math Resources](https://cs229.stanford.edu) **(Intermediate)** - Comprehensive collection of mathematical review materials from Stanford's legendary machine learning course covering linear algebra, probability theory, convex optimization, and hidden Markov models with detailed notes and problem sets designed specifically for ML applications.
   - 📖 Access: Fully open, course website
@@ -223,6 +228,12 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🎯 Topics: Probability estimation, conditional probability, Bayes' rule, modeling
   - [Tags: beginner interactive probability visualization bayes-rule 2025]
 
+- [Pass Your Math - Online Mathematics Courses](https://www.passyourmath.com/courses) **(Beginner to Intermediate)** - Free interactive online basic mathematics, linear algebra, and statistics courses for college and university students. Try courses completely free with no registration required. Self-paced with immediate feedback on mathematical problem-solving.
+  - 📖 Access: Fully free, no registration required
+  - 🛠️ Hands-on: Yes (interactive problem-solving)
+  - 🎯 Topics: Basic mathematics, linear algebra, statistics, college-level
+  - [Tags: beginner intermediate interactive free-courses mathematics statistics 2025]
+
 ---
 
 ## 📦 Resource Collections
@@ -239,6 +250,7 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - Apply mathematical foundations to ML
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) - Backpropagation and optimization mathematics
 - [Reinforcement Learning](./reinforcement-learning.md) - Probability and Markov decision processes
+- [Data Science & Analytics](./data-science-analytics.md) - Statistics and data analysis
 
 **Cross-reference:**
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Implement mathematical concepts in code
@@ -267,6 +279,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** December 28, 2025 | **Total Resources:** 33 (+4 new 2025 resources)
+**Last Updated:** January 12, 2026 | **Total Resources:** 38 (+5 new 2026 resources)
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, 2025
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, 2025, pass-your-math, mit-18-05, mit-18-s096
