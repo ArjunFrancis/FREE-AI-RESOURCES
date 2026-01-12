@@ -1,4 +1,4 @@
-# 📊 Data Science & Analytics
+# 📈 Data Science & Analytics
 Transform data into actionable insights through statistical analysis, visualization, and exploration.
 
 ## 📖 Overview
@@ -30,7 +30,7 @@ Data Science and Analytics form the foundation for extracting meaningful insight
 - **[Data Analytics Short Course (CareerFoundry)](https://careerfoundry.com/en/tutorials/data-analytics-for-beginners/)** 🟢 Beginner - Free, five-tutorial data analytics introduction with 15-minute hands-on lessons from Dr. Humera Noor, Director of Engineering at Eyeo. Covers data analytics roles, tools, skills, and basic analysis concepts with no hidden costs. Perfect no-pressure starting point for complete beginners.
   - 📖 Access: Fully open, no signup required
   - 🏛️ Source: CareerFoundry
-  - 👨‍🏫 Instructor: Dr. Humera Noor
+  - 📦 Instructor: Dr. Humera Noor
   - 🛠️ Hands-on: Yes (15-min interactive lessons)
   - ⏱️ Duration: ~1-2 hours total
   - [Tags: beginner data-analytics introduction free-course hands-on 2025]
@@ -40,22 +40,38 @@ Data Science and Analytics form the foundation for extracting meaningful insight
   - 🏛️ Source: Analytics Vidhya
   - 🛠️ Hands-on: Yes (coding examples)
   - ⏱️ Duration: 2 hours 13 minutes
-  - 📜 Certificate: Free with course completion
+  - 📄 Certificate: Free with course completion
   - [Tags: beginner statistics eda exploratory-data-analysis machine-learning python free-tutorial 2023]
 
 - **[Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** 🟢 Beginner - Comprehensive free course covering statistical foundations from basics to advanced concepts. Interactive exercises, videos, and quizzes on probability, descriptive statistics, hypothesis testing, and inferential statistics. Perfect foundation for data science.
   - 📖 Access: Fully free (Khan Academy account optional)
   - 🏛️ Authority: Khan Academy
   - 🛠️ Hands-on: Yes (interactive exercises and quizzes)
-  - 📊 Focus: Statistical foundations, probability theory
+  - 📈 Focus: Statistical foundations, probability theory
   - [Tags: beginner statistics probability hypothesis-testing foundations interactive khan-academy 2025]
 
 - **[Python for Data Science Handbook - Jake VanderPlas (Free Online Book)](https://jakevdp.github.io/PythonDataScienceHandbook/)** 🟢 Beginner - Complete free textbook covering NumPy, Pandas, Matplotlib, and Scikit-Learn. Jupyter notebooks included for hands-on practice. Essential guide for Python-based data science.
   - 📖 Access: Fully free online (HTML + Jupyter notebooks)
   - 🏛️ Authority: Jake VanderPlas (UW eScience Institute)
-  - 📚 Format: Complete online textbook with executable code
+  - 💵 Format: Complete online textbook with executable code
   - 🛠️ Hands-on: Yes (Jupyter notebooks)
   - [Tags: beginner python pandas numpy matplotlib scikit-learn textbook jupyter 2025]
+
+- **[Complete Python Pandas Data Science Tutorial! (2025 Updated Edition) - freeCodeCamp](https://www.youtube.com/watch?v=2uvysYbKdjM)** 🟢 Beginner - Comprehensive updated 2025 video tutorial covering all Pandas fundamentals for data manipulation and analysis. Learn DataFrames, loading data from CSV/Excel/Parquet, accessing/manipulating data, filtering, groupby, pivot tables, handling missing values, and advanced features like rolling functions. Includes GitHub Copilot integration tips and covers Pandas 2.0 new features.
+  - 📖 Access: Fully free on YouTube
+  - 🏛️ Authority: freeCodeCamp (educational platform)
+  - 🛠️ Hands-on: Yes (code examples throughout)
+  - ⏱️ Duration: 9+ hours
+  - 📈 Topics: DataFrames, data loading, filtering, GroupBy, pivot tables, merging, string operations, datetime operations
+  - [Tags: beginner intermediate pandas python data-manipulation 2025 video tutorial]
+
+- **[Learn Python for Data Science – Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=CMEWVn1uZpQ)** 🟢 Beginner - Complete 14+ hour free course for beginners covering essential data science tools: Python basics, Pandas and NumPy for data manipulation, data visualization with Matplotlib and Seaborn, data cleaning, machine learning with scikit-learn, and text classification. Perfect progression from fundamentals to advanced data science techniques with real projects.
+  - 📖 Access: Fully free on YouTube
+  - 🏛️ Authority: freeCodeCamp (educational platform)
+  - 🛠️ Hands-on: Yes (project-based learning)
+  - ⏱️ Duration: 14+ hours
+  - 🎯 Topics: Python, Pandas, NumPy, visualization, data cleaning, machine learning, text classification
+  - [Tags: beginner intermediate python pandas numpy visualization scikit-learn machine-learning free-course 2025]
 
 ### 🟡 Intermediate
 
@@ -64,7 +80,7 @@ Data Science and Analytics form the foundation for extracting meaningful insight
   - 🏛️ Source: Google (via Coursera)
   - 🛠️ Hands-on: Yes (projects with R, SQL, Python, Tableau)
   - ⏱️ Duration: 3-6 months (self-paced)
-  - 📜 Certificate: Yes (paid)
+  - 📄 Certificate: Yes (paid)
   - ⚠️ Note: Free trial for 7 days, requires subscription for completion
   - [Tags: intermediate data-analytics google sql python r tableau certification coursera 2025]
 
@@ -78,12 +94,25 @@ Data Science and Analytics form the foundation for extracting meaningful insight
 - **[Mode SQL Tutorial - Interactive Learning](https://mode.com/sql-tutorial/)** 🟡 Intermediate - Comprehensive free SQL tutorial covering basic to advanced queries. Interactive exercises with real datasets. Learn SELECT, JOINs, aggregations, window functions, and data analysis with SQL.
   - 📖 Access: Fully free
   - 🛠️ Hands-on: Yes (interactive SQL exercises)
-  - 📊 Focus: SQL for data analysis, real-world queries
+  - 📈 Focus: SQL for data analysis, real-world queries
   - [Tags: intermediate sql data-analysis joins aggregations window-functions interactive 2025]
+
+- **[Pandas & Python for Data Analysis by Example - freeCodeCamp](https://www.youtube.com/watch?v=gtjxAH8uaP0)** 🟡 Intermediate - Comprehensive project-based course (5 hours) teaching Pandas and Python for data analysis through real-world projects. Learn data frame manipulation, selection, filtering with conditions, creating new columns, string operations, merging/concatenating data, handling missing values, and answering questions with data. Each project builds on previous skills with increasing complexity.
+  - 📖 Access: Fully free on YouTube
+  - 🏛️ Authority: freeCodeCamp (educational platform)
+  - 🛠️ Hands-on: Yes (project-based with real datasets)
+  - ⏱️ Duration: 5 hours (4 interactive projects)
+  - 🎯 Topics: Data frame manipulation, filtering, string operations, merging data, statistical summarization
+  - [Tags: intermediate pandas python data-analysis project-based hands-on free-course 2023]
 
 ### 🔴 Advanced
 
-*More advanced resources coming soon! Check back for updates on advanced statistical modeling, causal inference, and large-scale data analytics.*
+- **[Pandas Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/pandas/pandas-tutorial/)** 🟡 Intermediate-Advanced - Comprehensive structured Pandas reference guide covering all major operations. Learn data processing, manipulation, normalization, and analysis techniques, including data grouping/aggregating, finding correlations, time series analysis, and Pandas plotting functions. Perfect reference for both beginners wanting systematic learning and experienced practitioners needing quick lookups.
+  - 📖 Access: Fully free online guide
+  - 🏛️ Authority: GeeksforGeeks (technical education platform)
+  - 📄 Format: Structured tutorial with code examples
+  - 🎯 Topics: Data processing, manipulation, grouping, aggregation, correlation, time series, visualization
+  - [Tags: intermediate advanced pandas python data-manipulation reference-guide 2025]
 
 ---
 
@@ -124,6 +153,7 @@ If you're completely new to Data Science & Analytics, start with these resources
 2. **Python for Data Science Handbook** - Learn Python tools (Pandas, NumPy, Matplotlib)
 3. **CareerFoundry Data Analytics Short Course** - Understand analytics workflow
 4. **Statistics & EDA Full Course (Analytics Vidhya)** - Comprehensive hands-on practice
+5. **Complete Python Pandas Data Science Tutorial** - Deep dive into Pandas
 
 After completing the starter kit, explore SQL and advanced visualization tools.
 
@@ -149,6 +179,6 @@ Found a great free data science or analytics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 23, 2025 | **Total Resources:** 7 (+3 new)
+**Last Updated:** January 12, 2026 | **Total Resources:** 11 (+4 new)
 
-**Keywords:** data-science, data-analytics, eda, exploratory-data-analysis, statistics, sql, python, r, tableau, data-visualization, pandas, numpy, matplotlib, descriptive-statistics, hypothesis-testing, data-wrangling, business-intelligence, khan-academy, mode-sql
+**Keywords:** data-science, data-analytics, eda, exploratory-data-analysis, statistics, sql, python, r, tableau, data-visualization, pandas, numpy, matplotlib, descriptive-statistics, hypothesis-testing, data-wrangling, business-intelligence, khan-academy, mode-sql, freecodecamp, geeksforgeeks, 2025
