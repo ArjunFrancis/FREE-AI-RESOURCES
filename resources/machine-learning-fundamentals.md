@@ -37,7 +37,7 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
 - **[StatQuest Machine Learning Playlist - Josh Starmer (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)** 🟢 Beginner — Crystal-clear explanations of ML algorithms with visual intuition. Each concept broken down step-by-step with memorable examples. Perfect for visual learners who want to understand the "why" behind algorithms.
   - 📖 Access: Fully free on YouTube
   - 🏛️ Authority: Josh Starmer (StatQuest)
-  - 📊 Focus: Visual intuition, conceptual understanding
+  - 📈 Focus: Visual intuition, conceptual understanding
   - ⏱️ Duration: 50+ videos (~10-20 min each)
   - [Tags: beginner visual-learning ml-algorithms intuitive-explanations youtube 2025]
 
@@ -57,8 +57,23 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
 - **[Elements of AI – University of Helsinki](https://www.elementsofai.com/)** 🟢 Beginner — Accessible theory and ethics for beginners and non-programmers. No coding required, perfect for understanding AI concepts.
   - 📖 Access: Fully free
   - 🏛️ Authority: University of Helsinki
-  - 📜 Certificate: Yes (free)
+  - 📄 Certificate: Yes (free)
   - [Tags: beginner non-technical ethics theory no-coding]
+
+- **[Machine Learning Full Course - Supervised, Unsupervised And Reinforcement Learning | Simplilearn](https://www.youtube.com/watch?v=L5aKCGSq75E)** 🟢 Beginner — Comprehensive 8+ hour free YouTube course covering all three main types of ML with hands-on Python implementations. Topics include linear/logistic regression, decision trees, random forests, SVM, KNN, K-Means clustering, PCA, Q-Learning, and ML interview questions. Perfect step-by-step progression from basics to advanced algorithms.
+  - 📖 Access: Fully free on YouTube
+  - 🏛️ Authority: Simplilearn (professional education platform)
+  - 🛠️ Hands-on: Yes (Python implementations throughout)
+  - ⏱️ Duration: 8+ hours
+  - 🎯 Topics: Supervised learning (regression, classification), unsupervised learning (clustering, PCA), reinforcement learning (Q-Learning), all with Python
+  - [Tags: beginner intermediate comprehensive ml-algorithms python supervised-unsupervised reinforcement simplilearn youtube 2025]
+
+- **[How to Learn Machine Learning in 2025 - 365 Data Science](https://365datascience.com/tutorials/how-to-learn-machine-learning/)** 🟢 Beginner — Complete 2025 guide to learning machine learning from fundamentals to specialization. Covers essential concepts: types of ML (supervised, unsupervised, reinforcement), data preprocessing, feature engineering, bias-variance tradeoff, model types, and provides structured roadmap with free and premium resources. Perfect reference for planning your ML learning journey.
+  - 📖 Access: Fully free guide
+  - 🏛️ Authority: 365 Data Science (educational platform)
+  - 📄 Format: Comprehensive blog guide with learning roadmap
+  - 🎯 Topics: ML concepts, learning path, feature engineering, supervised/unsupervised/reinforcement learning fundamentals
+  - [Tags: beginner guide 2025 learning-path ml-fundamentals feature-engineering 2025]
 
 ### 🟡 Intermediate
 
@@ -66,7 +81,7 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
   - 📖 Access: Fully free (MIT OCW)
   - 🏛️ Authority: MIT (official course)
   - 🛠️ Hands-on: Yes (problem sets with Python)
-  - 📝 Resources: Lecture notes, assignments, exams
+  - 📄 Resources: Lecture notes, assignments, exams
   - [Tags: intermediate mit university-course theory supervised-learning unsupervised-learning opencourseware 2025]
 
 - **[Machine Learning with Python – IBM (Coursera)](https://www.coursera.org/learn/machine-learning-with-python)** 🟡 Intermediate — Python, scikit-learn, and business ML projects. Focus on practical implementation with industry-relevant examples.
@@ -86,12 +101,19 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
   - 🛠️ Hands-on: Yes (Python exercises)
   - [Tags: intermediate python self-paced sklearn]
 
+- **[Machine Learning Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/machine-learning/)** 🟡 Intermediate — Comprehensive structured tutorial covering machine learning fundamentals, supervised learning (linear/logistic regression, SVM, decision trees, ensemble methods), unsupervised learning (K-means, hierarchical clustering), reinforcement learning basics, and model evaluation techniques. Perfect reference guide with code examples.
+  - 📖 Access: Fully free online guide
+  - 🏛️ Authority: GeeksforGeeks (technical education platform)
+  - 📄 Format: Structured tutorial with code examples
+  - 🎯 Topics: Supervised learning, unsupervised learning, reinforcement learning, model evaluation, algorithms
+  - [Tags: intermediate geeksforgeeks tutorial ml-algorithms supervised-unsupervised code-examples 2025]
+
 ### 🔴 Advanced
 
 - **[Pattern Recognition and Machine Learning - Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)** 🔴 Advanced — Comprehensive textbook covering Bayesian methods, graphical models, and advanced ML theory. The definitive graduate-level textbook for mathematical foundations.
   - 📖 Access: Fully free (PDF)
   - 🏛️ Authority: Christopher Bishop (Microsoft Research)
-  - 📚 Format: 738-page textbook
+  - 📄 Format: 738-page textbook
   - [Tags: advanced textbook bayesian-methods graphical-models theory graduate-level]
 
 ---
@@ -145,6 +167,6 @@ Found a great free machine learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 23, 2025 | **Total Resources:** 10 (+4 new)
+**Last Updated:** January 12, 2026 | **Total Resources:** 13 (+3 new)
 
-**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle
+**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle, simplilearn, geeksforgeeks, 365datascience, reinforcement-learning
