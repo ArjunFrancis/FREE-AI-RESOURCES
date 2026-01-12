@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **524+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **548+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-524+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-548+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%209%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2012%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,34 +14,37 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 524+ | Across all categories (updated Jan 9, 2026) |
+| **Total Resources** | 548+ | Across all categories (updated Jan 12, 2026) |
 | **Total Categories** | 31 | Organized by topic & expertise level |
-| **Average/Category** | ~17 | Well-distributed across topics |
-| **Recent Growth** | +19 resources (Jan 9, 2026) | Friday: AI Security (4), AI Hardware (10), Index (5) |
-| **Top Categories** | NLP (39), Generative AI (34), Mathematics (33), AI Tools (33), Multimodal (24), GNN (33), Audio (30), AI Hardware (10) | Comprehensive coverage |
-| **2025 Content** | 95%+ | Latest research & emerging trends prioritized |
+| **Average/Category** | ~17.6 | Well-distributed across topics |
+| **Recent Growth** | +24 resources (Jan 12, 2026) | Monday: Foundational learning deep dive |
+| **Top Categories** | NLP (39), Generative AI (34), Mathematics (38), AI Tools (33), Multimodal (24), GNN (33), Audio (30), ML Fundamentals (13) | Comprehensive coverage |
+| **2025-2026 Content** | 95%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 9, 2026, 3:53 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 12, 2026, 10:12 AM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 9, 2026 - Friday Rotation)
+## 🌟 What's New (Jan 12, 2026 - Monday Rotation)
 
-### 🔒 AI Security & Privacy: +4 Resources (15 → 19)
-- **HarmBench: Standardized Evaluation Framework for Red Teaming (Center for AI Safety)** - Open-source framework for automated red teaming with 18+ attack methods and 33+ LLM defenses. Enables systematic evaluation and co-development of attacks and defenses.
-- **AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration (arXiv)** - Dual-agent framework for continuous autonomous red teaming that discovers new attacks via research analysis. Modular, scalable approach to AI security.
-- **Purple-teaming LLMs with Adversarial Defender Training (arXiv 2024)** - Novel integration of red + blue team methodology. Advanced adversarial training for LLM robustness against jailbreaking.
+### 📐 Mathematics for AI: +5 Resources (33 → 38)
+- **MIT 18.S096: Matrix Calculus for Machine Learning and Beyond** - 2025 MIT course on matrix derivatives, Jacobians, optimization algorithms
+- **MIT 18.05 Spring 2022: Introduction to Probability and Statistics** - Updated official MIT OCW course with interactive components
+- **Pass Your Math - Online Mathematics Courses** - Free interactive self-paced courses for college-level math and statistics
+- **3Blue1Brown - Essence of Linear Algebra (Updated with Interactive Exercises)** - 15-video series now with built-in interactive lessons
+- **Advancing Deep Learning through Probability Engineering** - 2025 arXiv paper on probability engineering as ML paradigm
 
-### ⚙️ AI Hardware & Acceleration: +10 Resources (NEW CATEGORY 🎉)
-- **Google Cloud Skills: AI Infrastructure - Cloud TPUs (2025)** - Official 30-minute Google course on TPU selection, optimization, and GPU/TPU interoperability
-- **Cognitive Class: Accelerating Deep Learning with GPUs** - Comprehensive GPU acceleration course with CNN training and distributed deep learning projects
-- **CUDA Programming Course - High-Performance Computing (freeCodeCamp)** - 12-hour video course covering GPU fundamentals, CUDA kernels, matrix optimization
-- **Oxford CUDA Programming Course (2025)** - Week-long hands-on CUDA course at Oxford University (July 2025)
-- **An Even Easier Introduction to CUDA (NVIDIA Official)** - Quick accessible intro to CUDA C++ programming
-- **Edge AI Model Optimization for IoT: Best Practices (2025)** - Expert guide to model compression, hardware acceleration, NPU integration
-- **Hardware Accelerators for Artificial Intelligence (arXiv 2024)** - 30+ page technical paper on GPU/TPU/FPGA/ASIC architectures
-- **Trends in Embedded AI: Designing Hardware for ML (2025)** - In-depth analysis of edge AI hardware design, NPU specialization, FPGA/ASIC tradeoffs
+### 🤖 Machine Learning Fundamentals: +3 Resources (10 → 13)
+- **Machine Learning Full Course - Simplilearn** - 8+ hour comprehensive video covering supervised, unsupervised, reinforcement learning with Python
+- **How to Learn Machine Learning in 2025 - 365 Data Science** - Complete 2025 guide with structured learning roadmap
+- **Machine Learning Tutorial - GeeksforGeeks** - Comprehensive structured tutorial with code examples and algorithms
+
+### 📊 Data Science & Analytics: +4 Resources (7 → 11)
+- **Complete Python Pandas Data Science Tutorial (2025 Updated) - freeCodeCamp** - 9+ hour video on Pandas fundamentals and advanced features
+- **Learn Python for Data Science - Full Course for Beginners - freeCodeCamp** - 14+ hour comprehensive course (Python, Pandas, NumPy, visualization, ML)
+- **Pandas & Python for Data Analysis by Example - freeCodeCamp** - 5-hour project-based course with real datasets
+- **Pandas Tutorial - GeeksforGeeks** - Comprehensive reference guide for all Pandas operations and data manipulation
 
 ---
 
@@ -102,11 +105,11 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [Mathematics for AI](resources/mathematics-for-ai.md) | 33 | 🟢 | Linear algebra, calculus, stats |
-| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 10 | 🟢 | Core ML concepts |
-| [Data Science & Analytics](resources/data-science-analytics.md) | 7 | 🟢 | EDA, visualization |
+| [Mathematics for AI](resources/mathematics-for-ai.md) | 38 | 🟢 | Linear algebra, calculus, stats |
+| [Machine Learning Fundamentals](resources/machine-learning-fundamentals.md) | 13 | 🟢 | Core ML concepts |
+| [Data Science & Analytics](resources/data-science-analytics.md) | 11 | 🟢 | EDA, visualization, SQL |
 
-**Total**: ~50 resources | **Perfect for**: Complete beginners
+**Total**: ~62 resources | **Perfect for**: Complete beginners
 
 ---
 
@@ -126,9 +129,9 @@
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
 | [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
 | [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models |
-| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical VLM benchmarks |
+| **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical |
 
-**Total**: ~310+ resources | **Perfect for**: Ready to specialize
+**Total**: ~335+ resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -239,7 +242,22 @@ Weeks 8-10: Production (Recommendation systems, knowledge graphs, molecular ML)
 
 ---
 
-### Path 4: AI Hardware & GPU Engineer (10 weeks)
+### Path 4: Foundational Learning Accelerator (6 weeks)
+
+```
+Weeks 1-2: Mathematics (Khan Academy Linear Algebra, 3Blue1Brown visualizations, MIT 18.05)
+  →
+Weeks 3-4: ML Fundamentals (Andrew Ng course, StatQuest, Kaggle intro)
+  →
+Weeks 5-6: Data Science (Python for Data Science Handbook, Pandas tutorials, EDA)
+```
+
+**Resources**: 62 (Math 38 + ML 13 + DS 11) | **Tools**: Python, Pandas, NumPy, Matplotlib  
+**Final**: Complete beginner portfolio with math foundations, ML algorithms, data analysis
+
+---
+
+### Path 5: AI Hardware & GPU Engineer (10 weeks)
 
 ```
 Weeks 1-3: GPU Fundamentals (CUDA basics, GPU architecture, Oxford course or YouTube)
@@ -254,7 +272,7 @@ Weeks 8-10: Deployment (Edge AI, TPU optimization, hardware-aware model design)
 
 ---
 
-### Path 5: Explainable AI & Fairness (8-10 weeks)
+### Path 6: Explainable AI & Fairness (8-10 weeks)
 
 ```
 Weeks 1-2: Fundamentals (XAI definitions, LIME, SHAP basics)
@@ -269,7 +287,7 @@ Weeks 6-8: Production Implementation (Model explanations, compliance, bias detec
 
 ---
 
-### Path 6: Computer Vision Specialist (12 weeks)
+### Path 7: Computer Vision Specialist (12 weeks)
 
 ```
 Weeks 1-4: Fundamentals (Stanford CS231n basics or OpenCV bootcamps)
@@ -348,12 +366,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 9, 2026, 3:53 PM UTC+4
+- **Last Updated**: January 12, 2026, 10:12 AM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 19 resources/day (Fri), 12-14 resources/day (Mon-Thu)
-- **Path to 540+**: January 15, 2026 (estimated)
-- **2026 Growth**: 524+ resources (Jan 9), 31 categories launched
+- **Growth Rate**: 24 resources/day (Mon), 19 resources/day (Fri), 12-14 resources/day (Tue-Thu)
+- **Path to 560+**: January 16, 2026 (estimated)
+- **2026 Growth**: 548+ resources (Jan 12), 31 categories launched
 
 ---
 
@@ -369,6 +387,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**524+ resources | 31 categories | 100% free | Quality assured**
+**548+ resources | 31 categories | 100% free | Quality assured**
 
 </div>
