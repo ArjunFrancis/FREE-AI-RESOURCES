@@ -20,7 +20,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - Large Language Models (LLMs)
 - Attention mechanisms
 - Sequence-to-sequence models
-- **NEW (2025):** Fine-tuning, instruction tuning, LLM alignment, RLHF
+- **NEW (2025):** Fine-tuning, instruction tuning, LLM alignment, RLHF, parameter-efficient fine-tuning
 
 ---
 
@@ -331,7 +331,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** January 7, 2026 | **Total Resources:** 39 (31 courses + 4 docs + 4 tools)
-**Last Link Validation:** January 7, 2026
+**Last Updated:** January 13, 2026 | **Total Resources:** 46 (32 courses + 4 docs + 4 tools)
+**Last Link Validation:** January 13, 2026
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora
