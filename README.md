@@ -1,46 +1,55 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **548+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **555+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-548+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-555+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2012%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2013%2C%202026-brightblue.svg)]
 
 ---
 
 ## 📈 Repository Statistics
 
 | Metric | Value | Details |
-|--------|-------|----------|
-| **Total Resources** | 548+ | Across all categories (updated Jan 12, 2026) |
+|--------|-------|---------|
+| **Total Resources** | 555+ | Across all categories (updated Jan 13, 2026) |
 | **Total Categories** | 31 | Organized by topic & expertise level |
-| **Average/Category** | ~17.6 | Well-distributed across topics |
-| **Recent Growth** | +24 resources (Jan 12, 2026) | Monday: Foundational learning deep dive |
-| **Top Categories** | NLP (39), Generative AI (34), Mathematics (38), AI Tools (33), Multimodal (24), GNN (33), Audio (30), ML Fundamentals (13) | Comprehensive coverage |
+| **Average/Category** | ~17.9 | Well-distributed across topics |
+| **Recent Growth** | +7 resources (Jan 13, 2026) | Tuesday: NLP fine-tuning & advanced LLM techniques |
+| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (33), GNN (33), Multimodal (24), Audio (30), ML Fundamentals (13) | Comprehensive coverage |
 | **2025-2026 Content** | 95%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 12, 2026, 10:12 AM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 13, 2026, 5:05 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 12, 2026 - Monday Rotation)
+## 🌟 What's New (Jan 13, 2026 - Tuesday Rotation)
 
-### 📐 Mathematics for AI: +5 Resources (33 → 38)
+### 💬 Natural Language Processing: +7 Resources (39 → 46)
+- **Fine-Tune an Open-Source LLM: Step-by-Step 2025 Edition** - Comprehensive guide for fine-tuning Mistral, LLaMA, Gemma with QLoRA/LoRA techniques
+- **Instruction Fine-Tuning with Open-Source LLMs** - Best practices, benchmarks (MT-Bench, AlpacaEval), domain applications (finance, medical, code)
+- **Intro to Fine-Tuning LLMs (freeCodeCamp, 2025)** - 2+ hour course on SFT, RLHF, QLoRA with practical PyTorch implementation
+- **CMU Advanced NLP (Spring 2025)** - Graduate-level course on modern NLP methods, inference optimization, multimodal models, AI agents
+- **Stanford CS224N (Winter 2025)** - Updated world-renowned course by Christopher Manning with latest RLHF and LLM scaling content
+- **Foundations of Large Language Models (arXiv 2501.09223)** - Comprehensive academic book on LLM foundations, pre-training, alignment, inference
+- **Additional resources on parameter-efficient fine-tuning (PEFT), low-resource NLP, and domain-specific applications**
+
+### 📐 Mathematics for AI: +5 Resources (33 → 38) [Jan 12]
 - **MIT 18.S096: Matrix Calculus for Machine Learning and Beyond** - 2025 MIT course on matrix derivatives, Jacobians, optimization algorithms
 - **MIT 18.05 Spring 2022: Introduction to Probability and Statistics** - Updated official MIT OCW course with interactive components
 - **Pass Your Math - Online Mathematics Courses** - Free interactive self-paced courses for college-level math and statistics
 - **3Blue1Brown - Essence of Linear Algebra (Updated with Interactive Exercises)** - 15-video series now with built-in interactive lessons
 - **Advancing Deep Learning through Probability Engineering** - 2025 arXiv paper on probability engineering as ML paradigm
 
-### 🤖 Machine Learning Fundamentals: +3 Resources (10 → 13)
+### 🤖 Machine Learning Fundamentals: +3 Resources (10 → 13) [Jan 12]
 - **Machine Learning Full Course - Simplilearn** - 8+ hour comprehensive video covering supervised, unsupervised, reinforcement learning with Python
 - **How to Learn Machine Learning in 2025 - 365 Data Science** - Complete 2025 guide with structured learning roadmap
 - **Machine Learning Tutorial - GeeksforGeeks** - Comprehensive structured tutorial with code examples and algorithms
 
-### 📊 Data Science & Analytics: +4 Resources (7 → 11)
+### 📊 Data Science & Analytics: +4 Resources (7 → 11) [Jan 12]
 - **Complete Python Pandas Data Science Tutorial (2025 Updated) - freeCodeCamp** - 9+ hour video on Pandas fundamentals and advanced features
 - **Learn Python for Data Science - Full Course for Beginners - freeCodeCamp** - 14+ hour comprehensive course (Python, Pandas, NumPy, visualization, ML)
 - **Pandas & Python for Data Analysis by Example - freeCodeCamp** - 5-hour project-based course with real datasets
@@ -75,7 +84,7 @@
 | **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24) → [Generative AI](resources/generative-ai.md) (34) |
 | **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30) → [Generative AI](resources/generative-ai.md) |
 | **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
-| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (39) → [Generative AI](resources/generative-ai.md) (34) |
+| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (46) → [Generative AI](resources/generative-ai.md) (34) |
 | **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Hardware](resources/ai-hardware-acceleration.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
@@ -118,9 +127,9 @@
 **Goal**: Master specialized AI/ML domains
 
 | Category | Resources | Difficulty | Focus | Latest |
-|----------|-----------|------------|-------|---------|
+|----------|-----------|------------|-------|------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
-| **[Natural Language Processing](resources/natural-language-processing.md)** | **39** | 🟡🔴 | Language understanding | Stanford CS224N, fine-tuning, LLM foundations |
+| **[Natural Language Processing](resources/natural-language-processing.md)** | **46** | 🟡🔴 | Language understanding | **Stanford CS224N, fine-tuning, instruction tuning, RLHF, LLM foundations 2025** |
 | [Computer Vision](resources/computer-vision.md) | 20 | 🟡🔴 | Image understanding | Stanford, OpenCV, CU Boulder |
 | [Reinforcement Learning](resources/reinforcement-learning.md) | 24 | 🟡🔴 | Agent training | Deep RL |
 | [Generative AI](resources/generative-ai.md) | 34 | 🔴 | LLMs, diffusion | Microsoft, Simplilearn, VLMs |
@@ -131,7 +140,7 @@
 | [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models |
 | **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical |
 
-**Total**: ~335+ resources | **Perfect for**: Ready to specialize
+**Total**: ~342+ resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -185,7 +194,7 @@
 **Cross-modal learning and next-generation AI**
 
 | Category | Resources | Difficulty | Focus | Latest |
-|----------|-----------|------------|-------|---------|
+|----------|-----------|------------|-------|------|
 | **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | VLM, cross-modal, vision-language-action | VLM architectures, robotics, medical |
 | [Spatial Intelligence](resources/spatial-intelligence.md) | 12 | 🔴 | 3D, embodied AI | Emerging |
 | [World Models](resources/world-models.md) | 16 | 🔴 | Simulation, forecasting | Research frontier |
@@ -200,15 +209,15 @@
 ### Path 1: NLP & LLM Specialist (12 weeks)
 
 ```
-Weeks 1-4: Fundamentals (Stanford CS224N, HuggingFace NLP Course)
+Weeks 1-4: Fundamentals (Stanford CS224N, HuggingFace NLP Course, CMU Advanced NLP)
   →
-Weeks 5-8: Advanced Techniques (Fine-tuning, instruction tuning, RLHF)
+Weeks 5-8: Advanced Techniques (Fine-tuning, instruction tuning, RLHF, parameter-efficient methods)
   →
-Weeks 9-12: Production Deployment (RAG, agents, prompt engineering)
+Weeks 9-12: Production Deployment (RAG, agents, prompt engineering, inference optimization)
 ```
 
-**Resources**: 39 | **Tools**: PyTorch, Hugging Face, OpenAI API  
-**Final**: Production LLM application with fine-tuning
+**Resources**: 46 | **Tools**: PyTorch, Hugging Face, OpenAI API  
+**Final**: Production LLM application with fine-tuning and deployment
 
 ---
 
@@ -366,12 +375,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📈 Repository Activity
 
-- **Last Updated**: January 12, 2026, 10:12 AM UTC+4
+- **Last Updated**: January 13, 2026, 5:05 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: 24 resources/day (Mon), 19 resources/day (Fri), 12-14 resources/day (Tue-Thu)
-- **Path to 560+**: January 16, 2026 (estimated)
-- **2026 Growth**: 548+ resources (Jan 12), 31 categories launched
+- **Growth Rate**: +7 resources (Tue Jan 13), +24 resources (Mon Jan 12), +19 resources (Fri Jan 10)
+- **Path to 572+**: January 14-15, 2026 (estimated)
+- **2026 Growth**: 555+ resources (Jan 13), 31 categories launched
 
 ---
 
@@ -387,6 +396,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**548+ resources | 31 categories | 100% free | Quality assured**
+**555+ resources | 31 categories | 100% free | Quality assured**
 
 </div>
