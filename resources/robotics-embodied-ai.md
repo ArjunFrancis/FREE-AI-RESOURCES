@@ -23,12 +23,13 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 - Human-robot interaction and safety
 - Embodied intelligence and agent learning
 - Learning from demonstrations
+- Vision-language models for robotics
+- End-to-end learned policies
+- Sim-to-real transfer learning
 
 ---
 
-## 🎓 Courses & Resources
-
-### ⭐ Starter Kit (Absolute Beginners Start Here!)
+## ⭐ Starter Kit (Absolute Beginners Start Here!)
 
 **If you're completely new to Robotics & Embodied AI, start with these 3 resources in order:**
 
@@ -64,18 +65,18 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 💻 Tools: ROS2, Python, C++
   - ⏱️ Duration: Self-paced
   - 🤖 Topics: ROS2 fundamentals, nodes, topics, services, actions, packages
-  - [Tags: beginner ros2 tutorials hands-on the-construct free-learning 2024-2025]
+  - [Tags: beginner ros2 tutorials hands-on the-construct free-learning 2024]
 
 - [RoseCityRobotics: Comprehensive Robotics Resources](https://github.com/RoseCityRobotics/robotics-resources) – Well-curated, open-source repository of technical courses, books, tutorials on robotics. Covers ROS, ROS2, robot programming (Python, C++), kinematics, dynamics, control systems, navigation, perception. Most resources are freely available or auditable. Excellent starting point for finding robotics learning materials. (🟢 Beginner to 🔴 Advanced)
   - 📖 Access: Fully open on GitHub
-  - 📚 Curated links to quality resources
+  - 🖤 Curated links to quality resources
   - 🌐 Covers beginner to advanced topics
   - 🎈 Most resources are free or have free tiers
   - [Tags: beginner-advanced curated-resources github robotics learning-paths 2024]
 
 - [Articulated Robotics YouTube Channel & ROS2 Tutorials](https://www.youtube.com/@ArticulatedRobotics) – Excellent hands-on ROS2 tutorials created by Josh Newans. Covers practical ROS2 concepts, simulation with Gazebo, building simple robots, creating launch files, and debugging. Clear, beginner-friendly explanations with working code examples. Highly recommended for visual learners. (🟢 Beginner)
   - 📖 Access: Fully open on YouTube, free
-  - 🎥 Video tutorials with demonstrations
+  - 🎈 Video tutorials with demonstrations
   - 🛠️ Hands-on: Yes (complete working examples)
   - 💻 Tools: ROS2, Gazebo, Python
   - [Tags: beginner youtube ros2 tutorials hands-on simulation-gazebo 2024]
@@ -89,14 +90,14 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 - [Programming for Robotics - ROS (ETH Zurich)](https://rsl.ethz.ch/education-students/lectures/ros.html) – Comprehensive ROS programming course from ETH Zurich (Swiss Federal Institute of Technology). Covers fundamentals to advanced ROS concepts with emphasis on practical robot programming. Includes video lectures, assignments, and access to simulation environments. Taught by leading robotics researchers. One of the most respected academic ROS courses. (🟡 Intermediate)
   - 📖 Access: Fully open, lecture videos and materials online
   - 🏛️ Authority: ETH Zurich (top-tier robotics institution)
-  - 🎥 Format: Video lectures with assignments
+  - 🎈 Format: Video lectures with assignments
   - 🛠️ Hands-on: Yes, ROS programming projects
   - 🔧 Topics: ROS architecture, nodes, packages, services, actions, sensors, actuators
   - [Tags: intermediate eth-zurich university ros programming robotics 2024-2025]
 
 - [Learn ROS2: Beginner to Advanced Course (Full Learning Path)](https://www.youtube.com/watch?v=HJAE5Pk8Nyw) – Complete video course teaching ROS2 from absolute beginner to advanced level. Covers installation, core concepts, creating nodes, building real-world robot applications, and debugging. Structured learning path with clear progression from basics to complex systems. Excellent for visual learners wanting comprehensive ROS2 mastery. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
-  - 🎥 Format: Complete video course with clear sections
+  - 🎈 Format: Complete video course with clear sections
   - ⏱️ Duration: 8+ hours comprehensive coverage
   - 🛠️ Hands-on: Yes, follow-along projects
   - 🔧 Topics: ROS2 installation, architecture, nodes, topics, services, real robot apps
@@ -104,8 +105,8 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 - [Robot Learning: A Tutorial (2025)](https://www.youtube.com/watch?v=NXwEN39yrEk) – Comprehensive tutorial covering robot learning from a modern perspective. Discusses reinforcement learning, behavioral cloning, generalist models, imitation learning, and diffusion models for robotics. Features insights from robotics researchers on real-world robot learning challenges and solutions. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
-  - 🎥 Duration: ~1 hour comprehensive overview
-  - 👨‍🏫 Expert presentations
+  - 🎈 Duration: ~1 hour comprehensive overview
+  - 👨‍🎫 Expert presentations
   - 🔧 Topics: RL, imitation learning, diffusion models, generalist robots
   - [Tags: intermediate youtube robot-learning reinforcement-learning imitation-learning diffusion-models 2025]
 
@@ -118,8 +119,8 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 - [MuJoCo Physics Simulator Documentation & Tutorial](https://mujoco.readthedocs.io/) – Official documentation for MuJoCo, a powerful physics simulator widely used in robotics research. Learn to create robot models, simulate physics, and train control policies. MuJoCo is optimized for robot simulation and used by leading robotics research groups. Free, open-source. (🟡 Intermediate)
   - 📖 Access: Fully open, official documentation
-  - 🛠️ Hands-on: Yes (Python API with examples)
-  - 💻 Tools: Python, simulation environments
+  - 🖤 Complete API references and guides
+  - 🔧 Topics: Nodes, topics, services, actions, parameters
   - 🤖 Perfect for training RL policies on robotic tasks
   - [Tags: intermediate documentation mujoco physics-simulation robotics-training 2024-2025]
 
@@ -132,24 +133,32 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 - [Game-Based Learning in Mobile Robotics: Teaching ROS2 Through Competitive Games](https://onlinelibrary.wiley.com/doi/10.1002/cae.70071) – Novel approach to teaching ROS2 and mobile robotics through game-based learning. Students learn practical ROS2 programming, robot navigation, and collaboration by competing in coding challenges and robot competitions. Highly engaging pedagogical method for intermediate learners. (🟡 Intermediate)
   - 📖 Access: Published article with free abstract and methodology details
-  - 🎮 Method: Game-based learning for enhanced engagement
+  - 🌮 Method: Game-based learning for enhanced engagement
   - 💻 Tools: ROS2, mobile robotics, competitive coding
   - 🤖 Topics: ROS2 fundamentals, navigation, team programming
   - [Tags: intermediate game-based-learning ros2 mobile-robotics competitive-programming 2025]
 
 ### 🔴 Advanced
 
-- [Modern Robot Learning (MIT IAP 2025 - Hands-on Tutorial)](https://modern-robot-learning.github.io) – Cutting-edge practical course from MIT on training robots using data-driven methods. Covers data collection via teleoperation with VR interfaces, policy training using behavioral cloning and reinforcement learning, simulation for safe testing, and optional real robot deployment. Hands-on experience with actual robot manipulation learning workflow. Taught by MIT CSAIL researchers. (🔴 Advanced)
+- [Modern Robot Learning (MIT IAP 2025 - Hands-on Tutorial)](https://modern-robot-learning.github.io) **(Advanced)** - Cutting-edge practical course from MIT on training robots using data-driven methods. Covers data collection via teleoperation with VR interfaces, policy training using behavioral cloning and reinforcement learning, simulation for safe testing, and optional real robot deployment. Hands-on experience with actual robot manipulation learning workflow. Taught by MIT CSAIL researchers. (🔴 Advanced)
   - 📖 Access: Fully open, course materials and videos available
   - 🏛️ Authority: MIT CSAIL (top robotics institution)
   - 🛠️ Hands-on: Yes, includes real robot deployment option
   - 💻 Tools: VR teleoperation, MuJoCo, policy training frameworks
   - 🤖 Topics: Data collection, behavioral cloning, RL for manipulation, sim2real transfer
-  - [Tags: advanced mit-csail 2025 hands-on robot-learning data-driven policy-training 2025]
+  - [Tags: advanced mit-csail 2025 hands-on robot-learning data-driven policy-training]
+
+- [Stanford Robotics Seminar ENGR319 - Autumn 2025: Embodied Foundation Models](https://www.youtube.com/watch?v=5uWtpDON7Vs) **(Advanced)** - Advanced Stanford robotics seminar on embodied foundation models for 2025. Covers cutting-edge research in bridging reinforcement learning locomotion with large language models for legged navigation, understanding sim-to-real transfer for locomotion, and addressing manipulation challenges. Explores integration of RL-trained policies with reasoning models. Perfect for advanced practitioners on robotics frontier. (🔴 Advanced)
+  - 📖 Access: Fully open on YouTube, free
+  - 🏛️ Authority: Stanford University (official seminar Autumn 2025)
+  - 🛠️ Focus: Embodied foundation models, legged locomotion, policy learning
+  - 📜 Topics: RL for locomotion, LLM integration, sim-to-real transfer, manipulation
+  - 🤖 Advanced research: Bridging symbolic reasoning and learned policies
+  - [Tags: advanced stanford embodied-foundation-models locomotion 2025 rl-llm-integration]
 
 - [SkillMimicGen: Automated Demonstration Generation for Robot Manipulation](https://arxiv.org/abs/2410.18907) – Advanced research on automatically generating diverse robot demonstrations from minimal human examples using MimicGen. Enables large-scale imitation learning for complex manipulation tasks. Addresses the critical challenge of scaling robot learning through demonstration generation. (🔴 Advanced)
   - 📖 Access: Free on arXiv
-  - 📊 Format: Research paper with code
+  - 📨 Format: Research paper with code
   - 🔧 Topics: Demonstration generation, automated data synthesis, long-horizon tasks
   - 🤖 Applications: Robot manipulation, skill learning
   - [Tags: advanced research-paper automated-generation demonstration-synthesis 2024]
@@ -163,7 +172,7 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 - [SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning](https://arxiv.org/abs/2410.18065) – Cutting-edge research combining planning, imitation learning, and reinforcement learning for long-horizon robot manipulation. Shows how to overcome limitations of pure imitation or pure RL through synergistic hybrid approaches. For researchers advancing robot learning methods. (🔴 Advanced)
   - 📖 Access: Free on arXiv
-  - 📊 Format: Research paper
+  - 📨 Format: Research paper
   - 🔧 Advanced hybrid approach combining multiple techniques
   - 🤖 Applications: Long-horizon manipulation, complex tasks
   - [Tags: advanced research-paper hybrid-learning planning imitation-learning reinforcement-learning 2024]
@@ -177,7 +186,7 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
 
 - [ROS Official Documentation & Tutorials](https://www.ros.org) – Comprehensive official Robot Operating System documentation covering ROS2 and legacy ROS. Includes installation guides, core concepts, tutorials, and API references. Directly from the ROS development team. Essential reference for all ROS programming work. Free and continuously updated. (🔴 Advanced)
   - 📖 Access: Fully open, official documentation
-  - 📚 Complete API references and guides
+  - 🖤 Complete API references and guides
   - 🔧 Topics: Nodes, topics, services, actions, parameters
   - 🤖 Industry standard for robotics development
   - [Tags: advanced ros documentation official reference API 2024-2025]
@@ -197,7 +206,7 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 📖 Access: Fully open, free
   - [Tags: mit, ocw, course, robotics, advanced, underactuated]
 
-- [VizFlyt: Perception-Centric Pedagogical Framework For Autonomous Aerial Robots](https://ieeexplore.ieee.org/document/11128463/) – Open-source Hardware-In-The-Loop (HITL) simulation framework for teaching autonomous aerial robotics. Uses 3D Gaussian Splatting for photorealistic visual feedback while testing drone algorithms safely without crash risk. Achieves 100Hz update rates. Includes curriculum design for aerial robotics courses. (🔴 Advanced)
+- [VizFlyt: Perception-Centric Pedagogical Framework For Autonomous Aerial Robots](https://ieeexplore.ieee.org/document/11128463/) **(Advanced)** - Open-source Hardware-In-The-Loop (HITL) simulation framework for teaching autonomous aerial robotics. Uses 3D Gaussian Splatting for photorealistic visual feedback while testing drone algorithms safely without crash risk. Achieves 100Hz update rates. Includes curriculum design for aerial robotics courses. (🔴 Advanced)
   - 📖 Access: Published paper with open-source resources
   - 🏛️ Authority: Academic robotics research
   - 🛠️ Tools: 3D Gaussian Splatting, simulation, curriculum design
@@ -269,6 +278,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 02, 2026 | **Total Resources:** 26 (Courses: 20 + Docs: 6)
+**Last Updated:** January 14, 2026 | **Total Resources:** 30 (updated from 26, +4 new resources)
 
-**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics
+**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics, embodied-foundation-models, stanford-robotics-seminar-2025
