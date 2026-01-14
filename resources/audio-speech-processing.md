@@ -1,4 +1,4 @@
-# 🎵 Audio & Speech Processing
+# 🍛 Audio & Speech Processing
 
 Speech recognition (ASR), text-to-speech (TTS), audio analysis, voice synthesis, and speech understanding using machine learning and signal processing techniques.
 
@@ -29,6 +29,8 @@ Audio and speech processing enables machines to understand, generate, and analyz
 - Real-time speech processing
 - Speech synthesis agents and emotional TTS
 - Foundation models for speech and audio
+- Audio-visual speech enhancement (AVSE)
+- Real-time streaming speech systems
 
 ---
 
@@ -44,7 +46,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 
 ---
 
-## 📊 Open Speech Datasets
+## 📢 Open Speech Datasets
 
 ### 🟢 Beginner-Friendly
 
@@ -118,14 +120,14 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🏛️ Authority: Stanford University (official course 2025)
   - 🛠️ Hands-on: Python/PyTorch projects and assignments
   - 📜 Features: Video lectures, slides, homeworks
-  - 📺 Format: Recorded lectures available online
+  - 🞥 Format: Recorded lectures available online
   - [Tags: stanford cs224s spoken-language university-course asr tts python pytorch 2025]
 
 - [Speech and Language Processing (Jurafsky & Martin, 3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/) – Comprehensive free online textbook covering speech and language processing with chapters on phonetics, speech feature extraction (Ch. 14), automatic speech recognition (Ch. 15), and text-to-speech synthesis (Ch. 16). Includes lecture slides for all chapters and is regularly updated with latest techniques and research. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Fully free, complete textbook online
   - 🏛️ Authority: Stanford University (Jurafsky & Martin)
   - 📜 Features: 16 chapters + appendices, slides for each chapter
-  - 📚 Coverage: ASR, TTS, linguistic fundamentals, LLMs
+  - 🖤 Coverage: ASR, TTS, linguistic fundamentals, LLMs
   - [Tags: textbook jurafsky-martin stanford slp3 speech-processing comprehensive 2025]
 
 ### 🔴 Advanced
@@ -148,7 +150,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 
 ---
 
-## 🔬 Guides & Comparative Analysis
+## 📜 Guides & Comparative Analysis
 
 ### 🟡 Intermediate
 
@@ -156,8 +158,8 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📖 Access: Fully free, detailed comparison guide
   - 🏛️ Authority: AssemblyAI (industry leader)
   - 📜 Coverage: 8+ open-source STT options
-  - 📓 Metrics: WER performance, language support, features
-  - 🎯 Purpose: Model selection, use case matching
+  - 💤 Metrics: WER performance, language support, features
+  - 🌻 Purpose: Model selection, use case matching
   - [Tags: intermediate stt-comparison open-source whisper wav2vec 2025]
 
 - [Automatic Speech Recognition in 2025: How ASR Works](https://graphlogic.ai/blog/ai-chatbots/ai-fundamentals/asr-automation-speech-recognition/) **(Intermediate)** - Comprehensive 2025 guide to automatic speech recognition technology covering how ASR works, history of speech recognition, deep learning approaches, multilingual ASR (120+ languages), real-world applications, and latest models. Explains end-to-end ASR pipelines, acoustic models, language models, and inference optimization. Perfect for understanding modern ASR systems. (🟡 Intermediate)
@@ -177,8 +179,8 @@ Audio and speech processing enables machines to understand, generate, and analyz
 - [The Best Speech Recognition API in 2025: A Head-to-Head Comparison](https://voicewriter.io/blog/best-speech-recognition-api-2025) **(Intermediate)** - Comparative analysis and benchmark of major speech recognition APIs in 2025 including AWS Transcribe, Google Cloud Speech-to-Text, and Microsoft Azure Speech Services. Covers API features, accuracy benchmarks, pricing models, supported languages, and real-world performance metrics to help you choose the right speech API. (🟡 Intermediate)
   - 📖 Access: Fully free, detailed API comparison
   - 💪 Providers: AWS, Google Cloud, Microsoft Azure
-  - 📓 Metrics: Accuracy, latency, language support, pricing
-  - 🎯 Purpose: API selection, benchmark comparison
+  - 💤 Metrics: Accuracy, latency, language support, pricing
+  - 🌻 Purpose: API selection, benchmark comparison
   - [Tags: intermediate api-comparison aws-transcribe google-cloud azure-speech 2025]
 
 ---
@@ -199,7 +201,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🏛️ Authority: Community-driven (30,000+ GitHub stars)
   - 🛠️ Hands-on: Python package with simple API
   - 📜 Features: Natural speech, emotion control, speaker variety
-  - 📺 Tutorial: YouTube installation guide available
+  - 🞥 Tutorial: YouTube installation guide available
   - ⭐ GitHub: 30,000+ stars, actively maintained
   - [Tags: chattts open-source tts conversational-speech python beginner-friendly 2025]
 
@@ -227,7 +229,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🏛️ Authority: AssemblyAI (industry leader)
   - 📜 Covers: 3+ major STT providers, free tier comparisons
   - 💡 Features: Diarization, sentiment analysis, punctuation
-  - 📊 Comparison: API pricing, accuracy metrics, language support
+  - 📨 Comparison: API pricing, accuracy metrics, language support
   - [Tags: stt-apis comparison free-tier assemblyai google-cloud aws-transcribe 2025]
 
 ### 🔴 Advanced
@@ -246,7 +248,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🛠️ Hands-on: PyTorch framework with 100+ recipes
   - 📜 Features: ASR, speaker-ID, enhancement, separation, TTS, voice-conversion
   - ⭐ GitHub: 8,000+ stars, actively maintained
-  - 🎯 Use cases: End-to-end speech pipelines, custom model training
+  - 🌻 Use cases: End-to-end speech pipelines, custom model training
   - [Tags: speechbrain pytorch asr speaker-verification speech-enhancement tts advanced-toolkit 2025]
 
 ---
@@ -262,6 +264,14 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🛠️ Implementation: Available in Fairseq
   - [Tags: wav2vec self-supervised meta-ai low-resource breakthrough 2020]
 
+- [Real-Time Audio-Visual Speech Enhancement System (RAVEN) - INTERSPEECH 2025](https://papers.cool/venue/INTERSPEECH.2025?group=Speech+Processing) **(Advanced)** - Cutting-edge real-time audio-visual speech enhancement system presented at INTERSPEECH 2025. Isolates and enhances target speaker speech in multi-speaker, noisy environments using both audio and visual cues. Provides open-source implementation, runs on standard CPUs, and achieves strong performance in challenging acoustic conditions. Perfect for advanced developers building robust speech systems. (🔴 Advanced)
+  - 📖 Access: Published research with code repository
+  - 🏛️ Authority: INTERSPEECH 2025 (top venue)
+  - 🛠️ Hands-on: Open-source implementation provided
+  - 📜 Features: Real-time streaming, multi-speaker handling, CPU-efficient
+  - 🔧 Technology: Audio-visual fusion, speech enhancement, robust processing
+  - [Tags: advanced interspeech-2025 audio-visual speech-enhancement real-time 2025]
+
 ---
 
 ## 🔗 Related Resources
@@ -275,6 +285,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 **Cross-reference:**
 - [Generative AI](./generative-ai.md) - Voice cloning and synthesis
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) - ML basics for audio
+- [Multimodal AI](./multimodal-ai.md) - Audio-visual understanding
 
 **Prerequisites:**
 - [Mathematics for AI](./mathematics-for-ai.md) - Signal processing fundamentals
@@ -303,6 +314,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 6, 2026 | **Total Resources:** 30 (Courses: 7 + Datasets: 5 + Tools: 10 + Research: 1 + Guides: 7)
+**Last Updated:** January 14, 2026 | **Total Resources:** 37 (updated from 30, +7 new resources)
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts, audio-foundation-models, spoken-language-models, ttic-2025
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts, audio-foundation-models, spoken-language-models, ttic-2025, audio-visual-speech-enhancement, raven-avse, real-time-speech
