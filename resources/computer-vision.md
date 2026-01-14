@@ -22,6 +22,8 @@ Computer vision enables machines to interpret and understand visual information 
 - Convolutional Neural Networks (CNNs)
 - Transfer learning for computer vision
 - Real-time computer vision applications
+- Foundation models and self-supervised learning
+- Vision transformers and modern architectures
 
 ---
 
@@ -33,6 +35,22 @@ Computer vision enables machines to interpret and understand visual information 
   - 📖 Access: Fully open, lecture notes + videos
   - 🏛️ Authority: Stanford University (Fei-Fei Li, Andrej Karpathy)
   - [Tags: advanced stanford cnn deep-learning]
+
+- [Stanford CS231n Spring 2025 - Latest Offering](https://www.youtube.com/watch?v=2fq9wYslV0A) **(Advanced)** - The latest 2025 offering of Stanford's legendary deep learning for computer vision course. Updated with latest vision transformer techniques, foundation models, diffusion-based image generation, and modern computer vision architectures. Free video lectures available with all course materials. (🔴 Advanced)
+  - 📖 Access: Fully open on YouTube with materials
+  - 🏛️ Authority: Stanford University (2025 edition)
+  - ⏱️ Duration: Full semester course with video lectures
+  - 📺 Format: Complete lecture videos, assignments, projects
+  - 🔧 Topics: Vision transformers, foundation models, diffusion models, state-of-the-art CV
+  - [Tags: stanford cs231n 2025 spring advanced vision-transformers foundation-models]
+
+- [MIT Advances in Computer Vision - Spring 2025](https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/) **(Advanced)** - Cutting-edge MIT course on advanced computer vision covering geometry in computer vision, 3D reconstruction, image formation, representation theory, and modern deep learning approaches. Spring 2025 offering with latest research. Full course materials and lectures available. (🔴 Advanced)
+  - 📖 Access: Fully open on MIT OpenCourseWare, free
+  - 🏛️ Authority: MIT (leading research institution)
+  - 📖 Coverage: Geometry, 3D, representation learning, modern architectures
+  - 📺 Format: Lecture materials, readings, assignments
+  - 🔧 Topics: Camera geometry, 3D reconstruction, geometric transformations, deep learning
+  - [Tags: mit advanced-cv 2025 geometry 3d-reconstruction representation-learning]
 
 - [MIT Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **(Advanced)** - Open-source hands-on robotics course covering geometric control, trajectory optimization, 2D/3D computer vision, visual odometry, SLAM, and deep learning for perception in autonomous systems. Bridges traditional CV and embodied intelligence with real-world applications. (🔴 Advanced)
   - 📖 Access: Fully open, course materials + code
@@ -166,6 +184,21 @@ Computer vision enables machines to interpret and understand visual information 
   - 📜 Features: YOLO11, segmentation, pose, tracking
   - [Tags: advanced yolo pytorch production training-tips optimization 2025]
 
+- [DINOv2: Learning Robust Visual Features without Supervision (Meta AI)](https://arxiv.org/abs/2304.07193) **(Advanced)** - Breakthrough foundation model for computer vision from Meta AI. Learns all-purpose visual features from unlabeled data, works across image distributions and tasks without fine-tuning. Achieves state-of-the-art results on downstream vision tasks, enabling zero-shot transfer learning. Released with pre-trained weights for immediate use. Represents modern paradigm shift in CV toward foundation models. (🔴 Advanced)
+  - 📖 Access: Free on arXiv with code and weights released
+  - 🏛️ Authority: Meta AI Research
+  - 🛠️ Hands-on: Pre-trained models available for download
+  - 📜 Features: Self-supervised learning, zero-shot transfer, dense predictions
+  - 🔧 Applications: Image classification, segmentation, detection without fine-tuning
+  - [Tags: advanced dinov2 meta-ai foundation-models self-supervised zero-shot 2024]
+
+- [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191) **(Advanced)** - Foundation model for video understanding using both generative and discriminative learning. Extends computer vision to temporal/dynamic domain with strong performance on video classification, action detection, and temporal understanding. Addresses gap in video-level foundation models. (🔴 Advanced)
+  - 📖 Access: Free on arXiv with models released
+  - 🏛️ Authority: Academic research (generative/discriminative approach)
+  - 📜 Features: Video foundation model, temporal understanding, dual learning
+  - 🔧 Applications: Video classification, action detection, temporal analysis
+  - [Tags: advanced video-foundation-models temporal-understanding generative-discriminative 2022-2025]
+
 ---
 
 ## 🔗 Related Resources
@@ -179,6 +212,7 @@ Computer vision enables machines to interpret and understand visual information 
 **Cross-reference:**
 - [Mathematics for AI](./mathematics-for-ai.md) - Linear algebra for image transformations
 - [Multimodal AI](./multimodal-ai.md) - Vision-language models
+- [Robotics & Embodied AI](./robotics-embodied-ai.md) - Computer vision for robotics
 
 ---
 
@@ -202,6 +236,6 @@ Found a great free computer vision resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 6, 2025 | **Total Resources:** 20
+**Last Updated:** January 14, 2026 | **Total Resources:** 25 (updated from 20)
 
-**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, tensorflow, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv, bootcamp, 2025
+**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, tensorflow, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv, bootcamp, foundation-models, dinov2, video-foundation-models, 2025
