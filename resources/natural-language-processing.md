@@ -175,6 +175,46 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: nlp-demystified free-course transformers bert gpt fine-tuning intermediate 2025]
   - [Verified: 2025-01-07]
 
+- [UC San Diego Extended Studies: Natural Language Processing (CSE-41344)](https://extendedstudies.ucsd.edu/courses/natural-language-processing-cse-41344) – Comprehensive introduction to NLP from rule-based systems to modern machine learning. Covers text preprocessing, embeddings, RNNs, LSTMs, transformers, and GPT/BERT models. Hands-on learning with Python, Google Colab, and Jupyter notebooks. (🟡 Intermediate)
+  - 📖 Access: Free access to course materials
+  - 🛠️ Hands-on: Yes, Python scripts, Google Colab, Jupyter Notebooks
+  - 🏛️ Authority: UC San Diego (official extended studies)
+  - 📝 Topics: Text preprocessing, word embeddings, RNNs, LSTMs, Transformers, GPT, BERT, language modeling, machine translation
+  - [Tags: ucsd extended-studies comprehensive-nlp transformers bert gpt intermediate 2025]
+  - [Verified: 2025-01-14]
+
+- [TensorFlow: Fine-tuning a BERT Model](https://www.tensorflow.org/tfmodels/nlp/fine_tune_bert) – Official TensorFlow tutorial on fine-tuning BERT models with comprehensive code examples. Covers model building, optimizer setup, training loop, and inference with TensorFlow Model Garden. (🟡 Intermediate)
+  - 📖 Access: Fully open, official TensorFlow documentation
+  - 🛠️ Hands-on: Yes, complete code examples and configuration
+  - 🏛️ Authority: TensorFlow (official)
+  - 📝 Topics: BERT configuration, AdamW optimizer, learning rate scheduling, training, evaluation, inference
+  - [Tags: tensorflow official bert fine-tuning adamw training intermediate 2025]
+  - [Verified: 2025-01-14]
+
+- [Machine Learning Mastery: Fine-Tuning a BERT Model](https://machinelearningmastery.com/fine-tuning-a-bert-model/) – Comprehensive guide to fine-tuning BERT for multiple NLP tasks including GLUE and SQuAD benchmarks. Detailed PyTorch implementations with explanation of each step. (🟡 Intermediate)
+  - 📖 Access: Fully open, comprehensive guide
+  - 🛠️ Hands-on: Yes, complete PyTorch code examples
+  - 🏛️ Authority: MachineLearningMastery.com
+  - 📝 Topics: GLUE tasks, SQuAD QA, tokenization, training loops, evaluation metrics
+  - [Tags: pytorch mastery glue squad fine-tuning code-examples intermediate 2025]
+  - [Verified: 2025-01-14]
+
+- [Learn OpenCV: Fine-Tuning BERT using Hugging Face](https://learnopencv.com/fine-tuning-bert/) – Step-by-step guide to fine-tuning BERT for text classification on real-world arxiv abstracts. Covers dataset preparation, model setup, training, evaluation, and inference with Hugging Face transformers. (🟡 Intermediate)
+  - 📖 Access: Fully open, detailed blog post
+  - 🛠️ Hands-on: Yes, complete implementation with arXiv dataset
+  - 🏛️ Authority: LearnOpenCV (trusted computer vision & ML platform)
+  - 📝 Topics: Arxiv classification, dataset preparation, Hugging Face transformers, evaluation metrics, inference
+  - [Tags: huggingface arxiv-classification real-world-example text-classification intermediate 2025]
+  - [Verified: 2025-01-14]
+
+- [DataCamp: Building a Transformer with PyTorch](https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch) – Complete hands-on guide to building Transformer models from scratch using PyTorch. Covers attention mechanisms, encoder-decoder architecture, training, and evaluation. (🟡 Intermediate)
+  - 📖 Access: Fully open, interactive tutorial
+  - 🛠️ Hands-on: Yes, complete PyTorch implementation
+  - 🏛️ Authority: DataCamp (official tutorial)
+  - 📝 Topics: Multi-head attention, positional encoding, encoder blocks, decoder blocks, training loops
+  - [Tags: datacamp pytorch transformer architecture from-scratch intermediate 2025]
+  - [Verified: 2025-01-14]
+
 ### 🔴 Advanced
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
@@ -197,6 +237,14 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 🎯 Projects: Literature survey, competitive baseline reproduction, research project
   - [Tags: cmu advanced-nlp spring-2025 research modern-methods neural-networks cutting-edge advanced 2025]
   - [Verified: 2025-01-07]
+
+- [Georgia Tech OMSCS: CS 7650 Natural Language Processing](https://omscs.gatech.edu/cs-7650-natural-language-processing) – Graduate-level NLP overview course covering modern data-driven techniques from shallow models to rich structural representations. Covers fundamental algorithms for text processing, language models, and NLP applications. (🔴 Advanced)
+  - 📖 Access: Fully open, official course materials
+  - 🏛️ Authority: Georgia Tech (OMSCS - Online Masters Program)
+  - 📝 Topics: Text classification, language models, machine translation, dialogue systems, information extraction
+  - 🎯 Skills: Implementation of NLP algorithms, statistical and neural approaches, problem-solving for real-world NLP tasks
+  - [Tags: georgia-tech omscs graduate-level nlp language-models advanced 2025]
+  - [Verified: 2025-01-14]
 
 - [Foundations of Large Language Models (arXiv 2501.09223)](https://arxiv.org/abs/2501.09223) – Comprehensive academic book on LLM foundations covering pre-training, generative models, prompting techniques, alignment methods, and inference. Covers foundational concepts for students, professionals, and researchers in NLP and AI. Published January 2025, updated June 2025. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv, PDF download)
@@ -266,6 +314,24 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: llm-bootcamp berkeley phd full-stack prompt-engineering design advanced 2024]
   - [Verified: 2025-12-17]
 
+- [Hugging Face: Implementing Transformer from Scratch](https://discuss.huggingface.co/t/tutorial-implementing-transformer-from-scratch-a-step-by-step-guide/132158) – Community-driven step-by-step tutorial on implementing Transformer architecture from scratch. Covers encoder-decoder stack, attention mechanisms, and testing challenges. Clear documentation with code examples. (🔴 Advanced)
+  - 📖 Access: Fully open (Hugging Face forum/tutorial)
+  - 🛠️ Hands-on: Yes, complete implementation guide
+  - 🏛️ Authority: Hugging Face community
+  - 📝 Topics: Encoder-decoder architecture, multi-head attention, positional encoding, testing
+  - [Tags: huggingface transformer from-scratch implementation advanced 2024]
+  - [Verified: 2025-01-14]
+
+- [ODS.AI: NLP Course Spring 2025 (Stream 8)](https://ods.ai/tracks/nlp-course-spring-2025) – Free university-level NLP course taught by Valentin Malykh (Yandex Research). Live sessions Thursdays 18:40 MSK with recordings available. Comprehensive curriculum covering rule-based, statistical, and neural network NLP methods. (🔴 Advanced)
+  - 📖 Access: Fully free live + recorded sessions
+  - 🏛️ Authority: ODS.AI & Yandex Research (Valentin Malykh)
+  - ⏱️ Duration: Spring 2025 (ongoing), 18+ weeks
+  - 🌍 Global: Online sessions, accessible worldwide
+  - 📺 Format: Live lectures + recorded sessions available
+  - 📝 Topics: NLP fundamentals, statistical methods, neural networks, transformers, modern applications
+  - [Tags: ods-ai university-level spring-2025 valentin-malykh yandex-research advanced 2025]
+  - [Verified: 2025-01-14]
+
 ---
 
 ## 📖 Documentation & Guides
@@ -331,7 +397,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** January 13, 2026 | **Total Resources:** 46 (32 courses + 4 docs + 4 tools)
-**Last Link Validation:** January 13, 2026
+**Last Updated:** January 14, 2026 | **Total Resources:** 54 (38 courses + 4 docs + 4 tools)
+**Last Link Validation:** January 14, 2026
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch
