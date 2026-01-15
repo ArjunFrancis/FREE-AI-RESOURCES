@@ -1,46 +1,57 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **559+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **574+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-559+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-574+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2014%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2015%2C%202026-brightblue.svg)]
 
 ---
 
-## 📈 Repository Statistics
+## 📊 Repository Statistics
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 559+ | Across all categories (updated Jan 14, 2026) |
+| **Total Resources** | 574+ | Across all categories (updated Jan 15, 2026) |
 | **Total Categories** | 31 | Organized by topic & expertise level |
-| **Average/Category** | ~18.0 | Well-distributed across topics |
-| **Recent Growth** | +4 resources (Jan 14, 2026) | Wednesday: Robotics & Embodied AI (modern learning, aerial, embodied foundation models) |
+| **Average/Category** | ~18.5 | Well-distributed across topics |
+| **Recent Growth** | +10 resources (Jan 15, 2026) | Thursday: MLOps (+4), Edge AI (+3), AI Security (+3) |
 | **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (33), GNN (33), Robotics (30), Multimodal (24), Audio (30) | Comprehensive coverage |
-| **2025-2026 Content** | 95%+ | Latest research & emerging trends prioritized |
+| **2025-2026 Content** | 98%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 14, 2026, 2:35 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 15, 2026, 3:46 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 14, 2026 - Wednesday Rotation)
+## 🌟 What's New (Jan 15, 2026 - Thursday Rotation)
 
-### 🤖 Robotics & Embodied AI: +4 Resources (26 → 30)
-- **Modern Robot Learning: MIT IAP 2025 Hands-on Tutorial** - Cutting-edge practical course from MIT on training robots via data collection, policy training, and optional real robot deployment
-- **Stanford Robotics Seminar (Autumn 2025): Embodied Foundation Models** - Advanced research on integrating RL locomotion with foundation models for legged navigation
-- **VizFlyt: Perception-Centric Framework for Autonomous Aerial Robots** - Hardware-in-the-loop simulation with 3D Gaussian Splatting for safe drone testing and curriculum design
-- **Game-Based Learning in Mobile Robotics: Teaching ROS2 Through Competitive Games** - Novel pedagogical approach using game-based learning for ROS2 and mobile robotics
+### 🛠️ MLOps (Machine Learning Operations): +4 Resources (14 → 18)
+- **MLOps Zoomcamp 2025** (DataTalks.Club) - Free 9-week intensive course with hands-on projects
+- **MadeWithML** (Pau Labarta Bajo) - End-to-end production ML lifecycle
+- **Machine Learning in Production** (Andrew Ng, Google/Coursera) - Industry-standard curriculum
+- **MLOps.community Handbook** (Open Source) - Community best practices & infrastructure patterns
+
+### 🔌 Edge AI & TinyML: +3 Resources (10 → 14)
+- **Computer Vision with TinyML** (TheTechSlayer 2025) - CNN deployment on microcontrollers
+- **ARM Learning Paths: Edge AI with TensorFlow Lite** (Official ARM) - Hardware optimization
+- **Edge Impulse: Building ML for Embedded Devices** (Official) - No-code TinyML platform
+
+### 🔐 AI Security & Red-Teaming: +3 Resources (19 → 22)
+- **AI Red Teaming Explained** (HackTheBox 2025) - Attack methodologies & defense strategies
+- **What AI Red Teaming Actually Looks Like** (AyaData 2025) - Real-world case studies (Google, OpenAI)
+- **Google Secure AI Framework (SAIF)** (Official) - Enterprise security guidelines & threat modeling
 
 ### 📊 Overall Progress
 - **Sunday Jan 12**: Data Science & Analytics (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
 - **Monday Jan 13**: NLP (+7) = **+7 resources**
 - **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
-- **Total (Jan 12-14)**: 555 → 559 = **+4 new resources**
+- **Wednesday Jan 15**: MLOps (+4), Edge AI (+3), AI Security (+3) = **+10 resources**
+- **Total (Jan 12-15)**: 555 → 574 = **+19 new resources in 4 days**
 
-**Next Rotation (Thursday Jan 16)**: Healthcare AI, Finance AI, Recommender Systems
+**Next Rotation (Friday Jan 16)**: Healthcare AI, Finance AI, Recommender Systems
 
 ---
 
@@ -73,7 +84,7 @@
 | **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
 | **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (46) → [Generative AI](resources/generative-ai.md) (34) |
 | **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) |
-| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Hardware](resources/ai-hardware-acceleration.md) |
+| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) (18) → [AI Hardware](resources/ai-hardware-acceleration.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
 | **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) |
 | **Robotics** | Robot learning, embodied AI, autonomous systems | 12 weeks | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) (30) → [RL](resources/reinforcement-learning.md) |
@@ -115,7 +126,7 @@
 **Goal**: Master specialized AI/ML domains
 
 | Category | Resources | Difficulty | Focus | Latest |
-|----------|-----------|------------|-------|-------|
+|----------|-----------|------------|-------|--------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
 | **[Natural Language Processing](resources/natural-language-processing.md)** | **46** | 🟡🔴 | Language understanding | **Stanford CS224N, fine-tuning, instruction tuning, RLHF, LLM foundations 2025** |
 | [Computer Vision](resources/computer-vision.md) | 20 | 🟡🔴 | Image understanding | Stanford, OpenCV, CU Boulder |
@@ -141,9 +152,9 @@
 |----------|-----------|------------|--------|---------------|
 | **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **9** | 🟡🔴 | 2025 guide, fairness XAI, ViT interpretability, Captum | **Market: $30B by 2032** |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Fairness, accountability | Regulatory driven |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 19 | 🟡 | Red teaming, privacy, purple-teaming | Growing importance |
+| **[AI Security & Privacy](resources/ai-security-privacy.md)** | **22** | 🟡 | Red teaming, privacy, purple-teaming, threat modeling | Growing importance |
 
-**Total**: ~55+ resources | **Perfect for**: Responsible AI focus
+**Total**: ~58+ resources | **Perfect for**: Responsible AI focus
 
 ---
 
@@ -167,14 +178,14 @@
 
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
-| [MLOps](resources/mlops.md) | 14 | 🟡 | Pipelines, automation |
+| **[MLOps](resources/mlops.md)** | **18** | 🟡 | Pipelines, automation, experiment tracking, monitoring |
 | [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 33 | 🟢 | PyTorch, TensorFlow, MLflow |
 | **[AI Hardware & Acceleration](resources/ai-hardware-acceleration.md)** | **10** | 🟡🔴 | GPU/TPU, CUDA, edge AI |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 19 | 🟡 | Red teaming, privacy |
+| **[AI Security & Privacy](resources/ai-security-privacy.md)** | **22** | 🟡 | Red teaming, privacy, threat modeling |
 | [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness |
-| [Edge AI & IoT](resources/edge-ai-iot.md) | 11 | 🟡 | Edge deployment |
+| **[Edge AI & IoT](resources/edge-ai-iot.md)** | **14** | 🟡 | Edge deployment, TinyML |
 
-**Total**: ~114+ resources | **Perfect for**: Production engineers
+**Total**: ~124+ resources | **Perfect for**: Production engineers
 
 ---
 
@@ -240,7 +251,37 @@ Weeks 8-10: Production (Recommendation systems, knowledge graphs, molecular ML)
 
 ---
 
-### Path 4: Foundational Learning Accelerator (6 weeks)
+### Path 4: MLOps & Production Engineer (10 weeks)
+
+```
+Weeks 1-3: Fundamentals (MLOps Zoomcamp, Databricks, Google Cloud MLOps guide)
+  →
+Weeks 4-7: Advanced Techniques (Model serving, monitoring, CI/CD for ML, Kubernetes)
+  →
+Weeks 8-10: Production Systems (MadeWithML, deployment at scale, automation)
+```
+
+**Resources**: 18 | **Tools**: MLflow, Kubernetes, Prefect, DVC  
+**Final**: End-to-end ML production pipeline with monitoring & automation
+
+---
+
+### Path 5: AI Security & Red-Teaming Specialist (10 weeks)
+
+```
+Weeks 1-3: Fundamentals (AI Security basics, adversarial ML, HackTheBox intro)
+  →
+Weeks 4-7: Advanced Red Teaming (Microsoft PyRIT, Stanford CS330i, real-world scenarios)
+  →
+Weeks 8-10: Production Security (Google SAIF framework, threat modeling, compliance)
+```
+
+**Resources**: 22 | **Tools**: PyRIT, HarmBench, TensorFlow, ART  
+**Final**: Comprehensive AI security assessment & red-teaming framework
+
+---
+
+### Path 6: Foundational Learning Accelerator (6 weeks)
 
 ```
 Weeks 1-2: Mathematics (Khan Academy Linear Algebra, 3Blue1Brown visualizations, MIT 18.05)
@@ -252,36 +293,6 @@ Weeks 5-6: Data Science (Python for Data Science Handbook, Pandas tutorials, EDA
 
 **Resources**: 62 (Math 38 + ML 13 + DS 11) | **Tools**: Python, Pandas, NumPy, Matplotlib  
 **Final**: Complete beginner portfolio with math foundations, ML algorithms, data analysis
-
----
-
-### Path 5: AI Hardware & GPU Engineer (10 weeks)
-
-```
-Weeks 1-3: GPU Fundamentals (CUDA basics, GPU architecture, Oxford course or YouTube)
-  →
-Weeks 4-7: Advanced GPU Programming (Kernel optimization, distributed training)
-  →
-Weeks 8-10: Deployment (Edge AI, TPU optimization, hardware-aware model design)
-```
-
-**Resources**: 10 | **Tools**: CUDA, PyTorch GPU, Google Cloud TPUs  
-**Final**: Production GPU-optimized deep learning system
-
----
-
-### Path 6: Explainable AI & Fairness (8-10 weeks)
-
-```
-Weeks 1-2: Fundamentals (XAI definitions, LIME, SHAP basics)
-  →
-Weeks 3-5: Advanced Methods (Feature attribution, fairness-aware XAI, ViT interpretability)
-  →
-Weeks 6-8: Production Implementation (Model explanations, compliance, bias detection)
-```
-
-**Resources**: 9 + [AI Ethics](resources/ai-ethics.md) (27) | **Tools**: SHAP, LIME, Captum  
-**Final**: Explainable AI system with fairness metrics and compliance
 
 ---
 
@@ -362,7 +373,7 @@ We welcome contributions! Adding resources is easy:
 
 ---
 
-## 📂 License
+## 📀 License
 
 MIT License - see [LICENSE](LICENSE) for details
 
@@ -377,14 +388,14 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-## 📈 Repository Activity
+## 💪 Repository Activity
 
-- **Last Updated**: January 14, 2026, 2:35 PM UTC+4
+- **Last Updated**: January 15, 2026, 3:46 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: +4 resources (Wed Jan 14), +7 resources (Tue Jan 13), +24 resources (Mon Jan 12), +19 resources (Fri Jan 10)
-- **Path to 575+**: January 15-16, 2026 (estimated)
-- **2026 Growth**: 559+ resources (Jan 14), 31 categories launched
+- **Growth Rate**: +10 resources (Thu Jan 15), +4 resources (Wed Jan 14), +7 resources (Tue Jan 13), +24 resources (Mon Jan 12), +19 resources (Fri Jan 10)
+- **Path to 590+**: January 16-17, 2026 (estimated)
+- **2026 Growth**: 574+ resources (Jan 15), 31 categories launched
 
 ---
 
@@ -400,6 +411,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**559+ resources | 31 categories | 100% free | Quality assured**
+**574+ resources | 31 categories | 100% free | Quality assured**
 
 </div>
