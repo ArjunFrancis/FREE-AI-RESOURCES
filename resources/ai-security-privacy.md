@@ -1,12 +1,12 @@
-# 🔒 AI Security & Privacy
+# 🔐 AI Security & Privacy
 
 Security vulnerabilities, privacy-preserving techniques, and defensive strategies for protecting AI systems from adversarial attacks and ensuring responsible data handling.
 
 ## 📖 Overview
 
-AI Security focuses on protecting machine learning models and systems from malicious attacks, including adversarial examples, model extraction, data poisoning, and privacy violations. This emerging field addresses critical challenges in deploying trustworthy AI systems in production environments. Recent 2025 advances include cutting-edge courses on generative AI security, federal red-teaming frameworks, and practical hands-on privacy-preserving ML systems.
+AI Security focuses on protecting machine learning models and systems from malicious attacks, including adversarial examples, model extraction, data poisoning, and privacy violations. This emerging field addresses critical challenges in deploying trustworthy AI systems in production environments. Recent 2025-2026 advances include cutting-edge courses on generative AI security, federal red-teaming frameworks, and practical hands-on privacy-preserving ML systems.
 
-**Keywords:** ai-security, adversarial-ml, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, red-teaming, secure-generative-ai, prompt-injection, llm-security
+**Keywords:** ai-security, adversarial-ml, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, red-teaming, secure-generative-ai, prompt-injection, llm-security, threat-modeling, secure-ai-framework
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -26,6 +26,7 @@ AI Security focuses on protecting machine learning models and systems from malic
 - Red teaming and penetration testing for AI
 - Prompt-level protections and secure inference
 - Ethical hacking for AI systems
+- Secure AI architecture design
 
 ---
 
@@ -33,11 +34,11 @@ AI Security focuses on protecting machine learning models and systems from malic
 
 ### 🟢 Beginner-Friendly
 
-- [Coursera: Securing AI Systems (2025)](https://www.coursera.org/learn/securing-ai-systems) ⭐ **NEW 2025** – Hands-on course designed to safeguard machine learning applications against real-world threats. Explore vulnerabilities such as adversarial attacks, data poisoning, and model theft, then practice defense strategies through guided labs. Learn to build robust AI systems by exploring adversarial defense techniques and red-teaming practices. Includes SOC tools, cloud security, and incident response workflows. 4 modules with interactive labs and discussion prompts. (🟡 Intermediate)
+- [Coursera: Securing AI Systems (2025)](https://www.coursera.org/learn/securing-ai-systems) ★ **NEW 2025** – Hands-on course designed to safeguard machine learning applications against real-world threats. Explore vulnerabilities such as adversarial attacks, data poisoning, and model theft, then practice defense strategies through guided labs. Learn to build robust AI systems by exploring adversarial defense techniques and red-teaming practices. Includes SOC tools, cloud security, and incident response workflows. 4 modules with interactive labs and discussion prompts. (🟡 Intermediate)
   - 📖 Access: Free audit available (Coursera platform)
   - 🛠️ Hands-on: Yes (guided labs, red-teaming simulations)
   - ⏱️ Duration: ~10 hours, self-paced
-  - 🎯 Topics: Adversarial attacks, data poisoning, model theft, SOC tools, incident response
+  - 🌍 Topics: Adversarial attacks, data poisoning, model theft, SOC tools, incident response
   - [Tags: intermediate hands-on coursera adversarial-attacks red-teaming 2025]
   - [Verified: 2025-12-29]
 
@@ -63,50 +64,66 @@ AI Security focuses on protecting machine learning models and systems from malic
 
 ### 🟡 Intermediate
 
-- [Microsoft AI Red Teaming 101 Series (2025)](https://learn.microsoft.com/en-us/security/ai-red-team/training) ⭐ **OFFICIAL 2025** – Comprehensive training series from Microsoft helping professionals secure generative AI systems against emerging threats. Dive into vulnerabilities, attack techniques (prompt injection, multi-turn attacks, jailbreaking), and defense strategies with real-world case studies from Microsoft's production AI security work. Part A covers vulnerabilities and attacks (prompt injection, single-turn and multi-turn attacks, filter evasion, encoding tricks). Part B covers defenses and mitigation strategies including Microsoft's Spotlighting methods (delimiting, data marking, encoding). Includes automation tools (PyRIT) for scaling red teaming efforts. (🟡 Intermediate)
+- [Microsoft AI Red Teaming 101 Series (2025)](https://learn.microsoft.com/en-us/security/ai-red-team/training) ★ **OFFICIAL 2025** – Comprehensive training series from Microsoft helping professionals secure generative AI systems against emerging threats. Dive into vulnerabilities, attack techniques (prompt injection, multi-turn attacks, jailbreaking), and defense strategies with real-world case studies from Microsoft's production AI security work. Part A covers vulnerabilities and attacks (prompt injection, single-turn and multi-turn attacks, filter evasion, encoding tricks). Part B covers defenses and mitigation strategies including Microsoft's Spotlighting methods (delimiting, data marking, encoding). Includes automation tools (PyRIT) for scaling red teaming efforts. (🟡 Intermediate)
   - 📖 Access: Fully open, Microsoft Learn platform
   - 🏛️ Authority: Microsoft (official security training)
   - 🛠️ Hands-on: Yes (labs and real-world case studies)
   - ⏱️ Duration: Multi-part series, self-paced
-  - 🎯 Topics: Prompt injection, jailbreaking, multi-turn attacks, spotlighting defense, PyRIT automation
+  - 🌍 Topics: Prompt injection, jailbreaking, multi-turn attacks, spotlighting defense, PyRIT automation
   - [Tags: intermediate microsoft red-teaming generative-ai defense 2025]
   - [Verified: 2025-12-29]
 
-- [Stanford CS 330i: AI Security Fundamentals (Fall 2025)](https://www.youtube.com/watch?v=5QmQ49BikQY) ⭐ **LIVE COURSE FALL 2025** – Official Stanford course introducing security challenges of modern AI systems. Examine how vulnerabilities can be introduced during system architecture design, model development, training, and deployment. Explore attacks like prompt injection, adversarial inputs, data poisoning, and model extraction that exploit foundation models, retrieval-augmented systems, and AI agents. Learn about emerging defenses such as secure architectures, verifiable training, prompt-level protections, and gain deeper understanding of how to assess and improve AI system security. (🟡 Intermediate-Advanced)
+- **[AI Red Teaming Explained (HackTheBox, 2025)](https://www.hackthebox.com/blog/ai-red-teaming-explained)** 🟡 Intermediate – Comprehensive guide to AI red-teaming methodologies covering adversarial simulation, adversarial testing, and capabilities testing. Explains how to identify AI vulnerabilities through structured attack scenarios. Includes real examples from Google and OpenAI demonstrating practical exploitation techniques. Part of HackTheBox's cybersecurity education platform with free intro-level courses and advanced training. 2025 security research perspective.
+  - 📖 Access: Fully free blog article
+  - 🏛️ Authority: HackTheBox (cybersecurity platform)
+  - 🌍 Topics: Red teaming methodologies, adversarial simulation, attack structures, vulnerability assessment
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate red-teaming adversarial attack-scenarios hackthebox 2025]
+  - [Verified: 2026-01-15]
+
+- **[What AI Red Teaming Actually Looks Like: Methods & Real Examples (AyaData, 2025)](https://www.ayadata.ai/what-ai-red-teaming-actually-looks-like-methods-process-and-real-examples/)** 🟡 Intermediate – In-depth analysis of AI red-teaming processes with real examples from Google (adversarial examples) and OpenAI (jailbreak attempts). Covers manual + automated red-teaming techniques, attack vector development, execution phases, and defensive countermeasures. Current 2025 perspective on AI security threats and mitigation strategies with industry case studies. Practical insights into how leading AI companies approach security testing.
+  - 📖 Access: Fully free article
+  - 🏛️ Authority: AyaData (AI security research)
+  - 🌍 Topics: Red-teaming processes, attack vectors, defense countermeasures, case studies, real-world examples
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate red-teaming adversarial-examples jailbreaks security-research 2025]
+  - [Verified: 2026-01-15]
+
+- [Stanford CS 330i: AI Security Fundamentals (Fall 2025)](https://www.youtube.com/watch?v=5QmQ49BikQY) ★ **LIVE COURSE FALL 2025** – Official Stanford course introducing security challenges of modern AI systems. Examine how vulnerabilities can be introduced during system architecture design, model development, training, and deployment. Explore attacks like prompt injection, adversarial inputs, data poisoning, and model extraction that exploit foundation models, retrieval-augmented systems, and AI agents. Learn about emerging defenses such as secure architectures, verifiable training, prompt-level protections, and gain deeper understanding of how to assess and improve AI system security. (🟡 Intermediate-Advanced)
   - 📖 Access: Free on YouTube (official Stanford lectures)
   - 🏛️ Authority: Stanford University (CS330i course, Fall 2025)
-  - 🎥 Format: Full lecture series, high-quality video
-  - 🎯 Topics: Foundation model security, RAG vulnerabilities, multi-agent AI security, prompt-level protections, secure architectures
+  - 📺 Format: Full lecture series, high-quality video
+  - 🌍 Topics: Foundation model security, RAG vulnerabilities, multi-agent AI security, prompt-level protections, secure architectures
   - [Tags: intermediate stanford ai-security course lectures 2025]
   - [Verified: 2025-12-29]
 
-- [Pluralsight: Privacy-Preserving AI (2025)](https://www.pluralsight.com/courses/privacy-preserving-ai) ⭐ **2025 UPDATED** – Course on implementing Privacy Enhancing Technologies (PETs) like Federated Learning, Differential Privacy, and Homomorphic Encryption. Balance data utility with privacy and compliance (GDPR). Learn to practically implement privacy-preserving technologies in real-world AI workflows, navigate computational overhead and data utility trade-offs while aligning with ethical AI principles. (🟡 Intermediate)
+- [Pluralsight: Privacy-Preserving AI (2025)](https://www.pluralsight.com/courses/privacy-preserving-ai) ★ **2025 UPDATED** – Course on implementing Privacy Enhancing Technologies (PETs) like Federated Learning, Differential Privacy, and Homomorphic Encryption. Balance data utility with privacy and compliance (GDPR). Learn to practically implement privacy-preserving technologies in real-world AI workflows, navigate computational overhead and data utility trade-offs while aligning with ethical AI principles. (🟡 Intermediate)
   - 📖 Access: Free trial available (Pluralsight platform)
   - 🛠️ Hands-on: Yes (implementation labs)
-  - 🎯 Topics: Differential Privacy, Federated Learning, Homomorphic Encryption, GDPR compliance
+  - 🌍 Topics: Differential Privacy, Federated Learning, Homomorphic Encryption, GDPR compliance
   - [Tags: intermediate pluralsight privacy differential-privacy federated-learning 2025]
   - [Verified: 2025-12-29]
 
-- [HarmBench: Standardized Evaluation Framework for Red Teaming (Center for AI Safety)](https://github.com/centerforaisafety/HarmBench) ⭐ **NEW JAN 2026** – Open-source evaluation framework for automated red teaming with 18+ evaluated attack methods and 33+ LLM defenses. Identifies desirable red teaming properties (coverage, clarity, efficiency), systematically designs benchmarks, and enables co-development of attacks and defenses. Includes highly efficient adversarial training method for LLM robustness across diverse attack types. Essential for understanding cutting-edge attack-defense dynamics. (🟡 Intermediate)
+- [HarmBench: Standardized Evaluation Framework for Red Teaming (Center for AI Safety)](https://github.com/centerforaisafety/HarmBench) ★ **NEW JAN 2026** – Open-source evaluation framework for automated red teaming with 18+ evaluated attack methods and 33+ LLM defenses. Identifies desirable red teaming properties (coverage, clarity, efficiency), systematically designs benchmarks, and enables co-development of attacks and defenses. Includes highly efficient adversarial training method for LLM robustness across diverse attack types. Essential for understanding cutting-edge attack-defense dynamics. (🟡 Intermediate)
   - 📖 Access: Fully open, GitHub repository
   - 🏛️ Authority: Center for AI Safety (CAIS)
   - 🛠️ Code: Python, Jupyter notebooks included
-  - 🎯 Topics: Red teaming evaluation, robust refusal, attack-defense co-development, LLM security
+  - 🌍 Topics: Red teaming evaluation, robust refusal, attack-defense co-development, LLM security
   - [Tags: intermediate red-teaming evaluation harmbench llm-security 2026]
   - [Verified: 2026-01-09]
 
-- [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration (arXiv)](https://arxiv.org/pdf/2502.05637.pdf) ⭐ **NEW MARCH 2025** – Advanced framework for autonomous red teaming using dual-agent architecture: red-teaming agent generates test cases from high-level risk categories, and strategy proposer autonomously discovers new attacks via recent research analysis. Modular design enables continuous evolution with new attack vectors. Comprehensive, scalable approach to AI system security evaluation. (🟡 Intermediate-Advanced)
+- [AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration (arXiv)](https://arxiv.org/pdf/2502.05637.pdf) ★ **NEW MARCH 2025** – Advanced framework for autonomous red teaming using dual-agent architecture: red-teaming agent generates test cases from high-level risk categories, and strategy proposer autonomously discovers new attacks via recent research analysis. Modular design enables continuous evolution with new attack vectors. Comprehensive, scalable approach to AI system security evaluation. (🟡 Intermediate-Advanced)
   - 📖 Access: Fully open (arXiv preprint, March 2025)
   - 🏛️ Authority: arXiv peer-reviewed research
   - 📄 Format: Technical paper with implementation details
-  - 🎯 Topics: Autonomous red teaming, attack discovery, lifelong learning, AI system robustness
+  - 🌍 Topics: Autonomous red teaming, attack discovery, lifelong learning, AI system robustness
   - [Tags: intermediate red-teaming autonomous-attacks research 2025]
   - [Verified: 2026-01-09]
 
 - [FedLearn: Security & Adversarial AI](https://www.fedlearn.com/courses/security-adversarial-ai/) – Essential online course providing introduction to vulnerabilities in ML systems with focus on DoD operations, covering data poisoning, Trojan insertion, backdoors, evasion attacks, and defense methods like adversarial training and differential privacy. (🟡 Intermediate)
   - 📖 Access: Fully open, self-paced
   - 🏛️ Authority: FedLearn (Defense-focused AI education)
-  - 🎯 Focus: DoD/military security applications
+  - 🌍 Focus: DoD/military security applications
   - [Tags: intermediate defense-operations adversarial-attacks poisoning 2025]
   - [Verified: 2025-12-16]
 
@@ -132,16 +149,26 @@ AI Security focuses on protecting machine learning models and systems from malic
 
 ### 🔴 Advanced
 
-- [Aurélien Bellet: Privacy Preserving Machine Learning (Complete University Course)](https://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html) ⭐ **COMPREHENSIVE COURSE** – Advanced course covering differential privacy theory and practice. Start with why classic anonymization fails and how ML models leak information. Dive into formal definition of differential privacy with key properties, design of differentially private algorithms in centralized settings, private empirical risk minimization with output perturbation and private SGD. Covers decentralized model with local differential privacy and federated learning. Includes complete lecture slides (6 lectures) and 5 practical Python sessions in Jupyter notebooks covering numeric/non-numeric queries, ERM, SGD, and local differential privacy. Rigorous mathematical foundation. (🔴 Advanced)
+- **[Google Secure AI Framework (SAIF): Official Security Guidelines](https://secureai.google/)** 🔴 Advanced – Google's official framework for building secure AI systems, available in full open-source format via GitHub. Provides comprehensive threat modeling, red-teaming practices, privacy protection strategies, and compliance frameworks for enterprise ML security. Includes detailed implementation guidelines, case studies, and threat catalogs. Authoritative source from Google's AI Security team for designing production-grade secure AI architectures.
+  - 📖 Access: Fully free, official framework
+  - 🏛️ Authority: Google AI Security Team (official source)
+  - 🛠️ Format: Interactive documentation + GitHub repository
+  - 📊 Topics: Threat modeling, red-teaming practices, privacy strategies, compliance, secure architecture
+  - 📜 License: Open source
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: advanced google-framework threat-modeling red-teaming privacy secure-architecture 2025]
+  - [Verified: 2026-01-15]
+
+- [Aurélien Bellet: Privacy Preserving Machine Learning (Complete University Course)](https://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html) ★ **COMPREHENSIVE COURSE** – Advanced course covering differential privacy theory and practice. Start with why classic anonymization fails and how ML models leak information. Dive into formal definition of differential privacy with key properties, design of differentially private algorithms in centralized settings, private empirical risk minimization with output perturbation and private SGD. Covers decentralized model with local differential privacy and federated learning. Includes complete lecture slides (6 lectures) and 5 practical Python sessions in Jupyter notebooks covering numeric/non-numeric queries, ERM, SGD, and local differential privacy. Rigorous mathematical foundation. (🔴 Advanced)
   - 📖 Access: Fully open, official course materials
   - 🏛️ Authority: Inria (French Institute for Research in Computer Science)
   - 🛠️ Hands-on: Yes (5 Python practical sessions in Jupyter)
   - ⏱️ Duration: Full university-level course
-  - 🎯 Topics: Differential privacy theory, private ERM, private SGD, local DP, federated learning, cryptographic foundations
+  - 🌍 Topics: Differential privacy theory, private ERM, private SGD, local DP, federated learning, cryptographic foundations
   - [Tags: advanced differential-privacy federated-learning private-ml mathematical-foundations 2025]
   - [Verified: 2025-12-29]
 
-- [Adversarial Machine Learning: Attacks, Defenses, and Open Challenges (arXiv 2025)](http://arxiv.org/pdf/2502.05637.pdf) ⭐ **FEBRUARY 2025 PAPER** – Comprehensive analysis of adversarial machine learning covering vulnerabilities where adversaries manipulate inputs or training data. Formalizes defense mechanisms with mathematical rigor, discusses challenges of implementing robust solutions in adaptive threat models, and highlights open challenges in certified robustness. Addresses both evasion and poisoning attacks with practical defense implementation guidance. (🔴 Advanced)
+- [Adversarial Machine Learning: Attacks, Defenses, and Open Challenges (arXiv 2025)](http://arxiv.org/pdf/2502.05637.pdf) ★ **FEBRUARY 2025 PAPER** – Comprehensive analysis of adversarial machine learning covering vulnerabilities where adversaries manipulate inputs or training data. Formalizes defense mechanisms with mathematical rigor, discusses challenges of implementing robust solutions in adaptive threat models, and highlights open challenges in certified robustness. Addresses both evasion and poisoning attacks with practical defense implementation guidance. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv preprint, February 2025)
   - 🏛️ Authority: arXiv peer-reviewed research
   - 📄 Format: 20+ page technical paper
@@ -152,7 +179,7 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: TensorFlow (Google)
   - 🛠️ Hands-on: Yes, executable Colab notebooks
-  - 💻 Code: Python, TensorFlow Federated
+  - 💪 Code: Python, TensorFlow Federated
   - [Tags: advanced differential-privacy federated-learning tensorflow tutorial 2025]
   - [Verified: 2025-12-16]
 
@@ -169,11 +196,11 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: advanced nist standards government trustworthy-ai 2025]
   - [Verified: 2025-12-16]
 
-- [Purple-teaming LLMs with Adversarial Defender Training (arXiv 2024)](https://arxiv.org/html/2407.01850v1) ⭐ **NEW JAN 2026** – Novel approach to LLM safety combining red teaming (finding vulnerabilities) and blue teaming (building defenses) through purple-teaming methodology. Advanced adversarial training methods to enhance LLM robustness against jailbreaking attempts. Research-grade insights into modern LLM defense strategies. (🔴 Advanced)
+- [Purple-teaming LLMs with Adversarial Defender Training (arXiv 2024)](https://arxiv.org/html/2407.01850v1) ★ **NEW JAN 2026** – Novel approach to LLM safety combining red teaming (finding vulnerabilities) and blue teaming (building defenses) through purple-teaming methodology. Advanced adversarial training methods to enhance LLM robustness against jailbreaking attempts. Research-grade insights into modern LLM defense strategies. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv HTML version)
   - 🏛️ Authority: arXiv peer-reviewed research
   - 📄 Format: Technical research paper
-  - 🎯 Topics: Purple teaming, adversarial training, LLM safety, red-blue teaming integration
+  - 🌍 Topics: Purple teaming, adversarial training, LLM safety, red-blue teaming integration
   - [Tags: advanced purple-teaming llm-safety adversarial-training 2024]
   - [Verified: 2026-01-09]
 
@@ -221,6 +248,7 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **Red Teaming** - Simulated attacks to find vulnerabilities
 - **Purple Teaming** - Integrated red + blue team defense
 - **Prompt-Level Protections** - LLM input/output guardrails
+- **Threat Modeling** - Systematic vulnerability assessment
 
 **Tools & Frameworks:**
 - **CleverHans** (TensorFlow) - Adversarial example library
@@ -232,6 +260,7 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **PyRIT** (Microsoft) - Red teaming automation
 - **HarmBench** (CAIS) - Red teaming evaluation
 - **OpenMined PySyft** - Encrypted ML framework
+- **Google SAIF** - Secure AI framework
 
 ---
 
@@ -272,7 +301,7 @@ Found a great free AI Security resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 9, 2026 | **Total Resources:** 19 (13 courses + 5 guides + tools)
-**Last Link Validation:** January 9, 2026
+**Last Updated:** January 15, 2026 | **Total Resources:** 22 (+3 new)
+**Last Link Validation:** January 15, 2026
 
-**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, nist-standards, tensorflow-federated, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, free-courses-2025-2026
+**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, threat-modeling, google-saif, tensorflow-federated, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, hackthebox, free-courses-2025-2026
