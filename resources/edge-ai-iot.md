@@ -6,7 +6,7 @@ Machine learning on resource-constrained embedded devices, IoT platforms, and ed
 
 Edge AI brings artificial intelligence directly to edge devices—smartphones, IoT sensors, microcontrollers, and embedded systems—enabling real-time inference without cloud connectivity. TinyML (Tiny Machine Learning) focuses on ultra-low-power ML models running on microcontrollers with KB-scale memory, perfect for battery-powered IoT applications.
 
-**Keywords:** edge-ai, tinyml, embedded-ml, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, real-time-inference, embedded-systems, arduino-ml, raspberry-pi-ml
+**Keywords:** edge-ai, tinyml, embedded-ml, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, real-time-inference, embedded-systems, arduino-ml, raspberry-pi-ml, tensorflow-lite, edge-impulse, model-compression
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -23,6 +23,8 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 - Real-time sensor data processing
 - IoT and edge computing architectures
 - Energy-efficient neural networks
+- Computer vision on embedded devices
+- Federated learning for edge AI
 
 ---
 
@@ -65,7 +67,37 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - [Tags: beginner edge-ai career-guide tools projects 2025]
   - [Verified: 2025-12-16]
 
+- **[Edge Impulse: Building ML Models for Embedded Devices (Official Guide)](https://www.edgeimpulse.com/getting-started)** 🟢 Beginner - Official Edge Impulse platform tutorial for building and deploying ML models on microcontrollers without coding. Platform-agnostic guide covering data collection, signal processing, model training, and edge deployment. Includes free tier with hands-on labs using real Arduino, Raspberry Pi, and ESP32 hardware. Perfect for beginners wanting no-code ML deployment.
+  - 📖 Access: Fully free (official platform)
+  - 🏛️ Authority: Edge Impulse (official platform provider)
+  - 🛠️ Hands-on: Yes (free tier with real hardware)
+  - 🌍 Global: Fully accessible worldwide
+  - 📊 Tech Stack: No coding required, visual builder, TensorFlow Lite inference
+  - [Tags: beginner tinyml edge-impulse microcontrollers no-code hands-on 2025]
+  - [Verified: 2025-01-15]
+
 ### 🟡 Intermediate
+
+- **[Computer Vision with TinyML: Edge AI + CNNs (TheTechSlayer, 2025)](https://www.youtube.com/watch?v=7vBbkChN7Wk)** 🟡 Intermediate - Comprehensive 2025 video course teaching computer vision and TinyML deployment on edge devices. Covers CNN fundamentals, image classification, object detection, and real-world deployment on microcontrollers and Raspberry Pi. Created in collaboration with Edge Impulse, OpenMV, and Seeed Studio. Features practical projects with hands-on hardware labs using industry-standard tools and platforms.
+  - 📖 Access: Fully free (YouTube)
+  - 🏛️ Authority: TheTechSlayer⚡💻 (TinyML Foundation collaborators: Edge Impulse, OpenMV, Seeed Studio)
+  - 📺 Video Series: Complete CV + TinyML course
+  - 🛠️ Hands-on: Yes (Edge Impulse, OpenMV, Raspberry Pi projects)
+  - ⏱️ Duration: 6+ hours (complete course)
+  - 🌍 Global: Fully accessible worldwide
+  - 📊 Topics: CNN architecture, quantization, edge deployment, computer vision
+  - [Tags: intermediate tinyml computer-vision cnn edge-impulse openMV raspberry-pi hands-on 2025]
+  - [Verified: 2025-01-15]
+
+- **[ARM Learning Paths: Edge AI with TensorFlow Lite (Official)](https://learn.arm.com/learning-paths/embedded-and-microcontrollers/edge/)** 🟡 Intermediate - Official ARM learning path for deploying TensorFlow Lite models on microcontrollers and edge devices. Covers model optimization, quantization, inference on ARM Cortex processors, and hardware-specific acceleration. Includes hands-on labs with real ARM-based hardware (Arduino, Raspberry Pi, STM32). Comprehensive resource from processor manufacturer.
+  - 📖 Access: Fully free (official learning path)
+  - 🏛️ Authority: ARM (processor manufacturer, official source)
+  - 🛠️ Hands-on: Yes (interactive labs with real hardware)
+  - 📊 Topics: Model quantization, TensorFlow Lite Micro, ARM Cortex optimization
+  - 🌍 Global: Fully accessible worldwide
+  - ⏱️ Duration: Self-paced learning path
+  - [Tags: intermediate tinyml tensorflow-lite quantization arm-cortex hands-on 2025]
+  - [Verified: 2025-01-15]
 
 - [MathWorks: Rapid Deep Learning Deployment on Edge Devices](https://www.mathworks.com/company/technical-articles/rapid-deployment-of-deep-learning-on-edge-devices.html) – Technical guide for streamlining TinyML application development on resource-constrained devices using MATLAB, covering network compression, quantization, pruning, and benchmarking on STMicroelectronics edge hardware. (🟡 Intermediate)
   - 📖 Access: Fully open technical article
@@ -112,12 +144,14 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 **Popular Edge AI Frameworks:**
 - **TensorFlow Lite** - Lightweight ML for mobile and embedded devices
 - **TensorFlow Lite Micro** - Ultra-lightweight for microcontrollers
-- **Edge Impulse** - End-to-end platform for embedded ML
+- **Edge Impulse** - End-to-end platform for embedded ML (free tier available)
 - **ONNX Runtime** - Cross-platform inference optimization
 - **Arduino TensorFlow Lite** - TinyML for Arduino boards
 - **STM32Cube.AI** - Neural network optimization for STM32 MCUs
 - **PyTorch Mobile** - Mobile deployment for PyTorch models
 - **Apache TVM** - Deep learning compiler for edge devices
+- **OpenMV** - Computer vision on embedded systems
+- **TensorFlow Lite Micro** - For ultra-constrained microcontrollers
 
 **Hardware Platforms:**
 - Arduino Nano 33 BLE Sense
@@ -128,6 +162,7 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 - STM32 microcontrollers
 - Adafruit EdgeBadge
 - Seeed Studio boards
+- OpenMV camera boards
 
 ---
 
@@ -143,6 +178,7 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 **Cross-reference:**
 - [Graph Neural Networks](./graph-neural-networks.md) - Edge AI in IoT networks
 - [Audio & Speech Processing](./audio-speech-processing.md) - Speech recognition on edge devices
+- [Reinforcement Learning](./reinforcement-learning.md) - On-device learning and adaptation
 
 ---
 
@@ -169,7 +205,7 @@ Found a great free Edge AI or TinyML resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 16, 2025 | **Total Resources:** 10 (9 courses + tools)
-**Last Link Validation:** December 16, 2025
+**Last Updated:** January 15, 2026 | **Total Resources:** 14 (+3 new)
+**Last Link Validation:** January 15, 2026
 
-**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, free-courses-2025
+**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, computer-vision-edge, openMV, arm-cortex, 2025, free-courses
