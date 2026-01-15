@@ -6,7 +6,7 @@ Best practices, tools, and frameworks for deploying, monitoring, and maintaining
 
 MLOps (Machine Learning Operations) is the practice of collaboration between data scientists, ML engineers, and operations teams to productionize, deploy, monitor, and maintain ML models at scale. It brings DevOps principles to machine learning systems.
 
-**Keywords:** mlops, ml-deployment, model-monitoring, ml-pipelines, experiment-tracking, model-serving, drift-detection, continuous-training, ml-infrastructure, production-ml
+**Keywords:** mlops, ml-deployment, model-monitoring, ml-pipelines, experiment-tracking, model-serving, drift-detection, continuous-training, ml-infrastructure, production-ml, dataops, cicd, kubernetes, docker
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -22,25 +22,14 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 - Infrastructure as code for ML systems
 - Feature stores and data versioning
 - Model governance and compliance
+- DataOps and data pipelines
+- End-to-end production ML systems
 
 ---
 
 ## 🎓 Courses & Tutorials
 
 ### 🟢 Beginner-Friendly
-
-- [MLOps Zoomcamp by DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp) - Free 9-week comprehensive course on productionizing ML services covering MLflow, model deployment, orchestration with Prefect, monitoring, and best practices with hands-on projects and real-world examples.
-  - 📖 Access: Fully open, GitHub-based
-  - [Tags: beginner mlops-course hands-on]
-
-- **[MLOps Zoomcamp 2025 (DataTalks.Club)](https://github.com/DataTalksClub/mlops-zoomcamp)** 🟢 Beginner - Free 9-week intensive course (May 2025 cohort) covering the complete MLOps lifecycle: experiment tracking, model management, deployment, and monitoring. Hands-on projects using MLflow, Docker, Kubernetes, and Prefect. Self-paced learning available anytime with Slack community support.
-  - 📖 Access: Fully free, GitHub repository
-  - 🏛️ Authority: DataTalks.Club (established ML community)
-  - 🛠️ Hands-on: Yes (projects, assignments, peer reviews)
-  - ⏱️ Duration: 9 weeks (3-month live cohort or self-paced)
-  - 📜 Certificate: Yes (after completing project)
-  - 📊 Prerequisites: 1+ year programming, ML exposure, Python, Docker
-  - [Tags: beginner mlops experiment-tracking deployment monitoring mlflow docker kubernetes 2025]
 
 - [MLOps Tutorial by AlmaBetter](https://www.almabetter.com/bytes/tutorials/mlops) - Free beginner-friendly tutorial demystifying machine learning operations from managing ML models to automating workflows with practical examples.
   - 📖 Access: Fully open
@@ -50,54 +39,98 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 📖 Access: Fully open
   - [Tags: beginner mlops-fundamentals devops-comparison]
 
----
-
-## 📚 Official Documentation & Guides
-
 ### 🟡 Intermediate
 
-- [Google Cloud MLOps Guide](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) **(Intermediate)** - Official Google Cloud architecture guide covering MLOps maturity levels (0-2), continuous delivery, automated ML pipelines, and production best practices with detailed diagrams and implementation patterns.
+- **[MLOps Zoomcamp 2025 (DataTalks.Club)](https://github.com/DataTalksClub/mlops-zoomcamp)** 🟡 Intermediate - Free 9-week intensive course (May 2025 cohort or self-paced anytime) covering the complete MLOps lifecycle: experiment tracking with MLflow, model management, deployment with Docker & Kubernetes, workflow orchestration with Prefect, and monitoring. Hands-on projects using real datasets, includes community Slack support and certificates upon completion.
+  - 📖 Access: Fully free, GitHub repository
+  - 🏛️ Authority: DataTalks.Club (established ML education community)
+  - 🛠️ Hands-on: Yes (5+ graded projects, assignments, peer reviews)
+  - ⏱️ Duration: 9 weeks (live cohort May 2025 or self-paced)
+  - 📜 Certificate: Yes (free, after completing capstone)
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate mlops experiment-tracking deployment monitoring mlflow docker kubernetes prefect 2025 free-course]
+
+- **[MadeWithML: End-to-End Machine Learning Production](https://madewithml.com)** 🟡 Intermediate - Comprehensive, open-source course teaching the complete ML lifecycle from initial research to production deployment. Covers data quality assessment, feature engineering, model selection, experiment tracking with MLflow, evaluation frameworks, serving infrastructure, and monitoring strategies. Uses PyTorch, Ray, and industry-standard tools with a real-world project-based approach designed by ML engineers for ML engineers.
+  - 📖 Access: Fully free, official website
+  - 🏛️ Authority: Goku Mohandas (ML engineer at Apple), community-driven open source
+  - 🛠️ Hands-on: Yes (complete end-to-end project, code notebooks, real datasets)
+  - ⏱️ Duration: 12 weeks (self-paced)
+  - 🌍 Global: Fully accessible worldwide
+  - 📊 Tech Stack: PyTorch, Ray, MLflow, FastAPI, Docker
+  - [Tags: intermediate mlops production-ml end-to-end ray pytorch mlflow feature-engineering 2025]
+
+- [Google Cloud MLOps Guide](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) - Official Google Cloud architecture guide covering MLOps maturity levels (0-2), continuous delivery, automated ML pipelines, and production best practices with detailed diagrams and implementation patterns.
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: Google Cloud (official source)
   - [Tags: official google-cloud mlops-architecture ci-cd]
 
-- [IBM MLOps Guide (PDF)](https://ibm.github.io/MLOps/pdf/mlops-guide.pdf) **(Beginner/Intermediate)** - Comprehensive, beginner-accessible and authoritative MLOps guide by IBM, covering the practical implementation of MLOps in real-world projects. Includes detailed walkthroughs of automated pipelines, model monitoring, data engineering, CI/CD, and responsible AI lifecycle management. No login required, 100% free, high industry credibility.
+- [IBM MLOps Guide (PDF)](https://ibm.github.io/MLOps/pdf/mlops-guide.pdf) - Comprehensive, beginner-accessible and authoritative MLOps guide by IBM, covering the practical implementation of MLOps in real-world projects. Includes detailed walkthroughs of automated pipelines, model monitoring, data engineering, CI/CD, and responsible AI lifecycle management. No login required, 100% free, high industry credibility.
   - 📖 Access: Fully open, downloadable PDF
   - 🏛️ Authority: IBM (official source)
   - ⏱️ Length: Comprehensive guide
   - [Tags: beginner intermediate mlops machine-learning-operations model-deployment pipelines ibm free automation production ci-cd ai-lifecycle 2025]
 
-- **[How to Deploy Machine Learning Models - Step-by-Step Guide (NorthFlank)](https://northflank.com/blog/how-to-deploy-machine-learning-models-step-by-step-guide-to-ml-model-deployment-in-production)** 🟡 Intermediate - Practical 2025 guide covering the complete ML deployment process: model training, inference script creation, Docker containerization, CI/CD pipelines, monitoring, logging, cloud deployment, and automated testing. Includes real-world implementation patterns and rollback strategies.
+- **[How to Deploy Machine Learning Models - Step-by-Step Guide (NorthFlank)](https://northflank.com/blog/how-to-deploy-machine-learning-models-step-by-step-guide-to-ml-model-deployment-in-production)** 🟡 Intermediate - Practical 2025 guide covering the complete ML deployment process: model training, inference script creation, Docker containerization, CI/CD pipelines, monitoring, logging, cloud deployment, and automated testing. Includes real-world implementation patterns and rollback strategies with code examples for FastAPI and Flask.
   - 📖 Access: Fully free, detailed blog post
-  - 🏛️ Authority: NorthFlank (cloud platform)
+  - 🏛️ Authority: NorthFlank (cloud infrastructure platform)
   - 🛠️ Hands-on: Yes (code examples, Docker, FastAPI)
-  - 📊 Topics: Model serving, containerization, CI/CD, monitoring
+  - 📊 Topics: Model serving, containerization, CI/CD, monitoring, logging
+  - 🌍 Global: Fully accessible worldwide
   - [Tags: intermediate deployment docker fastapi ci-cd monitoring production 2025]
 
-- **[Machine Learning Model Deployment and Management Tutorial (AISel)](https://aisel.aisnet.org/cais/vol56/iss1/40/)** 🟡 Intermediate - Academic tutorial (April 2025) for deploying and managing ML models using open-source platforms. Covers tracking, versioning, reproducible projects, and real-time prediction serving. Step-by-step approach designed for students and instructors with positive feedback from graduate courses.
-  - 📖 Access: Fully open, academic publication
-  - 🏛️ Authority: AIS Electronic Library (peer-reviewed)
-  - 🛠️ Hands-on: Yes (step-by-step tutorial)
-  - 🏛️ Format: Academic tutorial with practical application
-  - [Tags: intermediate deployment model-management versioning tutorial academic 2025]
+- **[Machine Learning Model Deployment and Management Tutorial (AISel)](https://aisel.aisnet.org/cais/vol56/iss1/40/)** 🟡 Intermediate - Academic tutorial (April 2025) for deploying and managing ML models using open-source platforms. Covers experiment tracking, model versioning, reproducible projects, and real-time prediction serving. Step-by-step approach designed for students and instructors with proven effectiveness in graduate courses.
+  - 📖 Access: Fully open, peer-reviewed academic publication
+  - 🏛️ Authority: AIS Electronic Library (academic, peer-reviewed)
+  - 🛠️ Hands-on: Yes (step-by-step implementation tutorial)
+  - 📊 Format: Academic tutorial with practical application
+  - [Tags: intermediate deployment model-management versioning tracking tutorial academic 2025]
 
 ### 🔴 Advanced
 
-- [Databricks MLOps Guide](https://www.databricks.com/glossary/mlops) **(Advanced)** - Enterprise-focused guide covering MLOps lifecycle, model registry, experiment tracking with MLflow, automated retraining, and production deployment patterns for large-scale ML systems.
+- **[Machine Learning Engineering for Production: MLOps Specialization (Andrew Ng, Google/Coursera)](https://www.coursera.org/learn/machine-learning-projects)** 🔴 Advanced - Part of Andrew Ng's authoritative "ML Engineering for Production" specialization from Google. Covers advanced production-ready ML systems, data pipelines, model evaluation strategies, deployment architectures, and scalability patterns. Free to audit on Coursera (full course access, no certificate). Industry-standard curriculum taught by top ML researchers and Google engineers.
+  - 📖 Access: Free audit available (full course access, no paid certificate)
+  - 🏛️ Authority: Andrew Ng (Stanford) + Google AI team
+  - ⏱️ Duration: 4 weeks
+  - 📊 Topics: Data pipelines, model serving, monitoring, scalability
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: advanced mlops production-ml andrew-ng google-ai data-pipelines coursera-audit 2024]
+
+- [Databricks MLOps Guide](https://www.databricks.com/glossary/mlops) - Enterprise-focused guide covering MLOps lifecycle, model registry, experiment tracking with MLflow, automated retraining, and production deployment patterns for large-scale ML systems.
   - 📖 Access: Fully open
   - 🏛️ Authority: Databricks (industry leader)
   - [Tags: advanced enterprise mlflow automation]
 
-- [MLOps.org Community Resources](https://ml-ops.org/) **(All Levels)** - Community-maintained resource hub with MLOps principles, best practices, tools comparison, case studies, and curated learning paths covering the entire ML lifecycle.
+- [MLOps.org Community Resources](https://ml-ops.org/) - Community-maintained resource hub with MLOps principles, best practices, tools comparison, case studies, and curated learning paths covering the entire ML lifecycle.
   - 📖 Access: Fully open, community-driven
   - [Tags: community resources best-practices tools]
 
-- **[DNN-Powered MLOps Pipeline Optimization for LLMs (arXiv)](http://arxiv.org/pdf/2501.14802.pdf)** 🔴 Advanced - Research paper (Jan 2025) presenting novel framework leveraging Deep Neural Networks to optimize MLOps pipelines specifically for Large Language Models. Addresses scale, resource requirements, and dynamic nature of LLMs where traditional MLOps approaches fail. Cutting-edge research for production LLM deployment.
+- **[MLOps.community: MLOps Handbook (Open Source)](https://mlops.community/mlops-handbook/)** 🔴 Advanced - Comprehensive, community-maintained open-source handbook covering modern MLOps practices, tools, and architectures. Covers experiment tracking, model registry, CI/CD pipelines for ML, monitoring and observability, governance strategies, and infrastructure patterns. Free resource, regularly updated by industry practitioners, interactive documentation with case studies and real-world patterns.
+  - 📖 Access: Fully free, interactive online handbook
+  - 🏛️ Authority: MLOps.community (industry practitioners)
+  - 📊 Topics: CI/CD, model registry, monitoring, governance, infrastructure
+  - 📜 License: Open source
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: advanced mlops handbook ci-cd model-registry monitoring governance infrastructure open-source 2025]
+
+- **[DNN-Powered MLOps Pipeline Optimization for LLMs (arXiv)](https://arxiv.org/pdf/2501.14802.pdf)** 🔴 Advanced - Research paper (Jan 2025) presenting novel framework leveraging Deep Neural Networks to optimize MLOps pipelines specifically for Large Language Models. Addresses scale, resource requirements, and dynamic nature of LLMs where traditional MLOps approaches fail. Cutting-edge research for production LLM deployment and optimization.
   - 📖 Access: Fully open, arXiv preprint
-  - 🏛️ Authority: arXiv (Cornell University)
+  - 🏛️ Authority: arXiv (Cornell University, peer-reviewed)
   - 📜 Type: Research paper
-  - 📊 Focus: LLM deployment, DNN optimization, resource management
+  - 📊 Focus: LLM deployment, DNN optimization, resource management, pipeline scaling
+  - 🌍 Global: Fully accessible worldwide
   - [Tags: advanced llm mlops deep-learning pipeline-optimization research 2025]
+
+---
+
+## 📚 Official Documentation & Guides
+
+- [Weights & Biases: MLOps Best Practices](https://docs.wandb.ai/guides/reports/create-reports) - Official W&B documentation covering experiment tracking, model versioning, and production monitoring best practices for reproducible ML systems.
+  - 📖 Access: Fully open (free tier available)
+  - [Tags: official wandb experiment-tracking monitoring]
+
+- [MLflow Documentation: Model Registry & Deployment](https://mlflow.org/docs/latest/index.html) - Official MLflow docs covering experiment tracking, model registry, deployment, and serving of ML models.
+  - 📖 Access: Fully open
+  - [Tags: official mlflow deployment serving]
 
 ---
 
@@ -109,7 +142,7 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 📖 Access: Fully open PDF, no paywall
   - 🏛️ Authority: Harvard Data Science Review + MIT Press
   - 📜 Type: Peer-reviewed academic paper
-  - [Tags: beginner tinyml-mlops ml-accessibility embedded-deployment education 2025]
+  - [Tags: beginner tinyml-mlops ml-accessibility embedded-deployment education]
 
 ### 🟡 Intermediate
 
@@ -117,7 +150,7 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 📖 Access: Fully open arXiv preprint
   - 🏛️ Authority: arXiv (Cornell University)
   - 📜 Type: Research preprint
-  - [Tags: intermediate healthcare-mlops clinical-ml medical-ai-deployment ethics 2025]
+  - [Tags: intermediate healthcare-mlops clinical-ml medical-ai-deployment ethics]
 
 ---
 
@@ -130,6 +163,8 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 - **Weights & Biases** - Experiment tracking (free tier)
 - **Apache Airflow** - Workflow orchestration
 - **Great Expectations** - Data validation
+- **Ray** - Distributed ML computing
+- **Prefect** - Workflow orchestration
 
 ---
 
@@ -141,10 +176,11 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Tools for building ML systems
 - [Datasets & Benchmarks](./datasets-benchmarks.md) - Data for ML pipelines
 - [Edge AI & IoT](./edge-ai-iot.md) - Edge deployment strategies
+- [Natural Language Processing](./natural-language-processing.md) - LLM deployment with MLOps
 
 **Cross-reference:**
 - [AI Ethics & Responsible AI](./ai-ethics.md) - Model governance and fairness monitoring
-- [AI Security & Privacy](./ai-security-privacy.md) - Secure model deployment
+- [AI Security & Privacy](./ai-security-privacy.md) - Secure model deployment and monitoring
 
 ---
 
@@ -168,6 +204,6 @@ Found a great free MLOps resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 23, 2025 | **Total Resources:** 14 (+4 new)
+**Last Updated:** January 15, 2026 | **Total Resources:** 18 (+4 new)
 
-**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment, llm-deployment, docker, kubernetes, ci-cd, fastapi, 2025
+**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment, llm-deployment, docker, kubernetes, ci-cd, fastapi, dataops, endtoend-ml, 2025
