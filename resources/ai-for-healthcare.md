@@ -93,64 +93,93 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 
 ### 🟡 Intermediate
 
-- [MIT 6.S191: AI in Healthcare (YouTube Lecture Series)](https://www.youtube.com/watch?v=cvXVK8oqU4Q) – Official MIT course (6.S191) lectures on artificial intelligence in healthcare. Covers computer vision for medical imaging, NLP for clinical text, predictive models for patient outcomes, and challenges in deploying AI in clinical settings. Taught by MIT faculty and leading healthcare AI researchers. (🟡 Intermediate)
+- [Fundamentals of Machine Learning for Healthcare - Stanford University (Coursera)](https://www.coursera.org/learn/fundamental-machine-learning-healthcare) – Comprehensive 8-module course from Stanford School of Medicine on machine learning applications in healthcare. Covers neural networks, data preprocessing, model evaluation, and clinical deployment strategies. Includes 11 CME credits and is ACCME accredited for healthcare professionals seeking professional development in healthcare AI. Learn from leading Stanford faculty with real-world healthcare ML examples. (🟡 Intermediate)
+  - 📖 Access: Free audit (certificate requires payment)
+  - 🏛️ Authority: Stanford University School of Medicine
+  - ⏱️ Duration: 11 hours
+  - 🎓 Certification: ACCME accredited with 11 CME credits available
+  - 🔧 Topics: Neural networks, data preprocessing, model validation, clinical deployment
+  - 💻 Tools: Python, TensorFlow, Keras
+  - [Tags: intermediate machine-learning healthcare stanford coursera neural-networks clinical-deployment accme 2025]
+
+- [AI in Healthcare Specialization - Stanford University (Coursera)](https://www.coursera.org/specializations/ai-healthcare) – 5-course specialization from Stanford University exploring practical AI applications across healthcare systems. Covers clinical decision support systems, diagnosis and prognosis modeling, treatment recommendation systems, and health systems impact. Designed for healthcare professionals, researchers, and technologists. Free audit available for all courses; specialization certificate requires payment. (🟡 Intermediate)
+  - 📖 Access: Free audit (certificate paid)
+  - 🏛️ Authority: Stanford University
+  - 👥 Community: 69,681+ enrolled, 2,398 reviews (avg 4.7/5)
+  - 📚 5 comprehensive courses
+  - 🔧 Topics: Clinical decision support, diagnosis, prognosis, treatment systems, health systems
+  - ⏱️ Duration: Self-paced, approximately 3-4 months
+  - [Tags: specialization healthcare-ai clinical-systems stanford coursera diagnosis-prognosis treatment 2025]
+
+- [AI for Medicine Specialization - DeepLearning.AI (Coursera)](https://www.coursera.org/specializations/ai-for-medicine) – 3-course specialization by Andrew Ng's DeepLearning.AI covering AI applications in medical diagnosis, patient prognosis prediction, and personalized treatment recommendations. Learn from world-renowned AI researcher Andrew Ng and healthcare industry experts. Covers medical imaging analysis, clinical data analysis, and treatment personalization workflows. Free audit available. (🟡 Intermediate)
+  - 📖 Access: Free audit (certificate paid)
+  - 🏛️ Authority: DeepLearning.AI (Andrew Ng's organization)
+  - 👤 Instructor: Andrew Ng (AI pioneer)
+  - 📚 3 courses: Diagnosis, Prognosis, Treatment
+  - 🔧 Topics: Medical imaging AI, clinical data analysis, personalized medicine
+  - 💻 Tools: Python, TensorFlow, Keras
+  - [Tags: andrew-ng medical-imaging diagnosis prognosis treatment deeplearning-ai coursera specialization 2025]
+
+- [Machine Learning for Healthcare - MIT OpenCourseWare (6.S897)](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) – MIT's official open course introducing machine learning in healthcare systems. Covers electronic health record (EHR) analysis, risk prediction models, interpretability of clinical models, and causal inference for healthcare decisions. Includes complete lecture notes, assignments, and exams for self-study. Audit for free with no restrictions. (🟡 Intermediate)
+  - 📖 Access: Completely free (MIT OpenCourseWare)
+  - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
+  - 📚 Complete course materials: Lecture notes, assignments, exams
+  - 🔧 Topics: EHR analysis, risk prediction, interpretability, causal inference
+  - 💻 Tools: Python, scikit-learn, pandas
+  - 📄 Full materials available for self-study
+  - [Tags: mit opencourseware machine-learning healthcare ehr risk-prediction causal-inference 2019]
+
+- [Deep Learning for Medical Image Analysis - VU Amsterdam](https://research.vu.nl/en/courses/deep-learning-for-medical-image-analysis-2/) – Comprehensive course from Vrije Universiteit Amsterdam on deep learning techniques for medical imaging. Covers convolutional neural networks, U-Net segmentation architecture, and clinical deployment. Learn medical imaging physics, image preprocessing, segmentation, and classification. Combines technical deep learning with domain expertise in medical imaging. (🟡 Intermediate)
+  - 📖 Access: Fully open, free course materials
+  - 🏛️ Authority: VU Amsterdam (research-intensive university)
+  - 🛠️ Hands-on: Yes, using neural network frameworks
+  - ⏱️ Duration: Full semester course
+  - 🔧 Topics: CNNs, U-Net, medical imaging physics, segmentation, classification
+  - 💻 Tools: TensorFlow, PyTorch, NumPy
+  - [Tags: intermediate deep-learning medical-imaging cnn unet segmentation vu-amsterdam 2024]
+
+- [MIT 6.S191: AI in Healthcare (YouTube Lecture Series)](https://www.youtube.com/watch?v=cvXVK8oqU4Q) – Official MIT course lectures on artificial intelligence in healthcare. Covers computer vision applications in medical imaging, natural language processing for clinical text, predictive models for patient outcomes, and practical challenges in deploying AI in clinical settings. Taught by MIT faculty and leading healthcare AI researchers. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
   - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
-  - 🐨 Format: Official lecture series
-  - ⏱️ Duration: Full course with multiple lectures
-  - 🎏 Topics: Medical imaging AI, clinical NLP, predictive models, deployment challenges
+  - 🎥 Format: Official lecture series
+  - ⏱️ Duration: Multiple lectures (full course)
+  - 🔧 Topics: Medical imaging AI, clinical NLP, predictive models, deployment challenges
   - [Tags: intermediate mit official-lecture medical-imaging clinical-nlp predictive-models 2025]
 
-- [PyTorch and Monai for AI Healthcare Imaging (freeCodeCamp)](https://www.youtube.com/watch?v=M3ZWfamWrBM) – Comprehensive 5-hour hands-on course teaching how to use PyTorch, MONAI, and Python for computer vision in medical imaging. Build an algorithm for automatic liver segmentation using real medical data. Covers U-Net architecture, dataset preparation, pre-processing medical images with MONAI transforms, and deploying healthcare AI models. Complete with code repository on GitHub. (🟡 Intermediate)
+- [PyTorch and Monai for AI Healthcare Imaging (freeCodeCamp)](https://www.youtube.com/watch?v=M3ZWfamWrBM) – Comprehensive 5-hour hands-on course teaching how to use PyTorch, MONAI (Medical Open Network for AI), and Python for computer vision in medical imaging. Build an automatic liver segmentation algorithm using real medical data. Covers U-Net architecture, dataset preparation, MONAI transforms for medical image preprocessing, and deploying healthcare AI models. Complete code repository available on GitHub. (🟡 Intermediate)
   - 📖 Access: Free on YouTube
-  - 🐨 Instructor: Mohammed El Amine MOKHTARI (PyCad)
-  - 🛠️ Hands-on: Yes (full code on GitHub)
+  - 🎥 Instructor: Mohammed El Amine MOKHTARI (PyCad)
+  - 🛠️ Hands-on: Yes (complete code on GitHub)
   - ⏱️ Duration: 5 hours 10 minutes
   - 💻 Tools: PyTorch, MONAI, Python, ITK-SNAP
-  - 📃 Real medical data (liver segmentation)
+  - 📃 Real medical data: Liver segmentation project
   - [Tags: intermediate medical-imaging pytorch monai liver-segmentation hands-on freecodecamp 2025]
 
-- [Medical AI Models with TensorFlow (freeCodeCamp)](https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/) – Hands-on 1-hour course teaching how to build and evaluate medical AI models using TensorFlow for chest X-ray analysis. Learn to create diagnostic models, understand model architecture, optimize performance, and evaluate using metrics like AUC curves, sensitivity, and specificity. Taught by Dr. Jason Adleberg, a radiologist and programmer. (🟡 Intermediate)
+- [Medical AI Models with TensorFlow (freeCodeCamp)](https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/) – Hands-on 1-hour course teaching how to build and evaluate medical AI models using TensorFlow for chest X-ray analysis. Learn diagnostic model creation, model architecture design, performance optimization, and evaluation using clinical metrics (AUC curves, sensitivity, specificity). Taught by Dr. Jason Adleberg, a radiologist and programmer. (🟡 Intermediate)
   - 📖 Access: Free on freeCodeCamp YouTube
-  - 🐨 Instructor: Dr. Jason Adleberg (Radiologist, NYC)
+  - 🎥 Instructor: Dr. Jason Adleberg (Radiologist, NYC)
   - 🛠️ Hands-on: Yes (TensorFlow implementation)
   - ⏱️ Duration: 1 hour
   - 💻 Tools: TensorFlow, Python, Google Colab
-  - 📃 Chest X-ray diagnostic models
+  - 📃 Application: Chest X-ray diagnostic models
   - [Tags: intermediate tensorflow chest-xray diagnostic-ai radiologist hands-on freecodecamp 2025]
 
 - [Learn2Trust: Video Program for AI Medical Image Analysis](https://arxiv.org/abs/2208.07314) – Video and Streamlit-based educational program for AI-based medical image analysis targeted at medical students and healthcare professionals. Learn to build, evaluate, and interpret AI models for medical imaging with interactive demonstrations and real examples. Free and open-source. (🟡 Intermediate)
   - 📖 Access: Free, open educational resource
   - 🎓 Target: Medical students and healthcare professionals
   - 🎥 Format: Video tutorials + interactive Streamlit app
-  - 🔬 Topics: Model building, evaluation, interpretation
+  - 🔬 Topics: Model building, evaluation, interpretation, fairness
   - 📚 Open-source and reproducible
-  - [Tags: intermediate medical-imaging video-program streamlit interactive educational students 2022]
+  - [Tags: intermediate medical-imaging video-program streamlit interactive educational 2022]
 
 - [Harvard Medical School: AI in Clinical Medicine (2-Day Virtual Workshop)](https://learn.hms.harvard.edu/programs/ai-health-care-strategies-implementation) – Intensive 2-day virtual workshop from Harvard Medical School designed specifically for physicians and clinical professionals. Provides hands-on training in AI applications, clinical AI systems, and implementation strategies in medical practice. Part of Harvard HMS's comprehensive AI in Healthcare programs combining theory and practical clinical applications. (🟡 Intermediate)
   - 📖 Access: Fully open, registrations available
   - 🏛️ Authority: Harvard Medical School (HMS)
   - 👥 Target: Physicians and clinical practitioners
   - ⏱️ Duration: 2 days (intensive virtual)
-  - 🎏 Topics: Clinical AI systems, implementation, practical workflows
-  - 💼 Professional development suitable for clinical teams
-  - [Tags: intermediate clinical-medicine harvard medical-school implementation 2025]
-
-- [Machine Learning for Healthcare - MIT OpenCourseWare (6.S897)](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) – MIT's official open course introducing machine learning in healthcare. Covers clinical data characteristics, feature engineering from EHR, handling missing data, risk prediction models, interpretability, and causal inference. Includes full lecture notes, assignments, and exams for self-study. (🟡 Intermediate)
-  - 📖 Access: Fully open on MIT OpenCourseWare
-  - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
-  - 📚 Materials: Lecture notes, assignments, exams
-  - 📝 Topics: EHR analysis, risk prediction, interpretability, causal inference in healthcare
-  - [Tags: intermediate mit-opencourseware ehr-analysis risk-prediction interpretability causal-inference 2019]
-
-- [Deep Learning for Medical Image Analysis (VU Amsterdam)](https://research.vu.nl/en/courses/deep-learning-for-medical-image-analysis-2/) – Comprehensive course from Vrije Universiteit Amsterdam teaching deep learning principles and applications to medical image analysis. Learn convolutional neural networks, U-Net architecture, and how to apply deep learning to medical imaging pipeline including image acquisition, reconstruction, enhancement, segmentation, and classification. Combines technical deep learning with medical imaging physics and domain expertise. (🟡 Intermediate)
-  - 📖 Access: Fully open, free course materials
-  - 🏛️ Authority: VU Amsterdam (research university)
-  - 🛠️ Hands-on: Yes, using NumPy and neural networks
-  - ⏱️ Duration: Full semester course
-  - 🔬 Topics: CNNs, U-Net, medical image physics, segmentation, classification
-  - 💻 Tools: TensorFlow, PyTorch, NumPy
-  - [Tags: intermediate deep-learning medical-imaging cnn unet physics vu-amsterdam 2024]
+  - 🔧 Topics: Clinical AI systems, implementation strategies, workflow integration
+  - 💼 Professional development for clinical teams
+  - [Tags: intermediate clinical-medicine harvard medical-school implementation workflow 2025]
 
 ### 🔴 Advanced
 
@@ -182,7 +211,7 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🏛️ Authority: ISBI (International Symposium on Biomedical Imaging)
   - 📝 Topics: Digital twins, brain imaging, signal processing, multiresolution analysis
   - 🔬 Cutting-edge research and techniques
-  - [Tags: advanced medical-imaging signal-processing brain-imaging isbi wavelets multiresolution 2025]
+  - [Tags: advanced medical-imaging signal-processing brain-imaging isbi wavelets 2025]
 
 - [MHub.ai - Making AI in Medical Imaging Simple and Reproducible](https://mhub.ai/) – Open-source platform hosting 26+ validated AI models for medical imaging (CT, MRI, X-ray) with DICOM compatibility and harmonized outputs. Developed by MD Anderson Cancer Center, makes complex medical AI reproducible and deployable. Includes sample datasets and comprehensive documentation. Perfect for implementing and comparing medical imaging AI models. (🔴 Advanced)
   - 📖 Access: Fully open, open-source on GitHub
@@ -324,6 +353,6 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 4, 2026 | **Total Resources:** 29+
+**Last Updated:** January 16, 2026 | **Total Resources:** 34+
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, vlm-medical, miccai, deep-learning-medical-imaging, rcsi, google, mit, harvard, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, 2025
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, vlm-medical, miccai, deep-learning-medical-imaging, rcsi, google, stanford, mit, harvard, deeplearning-ai, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, 2025
