@@ -61,6 +61,15 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🎓 8 courses with progression
   - [Tags: beginner quantitative-trading python portfolio-optimization learning-path quantinsti 2018]
 
+- [Introduction to Machine Learning for Trading - QuantInsti (FREE Course)](https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading) – Beginner-friendly free course from QuantInsti introducing machine learning fundamentals for algorithmic trading. Covers supervised learning basics, unsupervised learning, reinforcement learning concepts, and practical trading applications. Designed for traders new to machine learning with no advanced math required. (🟢 Beginner)
+  - 📖 Access: Completely free
+  - 🏛️ Authority: QuantInsti (leading quantitative finance platform)
+  - ⏱️ Duration: Self-paced
+  - 🔧 Topics: Classification, SVM, random forests, clustering, RL basics
+  - 💻 Tools: Python, scikit-learn, pandas
+  - 🎓 Perfect for: Traders new to machine learning
+  - [Tags: beginner quantinsti machine-learning trading free algorithmic-trading 2024]
+
 - [CFTE AI in Finance FREE Masterclass](https://courses.cfte.education/online-courses-sg/online-artificial-intelligence-in-finance-masterclass-learn-ai-for-free/) – Completely free structured curriculum teaching AI fundamentals, fintech applications, industry insights, and opportunities/challenges in AI finance. Taught by industry leaders and practitioners from major financial institutions. Comprehensive overview of AI trends in financial services with no prerequisites. (🟢 Beginner)
   - 📖 Access: Completely free (no payment or account required)
   - 🏛️ Authority: CFTE (leading fintech education platform)
@@ -90,27 +99,21 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - ⚠️ Note: Coursera audit option free; certificate requires payment
   - [Tags: intermediate algorithmic-trading generative-ai llm coursera python 2025]
 
-- [Machine Learning & Quant Strategies Course with Python (YouTube)](https://www.youtube.com/watch?v=9Y3yaoi9rUQ) – Comprehensive hands-on course teaching machine learning techniques for quantitative trading strategies. Build actual trading models, backtest strategies, optimize portfolios, and understand risk management. Complete with Python code examples and real market data. (🟡 Intermediate)
+- [Machine Learning for Stock Trading (YouTube - Full Course)](https://www.youtube.com/watch?v=9Y3yaoi9rUQ) – Comprehensive hands-on course teaching machine learning techniques for quantitative trading strategies with real Python implementation. Build actual trading models, backtest strategies, optimize portfolios, and understand risk management. Complete with Python code examples and real market data on GitHub. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
   - ⏱️ Duration: Multiple hours of hands-on content
-  - 🛠️ Hands-on: Yes (complete Python project)
-  - 💻 Tools: Python, scikit-learn, pandas, yfinance
+  - 🛠️ Hands-on: Yes (complete Python project with GitHub code)
+  - 💻 Tools: Python, scikit-learn, pandas, yfinance, backtrader
+  - 📊 Real market data and backtesting examples
   - [Tags: intermediate algorithmic-trading machine-learning python hands-on youtube 2023]
 
-- [Build a Python Trading Bot for Algorithmic Trading Using AI (YouTube)](https://www.youtube.com/watch?v=J3VEniAKg5A) – Comprehensive tutorial teaching how to build an AI-powered algorithmic trading bot from scratch using Python. Covers connecting to trading APIs, fetching market data, implementing trading strategies, using machine learning for predictions, backtesting strategies, risk management, and deploying automated trading systems. Hands-on project-based learning with complete code examples. (🟡 Intermediate)
+- [Build a Python Trading Bot Using AI (YouTube - Complete Tutorial)](https://www.youtube.com/watch?v=J3VEniAKg5A) – Comprehensive tutorial teaching how to build an AI-powered algorithmic trading bot from scratch using Python. Covers connecting to trading APIs, fetching market data, implementing trading strategies, using machine learning for predictions, backtesting strategies, risk management, and deploying automated trading systems. Hands-on project-based learning with complete code examples. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube
   - 🛠️ Hands-on: Yes (complete Python project)
-  - 💻 Tools: Python, trading APIs, ML libraries
+  - 💻 Tools: Python, trading APIs, ML libraries, backtesting frameworks
   - ⏱️ Duration: Multiple hours (project-based)
   - ⚠️ Note: Educational purposes; real trading involves financial risk
-  - [Tags: intermediate algorithmic-trading python trading-bot machine-learning hands-on free-tutorial 2025]
-
-- [Stock Price Prediction with Machine Learning Tutorial](https://towardsai.net/p/editorial/recommendation-system-in-depth-tutorial-with-python-for-netflix-using-collaborative-filtering) – Hands-on tutorial implementing machine learning models for stock price prediction. Learn LSTM, GRU, and traditional ML approaches for time series prediction. Includes data preprocessing, feature engineering, model evaluation, and practical trading signal generation. (🟡 Intermediate)
-  - 📖 Access: Fully open
-  - 🛠️ Hands-on: Yes (Python implementation)
-  - 💻 Tools: Python, TensorFlow/Keras, pandas
-  - 🔧 Topics: LSTM, GRU, time series, technical indicators
-  - [Tags: intermediate stock-prediction lstm machine-learning python time-series 2020]
+  - [Tags: intermediate algorithmic-trading python trading-bot machine-learning hands-on 2025]
 
 - [Investment Management with Python and Machine Learning (EDHEC - Coursera)](https://www.coursera.org/learn/investment-management-python-machine-learning) – EDHEC Business School course on portfolio optimization, risk management, and data analysis using Python and ML. Covers modern portfolio theory, performance attribution, and ML applications in investment management. Real-world financial case studies and practical implementation. Free audit available. (🟡 Intermediate)
   - 📖 Access: Free audit track available
@@ -120,7 +123,7 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 💱 Real-world investment applications
   - [Tags: intermediate portfolio-optimization risk-management python machine-learning edhec coursera 2024]
 
-- [Machine Learning for Trading Specialization (Google Cloud & NYIF)](https://www.coursera.org/courses?query=machine+learning+for+trading) – Comprehensive 3-course specialization from Google Cloud and New York Institute of Finance on applying machine learning and AI to quantitative trading. Covers algorithmic trading fundamentals, ML for trading strategies, and reinforcement learning for trading. Free audit available. (🟡 Intermediate)
+- [Machine Learning for Trading Specialization (Google Cloud & NYIF)](https://www.coursera.org/search?query=machine+learning+for+trading) – Comprehensive 3-course specialization from Google Cloud and New York Institute of Finance on applying machine learning and AI to quantitative trading. Covers algorithmic trading fundamentals, ML for trading strategies, and reinforcement learning for trading. Free audit available. (🟡 Intermediate)
   - 📖 Access: Free audit track available (certificate paid)
   - 🏛️ Authority: Google Cloud + NYIF
   - 💻 Tools: Python, GCP, TensorFlow
@@ -128,6 +131,31 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - [Tags: intermediate algorithmic-trading machine-learning google-cloud reinforcement-learning coursera 2025]
 
 ### 🔴 Advanced
+
+- [Quantitative Risk Management with Machine Learning (Advanced Framework)](https://blog.quantinsti.com/trading-risk-management/) – Advanced framework for integrating machine learning with risk management in quantitative trading. Covers position sizing algorithms, Value-at-Risk (VaR) estimation, dynamic hedging strategies, stress testing frameworks, and correlation modeling for trading portfolios. Master advanced risk techniques used by institutional traders. (🔴 Advanced)
+  - 📖 Access: Free blog/resource
+  - 🏛️ Authority: QuantInsti + academic research
+  - 🔧 Topics: Position sizing, VaR, dynamic hedging, stress testing, portfolio risk
+  - 💻 Tools: Python, NumPy, pandas
+  - 📚 Advanced: For experienced quant traders and risk professionals
+  - [Tags: advanced risk-management quantitative-trading position-sizing var hedging 2024]
+
+- [FinRL: Deep Reinforcement Learning Framework (Open-Source GitHub)](https://github.com/AI4Finance-Foundation/FinRL) – Production-ready open-source framework for applying deep reinforcement learning to quantitative trading. Simplifies building RL-based trading agents with easy-to-use Python API. Comprehensive documentation, multiple pre-built trading environments (Gym-style), pre-trained models, and active community. MIT licensed. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub (MIT License)
+  - 💻 Language: Python with TensorFlow/PyTorch backends
+  - 🔧 Topics: Deep RL, trading agents, strategy optimization, backtesting
+  - 🚀 Production-ready: Used in real trading applications
+  - 📚 Documentation: Extensive with tutorials and examples
+  - [Tags: advanced reinforcement-learning trading github open-source finrl deep-rl 2024]
+
+- [QuantLib - Free Quantitative Finance Library](https://www.quantlib.org/) – Production-ready, mature C++ open-source library for quantitative finance. Used extensively in investment banks and hedge funds worldwide. Covers derivatives pricing, trading systems, risk management, fixed income calculations, and financial instruments. Comprehensive documentation, multiple language bindings (Python, Java, C#), and active community. Modified BSD license suitable for proprietary applications. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub (modified BSD license)
+  - 🏛️ Authority: QuantLib development team (industry standard)
+  - 💻 Languages: C++ with Python, Java, C# bindings
+  - 🔧 Topics: Derivatives pricing, financial instruments, risk metrics, fixed income
+  - 💼 Used by: Investment banks, hedge funds, financial institutions
+  - 📄 Documentation: Extensive with tutorials and examples
+  - [Tags: advanced quantlib derivatives pricing open-source library cpp python 2024]
 
 - [FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning (ACL 2025)](https://aclanthology.org/2025.findings-acl.716/) – Cutting-edge research on integrating Large Language Models with reinforcement learning for financial trading. Proposes FLAG-Trader framework that uses LLMs as policy networks with gradient-based RL optimization for trading rewards. Demonstrates how LLMs can be fine-tuned for multi-step financial decision-making. Published at ACL 2025 conference. (🔴 Advanced)
   - 📖 Access: Free on ACL Anthology (PDF available)
@@ -159,23 +187,6 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 🌟 Highlights: Skill evolution, AI-human collaboration, risk considerations
   - [Tags: advanced fintech workspace-ai agentic-trading platforms 2025 market-trends]
 
-- [QuantLib - Free Quantitative Finance Library](https://www.quantlib.org/) – Production-ready, mature C++ open-source library for quantitative finance. Used extensively in investment banks and hedge funds worldwide. Covers derivatives pricing, trading systems, risk management, and fixed income calculations. Comprehensive documentation, multiple language bindings (Python, Java, C#), and active community. Modified BSD license suitable for proprietary applications. (🔴 Advanced)
-  - 📖 Access: Fully open on GitHub (modified BSD license)
-  - 🏛️ Authority: QuantLib development team (industry standard)
-  - 💻 Languages: C++ with Python, Java, C# bindings
-  - 🔧 Topics: Derivatives pricing, financial instruments, risk metrics
-  - 💼 Used by: Investment banks, hedge funds, financial institutions
-  - 📄 Documentation: Extensive with tutorials
-  - [Tags: advanced quantlib derivatives pricing open-source library cpp python 2024]
-
-- [FinRL: Deep Reinforcement Learning Framework (Open-Source GitHub)](https://github.com/AI4Finance-Foundation/FinRL) – Production-ready open-source framework for applying deep reinforcement learning to quantitative trading. Simplifies building RL-based trading agents with easy-to-use Python API. Comprehensive documentation, multiple pre-built trading environments (Gym-style), pre-trained models, and active community. MIT licensed. (🔴 Advanced)
-  - 📖 Access: Fully open on GitHub (MIT License)
-  - 💻 Language: Python with TensorFlow/PyTorch backends
-  - 🔧 Topics: Deep RL, trading agents, strategy optimization, backtesting
-  - 🚀 Production-ready: Used in real trading applications
-  - 📚 Documentation: Extensive with tutorials and examples
-  - [Tags: advanced reinforcement-learning trading github open-source finrl deep-rl 2024]
-
 - [Deep Learning for Financial Time Series (Advanced Tutorials)](https://github.com/topics/financial-time-series-prediction) – Collection of advanced resources covering deep learning approaches (LSTM, GRU, Transformers, attention mechanisms) for financial time series prediction. Includes research papers, GitHub implementations, and theoretical foundations. For practitioners building sophisticated trading models. (🔴 Advanced)
   - 📖 Access: Open-source implementations on GitHub
   - 💻 Tools: TensorFlow, PyTorch, JAX
@@ -189,24 +200,6 @@ AI for Finance revolutionizes how we analyze markets, manage portfolios, assess 
   - 📊 Dataset: Blockchain-integrated financial data
   - 📄 Reproducible: Full methodology and code
   - [Tags: advanced fintech blockchain machine-learning lstm arxiv research 2024]
-
-- [Portfolio Optimization & Risk Management (Mathematical Finance Foundations)](https://quantra.quantinsti.com/learning-track/guide-quantitative-trading-beginners) – Advanced course covering modern portfolio theory, capital asset pricing model (CAPM), efficient frontier, Value at Risk (VaR), and risk management frameworks. Understand mathematical foundations of portfolio optimization and risk metrics used by institutional investors. (🔴 Advanced)
-  - 📖 Access: Free with institutional resources
-  - 🔧 Topics: CAPM, efficient frontier, VaR, Sharpe ratio
-  - 📚 Mathematical rigor and theoretical foundations
-  - [Tags: advanced portfolio-optimization risk-management capm mathematical-finance quantinsti]
-
-- [Backtesting Strategies with Python (Practical Implementation)](https://www.youtube.com/watch?v=9Y3yaoi9rUQ) – Advanced techniques for properly backtesting trading strategies including walk-forward testing, out-of-sample validation, and avoiding look-ahead bias. Learn libraries like Backtrader and Zipline for robust simulation of trading strategies with historical data. (🔴 Advanced)
-  - 📖 Access: Free tutorials and open-source tools
-  - 💻 Tools: Backtrader, Zipline, QuantConnect
-  - 🔧 Topics: Backtesting methodology, validation, optimization pitfalls
-  - [Tags: advanced backtesting python trading-strategy validation methodology]
-
-- [Deep Reinforcement Learning for Quantitative Trading (arXiv)](https://arxiv.org/pdf/2312.15730.pdf) – Research paper on applying deep reinforcement learning to quantitative trading. Covers advanced RL algorithms, financial environments, reward shaping for trading, and empirical validation. Theoretical foundations with practical implementation guidance. (🔴 Advanced)
-  - 📖 Access: Free on arXiv (PDF)
-  - 🔬 Topics: Deep RL, temporal difference learning, policy optimization
-  - 📊 Empirical results on trading tasks
-  - [Tags: advanced reinforcement-learning trading arxiv research 2023]
 
 - [Automate Strategy Finding with LLM in Quant Investment (arXiv 2025)](https://arxiv.org/html/2409.06289) – Cutting-edge 2025 research on using LLMs to automatically generate quantitative trading strategies. Demonstrates multi-agent architecture with LLM-generated alphas achieving superior trading performance and stability. Novel approach to strategy generation and optimization using advanced language models. (🔴 Advanced)
   - 📖 Access: Free on arXiv
@@ -309,6 +302,6 @@ Found a great free AI for finance resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 4, 2026 | **Total Resources:** 22+ (Courses: 20 + Tools: 2+)
+**Last Updated:** January 16, 2026 | **Total Resources:** 27+ (Courses: 25+ | Tools: 2+)
 
 **Keywords:** ai-finance, algorithmic-trading, fintech, quantitative-finance, machine-learning-finance, stock-prediction, portfolio-optimization, risk-management, fraud-detection, trading-bot, financial-ml, backtesting, sentiment-analysis-finance, deep-learning-finance, lstm, python-finance, llm-trading, agentic-ai, reinforcement-learning-trading, financial-workspace-ai, workspace-platforms, trading-agents, generative-ai-finance, multimodal-finance, coursera, quantinsti, youtube, quantlib, finrl, edhec, cfte, acl, arxiv, 2025
