@@ -96,7 +96,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 
 - [LinkedIn Learning: Recommendation Systems - Practical Hands-On Introduction](https://www.linkedin.com/learning/recommendation-systems-a-practical-hands-on-introduction) – Practical guide by Miguel González-Fierro teaching how to build and deploy recommendation systems. Covers collaborative filtering, content-based filtering, evaluation metrics, and real-world deployment and testing considerations. Learn best practices for building production recommendation systems. (🟡 Intermediate)
   - 📖 Access: Free (LinkedIn Learning Premium optional)
-  - 👩‍🎫 Instructor: Miguel González-Fierro
+  - 👩‍🎓 Instructor: Miguel González-Fierro
   - 🛠️ Hands-on: Yes (practical examples)
   - 🔧 Topics: Collaborative filtering, evaluation, deployment, testing
   - 💼 Real-world best practices
@@ -199,7 +199,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - [RecSys 2025 Tutorials: Agentic Recommender Systems Powered by LLMs](https://recsys.acm.org/recsys25/tutorials/) – Cutting-edge tutorial from RecSys 2025 conference on agentic recommender systems powered by Large Language Models. Covers core agentic capabilities: context interpretation via chain-of-thought prompting, dynamic memory for sequential profile updates, and policy-driven action selection. Includes practical design of modular system components integrating LLM-based reasoning with user modeling. Addresses challenges: explainability, bias mitigation, safety, and lifelong personalization. Real-world case studies from industrial RecSys teams with open-source framework insights. (🔴 Advanced)
   - 📖 Access: Free conference resources and tutorials
   - 🏛️ Authority: RecSys 2025 (top conference on recommender systems)
-  - 🤬 Topics: Agentic AI, LLM reasoning, chain-of-thought, dynamic memory, policy-driven decisions
+  - 🤖 Topics: Agentic AI, LLM reasoning, chain-of-thought, dynamic memory, policy-driven decisions
   - 🛠️ Hands-on: Yes, with real-world case studies and design patterns
   - 📄 Practical implementation strategies for production systems
   - 🔬 Advanced: Explainability, bias, safety, lifelong learning
@@ -217,7 +217,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - [Recent Advances in Generative Conversational Recommender Systems (RecSys 2025)](https://recsys.acm.org/recsys25/tutorials/) – Cutting-edge tutorial covering the latest advances in generative and conversational approaches to recommender systems. Explores how large language models enable dynamic, multi-step recommendation workflows beyond conventional one-shot approaches. Topics include conversational recommendation, context-aware autonomy, evaluation frameworks, user behavior simulation, and explanation generation. Targets researchers and industry engineers with ML background seeking to implement next-generation agentic recommenders. (🔴 Advanced)
   - 📖 Access: Free conference resources
   - 🏛️ Authority: RecSys 2025 (top recommender systems conference)
-  - 🤬 Topics: Generative AI, conversational recommendation, LLM integration, multi-step workflows
+  - 🤖 Topics: Generative AI, conversational recommendation, LLM integration, multi-step workflows
   - 📄 Advanced: Multi-agent architectures, evaluation metrics, user simulation
   - 🔧 Emerging directions in agentic recommenders
   - [Tags: advanced generative-ai conversational-recommenders llm multi-agent recsys dialogue-systems 2025]
@@ -301,6 +301,6 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 4, 2026 | **Total Resources:** 23+ (Courses: 19 + Frameworks: 2 + Surveys: 2)
+**Last Updated:** January 16, 2026 | **Total Resources:** 28+ (Courses: 22 + Frameworks: 4 + Surveys: 2)
 
 **Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, agentic-recommenders, llm-recommenders, conversational-recommendation, generative-ai-recommenders, chain-of-thought, memory-systems, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, recsys, 2025
