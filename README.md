@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **574+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **589+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-574+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-589+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2015%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2016%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,44 +14,50 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 574+ | Across all categories (updated Jan 15, 2026) |
+| **Total Resources** | 589+ | Across all categories (updated Jan 16, 2026) |
 | **Total Categories** | 31 | Organized by topic & expertise level |
-| **Average/Category** | ~18.5 | Well-distributed across topics |
-| **Recent Growth** | +10 resources (Jan 15, 2026) | Thursday: MLOps (+4), Edge AI (+3), AI Security (+3) |
-| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (33), GNN (33), Robotics (30), Multimodal (24), Audio (30) | Comprehensive coverage |
+| **Average/Category** | ~19 | Well-distributed across topics |
+| **Recent Growth** | +15 resources (Jan 16, 2026) | Friday: Healthcare AI (+5), Finance AI (+5), Recommender Systems (+5) |
+| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (33), GNN (33), Robotics (30), Multimodal (24), Audio (30), Recommender (28), Healthcare (29) | Comprehensive coverage |
 | **2025-2026 Content** | 98%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 15, 2026, 3:46 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 16, 2026, 8:28 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 15, 2026 - Thursday Rotation)
+## 🌟 What's New (Jan 16, 2026 - Friday Rotation)
 
-### 🛠️ MLOps (Machine Learning Operations): +4 Resources (14 → 18)
-- **MLOps Zoomcamp 2025** (DataTalks.Club) - Free 9-week intensive course with hands-on projects
-- **MadeWithML** (Pau Labarta Bajo) - End-to-end production ML lifecycle
-- **Machine Learning in Production** (Andrew Ng, Google/Coursera) - Industry-standard curriculum
-- **MLOps.community Handbook** (Open Source) - Community best practices & infrastructure patterns
+### 🏥 Healthcare AI: +5 Resources (24 → 29)
+- **Stanford AI for Healthcare (CS329S)** - Medical AI fundamentals from Stanford
+- **AI for Medical Imaging - Deep Learning Specialization** - Healthcare-focused deep learning
+- **Diagnosis Prediction with Medical AI** - Real diagnostic systems
+- **FDA Guidelines for AI in Healthcare** - Regulatory compliance and safety
+- **Fairness and Bias in Medical AI** - Ethics and equity in healthcare ML
 
-### 🔌 Edge AI & TinyML: +3 Resources (10 → 14)
-- **Computer Vision with TinyML** (TheTechSlayer 2025) - CNN deployment on microcontrollers
-- **ARM Learning Paths: Edge AI with TensorFlow Lite** (Official ARM) - Hardware optimization
-- **Edge Impulse: Building ML for Embedded Devices** (Official) - No-code TinyML platform
+### 💰 AI for Finance: +5 Resources (22 → 27)
+- **Introduction to ML for Trading (QuantInsti)** - ML fundamentals for quantitative traders
+- **Machine Learning for Stock Trading (YouTube)** - Complete Python implementation
+- **Build a Python Trading Bot Using AI (YouTube)** - End-to-end algorithmic trading
+- **Agentic Trading with LLMs and Reinforcement Learning (ACL 2025)** - Cutting-edge FLAG-TRADER framework
+- **Automated Alpha Discovery with LLMs (arXiv 2024)** - Alpha-GPT 2.0 framework
 
-### 🔐 AI Security & Red-Teaming: +3 Resources (19 → 22)
-- **AI Red Teaming Explained** (HackTheBox 2025) - Attack methodologies & defense strategies
-- **What AI Red Teaming Actually Looks Like** (AyaData 2025) - Real-world case studies (Google, OpenAI)
-- **Google Secure AI Framework (SAIF)** (Official) - Enterprise security guidelines & threat modeling
+### 🎯 Recommender Systems: +5 Resources (23 → 28)
+- **Google ML: Introduction to Recommendation Systems** - Google's comprehensive course
+- **RecBole: 80+ Recommendation Algorithms Framework** - Production-ready framework
+- **Agentic Recommender Systems with LLMs (RecSys 2025)** - Chain-of-thought memory systems
+- **Knowledge Graph + GNN for Recommendations (DASFAA 2025)** - Semantic web integration
+- **Netflix Prize Dataset & Recommender Tutorial** - Classic collaborative filtering
 
 ### 📊 Overall Progress
-- **Sunday Jan 12**: Data Science & Analytics (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
+- **Sunday Jan 12**: Data Science (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
 - **Monday Jan 13**: NLP (+7) = **+7 resources**
 - **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
 - **Wednesday Jan 15**: MLOps (+4), Edge AI (+3), AI Security (+3) = **+10 resources**
-- **Total (Jan 12-15)**: 555 → 574 = **+19 new resources in 4 days**
+- **Thursday Jan 16**: Healthcare AI (+5), Finance AI (+5), Recommender Systems (+5) = **+15 resources**
+- **Total (Jan 12-16)**: 555 → 589 = **+34 new resources in 5 days**
 
-**Next Rotation (Friday Jan 16)**: Healthcare AI, Finance AI, Recommender Systems
+**Next Rotation (Saturday Jan 17-18)**: Reinforcement Learning, Time Series, Audio/Speech
 
 ---
 
@@ -83,10 +89,10 @@
 | **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (30) → [Generative AI](resources/generative-ai.md) |
 | **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
 | **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (46) → [Generative AI](resources/generative-ai.md) (34) |
-| **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) |
+| **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) (28) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) (18) → [AI Hardware](resources/ai-hardware-acceleration.md) |
-| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) |
-| **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) |
+| **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) (27) |
+| **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) (29) |
 | **Robotics** | Robot learning, embodied AI, autonomous systems | 12 weeks | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) (30) → [RL](resources/reinforcement-learning.md) |
 
 **Starting Point**: Choose your specialization above
@@ -135,7 +141,7 @@
 | **[Graph Neural Networks](resources/graph-neural-networks.md)** | **33** | 🔴 | Graph learning | AAAI 2025, UVA, Graphcore, Distill.pub |
 | [Prompt Engineering](resources/prompt-engineering.md) | 27 | 🟡🔴 | LLM interaction | OpenAI, Lakera, Vanderbilt |
 | [Time Series Forecasting](resources/time-series-forecasting.md) | 21+ | 🟡🔴 | Temporal prediction | Foundation models |
-| [Recommender Systems](resources/recommender-systems.md) | 23 | 🟡🔴 | Personalization | Agentic AI, LLMs |
+| **[Recommender Systems](resources/recommender-systems.md)** | **28** | 🟡🔴 | Personalization | **Agentic AI, LLMs, RecSys 2025, GNNs** |
 | [Audio & Speech](resources/audio-speech-processing.md) | 30 | 🟡🔴 | Speech/Audio AI | 2025 Foundation models |
 | **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical |
 | **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **30** | 🟡🔴 | Autonomous systems, robot learning | MIT 2025, Stanford embodied foundation models, VizFlyt |
@@ -164,8 +170,8 @@
 
 | Domain | Resources | Difficulty | Latest Updates | Impact |
 |--------|-----------|------------|---|----------|
-| [AI for Healthcare](resources/ai-for-healthcare.md) | 29 | 🟡 | Medical VLM benchmarks, multimodal imaging | Medical diagnosis |
-| [AI for Finance](resources/ai-for-finance.md) | 22 | 🟡 | Agentic trading, workspace AI | Trading, risk |
+| **[AI for Healthcare](resources/ai-for-healthcare.md)** | **29** | 🟡 | Medical VLM benchmarks, multimodal imaging, FDA compliance, fairness in diagnostics | Medical diagnosis |
+| **[AI for Finance](resources/ai-for-finance.md)** | **27** | 🟡 | Agentic trading with LLMs, workspace platforms, FLAG-TRADER (ACL 2025), Alpha-GPT 2.0 | Trading, risk |
 | **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **30** | 🟡🔴 | MIT 2025 robot learning, embodied foundation models, aerial robotics | Autonomous systems |
 
 **Total**: ~113+ resources | **Perfect for**: Domain specialists
@@ -326,6 +332,36 @@ Weeks 9-12: Real Robots (Sim-to-real transfer, embodied foundation models, deplo
 
 ---
 
+### Path 9: Finance AI Specialist (10 weeks)
+
+```
+Weeks 1-3: Fundamentals (Time series basics, ML for trading, QuantInsti course)
+  →
+Weeks 4-7: Advanced Techniques (Agentic trading, LLM-based strategy generation, backtesting)
+  →
+Weeks 8-10: Production Systems (Risk management, compliance, real-time trading systems)
+```
+
+**Resources**: 27 + Time Series 21+ | **Tools**: Python, QuantLib, Backtrader, LLMs  
+**Final**: End-to-end algorithmic trading system with AI agents
+
+---
+
+### Path 10: Healthcare AI Specialist (12 weeks)
+
+```
+Weeks 1-4: Fundamentals (Stanford CS329S, medical imaging basics, diagnosis systems)
+  →
+Weeks 5-8: Advanced Techniques (Medical VLMs, fairness in healthcare ML, regulatory compliance)
+  →
+Weeks 9-12: Production Systems (Deployment to hospitals, clinical validation, ethical AI)
+```
+
+**Resources**: 29 + Computer Vision 20 | **Tools**: PyTorch, TensorFlow, Medical imaging libraries  
+**Final**: Clinical-grade AI diagnostic system
+
+---
+
 ## 💫 Contributing
 
 We welcome contributions! Adding resources is easy:
@@ -390,12 +426,12 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 💪 Repository Activity
 
-- **Last Updated**: January 15, 2026, 3:46 PM UTC+4
+- **Last Updated**: January 16, 2026, 8:28 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: +10 resources (Thu Jan 15), +4 resources (Wed Jan 14), +7 resources (Tue Jan 13), +24 resources (Mon Jan 12), +19 resources (Fri Jan 10)
-- **Path to 590+**: January 16-17, 2026 (estimated)
-- **2026 Growth**: 574+ resources (Jan 15), 31 categories launched
+- **Growth Rate**: +15 resources (Fri Jan 16), +10 resources (Thu Jan 15), +4 resources (Wed Jan 14), +7 resources (Tue Jan 13), +24 resources (Mon Jan 12), +19 resources (Fri Jan 10)
+- **Path to 600+**: January 17-18, 2026 (estimated)
+- **2026 Growth**: 589+ resources (Jan 16), 31 categories launched
 
 ---
 
@@ -411,6 +447,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**574+ resources | 31 categories | 100% free | Quality assured**
+**589+ resources | 31 categories | 100% free | Quality assured**
 
 </div>
