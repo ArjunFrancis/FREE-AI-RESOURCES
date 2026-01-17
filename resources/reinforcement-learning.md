@@ -3,9 +3,9 @@ Learning through interaction with environments to optimize sequential decision-m
 
 ## 📖 Overview
 
-Reinforcement Learning (RL) is a powerful machine learning paradigm where agents learn to make sequential decisions by interacting with an environment and receiving feedback in the form of rewards. RL has enabled breakthrough applications in robotics, game playing, autonomous systems, and recommendation engines. From AlphaGo defeating world champions to training robots to perform complex manipulation tasks, reinforcement learning represents one of the most exciting frontiers in artificial intelligence.
+Reinforcement Learning (RL) is a powerful machine learning paradigm where agents learn to make sequential decisions by interacting with an environment and receiving feedback in the form of rewards. RL has enabled breakthrough applications in robotics, game playing, autonomous systems, and recommendation engines. From AlphaGo defeating world champions to training robots to perform complex manipulation tasks, reinforcement learning represents one of the most exciting frontiers in artificial intelligence. In 2025-2026, RL is increasingly integrated with Large Language Models (LLMs) for agentic systems, curriculum learning for complex task hierarchies, and meta-reinforcement learning for rapid adaptation.
 
-**Keywords:** reinforcement-learning, q-learning, policy-gradients, deep-rl, markov-decision-process, mdp, actor-critic, multi-agent-rl, openai-gym, reward-functions, temporal-difference, dqn, policy-optimization
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, 2025-2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -18,11 +18,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
 - Multi-agent reinforcement learning
 - Markov Decision Processes (MDPs)
 - Temporal Difference Learning
-- Policy optimization (PPO, TRPO)
+- Policy optimization (PPO, TRPO, SAC)
 - Exploration vs. Exploitation
 - Model-based and model-free RL
 - Curriculum learning in RL
+- Meta-reinforcement learning and few-shot adaptation
 - Imitation and learning from demonstrations
+- Goal-based and hierarchical RL
+- Robotic manipulation and control
+- RL with Large Language Models (LLMs)
 
 ---
 
@@ -137,11 +141,35 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 📖 Access: Free PDF download
   - [Tags: textbook, foundational, sutton-barto, theory, pdf, free]
 
+- [Reinforcement Learning for Business, Economics and Related Fields (BERD-NFDI 2026 Course)](https://www.berd-nfdi.de/berd-academy/reinforcement-learning-2026/) – Completely free introductory RL course designed for researchers in business, economics, and social sciences. Covers sequential decision problems, exploration-exploitation, Markov processes, dynamic programming, temporal-difference learning, and deep learning applications. Online sessions with interactive components. Applications open early 2026. (🟡 Intermediate)
+  - 📖 Access: Completely free (no prerequisites required)
+  - 🎓 Certification: Free participation
+  - 👥 Target: Business, economics, social science researchers
+  - 🛠️ Hands-on: Yes (interactive online sessions)
+  - ⏱️ Duration: 4 weeks
+  - 📊 Topics: MDPs, value iteration, policy iteration, deep learning, business applications
+  - [Tags: intermediate free-course business-economics interactive 2026]
+
+- [IBM: Deep Learning and Reinforcement Learning (edX/Coursera)](https://www.edx.org/learn/computer-science/ibm-deep-learning-and-reinforcement-learning) – Comprehensive course exploring deep learning and reinforcement learning fundamentals. Bridges transition from deep learning to RL applications, showing how CNNs and RNNs power policy learning and Q-value prediction. Project-based learning with real-world applications. (🟡 Intermediate)
+  - 📖 Access: Free audit available
+  - 🏛️ Source: IBM (edX)
+  - 🛠️ Hands-on: Yes (projects and assignments)
+  - 💻 Tools: Python, TensorFlow
+  - 🔧 Topics: Deep learning + RL integration, policy learning, Q-networks
+  - [Tags: intermediate ibm deep-learning rl-integration edx 2025]
+
 - [MathWorks Reinforcement Learning Toolbox Documentation](https://www.mathworks.com/help/reinforcement-learning/) - Official documentation for the Reinforcement Learning Toolbox in MATLAB. A great resource for those working in the MATLAB environment. (🟡 Intermediate)
   - 📖 Access: Fully open, official documentation
   - [Tags: documentation, matlab, official, toolbox, intermediate]
 
 ### 🔴 Advanced
+
+- [Cambridge Advanced Reinforcement Learning Course (L171 2025-26)](https://www.cl.cam.ac.uk/teaching/2526/L171/) – Advanced university course presenting state-of-the-art RL methods, theory, and algorithms. Covers deep RL fundamentals, policy gradients, actor-critic methods, model-based RL, exploration-exploitation, multi-agent systems, and modern advancements. Lectures notes and problem sets available free online. For researchers and advanced practitioners. (🔴 Advanced)
+  - 📖 Access: Free course materials, lecture notes
+  - 🏛️ Source: University of Cambridge
+  - 📚 Comprehensive: 10+ lectures on state-of-the-art topics
+  - 🔧 Topics: Advanced RL, deep methods, theoretical foundations
+  - [Tags: advanced cambridge university-course state-of-the-art 2025-2026]
 
 - [Introduction to Machine Learning for the Sciences (Lecture Notes & Code)](https://arxiv.org/abs/2102.04883) – Comprehensive lecture notes introducing machine learning with strong emphasis on reinforcement learning for scientific discovery and control problems. Covers MDPs, Q-learning, policy gradients, and deep RL with applications to physics simulations and optimization. Ideal for scientists and researchers using RL to solve domain-specific problems. (🔴 Advanced)
   - 📖 Access: Free on arXiv and course website
@@ -157,12 +185,60 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🔬 Content: Theory, algorithms, biological and robotic applications
   - [Tags: advanced research-paper model-free actor-critic robotics 2024]
 
-- [Curriculum Learning for Reinforcement Learning (Multiple Papers)](https://arxiv.org/abs/2410.16790) – Advanced research on curriculum learning in RL, where agents progressively tackle harder tasks. Covers theory, algorithms, and practical applications. Essential for understanding how to structure RL training for complex problems with sparse rewards. (🔴 Advanced)
+- [Curriculum Learning for Reinforcement Learning (2502.15662, arXiv 2025)](https://arxiv.org/abs/2502.15662) – Advanced research on automating curriculum learning for RL using Skill-Environment Bayesian Networks (SEBNs). Demonstrates how to automatically generate curricula to reduce training time and improve performance in target tasks. Critical for solving complex RL problems with hierarchical skill structures. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (February 2025)
+  - 📊 Format: Research paper
+  - 🎯 Topic: Automated curriculum design, skill-based learning, Bayesian networks
+  - 🔬 Applications: Complex task hierarchies, skill learning
+  - 📚 Novel: SEBNs for probabilistic curriculum generation
+  - [Tags: advanced research curriculum-learning 2025 bayesian-networks arxiv]
+
+- [Probabilistic Curriculum Learning for Goal-Based RL (2504.01459, arXiv 2025)](https://arxiv.org/abs/2504.01459) – Cutting-edge research on probabilistic curriculum learning enabling agents to progressively tackle harder goals. Covers hierarchical and curriculum RL methods that decompose complex behaviors into simpler sub-tasks. Applications to robotics, control, and multi-task learning. Essential for understanding modern goal-based RL. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (April 2025)
+  - 📊 Format: Research paper
+  - 🎯 Topics: Probabilistic curricula, goal-based hierarchies, multi-task learning
+  - 🤖 Applications: Robotics, autonomous control, complex environments
+  - 📚 Advanced: Automated goal creation and task progression
+  - [Tags: advanced curriculum-learning goal-based multi-task arxiv 2025]
+
+- [RLDG: Robotic Generalist Policy Distillation via RL (2412.09858, arXiv 2024)](https://arxiv.org/abs/2412.09858) – Advanced technique for distilling high-quality training data for generalist robotic policies using reinforcement learning. Combines foundation models with RL to improve real-world manipulation tasks. Demonstrates integration of RL with modern robotic foundation models. (🔴 Advanced)
   - 📖 Access: Free on arXiv
-  - 📊 Format: Research papers
-  - 🎯 Topic: Curriculum design, task progression
-  - 🔬 Applications: Robotics, control, complex environments
-  - [Tags: advanced research curriculum-learning sparse-rewards 2024-2025]
+  - 📊 Format: Research paper
+  - 🤖 Focus: Robotic manipulation, policy distillation, foundation models
+  - 🔬 Real-world: Precise manipulation, assembly, connector insertion
+  - 📚 Novel: RL-driven data generation for policy improvement
+  - [Tags: advanced robotics policy-distillation foundation-models arxiv 2024]
+
+- [Towards General-Purpose Model-Free RL (2501.16142, arXiv 2025)](https://arxiv.org/abs/2501.16142) – Latest research on developing unified model-free deep RL algorithms that work across diverse domains and problem settings. Addresses the challenge of algorithm generalization across benchmarks, moving beyond domain-specific tuning. Highly relevant for building robust, adaptable RL systems. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (January 2025)
+  - 📊 Format: Research paper
+  - 🔬 Topic: General-purpose RL algorithms, cross-domain adaptability
+  - 🎯 Challenge: Algorithm generalization without domain-specific tuning
+  - 📚 Implications: Foundation for universal RL systems
+  - [Tags: advanced general-purpose model-free cross-domain arxiv 2025]
+
+- [RbRL2.0: Rating-Based Reinforcement Learning (2501.07502, arXiv 2025)](https://arxiv.org/abs/2501.07502) – Novel RL approach integrating reward and policy learning by distinguishing between different reward levels (ratings). Learns from varied reward signals more effectively than conventional reward-learning methods. Improved convergence and performance demonstrated empirically. (🔴 Advanced)
+  - 📖 Access: Free on arXiv (January 2025)
+  - 📊 Format: Research paper
+  - 🎯 Innovation: Rating-based rewards, integrated reward-policy learning
+  - 📈 Results: Improved convergence, superior performance vs baselines
+  - [Tags: advanced reward-learning policy-learning rating-based arxiv 2025]
+
+- [Actively Learning Costly Reward Functions for RL (2211.13260, arXiv)](https://arxiv.org/abs/2211.13260) – Advanced research on active learning for reward function discovery in RL. Demonstrates how to efficiently learn reward functions in complex real-world environments, reducing data demands and enabling faster training. Critical for sample-efficient RL in expensive domains. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper
+  - 🔬 Topic: Active learning, reward discovery, sample efficiency
+  - 🏭 Application: Real-world environments with costly feedback
+  - 📚 Impact: Orders of magnitude faster training in complex environments
+  - [Tags: advanced active-learning reward-learning sample-efficiency arxiv 2022]
+
+- [Evolving Reinforcement Learning Algorithms (2101.03958, arXiv)](https://arxiv.org/abs/2101.03958) – Meta-learning approach for discovering RL algorithms by searching over computational graphs. Learns domain-agnostic algorithms that generalize to unseen environments. Can bootstrap from known algorithms (DQN) with interpretable improvements. Represents frontier of algorithm discovery. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper
+  - 🔬 Topic: Meta-learning, algorithm discovery, computational graphs
+  - 🎯 Achievement: Domain-agnostic learned algorithms with generalization
+  - 📚 Innovation: Automated algorithm improvement beyond human-designed baselines
+  - [Tags: advanced meta-learning algorithm-discovery arxiv 2021]
 
 - [Policy Gradients and Actor-Critics (Papers with Code)](https://paperswithcode.com/methods) – Curated research papers and implementations of policy gradient and actor-critic methods. Includes REINFORCE, PPO, TRPO, A3C, DDPG, and more. Each paper linked with open-source implementations, making it easy to understand algorithms and reproduce results. (🔴 Advanced)
   - 📖 Access: Fully open
@@ -183,10 +259,10 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
 ## 🛠️ Tools & Environments
 
 **Popular RL Libraries & Environments:**
-- **Environments:** OpenAI Gym/Gymnasium, MuJoCo, Atari Learning Environment
-- **Algorithms:** Stable Baselines3, RLlib (Ray), CleanRL, TensorFlow Agents
-- **Multi-agent:** PettingZoo, MARL frameworks
-- **Robotics:** Isaac Sim, Gazebo, PyBullet
+- **Environments:** OpenAI Gym/Gymnasium, MuJoCo, Atari Learning Environment, Brax
+- **Algorithms:** Stable Baselines3, RLlib (Ray), CleanRL, TensorFlow Agents, Acme
+- **Multi-agent:** PettingZoo, MARL frameworks, OpenSpiel
+- **Robotics:** Isaac Sim, Gazebo, PyBullet, SAPIEN, Mujoco
 - **Research:** PyTorch, JAX for implementing custom algorithms
 
 ---
@@ -202,7 +278,18 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
 **Cross-reference:**
 - [Computer Vision](./computer-vision.md) - Vision-based RL applications
 - [Robotics & Embodied AI](./robotics-embodied-ai.md) - RL for robot control and manipulation
-- [Game Development & RL](./reinforcement-learning.md) - RL for game AI
+- [Generative AI](./generative-ai.md) - RL with Large Language Models (RLHF, agentic systems)
+
+---
+
+## 🌟 Emerging Trends 2025-2026
+
+- **Meta-Reinforcement Learning**: Algorithms that learn to adapt quickly to new tasks
+- **Curriculum Learning Automation**: Intelligent task progression and hierarchy discovery
+- **RL + LLMs**: Integrating language models with RL for agentic systems and reasoning
+- **Robotic Foundation Models**: Large pre-trained models for robot manipulation and control
+- **Sample-Efficient RL**: Active learning, reward learning, and data-efficient methods
+- **Multi-Agent Systems**: Cooperative and competitive learning in complex environments
 
 ---
 
@@ -226,6 +313,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 02, 2026 | **Total Resources:** 24
+**Last Updated:** January 17, 2026 | **Total Resources:** 29
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, dqn, actor-critic, multi-agent-rl, mdp, temporal-difference, openai-gym, deepmind, hugging-face, policy-optimization, rl-algorithms, curriculum-learning, model-based-rl, imitation-learning, stanford-cs234, spinning-up, scientific-ml
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, hugging-face, deepmind, openai-spinning-up, advanced-rl, 2025-2026
