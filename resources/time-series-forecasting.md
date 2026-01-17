@@ -1,11 +1,11 @@
-# 🛋 Time Series Forecasting
+# 📋 Time Series Forecasting
 Predict future values by analyzing patterns in temporal data sequences.
 
 ## 📖 Overview
 
-Time Series Forecasting involves analyzing sequential data points ordered by time to identify patterns, trends, seasonality, and make predictions about future values. This critical skill powers applications across finance (stock prediction), operations (demand forecasting), IoT (sensor data), energy (load forecasting), healthcare (disease tracking), and more. Modern forecasting combines classical statistical models (ARIMA, exponential smoothing) with machine learning and deep learning (LSTM, Transformers) for robust, accurate predictions.
+Time Series Forecasting involves analyzing sequential data points ordered by time to identify patterns, trends, seasonality, and make predictions about future values. This critical skill powers applications across finance (stock prediction), operations (demand forecasting), IoT (sensor data), energy (load forecasting), healthcare (disease tracking), and more. Modern forecasting combines classical statistical models (ARIMA, exponential smoothing) with machine learning and deep learning (LSTM, Transformers) for robust, accurate predictions. In 2025-2026, foundation models and LLMs are revolutionizing forecasting with zero-shot capabilities and temporal reasoning.
 
-**Keywords:** time-series, forecasting, temporal-data, arima, sarima, prophet, lstm, gru, transformers, seasonality, trend-analysis, anomaly-detection, sequence-modeling, statsmodels, foundation-models, timegpt, llm-forecasting
+**Keywords:** time-series, forecasting, temporal-data, arima, sarima, prophet, lstm, gru, transformers, seasonality, trend-analysis, anomaly-detection, sequence-modeling, statsmodels, foundation-models, timegpt, llm-forecasting, deep-learning-forecasting, 2025-2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -23,7 +23,9 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
 - Anomaly detection in time series
 - Multivariate and hierarchical forecasting
 - Foundation models for time series (TimeGPT, Transformers)
-- Large Language Models for forecasting
+- Large Language Models for forecasting and temporal reasoning
+- Transformers as foundation models for time series
+- Zero-shot inference and prompt engineering for time series
 
 ---
 
@@ -121,39 +123,47 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🔧 Topics: Classical methods, global models, XGBoost, deep learning, foundation models, evaluation, multivariate forecasting
   - [Tags: advanced free-course foundation-models transformers deep-learning 2025 agentic-forecasting]
 
-- [Transformers and Time Series Foundation Models (Feb 2025)](https://arxiv.org/abs/2503.04948) – Comprehensive theoretical and empirical analysis of transformers as time series foundation models for the universal one-model-for-all-datasets paradigm. Covers approximation capabilities, generalization bounds, and explains why transformers succeed as foundation models. Includes both univariate and multivariate approaches. Research paper with theoretical proofs. (🔴 Advanced)
+- [Transformers and Time Series Foundation Models (Feb 2025, arXiv 2503.04948)](https://arxiv.org/abs/2503.04948) – Comprehensive theoretical and empirical analysis of transformers as time series foundation models for the universal one-model-for-all-datasets paradigm. Covers approximation capabilities, generalization bounds, and explains why transformers succeed as foundation models. Includes both univariate and multivariate approaches with rigorous mathematical analysis. (🔴 Advanced)
   - 📖 Access: Free on arXiv
   - 📊 Format: Academic research paper with theoretical analysis
   - 🔧 Topics: Transformer theory, foundation models, approximation, generalization, pretraining
   - 🔬 Advanced: Mathematical proofs and theoretical foundations
+  - 📚 Novel: Explains transformer success as universal time series models
   - [Tags: advanced arxiv theoretical-analysis transformers foundation-models pretraining 2025]
 
-- [LLMs as Slow-Thinking Agents for Time Series Forecasting (May 2025 - TimeReasoner)](https://arxiv.org/abs/2505.24511) – Cutting-edge research on whether slow-thinking LLMs (ChatGPT-o1, DeepSeek-R1) can reason over time series patterns with zero-shot capabilities. Proposes TimeReasoner framework formulating forecasting as structured reasoning task. Shows LLMs can capture trends and contextual shifts without training. Novel approach to leveraging advanced LLMs for temporal reasoning. (🔴 Advanced)
+- [LLMs as Slow-Thinking Agents for Time Series Forecasting (May 2025, arXiv 2505.24511 - TimeReasoner)](https://arxiv.org/abs/2505.24511) – Cutting-edge research on whether slow-thinking LLMs (ChatGPT-o1, DeepSeek-R1) can reason over time series patterns with zero-shot capabilities. Proposes TimeReasoner framework formulating forecasting as structured reasoning task. Shows LLMs can capture trends, seasonality, and contextual shifts without training data. First to study slow-thinking reasoning for temporal data. (🔴 Advanced)
   - 📖 Access: Free on arXiv
   - 📊 Format: Research paper with experimental methodology
   - 🔧 Topics: LLM reasoning, prompt engineering, zero-shot forecasting, temporal reasoning
-  - 👍 Novel: First to study slow-thinking LLMs for time series
-  - [Tags: advanced arxiv llm reasoning prompt-engineering zero-shot temporal 2025]
+  - 🇳️ Novel: TimeReasoner framework, slow-thinking LLMs for forecasting
+  - 🔬 Findings: LLMs can capture complex temporal patterns without training
+  - [Tags: advanced arxiv llm reasoning prompt-engineering zero-shot temporal timereasonser 2025]
 
-- [TimeGPT: Generative AI Model for Temporal Data (Nixtla)](https://github.com/Nixtla/nixtla) – First production-ready generative pretrained transformer for time series trained on 100+ billion data points across 15+ domains (finance, energy, healthcare, weather, IoT, sales). Zero-shot inference with no prior training required. Fine-tuning available. Deployed across 50+ companies. Open-source Python library with simple 3-line API. (🔴 Advanced)
+- [TimeGPT: Generative AI Model for Temporal Data (Nixtla)](https://github.com/Nixtla/nixtla) – First production-ready generative pretrained transformer for time series trained on 100+ billion data points across 15+ domains (finance, energy, healthcare, weather, IoT, sales). Zero-shot inference with no prior training required. Fine-tuning available. Deployed across 50+ companies worldwide. Open-source Python library with simple 3-line API. (🔴 Advanced)
   - 📖 Access: Fully open, free on GitHub
   - 🏛️ Authority: Nixtla (specialized time series company)
   - 💻 Tools: Python, simple API, integrations with OpenBB, H2O, MindsDB
-  - 🔧 Topics: Foundation models, zero-shot inference, fine-tuning, anomaly detection
-  - ⭐ Production-ready: Used by 50+ companies globally
-  - [Tags: advanced github foundation-models zero-shot timegpt nixtla open-source 2025]
+  - 🔧 Topics: Foundation models, zero-shot inference, fine-tuning, anomaly detection, forecasting
+  - ⭐ Production-ready: Used by 50+ companies globally, 100B data points training
+  - [Tags: advanced github foundation-models zero-shot timegpt nixtla open-source production 2025]
 
-- [Flow Forecast: Time Series Forecasting Library Built in PyTorch](https://github.com/AIStream-Peelisha/flow-forecast) – Advanced PyTorch-based time series forecasting library supporting multiple architectures (Transformers, LSTMs, GRUs, attention mechanisms). Includes tools for data preprocessing, model training, evaluation, and inference. Great for building custom deep learning forecasting models. Active development and community. (🔴 Advanced)
+- [Flow Forecast: Time Series Forecasting Library Built in PyTorch](https://github.com/AIStream-Peelisha/flow-forecast) – Advanced PyTorch-based time series forecasting library supporting multiple architectures (Transformers, LSTMs, GRUs, attention mechanisms, N-BEATS). Includes tools for data preprocessing, model training, evaluation, and inference. Great for building custom deep learning forecasting models. Active development and community. (🔴 Advanced)
   - 📖 Access: Fully open on GitHub
   - 🛠️ Hands-on: Yes (Python implementation)
   - 💻 Tools: PyTorch, Python
-  - 🔧 Topics: Multiple architectures, custom models, preprocessing pipelines
+  - 🔧 Topics: Multiple architectures, custom models, preprocessing pipelines, neural forecasting
   - [Tags: advanced github pytorch time-series deep-learning library implementation 2024-2025]
 
-- [Guide to Time-Series Analysis in Python (Advanced Sections – Tiger Data)](https://www.tigerdata.com/learn/how-to-work-with-time-series-in-python) – Advanced sections cover building robust ARIMA models, handling exogenous variables, and multi-step forecasting with Python. Good bridge from basic ARIMA to more complex scenarios. (🔴 Advanced)
+- [Guide to Time-Series Analysis in Python (Advanced Sections – Tiger Data)](https://www.tigerdata.com/learn/how-to-work-with-time-series-in-python) – Advanced sections cover building robust ARIMA models, handling exogenous variables, and multi-step forecasting with Python. Good bridge from basic ARIMA to more complex scenarios with real-world considerations. (🔴 Advanced)
   - 📖 Access: Fully open
-  - 🔧 Topics: ARIMA with exogenous features, longer-horizon forecasts
-  - [Tags: advanced arima exogenous-features python forecasting 2025]
+  - 🔧 Topics: ARIMA with exogenous features, longer-horizon forecasts, validation strategies
+  - [Tags: advanced arima exogenous-features python forecasting multivariate 2025]
+
+- [Cross-Learning for Time Series Forecasting (Google Research, arxiv:2310.03581)](https://arxiv.org/abs/2310.03581) – Advanced research on learning across multiple time series (global models) using modern neural architectures. Explains why transformers work well as foundation models across diverse time series. Addresses zero-shot and few-shot transfer learning for forecasting. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper
+  - 🔧 Topics: Global models, cross-series learning, transfer learning, transformers
+  - [Tags: advanced arxiv google-research transformers cross-learning foundation-models 2023-2024]
 
 ---
 
@@ -172,6 +182,7 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - **PyTorch Forecasting** – Neural forecasting library with modern architectures
   - **Flow Forecast** – Flexible PyTorch-based forecasting library
   - **TimeGPT (Nixtla)** – Foundation model for time series (production-ready)
+  - **NeuralForecast (Nixtla)** – PyTorch-based neural forecasting library
 
 - **Databases & Infrastructure:**
   - InfluxDB, TimescaleDB, Prometheus, OpenTSDB – Time series databases for large-scale data
@@ -188,7 +199,7 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
 - [Data Science & Analytics](./data-science-analytics.md) – Statistical foundations for time series
 - [Deep Learning & Neural Networks](./deep-learning-neural-networks.md) – LSTM, GRU, Transformers for sequences
 - [Mathematics for AI](./mathematics-for-ai.md) – Statistical concepts behind forecasting
-- [Generative AI](./generative-ai.md) – Foundation models like TimeGPT
+- [Generative AI](./generative-ai.md) – Foundation models like TimeGPT, LLM reasoning
 
 **Cross-reference:**
 - [Machine Learning Fundamentals](./machine-learning-fundamentals.md) – Regression and evaluation metrics
@@ -200,6 +211,18 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
 - Basic statistics (mean, variance, correlation)
 - Understanding of data visualization
 - (Intermediate+) Familiarity with pandas and NumPy
+
+---
+
+## 🐟 Emerging Trends 2025-2026
+
+- **Foundation Models for Time Series**: TimeGPT and transformers as universal models trained on massive time series corpora
+- **LLM Reasoning for Forecasting**: Using slow-thinking LLMs (ChatGPT-o1, DeepSeek-R1) for structured temporal reasoning
+- **Zero-Shot Inference**: Pre-trained models forecasting without domain-specific training
+- **Cross-Learning**: Global models learning across diverse time series domains
+- **Agentic Forecasting**: Autonomous forecasting systems with reasoning and planning
+- **Temporal Reasoning**: Moving beyond statistical patterns to causal and semantic understanding
+- **Multimodal Time Series**: Combining numeric data with textual context and external knowledge
 
 ---
 
@@ -223,6 +246,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 02, 2026 | **Total Resources:** 21+ (Courses: 19 + Tools: 2 + Reference)
+**Last Updated:** January 17, 2026 | **Total Resources:** 26 (Courses: 23 + Tools: 3 + Advanced Research)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, 2025-advanced
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, 2025-2026
