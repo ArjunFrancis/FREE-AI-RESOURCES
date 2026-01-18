@@ -27,6 +27,14 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
 
 ### 🟢 Beginner-Friendly
 
+- **[Best Beginner Machine Learning Courses & Certificates (Coursera 2026)](https://www.coursera.org/courses?query=machine+learning&productDifficultyLevel=Beginner)** 🟢 Beginner — Comprehensive collection of beginner-friendly ML courses from top universities and companies (Google, DeepLearning.AI, Stanford). Covers data preprocessing, supervised/unsupervised learning, model evaluation, prompt engineering for LLMs, RAG, generative AI, and algorithm implementation. Free to audit with optional paid certificates. Perfect starting point for 2026 learners.
+  - 📖 Access: Free to audit (certificates paid)
+  - 🏛️ Authority: Coursera (Google, DeepLearning.AI, Stanford, etc.)
+  - 🛠️ Hands-on: Yes (Python, PyTorch, Keras, LangChain)
+  - 🎯 Topics: Supervised/unsupervised learning, prompt engineering, generative AI, LLMs, RAG, model evaluation
+  - ⏱️ Duration: 1-3 months per course (self-paced)
+  - [Tags: beginner coursera 2026 supervised-learning unsupervised-learning prompt-engineering generative-ai llms]
+
 - **[Machine Learning by Stanford University - Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)** 🟢 Beginner — Legendary foundational course covering algorithms, theory, and practical intuition. The definitive starting point for machine learning with over 5 million learners worldwide.
   - 📖 Access: Free audit available (certificate optional paid)
   - 🏛️ Authority: Andrew Ng, Stanford University
@@ -108,7 +116,19 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
   - 🎯 Topics: Supervised learning, unsupervised learning, reinforcement learning, model evaluation, algorithms
   - [Tags: intermediate geeksforgeeks tutorial ml-algorithms supervised-unsupervised code-examples 2025]
 
+- **[Machine Learning: Algorithms, Models, and Applications (arXiv 2022)](https://arxiv.org/pdf/2201.01943.pdf)** 🟡 Intermediate — Comprehensive research review covering recent ML developments across reinforcement learning, NLP, computer vision, speech processing, and emotional understanding. Includes innovative applications in stock trading, medical/healthcare systems, and software automation. Perfect for understanding real-world ML implementations and emerging use cases in deep learning and AI.
+  - 📖 Access: Free PDF (arXiv)
+  - 🔬 Research: Overview of ML systems and applications
+  - 🎯 Topics: RL, NLP, computer vision, speech, applications, deep learning use cases
+  - [Tags: intermediate arxiv research-review ml-algorithms applications deep-learning 2022]
+
 ### 🔴 Advanced
+
+- **[Information-Theoretic Foundations for Machine Learning (arXiv 2024)](https://arxiv.org/pdf/2407.12288.pdf)** 🔴 Advanced — Cutting-edge theoretical framework for ML rooted in Bayesian statistics and Shannon's information theory. Characterizes optimal Bayesian learner performance and fundamental limits of information across i.i.d., sequential, and various data settings. Deep mathematical treatment unifying analysis of ML phenomena with very general theoretical results and specific insights.
+  - 📖 Access: Free PDF (arXiv)
+  - 🔬 Research: Theoretical foundations, information theory
+  - 🎯 Topics: Bayesian statistics, Shannon information theory, learning theory, optimal performance bounds
+  - [Tags: advanced arxiv information-theory bayesian-statistics learning-theory theoretical-ml 2024]
 
 - **[Pattern Recognition and Machine Learning - Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)** 🔴 Advanced — Comprehensive textbook covering Bayesian methods, graphical models, and advanced ML theory. The definitive graduate-level textbook for mathematical foundations.
   - 📖 Access: Fully free (PDF)
@@ -167,6 +187,6 @@ Found a great free machine learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 12, 2026 | **Total Resources:** 13 (+3 new)
+**Last Updated:** January 18, 2026 | **Total Resources:** 16 (+3 new)
 
-**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle, simplilearn, geeksforgeeks, 365datascience, reinforcement-learning
+**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle, simplilearn, geeksforgeeks, 365datascience, reinforcement-learning, coursera, arxiv, information-theory, bayesian-statistics, 2026, 2024, 2022
