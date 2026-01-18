@@ -25,6 +25,7 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 - Probability engineering and randomness modeling
 - Statistical foundations of deep learning
 - Bayesian inference and variational methods
+- Meta-statistical learning and distribution-level inference
 
 ---
 
@@ -82,6 +83,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🌟 Vision: Unified statistics-AI future
   - [Tags: advanced statistics ai-era causal-inference bayesian robustness arxiv 2024]
 
+- [Meta-Statistical Learning: Supervised Learning of Statistical Inference (arXiv Feb 2025)](https://arxiv.org/pdf/2502.12088.pdf) **(Advanced)** ⭐ **FEBRUARY 2025** - Cutting-edge research demonstrating how LLM principles can tackle distribution-level tasks (parameter estimation, hypothesis testing, mutual information estimation) rather than individual datapoint predictions. Proposes meta-statistical learning framework inspired by multi-instance learning, enabling supervised learning for statistical inference problems. Bridges deep learning and classical statistics.
+  - 📖 Access: Free PDF (arXiv)
+  - 🔬 Novel: Meta-statistical learning framework for distribution-level inference
+  - 📝 Topics: Statistical inference, parameter estimation, hypothesis testing, mutual information, distribution-level learning
+  - 🧠 Innovation: Applying LLM tools to statistics
+  - [Tags: advanced meta-learning statistical-inference llm-principles distribution-learning arxiv 2025]
+
 ---
 
 ## 🎓 Courses & Video Lectures
@@ -131,6 +139,21 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - [Tags: beginner intermediate calculus interactive visual-learning optimization 2025]
 
 ### 🟡 Intermediate
+
+- [Math for AI: Linear Algebra, Calculus & Optimization Guide (GUVI 2025)](https://www.guvi.in/blog/math-for-ai-linear-algebra-calculus-optimization-guide/) **(Intermediate)** - Comprehensive 2025 guide connecting mathematical foundations directly to AI applications. Covers linear algebra for neural networks (vectors, matrices, transformations, eigenvalues), calculus for optimization (derivatives, gradients, backpropagation), probability & statistics (distributions, Bayesian methods), and optimization algorithms (gradient descent, regularization). Each concept linked to real ML use cases with practical examples.
+  - 📖 Access: Fully free online guide
+  - 🏛️ Authority: GUVI (Intel-certified education platform)
+  - 🎯 Topics: Linear algebra, calculus, optimization, probability, statistics, matrix operations, gradient descent
+  - 🔗 Applications: Neural networks, deep learning, model optimization
+  - [Tags: intermediate guide 2025 linear-algebra calculus optimization ml-applications practical guvi]
+
+- [AI and Machine Learning Certificate Program (UT Austin Online)](https://onlineexeced.mccombs.utexas.edu/online-ai-machine-learning-course) **(Intermediate to Advanced)** - Professional certificate program covering Python foundations, statistical learning, machine learning algorithms (supervised/unsupervised), deep learning, computer vision, NLP, and recommendation systems. Includes mathematical foundations (linear algebra, calculus, statistics) with hands-on implementation using NumPy, Pandas, TensorFlow, Keras. Self-paced modules with multimodal generative AI component.
+  - 📖 Access: Paid program (check for free modules/trials)
+  - 🏛️ Authority: University of Texas at Austin (McCombs School of Business)
+  - 🎯 Topics: Python, statistics, ML algorithms, deep learning, CNNs, NLP, recommendation systems, SQL
+  - 📄 Certificate: Professional certificate from UT Austin
+  - ⚠️ Note: Primarily paid, but foundational modules may have free access
+  - [Tags: intermediate advanced ut-austin ml-certificate python tensorflow deep-learning 2024]
 
 - [Mathematics for Machine Learning and Data Science Specialization (DeepLearning.AI)](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) **(Beginner to Intermediate)** - Beginner-friendly 3-course specialization by DeepLearning.AI covering calculus, linear algebra, statistics, and probability essentials for ML. Topics include systems of linear equations, eigenvalues/eigenvectors, PCA, Bayesian statistics, maximum likelihood estimation, and hypothesis testing with ML motivations throughout. Created by Andrew Ng's team.
   - 📖 Access: Free audit available on Coursera (certificate paid)
@@ -191,11 +214,11 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - 🛠️ Hands-on: Yes (with interactive exercises)
   - [Tags: intermediate probability-theory random-variables monte-carlo simulation interactive 2025]
 
-- [Statistics for Data Science & Machine Learning (YouTube)](https://www.youtube.com/watch?v=tcusIOfI_GM) **(Intermediate)** - Free comprehensive YouTube video covering essential statistics concepts for data science: categorical/numerical data, distributions, mean/median/mode, variance/standard deviation, correlation/covariance, probability distributions, normal distribution, central limit theorem, confidence intervals, t-tests, and hypothesis testing (70+ minutes).
+- [Statistics for Data Science & Machine Learning (YouTube)](https://www.youtube.com/watch?v=tcusIOfI_GM) **(Intermediate)** - Free comprehensive YouTube video (70+ minutes) covering essential statistics concepts for data science: categorical/numerical data, distributions, mean/median/mode, variance/standard deviation, correlation/covariance, probability distributions, normal distribution, central limit theorem, confidence intervals, t-tests, and hypothesis testing. Perfect quick reference for ML practitioners.
   - 📖 Access: Free on YouTube
   - 📝 Duration: 70+ minutes
-  - 🎯 Topics: Descriptive statistics, hypothesis testing, confidence intervals, distributions
-  - [Tags: intermediate youtube statistics distributions hypothesis-testing 2025]
+  - 🎯 Topics: Descriptive statistics, hypothesis testing, confidence intervals, distributions, correlation
+  - [Tags: intermediate youtube statistics distributions hypothesis-testing confidence-intervals 2025]
 
 ---
 
@@ -279,6 +302,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** January 12, 2026 | **Total Resources:** 38 (+5 new 2026 resources)
+**Last Updated:** January 18, 2026 | **Total Resources:** 42 (+4 new 2026 resources)
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, 2025, pass-your-math, mit-18-05, mit-18-s096
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, meta-statistical-learning, distribution-inference, guvi, ut-austin, 2025, 2026, pass-your-math, mit-18-05, mit-18-s096, youtube-statistics
