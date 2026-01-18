@@ -27,7 +27,15 @@ Data Science and Analytics form the foundation for extracting meaningful insight
 
 ### 🟢 Beginner-Friendly
 
-- **[Data Analytics Short Course (CareerFoundry)](https://careerfoundry.com/en/tutorials/data-analytics-for-beginners/)** 🟢 Beginner - Free, five-tutorial data analytics introduction with 15-minute hands-on lessons from Dr. Humera Noor, Director of Engineering at Eyeo. Covers data analytics roles, tools, skills, and basic analysis concepts with no hidden costs. Perfect no-pressure starting point for complete beginners.
+- **[Data Science Course For Beginners 2026 FREE (Intellipaat, YouTube)](https://www.youtube.com/watch?v=th-f5qO389A)** 🟢 Beginner - Complete 2026 data science course for absolute beginners and career switchers. Comprehensive step-by-step guide covering Python fundamentals, statistics, data visualization, machine learning basics, and hands-on projects. Perfect for those starting their data science journey with zero prior experience.
+  - 📖 Access: Fully free on YouTube
+  - 🏛️ Authority: Intellipaat (professional education platform)
+  - 🛠️ Hands-on: Yes (projects and coding examples)
+  - 📈 Topics: Python, statistics, data visualization, ML basics, real-world projects
+  - ⏱️ Duration: Full course (comprehensive)
+  - [Tags: beginner 2026 data-science python statistics visualization career-switcher intellipaat youtube]
+
+- **[CareerFoundry Data Analytics Short Course](https://careerfoundry.com/en/tutorials/data-analytics-for-beginners/)** 🟢 Beginner - Free, five-tutorial data analytics introduction with 15-minute hands-on lessons from Dr. Humera Noor, Director of Engineering at Eyeo. Covers data analytics roles, tools, skills, and basic analysis concepts with no hidden costs. Perfect no-pressure starting point for complete beginners.
   - 📖 Access: Fully open, no signup required
   - 🏛️ Source: CareerFoundry
   - 📦 Instructor: Dr. Humera Noor
@@ -73,6 +81,14 @@ Data Science and Analytics form the foundation for extracting meaningful insight
   - 🎯 Topics: Python, Pandas, NumPy, visualization, data cleaning, machine learning, text classification
   - [Tags: beginner intermediate python pandas numpy visualization scikit-learn machine-learning free-course 2025]
 
+- **[Harvard Data Science Courses (Harvard Online)](https://pll.harvard.edu/subject/data-science)** 🟢 Beginner to 🟡 Intermediate - Collection of free Harvard courses covering data science fundamentals with nearly code- and math-free introduction to AI principles, building machine learning models, visualization, and Python programming. Includes "Data Science and AI Principles" for beginners and "Data Science: Building Machine Learning Models" for hands-on ML. Self-paced with optional verified certificates.
+  - 📖 Access: Free to audit (verified certificate paid)
+  - 🏛️ Authority: Harvard University (official online learning)
+  - 🎯 Topics: Data science principles, AI systems, machine learning, visualization, Python
+  - 📄 Certificate: Optional verified certificate (paid)
+  - ⏱️ Duration: Self-paced, varies by course
+  - [Tags: beginner intermediate harvard data-science machine-learning python ai-principles 2026]
+
 ### 🟡 Intermediate
 
 - **[Google Data Analytics Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)** 🟡 Intermediate - Comprehensive professional certificate teaching R, SQL, Python, Tableau, data analysis, data storytelling, and AI use. Flexible learning taking 3-6 months at your own pace. Free 7-day trial available to explore content, subscription required for full access and certificate.
@@ -104,6 +120,14 @@ Data Science and Analytics form the foundation for extracting meaningful insight
   - ⏱️ Duration: 5 hours (4 interactive projects)
   - 🎯 Topics: Data frame manipulation, filtering, string operations, merging data, statistical summarization
   - [Tags: intermediate pandas python data-analysis project-based hands-on free-course 2023]
+
+- **[Foundational Mathematics for AI (Coursera)](https://www.coursera.org/learn/foundational-mathematics-for-ai)** 🟡 Intermediate - Comprehensive introduction to mathematical principles forming the foundation of artificial intelligence and machine learning. Covers linear algebra, calculus, probability, and statistics with AI/ML context throughout. Perfect for data scientists needing mathematical foundations for advanced analytics and modeling. Free to audit.
+  - 📖 Access: Free to audit (certificate paid)
+  - 🏛️ Authority: Coursera (university partner)
+  - 🎯 Topics: Linear algebra, calculus, probability, statistics for AI/ML
+  - 📄 Certificate: Optional (paid)
+  - ⏱️ Duration: Self-paced
+  - [Tags: intermediate mathematics linear-algebra calculus probability statistics ai ml coursera 2025]
 
 ### 🔴 Advanced
 
@@ -149,11 +173,11 @@ Data Science and Analytics form the foundation for extracting meaningful insight
 
 If you're completely new to Data Science & Analytics, start with these resources in order:
 
-1. **Khan Academy: Statistics and Probability** - Build statistical foundations
-2. **Python for Data Science Handbook** - Learn Python tools (Pandas, NumPy, Matplotlib)
-3. **CareerFoundry Data Analytics Short Course** - Understand analytics workflow
-4. **Statistics & EDA Full Course (Analytics Vidhya)** - Comprehensive hands-on practice
-5. **Complete Python Pandas Data Science Tutorial** - Deep dive into Pandas
+1. **Intellipaat Data Science Course 2026** - Complete beginner-friendly introduction
+2. **Khan Academy: Statistics and Probability** - Build statistical foundations
+3. **Python for Data Science Handbook** - Learn Python tools (Pandas, NumPy, Matplotlib)
+4. **CareerFoundry Data Analytics Short Course** - Understand analytics workflow
+5. **Harvard Data Science Courses** - University-level foundations
 
 After completing the starter kit, explore SQL and advanced visualization tools.
 
@@ -179,6 +203,6 @@ Found a great free data science or analytics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 12, 2026 | **Total Resources:** 11 (+4 new)
+**Last Updated:** January 18, 2026 | **Total Resources:** 14 (+3 new)
 
-**Keywords:** data-science, data-analytics, eda, exploratory-data-analysis, statistics, sql, python, r, tableau, data-visualization, pandas, numpy, matplotlib, descriptive-statistics, hypothesis-testing, data-wrangling, business-intelligence, khan-academy, mode-sql, freecodecamp, geeksforgeeks, 2025
+**Keywords:** data-science, data-analytics, eda, exploratory-data-analysis, statistics, sql, python, r, tableau, data-visualization, pandas, numpy, matplotlib, descriptive-statistics, hypothesis-testing, data-wrangling, business-intelligence, khan-academy, mode-sql, freecodecamp, geeksforgeeks, intellipaat, harvard, coursera, foundational-mathematics-ai, 2026, 2025
