@@ -4,9 +4,9 @@ Practical tools, libraries, and frameworks for building, deploying, and scaling 
 
 ## 📖 Overview
 
-AI Tools & Frameworks provide the essential infrastructure for developing machine learning and AI applications. This includes deep learning frameworks (TensorFlow, PyTorch), traditional ML libraries (scikit-learn), specialized tools for NLP (Hugging Face), computer vision (OpenCV), AI agents (LangChain), cloud platforms, and MLOps tools for deployment and monitoring. The 2025 ecosystem features unprecedented maturity, with frameworks offering competing strengths and new MLOps approaches optimizing both development velocity and production performance.
+AI Tools & Frameworks provide the essential infrastructure for developing machine learning and AI applications. This includes deep learning frameworks (TensorFlow, PyTorch), traditional ML libraries (scikit-learn), specialized tools for NLP (Hugging Face), computer vision (OpenCV), AI agents (LangChain, CrewAI), cloud platforms, and MLOps tools for deployment and monitoring. The 2025-2026 ecosystem features unprecedented maturity, with frameworks offering competing strengths, new agent orchestration approaches, multi-LLM support, and production-ready inference optimization.
 
-**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, scikit-learn, hugging-face, langchain, ai-agents, cloud-ai, mlops-tools, open-source-ai, llm-deployment, kubernetes, 2025
+**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, scikit-learn, hugging-face, langchain, crewai, ai-agents, cloud-ai, mlops-tools, open-source-ai, llm-deployment, kubernetes, claude-api, open-interpreter, agent-frameworks, 2025, 2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -19,17 +19,32 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
 - NLP & transformer tools (Hugging Face, spaCy, NLTK)
 - Computer vision libraries (OpenCV, torchvision)
 - AI agent frameworks (LangChain, CrewAI, AutoGen)
+- LLM APIs and integrations (Claude, OpenAI, Anthropic)
 - Cloud AI platforms (Google Cloud AI, AWS AI, Azure AI)
 - MLOps & deployment tools (Kubeflow, MLflow, Ray)
 - Model serving & optimization (vLLM, Ollama, BentoML)
 - LLM deployment and inference tools
 - Framework selection and comparative analysis
+- Natural language code execution and automation
 
 ---
 
-## 🛠️ LLM Deployment & Inference Tools
+## 🛠️ LLM APIs & Integration Frameworks
 
 ### 🟢 Beginner to Intermediate
+
+- [Claude API Documentation & Guide (Anthropic 2025)](https://docs.anthropic.com/en/api/getting-started) ⭐ **2025 UPDATED** - Official comprehensive guide to Claude API covering authentication, models (Claude 3.5 Sonnet, Opus, Haiku), prompt engineering, vision capabilities, token counting, and API best practices. Learn how to integrate Claude into applications with practical examples in Python, JavaScript, and cURL. Includes cost optimization tips, error handling, and production deployment patterns. Perfect for developers building Claude-powered applications with enterprise-grade reliability.
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: Anthropic (official)
+  - 🛠️ Hands-on: Yes (code examples for multiple languages)
+  - 🎯 Best for: Integrating Claude API, LLM application development
+  - [Tags: beginner intermediate claude-api anthropic llm-integration documentation 2025]
+
+- [Open Interpreter: Let Language Models Run Code (GitHub 2025)](https://github.com/KillianLucas/open-interpreter) ⭐ **2025 FRAMEWORK** - Free open-source project enabling language models (Claude, GPT-4, Llama) to write and execute code in response to natural language commands. Run locally with full privacy, automate tasks, analyze data, create visualizations, and control your computer through conversational AI. Supports Python, JavaScript, Shell, and more with intelligent error recovery and iterative code execution.
+  - 📖 Access: Fully open-source (AGPL license)
+  - 🛠️ Best for: Natural language automation, code generation, autonomous agents
+  - 💻 Features: Local execution, multi-language support, error recovery, conversational workflow
+  - [Tags: intermediate open-interpreter code-execution automation agents llm-tools 2025]
 
 - [Ollama: Deploy and Manage Open-Source LLMs Locally](https://ollama.ai/) **(Beginner)** - Free open-source platform that simplifies deploying and running large language models locally on your machine. Supports models like Llama, Phi, Mistral, and others with complete control over data privacy. Perfect for experimenting with lightweight LLMs without cloud costs or dependencies. Available for Windows, macOS, and Linux.
   - 📖 Access: Fully open-source (MIT license)
@@ -61,6 +76,32 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
   - 🛠️ Best for: Cloud-based LLM deployment, Kubernetes orchestration, production inference
   - 📝 Features: OpenAI API compatibility, model switching, cloud deployment
   - [Tags: intermediate advanced bentoml openllm kubernetes cloud-deployment production 2025]
+
+---
+
+## 🤖 AI Agent Frameworks
+
+### 🟡 Intermediate to Advanced
+
+- [CrewAI: Multi-Agent Orchestration Framework (GitHub 2025)](https://github.com/joaomdmoura/crewai) ⭐ **2025 AGENT FRAMEWORK** - Free open-source framework for orchestrating multiple AI agents to work collaboratively on complex tasks. Define autonomous agents with specific roles, goals, and tools, then let them collaborate to solve problems. Supports hierarchical task execution, memory management, tool integration (APIs, databases), and seamless LLM switching (Claude, GPT-4, Llama, Ollama). Perfect for building multi-agent systems, autonomous research teams, and collaborative AI applications.
+  - 📖 Access: Fully open-source (MIT license)
+  - 🛠️ Hands-on: Yes (framework with examples)
+  - 🎯 Best for: Multi-agent systems, collaborative AI, complex task automation
+  - 💡 Features: Agent roles/goals, tool integration, memory, task hierarchy, LLM flexibility
+  - [Tags: intermediate advanced crewai agents orchestration collaboration automation 2025]
+
+- [LangChain: Official Documentation](https://python.langchain.com/docs/get_started/introduction) **(Intermediate)** - Comprehensive official documentation for LangChain, the leading framework for building LLM-powered applications and AI agents. Covers chains, agents, memory, callbacks, retrieval-augmented generation (RAG), integrations with 100+ LLMs and vector stores, and production deployment patterns. Essential for building sophisticated LLM applications.
+  - 📖 Access: Fully open, official documentation
+  - 🌍 Authority: LangChain (official)
+  - 🛠️ Hands-on: Yes (code examples, tutorials)
+  - 🎯 Topics: LLM apps, agents, RAG, chains, memory, integrations
+  - [Tags: intermediate langchain llm-apps agents rag documentation production 2025]
+
+- [Top 7 Free AI Agent Frameworks 2025 - Botpress](https://botpress.com/blog/ai-agent-frameworks) **(Intermediate to Advanced)** - Detailed comparison and guide to the top 7 free AI agent frameworks for building autonomous AI systems: Botpress (conversational AI platform), LangChain (LLM application framework), CrewAI (multi-agent orchestration), Microsoft Semantic Kernel (enterprise SDK), AutoGen (Microsoft's multi-agent framework), AutoGPT (autonomous GPT-4 agent), and Rasa (open-source conversational AI). Covers features, pricing models, best use cases, and implementation examples.
+  - 📖 Access: Free guide + open-source frameworks
+  - 📝 Covers: Agent orchestration, LLM apps, chatbots, autonomous systems
+  - 🎯 Best for: Building AI agents, multi-agent systems, LLM applications
+  - [Tags: intermediate advanced ai-agents langchain crewai autogen llm-apps autonomous-ai 2025]
 
 ---
 
@@ -105,6 +146,12 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
   - 🧠 Best for: Framework selection, understanding strengths/weaknesses
   - [Tags: intermediate pytorch tensorflow comparison 2025 frameworks ecosystem]
 
+- [TensorFlow vs PyTorch 2026: Ultimate Framework Showdown (Updated)](https://www.datacamp.com/blog/pytorch-vs-tensorflow-2026) ⭐ **2026 DEEP COMPARISON** - Comprehensive 2026 update comparing PyTorch and TensorFlow covering computational paradigms, ecosystem maturity, ease of use, performance benchmarks, production deployment, mobile/edge capabilities, and community support. Addresses 2026 developments: PyTorch's production improvements, TensorFlow's edge optimization, emergence of alternatives (JAX, Modular Mojo), and when each excels. Includes decision matrix for choosing based on project requirements, team expertise, and deployment target.
+  - 📖 Access: Free comprehensive guide
+  - 🔬 Analysis: 2026 framework ecosystem
+  - 🎯 Covers: Ecosystem, deployment, benchmarks, edge AI, alternatives
+  - [Tags: intermediate advanced pytorch tensorflow comparison 2026 production-deployment decision-matrix]
+
 - [PyTorch vs TensorFlow: Complete Comparison (AceCloud)](https://acecloud.ai/blog/pytorch-vs-tensorflow/) **(Intermediate)** - Updated 2025 in-depth comparison analyzing dynamic computation graphs (PyTorch advantage), static graphs (TensorFlow efficiency), ecosystem maturity, deployment flexibility, and when each framework excels. Covers modern considerations like Hugging Face integration, JAX emergence, and mobile/edge deployment requirements with decision framework for choosing the right framework.
   - 📖 Access: Free detailed comparison
   - 🔬 Focus: 2025 framework landscape, ecosystem trends
@@ -141,25 +188,6 @@ AI Tools & Frameworks provide the essential infrastructure for developing machin
   - 🌍 Authority: Hugging Face (official)
   - 🛠️ Hands-on: Yes (interactive notebooks)
   - [Tags: beginner intermediate nlp transformers bert gpt huggingface 2025]
-
----
-
-## 🧠 AI Agent Frameworks
-
-### 🟡 Intermediate to Advanced
-
-- [LangChain: Official Documentation](https://python.langchain.com/docs/get_started/introduction) **(Intermediate)** - Comprehensive official documentation for LangChain, the leading framework for building LLM-powered applications and AI agents. Covers chains, agents, memory, callbacks, retrieval-augmented generation (RAG), integrations with 100+ LLMs and vector stores, and production deployment patterns. Essential for building sophisticated LLM applications.
-  - 📖 Access: Fully open, official documentation
-  - 🌍 Authority: LangChain (official)
-  - 🛠️ Hands-on: Yes (code examples, tutorials)
-  - 🎯 Topics: LLM apps, agents, RAG, chains, memory, integrations
-  - [Tags: intermediate langchain llm-apps agents rag documentation production 2025]
-
-- [Top 7 Free AI Agent Frameworks 2025 - Botpress](https://botpress.com/blog/ai-agent-frameworks) **(Intermediate to Advanced)** - Detailed comparison and guide to the top 7 free AI agent frameworks for building autonomous AI systems: Botpress (conversational AI platform), LangChain (LLM application framework), CrewAI (multi-agent orchestration), Microsoft Semantic Kernel (enterprise SDK), AutoGen (Microsoft's multi-agent framework), AutoGPT (autonomous GPT-4 agent), and Rasa (open-source conversational AI). Covers features, pricing models, best use cases, and implementation examples.
-  - 📖 Access: Free guide + open-source frameworks
-  - 📝 Covers: Agent orchestration, LLM apps, chatbots, autonomous systems
-  - 🎯 Best for: Building AI agents, multi-agent systems, LLM applications
-  - [Tags: intermediate advanced ai-agents langchain crewai autogen llm-apps autonomous-ai 2025]
 
 ---
 
@@ -300,6 +328,6 @@ Found a great free AI tool or framework? We'd love to add it!
 
 ---
 
-**Last Updated:** December 28, 2025 | **Total Resources:** 33 (+4 new 2025 tools resources)
+**Last Updated:** January 19, 2026 | **Total Resources:** 37 (+4 new 2026 tools)
 
-**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, mlflow, wandb, weights-and-biases, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, kubeflow, experiment-tracking, model-registry, framework-comparison, pytorch-vs-tensorflow, mlops-platforms, 2025
+**Keywords:** ai-tools, ml-frameworks, deep-learning-frameworks, tensorflow, pytorch, jax, keras, scikit-learn, xgboost, hugging-face, transformers, langchain, crewai, autogen, ai-agents, google-cloud, gemini-api, aws-ai, azure-ai, opencv, spacy, nltk, mlops, mlflow, wandb, weights-and-biases, production-ml, open-source, fastai, botpress, semantic-kernel, gensim, ollama, vllm, localai, bentoml, llm-deployment, kubernetes, ray, kubeflow, experiment-tracking, model-registry, framework-comparison, pytorch-vs-tensorflow, mlops-platforms, claude-api, anthropic, open-interpreter, crewai-agents, multi-agent-orchestration, 2025, 2026
