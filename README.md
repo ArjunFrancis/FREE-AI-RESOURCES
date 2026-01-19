@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **604+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **621+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-604+-blue.svg)]()
-[![Categories](https://img.shields.io/badge/categories-31-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2017%2C%202026-brightblue.svg)]
+[![Resources](https://img.shields.io/badge/resources-621+-blue.svg)]()
+[![Categories](https://img.shields.io/badge/categories-32-green.svg)]()
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2019%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,51 +14,56 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 604+ | Across all categories (updated Jan 17, 2026) |
-| **Total Categories** | 31 | Organized by topic & expertise level |
-| **Average/Category** | ~19.5 | Well-distributed across topics |
-| **Recent Growth** | +49 resources (Jan 12-17, 2026) | Saturday: RL (+5), Time Series (+5), Audio/Speech (+4) = +14 ✨ |
-| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (33), GNN (33), Robotics (30), Multimodal (24), Audio (41), Recommender (28), Healthcare (29) | Comprehensive coverage |
+| **Total Resources** | 621+ | Across all categories (updated Jan 19, 2026) |
+| **Total Categories** | 32 | Organized by topic & expertise level (+1 AI Evals NEW) |
+| **Average/Category** | ~19.4 | Well-distributed across topics |
+| **Recent Growth** | +17 resources (Jan 19, 2026) | Monday: Ethics (+3), Tools (+4), Evals (+10 NEW) = +17 ✨ |
+| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (37), GNN (33), Robotics (30), Multimodal (24), Audio (41), Recommender (28), Healthcare (29), AI Evals (10) | Comprehensive coverage |
 | **2025-2026 Content** | 98%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 17, 2026, 2:08 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 19, 2026, 5:52 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 17, 2026 - Saturday Rotation)
+## 🌟 What's New (Jan 19, 2026 - Monday Rotation)
 
-### 🎮 Reinforcement Learning: +5 Resources (24 → 29)
-- **BERD-NFDI 2026: RL for Business/Economics** - Intermediate course, free, applications across domains
-- **IBM Deep Learning + Reinforcement Learning** - Integration of deep learning with RL, edX course
-- **Cambridge Advanced RL (L171 2025-26)** - Advanced university course, state-of-the-art methods
-- **Curriculum Learning Automation (arXiv 2025)** - Skill-Environment Bayesian Networks for automated task progression
-- **Probabilistic Curriculum Learning (arXiv 2025)** - Advanced hierarchical goal-based learning
-- **RLDG, RbRL2.0, General-Purpose RL, Meta-Learning papers** - Cutting-edge 2025 research
+### 🎯 AI Ethics: +3 Resources (27 → 30)
+- **Practical Fairness Metrics (arXiv 2025)** - Production fairness evaluation frameworks, metric trade-offs, bias detection
+- **AI Ethics for Product Managers (Coursera 2025)** - Integrating ethics into AI product development, stakeholder engagement
+- **NIST AI Risk Management Framework** - US NIST governance, risk management, compliance frameworks
 
-### 📋 Time Series Forecasting: +5 Resources (21 → 26)
-- **Transformers as Time Series Foundation Models (arXiv 2503.04948)** - Theoretical analysis of transformers as universal models
-- **LLMs as Slow-Thinking Agents (TimeReasoner, arXiv 2505.24511)** - Zero-shot temporal reasoning with advanced LLMs
-- **2025 Forecasting For Data Scientists (Christopher Bergmeir)** - 6-hour course, classical to foundation models
-- **Cross-Learning for Time Series (Google Research)** - Global models, transfer learning, generalization
-- **Enhanced OpenHPI 2025 Course** - Classical to deep learning to transformers
+### 🛠️ AI Tools & Frameworks: +4 Resources (33 → 37)
+- **Claude API Guide (Anthropic 2025)** - Official comprehensive API documentation, models, best practices, deployment patterns
+- **Open Interpreter: Let Language Models Run Code (2025)** - Natural language code execution, local privacy, automation framework
+- **CrewAI: Multi-Agent Orchestration (GitHub 2025)** - Collaborative AI agents, hierarchical task execution, tool integration
+- **PyTorch vs TensorFlow 2026: Ultimate Showdown** - Updated 2026 comparison, ecosystem trends, production deployment analysis
 
-### 🎉 Audio & Speech Processing: +4 Resources (37 → 41)
-- **TTIC 2025: Speech and Audio Foundation Models** - Workshop, Meta/Apple/UT Austin, multilingual 120+ languages
-- **Deep Dive into Speech Synthesis Agents (2025)** - Emotional TTS, personalization, real-time synthesis, commerce
-- **Streaming Audio Processing for Edge Devices** - Real-time, low-latency, resource-constrained environments
-- **Zero-Shot Voice Adaptation (arXiv 2025)** - Few-shot learning, personalized voices without retraining
+### 📊 AI Evals & Evaluation Frameworks: 0 → 10 (🆕 NEW CATEGORY)
+**First category in 2026 dedicated to AI evaluation, benchmarking, and quality assurance**
+- **Open LLM Leaderboard** - Interactive benchmark of open-source LLMs on 4 key benchmarks
+- **HELM: Holistic Evaluation** - Stanford's comprehensive 16-scenario evaluation framework
+- **LMSYS Chatbot Arena** - Crowd-sourced live model comparison through Elo ratings
+- **DeepEval** - Python framework for LLM testing and hallucination detection
+- **Ragas** - RAG system evaluation (retrieval quality, answer relevancy)
+- **Promptfoo** - CLI tool for prompt testing across multiple models
+- **Constitutional AI Evaluation** - Safety evaluation and alignment methodologies
+- **MT-Bench** - Multi-turn conversation quality benchmark
+- **LFQA** - Long-form question answering evaluation
+- **Best Practices for AI Evaluation** - Comprehensive 2025 evaluation guide
 
-### 📊 Overall Progress
+### 📋 Overall Progress (Week 4 Jan 2026)
 - **Sunday Jan 12**: Data Science (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
 - **Monday Jan 13**: NLP (+7) = **+7 resources**
 - **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
 - **Wednesday Jan 15**: MLOps (+4), Edge AI (+3), AI Security (+3) = **+10 resources**
 - **Thursday Jan 16**: Healthcare AI (+5), Finance AI (+5), Recommender Systems (+5) = **+15 resources**
 - **Friday Jan 17**: Reinforcement Learning (+5), Time Series (+5), Audio/Speech (+4) = **+14 resources**
-- **Total (Jan 12-17)**: 555 → 604 = **+49 new resources in 6 days**
+- **Saturday Jan 18**: [Rest day - no updates]
+- **Sunday Jan 19 (TODAY)**: **Ethics (+3), Tools (+4), Evals (+10 NEW CATEGORY) = +17 resources**
+- **Total (Jan 12-19)**: 555 → 621 = **+66 new resources in 8 days** 🚀
 
-**Next Rotation (Sunday Jan 18-19)**: Data Science, ML Fundamentals, Mathematics (bi-weekly refresh)
+**Next Rotation (Mon Jan 20)**: Generative AI, Prompt Engineering, NLP (bi-weekly refresh)
 
 ---
 
@@ -90,6 +95,7 @@
 | **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (41) → [Generative AI](resources/generative-ai.md) |
 | **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
 | **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (46) → [Generative AI](resources/generative-ai.md) (34) |
+| **Evaluation** | Benchmarking, testing, quality assurance | 8 weeks | [AI Evals](resources/ai-evals.md) (10 NEW) → Production systems |
 | **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) (28) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) (18) → [AI Hardware](resources/ai-hardware-acceleration.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) → [Finance AI](resources/ai-for-finance.md) (27) |
@@ -153,17 +159,18 @@
 
 ---
 
-### 🞠 **Interpretability & Trust** (Growing Domain)
+### 🞠 **Quality & Evaluation** (Growing Domain)
 
-**Making AI transparent and trustworthy**
+**Ensuring AI quality, fairness, and interpretability**
 
 | Category | Resources | Difficulty | Latest | Market Trend |
 |----------|-----------|------------|--------|---------------|
+| **[AI Evals & Evaluation](resources/ai-evals.md)** | **10** | 🟡 | 2026 NEW: Leaderboards, HELM, DeepEval, Ragas | **Quality assurance critical** |
 | **[Explainable AI (XAI)](resources/explainable-ai-xai.md)** | **9** | 🟡🔴 | 2025 guide, fairness XAI, ViT interpretability, Captum | **Market: $30B by 2032** |
-| [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Fairness, accountability | Regulatory driven |
+| [AI Ethics](resources/ai-ethics.md) | 30 | 🟢 | Fairness, accountability, product ethics, NIST frameworks | Regulatory driven |
 | **[AI Security & Privacy](resources/ai-security-privacy.md)** | **22** | 🟡 | Red teaming, privacy, purple-teaming, threat modeling | Growing importance |
 
-**Total**: ~58+ resources | **Perfect for**: Responsible AI focus
+**Total**: ~71 resources | **Perfect for**: Responsible AI & quality focus
 
 ---
 
@@ -188,13 +195,13 @@
 | Category | Resources | Difficulty | Focus |
 |----------|-----------|------------|-------|
 | **[MLOps](resources/mlops.md)** | **18** | 🟡 | Pipelines, automation, experiment tracking, monitoring |
-| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 33 | 🟢 | PyTorch, TensorFlow, MLflow |
+| [AI Tools & Frameworks](resources/ai-tools-frameworks.md) | 37 | 🟢 | PyTorch, TensorFlow, Claude API, CrewAI, MLflow |
 | **[AI Hardware & Acceleration](resources/ai-hardware-acceleration.md)** | **10** | 🟡🔴 | GPU/TPU, CUDA, edge AI |
 | **[AI Security & Privacy](resources/ai-security-privacy.md)** | **22** | 🟡 | Red teaming, privacy, threat modeling |
-| [AI Ethics](resources/ai-ethics.md) | 27 | 🟢 | Responsible AI, fairness |
+| [AI Ethics](resources/ai-ethics.md) | 30 | 🟢 | Responsible AI, fairness |
 | **[Edge AI & IoT](resources/edge-ai-iot.md)** | **14** | 🟡 | Edge deployment, TinyML |
 
-**Total**: ~124+ resources | **Perfect for**: Production engineers
+**Total**: ~141+ resources | **Perfect for**: Production engineers
 
 ---
 
@@ -320,7 +327,22 @@ Weeks 9-12: Real Robots (Sim-to-real transfer, embodied foundation models, deplo
 
 ---
 
-### Path 8: MLOps & Production Engineer (10 weeks)
+### Path 8: AI Evaluation & Quality Assurance Engineer (8 weeks)
+
+```
+Weeks 1-2: Fundamentals (Leaderboards, benchmarks, evaluation metrics)
+  →
+Weeks 3-5: Advanced Frameworks (DeepEval, Ragas, Promptfoo, testing pipelines)
+  →
+Weeks 6-8: Production Systems (Safety evaluation, continuous testing, compliance)
+```
+
+**Resources**: 10 | **Tools**: DeepEval, Ragas, Promptfoo, HELM  
+**Final**: Comprehensive AI evaluation & continuous quality monitoring system
+
+---
+
+### Path 9: MLOps & Production Engineer (10 weeks)
 
 ```
 Weeks 1-3: Fundamentals (MLOps Zoomcamp, Databricks, Google Cloud MLOps guide)
@@ -335,7 +357,7 @@ Weeks 8-10: Production Systems (MadeWithML, deployment at scale, automation)
 
 ---
 
-### Path 9: AI Security & Red-Teaming Specialist (10 weeks)
+### Path 10: AI Security & Red-Teaming Specialist (10 weeks)
 
 ```
 Weeks 1-3: Fundamentals (AI Security basics, adversarial ML, HackTheBox intro)
@@ -350,7 +372,7 @@ Weeks 8-10: Production Security (Google SAIF framework, threat modeling, complia
 
 ---
 
-### Path 10: Foundational Learning Accelerator (6 weeks)
+### Path 11: Foundational Learning Accelerator (6 weeks)
 
 ```
 Weeks 1-2: Mathematics (Khan Academy Linear Algebra, 3Blue1Brown visualizations, MIT 18.05)
@@ -429,13 +451,13 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 💪 Repository Activity
 
-- **Last Updated**: January 17, 2026, 2:08 PM UTC+4
+- **Last Updated**: January 19, 2026, 5:52 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: +14 resources (Sat Jan 17), +15 resources (Fri Jan 16), +10 resources (Thu Jan 15), +4 resources (Wed Jan 14), +7 resources (Tue Jan 13), +12 resources (Sun Jan 12)
-- **6-Day Growth**: 555 → 604 = +49 resources
-- **Path to 625+**: January 18-19, 2026 (estimated)
-- **2026 Growth**: 604+ resources (Jan 17), 31 categories, 98%+ 2025-2026 content
+- **Growth Rate**: +17 resources (Mon Jan 19), +14 resources (Sat Jan 17), +15 resources (Fri Jan 16), +10 resources (Wed Jan 15), +4 resources (Tue Jan 14), +7 resources (Mon Jan 13), +12 resources (Sun Jan 12)
+- **8-Day Growth**: 555 → 621 = **+66 resources** 🚀
+- **Path to 650+**: January 20-23, 2026 (estimated)
+- **2026 Growth**: 621+ resources (Jan 19), 32 categories, 98%+ 2025-2026 content
 
 ---
 
@@ -451,6 +473,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**604+ resources | 31 categories | 100% free | Quality assured**
+**621+ resources | 32 categories | 100% free | Quality assured**
 
 </div>
