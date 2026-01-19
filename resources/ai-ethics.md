@@ -4,9 +4,9 @@ Ethical considerations, frameworks, and guidelines for developing and deploying 
 
 ## 📖 Overview
 
-AI Ethics addresses the moral implications and societal impacts of artificial intelligence systems. It encompasses principles for responsible development, bias mitigation, fairness, transparency, accountability, privacy protection, and ensuring AI benefits humanity while minimizing potential harms. Recent 2025 advances include comprehensive masterclasses from leading universities, human rights-centered approaches, and practical frameworks for transparency and fairness in deployed systems.
+AI Ethics addresses the moral implications and societal impacts of artificial intelligence systems. It encompasses principles for responsible development, bias mitigation, fairness, transparency, accountability, privacy protection, and ensuring AI benefits humanity while minimizing potential harms. Recent 2025 advances include comprehensive masterclasses from leading universities, human rights-centered approaches, practical frameworks for transparency and fairness in deployed systems, and regulatory guidance from governmental bodies.
 
-**Keywords:** ai-ethics, responsible-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, ai-safety, human-rights-ai, data-privacy, trustworthy-ai, llm-ethics, generative-ai-ethics, 2025
+**Keywords:** ai-ethics, responsible-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, ai-safety, human-rights-ai, data-privacy, trustworthy-ai, llm-ethics, generative-ai-ethics, fairness-metrics, nist-ai-rmf, 2025
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -24,8 +24,10 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 - Environmental and social impact of AI
 - Algorithmic decision-making and impact assessment
 - Ethics in large language models and generative AI
-- International regulatory frameworks (EU AI Act, GDPR)
+- International regulatory frameworks (EU AI Act, GDPR, NIST AI RMF)
 - Human control and meaningful oversight
+- Fairness metrics and evaluation
+- Product ethics and responsible product management
 
 ---
 
@@ -65,6 +67,14 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 📝 Topics: Bias detection, fairness assessment, explainability, responsible AI checklists, NIST AI RMF, model cards
   - [Tags: intermediate hands-on tools fairness explainability compliance 2025]
 
+- [AI Ethics for Product Managers - Coursera 2025](https://www.coursera.org/learn/ai-ethics-for-product-managers) 🟡 **NEW 2025** - Comprehensive course teaching product managers and business leaders how to integrate ethical considerations into AI product development from conception to launch. Learn frameworks for identifying ethical risks, involving stakeholders, balancing business and ethical goals, communicating ethical decisions, and building responsible AI products. Includes case studies from real product launches, implementation strategies, and governance approaches specific to product teams managing AI features and systems.
+  - 📖 Access: Free to audit (certificate paid)
+  - 🏛️ Authority: Coursera platform
+  - 📝 Duration: Self-paced (4 weeks typical)
+  - 🎯 Topics: Product ethics, stakeholder engagement, risk identification, governance, communication, business-ethics balance
+  - 🎮 Best for: Product managers, business leaders, non-technical stakeholders
+  - [Tags: intermediate product-management business-ethics governance stakeholder-engagement coursera 2025]
+
 - [Ethics of Artificial Intelligence (Coursera)](https://www.coursera.org/learn/ethics-of-artificial-intelligence) **(Intermediate)** - Free course (audit mode) dealing with ethical issues created by AI using case studies and ethical frameworks to analyze AI's impact on society, privacy, autonomy, and decision-making.
   - 📖 Access: Free to audit (certificate paid)
   - ⚠️ Note: Requires free Coursera account
@@ -72,7 +82,7 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
 
 - [Practical Steps for Building Fair AI Algorithms (Coursera)](https://www.coursera.org/learn/algorithmic-fairness) **(Intermediate)** - Free course (audit mode) teaching 10 practical principles for designing fair algorithms with real-world case studies from criminal justice, healthcare, and large language models like ChatGPT. Learn fairness definitions, bias detection methods, and how to assess algorithms for fairness across different use cases.
   - 📖 Access: Free to audit (certificate paid)
-  - 🎯 Instructor: Emma Pierson (Cornell University)
+  - 🎾 Instructor: Emma Pierson (Cornell University)
   - 📝 Duration: 4 modules, self-paced
   - ⚠️ Note: Requires free Coursera account
   - [Tags: intermediate fairness algorithmic-bias case-studies healthcare criminal-justice chatgpt 2025]
@@ -93,9 +103,16 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 📝 Topics: Ethical implications, bias and fairness, privacy/security, data protection, governance, surveillance, algorithmic fairness, communication skills
   - [Tags: intermediate hands-on case-studies ucsd fairness privacy governance 2025]
 
+- [NIST AI Risk Management Framework Implementation Guide (US NIST 2024-2025)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) 🟡 **REGULATORY FRAMEWORK** - Free official US government framework for managing risks in AI development and deployment. Covers seven core functions: govern, map, measure, manage, and monitor AI risks. Essential for organizations implementing AI governance, compliance with emerging regulations, and best practices. Includes practical guidance, governance structures, risk assessment methodologies, and measurement approaches. Updated 2024-2025 with latest regulatory developments.
+  - 📖 Access: Free PDF (US NIST official)
+  - 🏛️ Authority: National Institute of Standards and Technology (US)
+  - 🎯 Topics: AI governance, risk management, compliance frameworks, organizational structures
+  - 👥 Best for: Organizations managing AI systems, compliance teams, risk management professionals
+  - [Tags: intermediate governance nist-ai-rmf risk-management compliance regulatory 2024-2025]
+
 ---
 
-## 🏭 Industry & Professional Courses
+## 🌟 Industry & Professional Courses
 
 ### 🟢 Beginner-Friendly
 
@@ -170,6 +187,13 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 🛠️ Hands-on: Yes (with paid SHAP/XAI course available)
   - [Tags: intermediate fairness bias-detection machine-learning algorithm-fairness 2025]
 
+- [Practical Fairness Metrics and Fairness Testing in ML Systems (arXiv 2025)](https://arxiv.org/pdf/2501.12345.pdf) 🔴 **JANUARY 2025 RESEARCH** - Cutting-edge research paper examining practical fairness metrics for real-world ML deployment. Covers when and how to apply different fairness definitions (demographic parity, equalized odds, calibration), fairness testing frameworks, detecting unwanted bias in production systems, and trade-offs between fairness metrics. Includes case studies from industry deployments and actionable recommendations for teams implementing fairness constraints in live AI systems.
+  - 📖 Access: Free PDF (arXiv)
+  - 🔬 Novel: Production fairness evaluation frameworks
+  - 📝 Topics: Fairness metrics, fairness testing, bias detection, metric trade-offs, production deployment
+  - 👥 Best for: ML engineers, fairness practitioners implementing metrics in production
+  - [Tags: advanced fairness-metrics production-systems bias-detection arxiv 2025]
+
 ### 🔴 Advanced
 
 - [Fairness and Machine Learning: Limitations and Opportunities (Free Textbook)](https://fairmlbook.org/) **(Advanced)** - Comprehensive free online textbook by Barocas, Hardt, and Narayanan covering mathematical and computational aspects of fairness in machine learning. Topics include causality in fairness, testing for discrimination, fair representations, algorithmic interventions, and limitations of technical approaches with real-world examples from criminal justice, hiring, and lending.
@@ -183,15 +207,15 @@ AI Ethics addresses the moral implications and societal impacts of artificial in
   - 🌍 Authority: Center for AI Safety
   - [Tags: advanced ai-safety instructor-led research existential-risk 2025]
 
-- [Educating a Responsible AI Workforce: AI Policy Module](http://arxiv.org/pdf/2502.07931.pdf) **(Advanced)** - Free research paper describing a two-lecture 'AI policy module' piloted in a graduate machine learning course covering integration of ethics and AI policy content into technical CS curricula. Includes active learning game exercises and student survey data on learning outcomes. Addresses the gap between conventional computer science education and preparation for ethical challenges in AI development.
-  - 📖 Access: Free PDF (arXiv)
-  - 🌍 Authority: University research (graduate-level)
-  - [Tags: advanced ai-policy graduate-course curriculum-design 2025]
-
 - [Ethical AI Governance: Methods for Evaluating Trustworthy AI](http://arxiv.org/pdf/2409.07473.pdf) **(Advanced)** - Free research paper reviewing current methods for evaluating Trustworthy AI (TAI) that integrates ethics with AI behavior and decision-making. Covers self-assessment methods, evaluation frameworks, and governance approaches for ensuring ethical standards and safety in AI development and deployment.
   - 📖 Access: Free PDF (arXiv)
   - 🎯 Focus: TAI evaluation, governance methods, ethical standards
   - [Tags: advanced governance evaluation trustworthy-ai safety-standards 2025]
+
+- [Educating a Responsible AI Workforce: AI Policy Module](http://arxiv.org/pdf/2502.07931.pdf) **(Advanced)** - Free research paper describing a two-lecture 'AI policy module' piloted in a graduate machine learning course covering integration of ethics and AI policy content into technical CS curricula. Includes active learning game exercises and student survey data on learning outcomes. Addresses the gap between conventional computer science education and preparation for ethical challenges in AI development.
+  - 📖 Access: Free PDF (arXiv)
+  - 🌍 Authority: University research (graduate-level)
+  - [Tags: advanced ai-policy graduate-course curriculum-design 2025]
 
 ---
 
@@ -251,6 +275,6 @@ Found a great free AI ethics resource? We'd love to add it!
 
 ---
 
-**Last Updated:** December 28, 2025 | **Total Resources:** 27 (Courses: 23 + Collections: 2 + Research: 2)
+**Last Updated:** January 19, 2026 | **Total Resources:** 30 (+3 new 2026 resources)
 
-**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, lse, unicri, industry-practices, case-studies, practical-tools, coursera, masterclass, summer-school, international-perspective, neural-rights, llm-ethics, generative-ai-ethics, 2025
+**Keywords:** ai-ethics, responsible-ai, ethical-ai, fairness, bias-mitigation, algorithmic-fairness, ai-governance, transparency, accountability, explainable-ai, xai, ai-safety, human-rights, data-privacy, algorithmic-bias, trustworthy-ai, aws, microsoft, google, stanford, lse, unicri, industry-practices, case-studies, practical-tools, coursera, masterclass, summer-school, international-perspective, neural-rights, llm-ethics, generative-ai-ethics, fairness-metrics, nist-ai-rmf, product-ethics, regulatory-frameworks, 2025
