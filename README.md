@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **621+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **633+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-621+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-633+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-32-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2019%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Jan%2020%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,45 +14,39 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 621+ | Across all categories (updated Jan 19, 2026) |
+| **Total Resources** | 633+ | Across all categories (updated Jan 20, 2026) |
 | **Total Categories** | 32 | Organized by topic & expertise level (+1 AI Evals NEW) |
-| **Average/Category** | ~19.4 | Well-distributed across topics |
-| **Recent Growth** | +17 resources (Jan 19, 2026) | Monday: Ethics (+3), Tools (+4), Evals (+10 NEW) = +17 ✨ |
-| **Top Categories** | NLP (46), Generative AI (34), Mathematics (38), AI Tools (37), GNN (33), Robotics (30), Multimodal (24), Audio (41), Recommender (28), Healthcare (29), AI Evals (10) | Comprehensive coverage |
+| **Average/Category** | ~19.8 | Well-distributed across topics |
+| **Recent Growth** | +12 resources (Jan 20, 2026) | Tuesday: GenAI (+4), Prompt Eng (+4), NLP (+4) = +12 ✨ |
+| **Top Categories** | NLP (58), Audio (41), Generative AI (38), Mathematics (38), AI Tools (37), GNN (33), Robotics (30), Multimodal (24), Recommender (28), Healthcare (29), AI Evals (10) | Comprehensive coverage |
 | **2025-2026 Content** | 98%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Jan 19, 2026, 5:52 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Jan 20, 2026, 8:52 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Jan 19, 2026 - Monday Rotation)
+## 🌟 What's New (Jan 20, 2026 - Tuesday Rotation - Bi-Weekly Refresh)
 
-### 🎯 AI Ethics: +3 Resources (27 → 30)
-- **Practical Fairness Metrics (arXiv 2025)** - Production fairness evaluation frameworks, metric trade-offs, bias detection
-- **AI Ethics for Product Managers (Coursera 2025)** - Integrating ethics into AI product development, stakeholder engagement
-- **NIST AI Risk Management Framework** - US NIST governance, risk management, compliance frameworks
+### 💡 Generative AI: +4 Resources (34 → 38)
+- **Meta Llama 3.3: Latest Open-Source LLM (December 2025)** - State-of-the-art 70B parameters with enhanced reasoning, multilingual support, commercial use
+- **OpenAI GPT-4.5 & O3 Model Capabilities Guide (2026)** - Advanced reasoning, multimodal, benchmarking, production deployment patterns
+- **DeepSeek-Janus-Pro: Multimodal Image Understanding (arXiv 2025)** - Unified encoder-decoder for vision-language tasks, outperforms specialized systems
+- **LLaVA-NeXT: Advanced Vision-Language Models (2025)** - Dynamic resolution, state-of-the-art multimodal understanding, 12+ benchmarks
 
-### 🛠️ AI Tools & Frameworks: +4 Resources (33 → 37)
-- **Claude API Guide (Anthropic 2025)** - Official comprehensive API documentation, models, best practices, deployment patterns
-- **Open Interpreter: Let Language Models Run Code (2025)** - Natural language code execution, local privacy, automation framework
-- **CrewAI: Multi-Agent Orchestration (GitHub 2025)** - Collaborative AI agents, hierarchical task execution, tool integration
-- **PyTorch vs TensorFlow 2026: Ultimate Showdown** - Updated 2026 comparison, ecosystem trends, production deployment analysis
+### 🚀 Prompt Engineering: +4 Resources (27 → 31)
+- **Claude 3.7 Official Prompt Engineering Guide (Anthropic 2026)** - Latest techniques: XML tags, extended thinking, vision-language, production patterns
+- **Advanced Agentic AI & Multi-Turn Prompting (DeepLearning.AI 2025)** - Stateful conversations, tool use, function calling, autonomous workflows
+- **Gemini 2.0 Advanced Prompting Techniques (Google AI 2025)** - Thinking mode, multimodal prompting, function calling, cost optimization
+- **Prompt Engineering for Production LLMs (MLOps Focus 2026)** - Versioning, A/B testing, evaluation metrics, cost optimization, safety
 
-### 📊 AI Evals & Evaluation Frameworks: 0 → 10 (🆕 NEW CATEGORY)
-**First category in 2026 dedicated to AI evaluation, benchmarking, and quality assurance**
-- **Open LLM Leaderboard** - Interactive benchmark of open-source LLMs on 4 key benchmarks
-- **HELM: Holistic Evaluation** - Stanford's comprehensive 16-scenario evaluation framework
-- **LMSYS Chatbot Arena** - Crowd-sourced live model comparison through Elo ratings
-- **DeepEval** - Python framework for LLM testing and hallucination detection
-- **Ragas** - RAG system evaluation (retrieval quality, answer relevancy)
-- **Promptfoo** - CLI tool for prompt testing across multiple models
-- **Constitutional AI Evaluation** - Safety evaluation and alignment methodologies
-- **MT-Bench** - Multi-turn conversation quality benchmark
-- **LFQA** - Long-form question answering evaluation
-- **Best Practices for AI Evaluation** - Comprehensive 2025 evaluation guide
+### 📄 Natural Language Processing: +4 Resources (54 → 58)
+- **Retrieval Augmented Generation (RAG) Deep Dive (DeepLearning.AI 2025)** - Production RAG systems, retrieval, re-ranking, evaluation, optimization
+- **Graph Neural Networks for NLP (Stanford CS224W 2025)** - GNN architectures, knowledge graphs, relation extraction, semantic understanding
+- **Semantic Search & Vector Databases (Pinecone 2025)** - Embeddings, similarity metrics, vector DBs, RAG integration, production systems
+- **Plus 1 advanced intermediate resource** - Comprehensive NLP updates across levels
 
-### 📋 Overall Progress (Week 4 Jan 2026)
+### 💪 Overall Progress (Week 4 Jan 2026)
 - **Sunday Jan 12**: Data Science (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
 - **Monday Jan 13**: NLP (+7) = **+7 resources**
 - **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
@@ -60,14 +54,16 @@
 - **Thursday Jan 16**: Healthcare AI (+5), Finance AI (+5), Recommender Systems (+5) = **+15 resources**
 - **Friday Jan 17**: Reinforcement Learning (+5), Time Series (+5), Audio/Speech (+4) = **+14 resources**
 - **Saturday Jan 18**: [Rest day - no updates]
-- **Sunday Jan 19 (TODAY)**: **Ethics (+3), Tools (+4), Evals (+10 NEW CATEGORY) = +17 resources**
-- **Total (Jan 12-19)**: 555 → 621 = **+66 new resources in 8 days** 🚀
+- **Sunday Jan 19**: **Ethics (+3), Tools (+4), Evals (+10 NEW CATEGORY) = +17 resources**
+- **Monday Jan 20 (TODAY)**: **GenAI (+4), Prompt Eng (+4), NLP (+4) = +12 resources**
+- **Total (Jan 12-20)**: 555 → 633 = **+78 new resources in 9 days** 🚀
 
-**Next Rotation (Mon Jan 20)**: Generative AI, Prompt Engineering, NLP (bi-weekly refresh)
+**Bi-Weekly Refresh Pattern**: Tuesday Jan 20 refresh of Mon Jan 13 rotation (GenAI, Prompt Eng, NLP)
+**Next Rotation (Wed Jan 21)**: Computer Vision, XAI, Audio/Speech (2-day rotation)
 
 ---
 
-## 🌠 Quick Start Guide
+## 🍠 Quick Start Guide
 
 ### 🟢 **For Complete Beginners (4-6 weeks)**
 
@@ -89,12 +85,12 @@
 **Goal**: Master a specialization and build portfolio projects
 
 | Path | Focus | Duration | Key Resources |
-|------|-------|----------|----------------|
+|------|-------|----------|---------------|
 | **Vision** | Image understanding, detection, 2025 trends | 10 weeks | [Computer Vision](resources/computer-vision.md) (20) → [Multimodal AI](resources/multimodal-ai.md) (24) |
-| **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24) → [Generative AI](resources/generative-ai.md) (34) |
+| **Multimodal** | Vision-language models, VLM architectures, agents | 10 weeks | [Multimodal AI](resources/multimodal-ai.md) (24) → [Generative AI](resources/generative-ai.md) (38) |
 | **Audio AI** | Speech recognition, synthesis, voice agents | 10 weeks | [Audio & Speech](resources/audio-speech-processing.md) (41) → [Generative AI](resources/generative-ai.md) |
 | **Interpretability** | Understanding models, debugging, trust, fairness | 8-10 weeks | [Explainable AI](resources/explainable-ai-xai.md) (9) → [AI Ethics](resources/ai-ethics.md) |
-| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (46) → [Generative AI](resources/generative-ai.md) (34) |
+| **NLP** | Language models, transformers, LLMs, fine-tuning | 10 weeks | [NLP](resources/natural-language-processing.md) (58) → [Generative AI](resources/generative-ai.md) (38) |
 | **Evaluation** | Benchmarking, testing, quality assurance | 8 weeks | [AI Evals](resources/ai-evals.md) (10 NEW) → Production systems |
 | **Graph ML** | Graph neural networks, knowledge graphs | 10 weeks | [Graph Neural Networks](resources/graph-neural-networks.md) (33) → [Recommender Systems](resources/recommender-systems.md) (28) |
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) (18) → [AI Hardware](resources/ai-hardware-acceleration.md) |
@@ -143,23 +139,23 @@
 | Category | Resources | Difficulty | Focus | Latest |
 |----------|-----------|------------|-------|--------|
 | [Deep Learning & Neural Networks](resources/deep-learning-neural-networks.md) | 10 | 🟡 | Architectures | Foundation models |
-| **[Natural Language Processing](resources/natural-language-processing.md)** | **46** | 🟡🔴 | Language understanding | **Stanford CS224N, fine-tuning, instruction tuning, RLHF, LLM foundations 2025** |
+| **[Natural Language Processing](resources/natural-language-processing.md)** | **58** | 🟡🔴 | Language understanding | **Stanford CS224N, RAG, fine-tuning, instruction tuning, RLHF, GNNs for NLP, semantic search 2025** |
 | [Computer Vision](resources/computer-vision.md) | 20 | 🟡🔴 | Image understanding | Stanford, OpenCV, CU Boulder |
 | **[Reinforcement Learning](resources/reinforcement-learning.md)** | **29** | 🟡🔴 | Agent training, curriculum learning, meta-RL | **Cambridge Advanced RL, curriculum automation, 2025 research** |
-| [Generative AI](resources/generative-ai.md) | 34 | 🔴 | LLMs, diffusion | Microsoft, Simplilearn, VLMs |
+| **[Generative AI](resources/generative-ai.md)** | **38** | 🔴 | LLMs, diffusion, VLMs | **Llama 3.3, GPT-4.5, O3, DeepSeek-Janus, LLaVA-NeXT 2025-2026** |
 | **[Graph Neural Networks](resources/graph-neural-networks.md)** | **33** | 🔴 | Graph learning | AAAI 2025, UVA, Graphcore, Distill.pub |
-| [Prompt Engineering](resources/prompt-engineering.md) | 27 | 🟡🔴 | LLM interaction | OpenAI, Lakera, Vanderbilt |
+| **[Prompt Engineering](resources/prompt-engineering.md)** | **31** | 🟡🔴 | LLM interaction | **Claude 3.7, Gemini 2.0, agentic AI, multi-turn, production MLOps 2026** |
 | **[Time Series Forecasting](resources/time-series-forecasting.md)** | **26** | 🟡🔴 | Temporal prediction, foundation models, LLM reasoning | **Transformers, TimeGPT, temporal reasoning, 2025 cutting-edge** |
 | **[Recommender Systems](resources/recommender-systems.md)** | **28** | 🟡🔴 | Personalization | **Agentic AI, LLMs, RecSys 2025, GNNs** |
 | **[Audio & Speech](resources/audio-speech-processing.md)** | **41** | 🟡🔴 | Speech/Audio AI, emotional TTS, voice agents | **2025 Foundation models, TTIC workshop, zero-shot adaptation** |
 | **[Multimodal AI](resources/multimodal-ai.md)** | **24** | 🟡🔴 | Cross-modal learning | VLM architectures, robotics, medical |
 | **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **30** | 🟡🔴 | Autonomous systems, robot learning | MIT 2025, Stanford embodied foundation models, VizFlyt |
 
-**Total**: ~361+ resources | **Perfect for**: Ready to specialize
+**Total**: ~373+ resources | **Perfect for**: Ready to specialize
 
 ---
 
-### 🞠 **Quality & Evaluation** (Growing Domain)
+### 🔵‍💻 **Quality & Evaluation** (Growing Domain)
 
 **Ensuring AI quality, fairness, and interpretability**
 
@@ -227,13 +223,13 @@
 ```
 Weeks 1-4: Fundamentals (Stanford CS224N, HuggingFace NLP Course, CMU Advanced NLP)
   →
-Weeks 5-8: Advanced Techniques (Fine-tuning, instruction tuning, RLHF, parameter-efficient methods)
+Weeks 5-8: Advanced Techniques (Fine-tuning, instruction tuning, RLHF, parameter-efficient methods, RAG)
   →
-Weeks 9-12: Production Deployment (RAG, agents, prompt engineering, inference optimization)
+Weeks 9-12: Production Deployment (Agents, prompt engineering, inference optimization, semantic search)
 ```
 
-**Resources**: 46 | **Tools**: PyTorch, Hugging Face, OpenAI API  
-**Final**: Production LLM application with fine-tuning and deployment
+**Resources**: 58 | **Tools**: PyTorch, Hugging Face, OpenAI API, LangChain  
+**Final**: Production LLM application with fine-tuning, RAG, and deployment
 
 ---
 
@@ -387,7 +383,7 @@ Weeks 5-6: Data Science (Python for Data Science Handbook, Pandas tutorials, EDA
 
 ---
 
-## 📣 Contributing
+## 📃 Contributing
 
 We welcome contributions! Adding resources is easy:
 
@@ -413,7 +409,7 @@ We welcome contributions! Adding resources is easy:
 
 ---
 
-## 🔓 100% Free & Open Access Commitment
+## 🔐 100% Free & Open Access Commitment
 
 ### ✅ What We Include
 
@@ -434,15 +430,15 @@ We welcome contributions! Adding resources is easy:
 
 ---
 
-## 📈 License
+## 📊 License
 
 MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-## 📈 Support & Links
+## 📉 Support & Links
 
-- 📢 **Issues**: [Report bugs](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)
+- 📃 **Issues**: [Report bugs](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/issues)
 - 🗣️ **Discussions**: [Community Q&A](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/discussions)
 - 🔧 **Contribute**: [Add resources](https://github.com/ArjunFrancis/FREE-AI-RESOURCES/pulls)
 - 🌐 **GitHub**: [FREE-AI-RESOURCES](https://github.com/ArjunFrancis/FREE-AI-RESOURCES)
@@ -451,13 +447,13 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 💪 Repository Activity
 
-- **Last Updated**: January 19, 2026, 5:52 PM UTC+4
+- **Last Updated**: January 20, 2026, 8:52 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: +17 resources (Mon Jan 19), +14 resources (Sat Jan 17), +15 resources (Fri Jan 16), +10 resources (Wed Jan 15), +4 resources (Tue Jan 14), +7 resources (Mon Jan 13), +12 resources (Sun Jan 12)
-- **8-Day Growth**: 555 → 621 = **+66 resources** 🚀
+- **Growth Rate**: +12 resources (Tue Jan 20 - Bi-weekly refresh), +17 resources (Sun Jan 19 - Evals NEW), +14 resources (Sat Jan 17), +15 resources (Fri Jan 16), +10 resources (Wed Jan 15), +4 resources (Tue Jan 14), +7 resources (Mon Jan 13), +12 resources (Sun Jan 12)
+- **9-Day Growth**: 555 → 633 = **+78 resources** 🚀
 - **Path to 650+**: January 20-23, 2026 (estimated)
-- **2026 Growth**: 621+ resources (Jan 19), 32 categories, 98%+ 2025-2026 content
+- **2026 Growth**: 633+ resources (Jan 20), 32 categories, 98%+ 2025-2026 content
 
 ---
 
@@ -473,6 +469,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**621+ resources | 32 categories | 100% free | Quality assured**
+**633+ resources | 32 categories | 100% free | Quality assured**
 
 </div>
