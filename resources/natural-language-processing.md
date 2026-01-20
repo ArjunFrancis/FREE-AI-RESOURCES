@@ -4,7 +4,7 @@ Techniques and tools for processing and understanding human language, from text 
 ## 📖 Overview
 Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language. This field combines linguistics, computer science, and machine learning to solve challenges like machine translation, sentiment analysis, question answering, and conversational AI. Modern NLP heavily relies on deep learning architectures, particularly transformers and large language models (LLMs).
 
-**Keywords:** NLP, natural language processing, transformers, BERT, GPT, language models, text classification, named entity recognition, sentiment analysis, machine translation, tokenization, word embeddings
+**Keywords:** NLP, natural language processing, transformers, BERT, GPT, language models, text classification, named entity recognition, sentiment analysis, machine translation, tokenization, word embeddings, RAG, retrieval-augmented-generation, semantic-search, vector-databases, gnn, graph-neural-networks, grok-1
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -21,6 +21,8 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - Attention mechanisms
 - Sequence-to-sequence models
 - **NEW (2025):** Fine-tuning, instruction tuning, LLM alignment, RLHF, parameter-efficient fine-tuning
+- **NEW (2025):** Retrieval Augmented Generation (RAG), semantic search, vector databases
+- **NEW (2025):** Graph Neural Networks for NLP, vision-language models
 
 ---
 
@@ -215,6 +217,20 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: datacamp pytorch transformer architecture from-scratch intermediate 2025]
   - [Verified: 2025-01-14]
 
+- **[Retrieval Augmented Generation (RAG) Deep Dive - DeepLearning.AI (2025)](https://www.deeplearning.ai/short-courses/retrieval-augmented-generation-rag/)** ⭐ **NEW 2025** - Comprehensive 2-hour course on building production-grade RAG systems. Master retrieval techniques, dense vs. sparse retrievers, re-ranking, evaluation metrics, and RAG optimization strategies. Learn how to augment LLMs with custom knowledge bases for grounded, accurate responses. Hands-on labs with Hugging Face, LangChain, and vector databases.
+  - 📖 **Access:** 100% free (DeepLearning.AI)
+  - ⏱️ **Duration:** 2 hours (short course)
+  - 🛠️ **Hands-on:** Yes (practical labs)
+  - 🏛️ **Authority:** DeepLearning.AI + Partner companies
+  - **Topics:**  
+    - RAG architecture & workflow  
+    - Sparse vs. dense retrievers  
+    - Re-ranking & filtering  
+    - Evaluation & metrics  
+    - Optimization strategies  
+    - LangChain integration  
+  - [Tags: `rag` `retrieval-augmented-generation` `deeplearning-ai` `vector-databases` `semantic-search` `intermediate` `2025`]
+
 ### 🔴 Advanced
 
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
@@ -332,6 +348,31 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: ods-ai university-level spring-2025 valentin-malykh yandex-research advanced 2025]
   - [Verified: 2025-01-14]
 
+- **[Graph Neural Networks for NLP: Architecture & Applications (Stanford, 2025)](https://web.stanford.edu/class/cs224w/resources/)** ⭐ **NEW 2025** - Advanced course materials from Stanford's Machine Learning with Graphs (CS224W) focusing on GNN architectures and their applications to NLP tasks. Covers graph attention networks, knowledge graph embeddings, relation extraction, and semantic understanding through graph structures. Learn to model language as graphs and build GNN-based NLP systems.
+  - 📖 **Access:** Free course materials (Stanford + YouTube lectures)
+  - 🏛️ **Authority:** Stanford University
+  - 🛠️ **Hands-on:** Yes (assignments with PyTorch Geometric)
+  - **Topics:**  
+    - Graph attention networks (GAT)  
+    - Knowledge graph embeddings  
+    - Relation extraction via GNNs  
+    - Semantic parsing with graphs  
+    - NLP task applications  
+  - [Tags: `gnn` `graph-neural-networks` `nlp` `stanford` `cs224w` `knowledge-graphs` `advanced` `2025`]
+
+- **[Semantic Search & Vector Databases: Building Production Systems (Pinecone, 2025)](https://www.pinecone.io/learn/semantic-search/)** ⭐ **NEW 2025** - Comprehensive guide to building semantic search systems using vector embeddings and vector databases. Covers embedding models, similarity metrics, vector database selection (Pinecone, Weaviate, Milvus), and production deployment. Learn to build scalable search systems for large document collections, recommendation engines, and retrieval-augmented generation (RAG) systems.
+  - 📖 **Access:** Free learning hub (Pinecone)
+  - 🏛️ **Authority:** Pinecone (leading vector DB platform)
+  - **Topics:**  
+    - Embedding models & optimization  
+    - Vector similarity metrics  
+    - Vector database architectures  
+    - Scaling considerations  
+    - RAG integration  
+    - Production deployment  
+  - **Tools:** Pinecone API, Hugging Face embeddings, LangChain integration  
+  - [Tags: `semantic-search` `vector-databases` `embeddings` `pinecone` `rag` `production-systems` `advanced` `2025`]
+
 ---
 
 ## 📖 Documentation & Guides
@@ -397,7 +438,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** January 14, 2026 | **Total Resources:** 54 (38 courses + 4 docs + 4 tools)
-**Last Link Validation:** January 14, 2026
+**Last Updated:** January 20, 2026 | **Total Resources:** 58 (+4 new, 38 courses + 4 docs + 4 tools + 12 advanced guides)  
+**Last Link Validation:** January 20, 2026
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch, rag, retrieval-augmented-generation, semantic-search, vector-databases, graph-neural-networks, gnn, 2025-2026
