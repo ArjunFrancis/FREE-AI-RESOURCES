@@ -4,7 +4,7 @@ Techniques and best practices for crafting effective prompts for AI systems like
 ## 📖 Overview
 Prompt engineering is the art and science of designing inputs that elicit the best possible outputs from large language models. Mastering prompt engineering unlocks the full potential of AI assistants for content creation, code generation, analysis, and problem-solving.
 
-**Keywords:** prompt-engineering, llm, chatgpt, claude, gemini, generative-ai, ai-prompting, prompt-design, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, structured-prompting, xml-tags, best-practices
+**Keywords:** prompt-engineering, llm, chatgpt, claude, gemini, generative-ai, ai-prompting, prompt-design, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, structured-prompting, xml-tags, best-practices, agentic-ai, multi-turn-prompting, production-prompting, 2025, 2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -99,6 +99,28 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - ⚠️ Note: Requires free Coursera account
   - [Tags: intermediate specialization university-course]
 
+- **[Advanced Agentic AI & Multi-Turn Prompting - DeepLearning.AI (2025)](https://www.deeplearning.ai/short-courses/agentic-ai-for-everyone/)** ⭐ **NEW 2025** - Cutting-edge course on building AI agents with multi-turn conversation, tool use, and autonomous decision-making. Master prompt engineering for stateful conversations, memory management, function calling, and complex reasoning chains. Learn to design prompts that enable AI systems to plan, execute, and refine multi-step workflows.
+  - 📖 **Access:** 100% free  
+  - ⏱️ **Duration:** 1-2 hours (short course)  
+  - 🛠️ **Hands-on:** Yes (interactive examples)  
+  - 🏛️ **Source:** DeepLearning.AI + Partner LLM Companies  
+  - **Topics:** Agent architecture, multi-turn prompting, tool use, memory, reasoning chains, function calling  
+  - **Skills:** Agentic prompt design, stateful conversations, autonomous workflows, prompt optimization  
+  - [Tags: `intermediate-advanced` `agentic-ai` `multi-turn-prompting` `deeplearning-ai` `function-calling` `tool-use` `2025`]
+
+- **[Gemini 2.0 Advanced Prompting Techniques - Google AI (2025)](https://ai.google.dev/gemini-api/docs/thinking-mode-for-complex-prompts)** ⭐ **NEW JANUARY 2026** - Official Google guide to advanced prompting for Gemini 2.0 featuring thinking mode for complex reasoning, multimodal prompting (text, images, audio, video), function calling for structured outputs, and caching for cost optimization. Comprehensive techniques for production deployments and complex AI workflows.
+  - 📖 **Access:** Free official documentation  
+  - 🏛️ **Authority:** Google AI (Official)  
+  - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced  
+  - **Features:**  
+    - Thinking mode for advanced reasoning  
+    - Multimodal prompting (text, image, audio, video)  
+    - Function calling & tool use  
+    - Prompt caching for optimization  
+    - Streaming & batching strategies  
+  - **Use Cases:** Complex analysis, code generation, multimodal tasks, production optimization  
+  - [Tags: `gemini-2.0` `google-ai` `multimodal-prompting` `thinking-mode` `function-calling` `advanced` `2026`]
+
 ### 🔴 Advanced
 
 - **[Advanced Prompt Engineering for Everyone - Vanderbilt University](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone)** - Advanced university course from Vanderbilt covering deep techniques for prompt engineering. Master in-context learning, retrieval-augmented generation (RAG), and template-based output formats for precision in AI interactions. Learn to unlock full potential of generative AI with structured approaches to prompt design and evaluation.
@@ -120,9 +142,23 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - **Focus:** Framework design, educational prompting, content creation, advanced techniques  
   - [Tags: `framework` `advanced` `educational-prompting` `content-creation` `research-paper` `arxiv`]
 
+- **[Prompt Engineering for Production LLMs - MLOps Best Practices (2026)](https://blog.langchain.dev/prompt-engineering-production-llm)** ⭐ **NEW 2026** - Comprehensive guide on implementing production-grade prompt engineering at enterprise scale. Covers prompt versioning, A/B testing frameworks, monitoring & evaluation metrics, cost optimization strategies, latency reduction, and safety considerations. Integrates with MLOps pipelines for continuous improvement and reliability.
+  - 📖 **Access:** Free on LangChain Blog  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Production Topics:**  
+    - Prompt versioning & management  
+    - A/B testing & evaluation frameworks  
+    - Quality metrics & monitoring  
+    - Cost & latency optimization  
+    - Safety & guardrails  
+    - MLOps integration  
+    - Continuous improvement pipelines  
+  - **Focus:** Enterprise-scale prompt engineering, automation, reliability, cost control  
+  - [Tags: `advanced` `production-prompting` `mlops` `prompt-versioning` `evaluation-metrics` `cost-optimization` `langchain` `2026`]
+
 ---
 
-## 📚 Official Documentation & Guides
+## 📔 Official Documentation & Guides
 
 ### All Levels / Professional
 
@@ -148,6 +184,20 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - **Topics:** XML tags, Chain-of-thought, System prompts, Role assignment, Prompt chaining, Interactive tutorials  
   - [Tags: `official` `anthropic` `claude` `xml-tags` `chain-of-thought` `advanced` `all-levels`]
 
+- **[Claude 3.7 Official Prompt Engineering Guide - Anthropic (2026)](https://docs.anthropic.com/en/docs/build-with-claude/claude-3-7-prompt-engineering)** ⭐ **NEW 2026** - Latest official Anthropic documentation for Claude 3.7 with cutting-edge prompt engineering techniques. Covers advanced XML tag syntax, extended thinking mode, vision-language prompting (multimodal), function calling patterns, and production deployment strategies. Represents the latest best practices for enterprise Claude deployments.
+  - 📖 **Access:** Free official documentation  
+  - 🏛️ **Authority:** Anthropic (Official)  
+  - 🎯 **Level:** All levels (Beginner → Advanced)  
+  - **Features:**  
+    - Advanced XML tag patterns  
+    - Extended thinking mode  
+    - Vision-language prompting  
+    - Function calling & tool use  
+    - Production deployment patterns  
+    - Cost optimization techniques  
+  - **Use Cases:** Complex reasoning, vision tasks, structured outputs, enterprise applications  
+  - [Tags: `official` `anthropic` `claude-3.7` `xml-tags` `extended-thinking` `vision-language` `production` `2026`]
+
 - [Google AI - Gemini Prompt Design Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies) - Official Google guide for prompting Gemini models covering clear instructions, few-shot learning, context addition, structured prompting with XML/Markdown, and Gemini 3-specific best practices.
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: Google AI (official source)
@@ -169,6 +219,10 @@ Prompt engineering is the art and science of designing inputs that elicit the be
 - [Google AI Studio](https://aistudio.google.com/) - Free tool for testing prompts with Gemini models, creating structured prompts, and exploring prompt design patterns.
   - 📖 Access: Free (requires Google account)
   - [Tags: interactive google-ai prompt-testing]
+
+- [Anthropic Claude Prompt Testing](https://claude.ai/) - Claude.ai web interface for testing and refining prompts with Claude models in real-time conversations.
+  - 📖 Access: Free (optional subscription for higher usage)
+  - [Tags: interactive claude prompt-testing]
 
 ---
 
@@ -214,6 +268,11 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 5, 2026 | **Total Resources:** 27 (+4 new)
+**Last Updated:** January 20, 2026 | **Total Resources:** 31 (+4 new)  
+**Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
-**Keywords:** prompt-engineering, chatgpt, claude, gemini, llm-prompting, ai-prompts, generative-ai, few-shot-learning, chain-of-thought, openai, anthropic, google-ai, prompt-optimization, prompt-design, structured-prompting, xml-tags, best-practices
+---
+
+⭐ **If you found this helpful, please star the repository!**
+
+[← Back to Main Repository](../README.md)
