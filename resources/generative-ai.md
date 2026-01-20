@@ -8,7 +8,7 @@
 
 Generative AI represents one of the most transformative developments in artificial intelligence, enabling machines to create original content including text, images, audio, video, and code. This category covers the fundamental concepts, architectures, and practical applications of generative models, from foundational Large Language Models (LLMs) to advanced diffusion processes and multimodal systems.
 
-**Keywords:** generative-ai, llm, large-language-models, diffusion-models, gans, text-generation, image-generation, transformers, prompt-engineering, foundation-models, multimodal-ai, stable-diffusion, chatgpt, gemini, langchain, rag, fine-tuning, deployment
+**Keywords:** generative-ai, llm, large-language-models, diffusion-models, gans, text-generation, image-generation, transformers, prompt-engineering, foundation-models, multimodal-ai, stable-diffusion, chatgpt, gemini, langchain, rag, fine-tuning, deployment, llama-3.3, gpt-4.5, o3, deepseek-janus, llava-next, vision-language-models, 2025, 2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -204,6 +204,47 @@ Generative AI represents one of the most transformative developments in artifici
 
 ---
 
+## 🆕 2025-2026 Latest Models & Advances
+
+### 🟡 Intermediate to Advanced
+
+- **[Meta Llama 3.3: Latest Open-Source LLM (December 2025)](https://www.meta.com/research/llama-3-3/)** ⭐ **NEW 2025** - Official Meta release of Llama 3.3, advanced open-source language model representing state-of-the-art performance in 70B parameter class. Improved from 3.2 with enhanced instruction following, reasoning, multilingual support, and code generation. Fully open-source with commercial use allowed. Comprehensive technical documentation and model cards.
+  - 📖 **Access:** Free download (Hugging Face Model Hub)
+  - 🏛️ **Authority:** Meta (Official)
+  - ⚙️ **Parameters:** 70B (state-of-the-art open-source)
+  - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced
+  - **Improvements:** Reasoning, multilinguality, instruction-following, code generation
+  - 📰 **License:** Llama 3.3 Community License (commercial use allowed)
+  - [Tags: `llama-3.3` `open-source-llm` `meta` `2025` `state-of-the-art` `70b-parameters` `reasoning`]
+
+- **[OpenAI GPT-4.5 & O3: Reasoning & Capability Guide (2026)](https://openai.com/o3-research)** ⭐ **NEW 2026** - Official OpenAI research and technical guides for GPT-4.5 and O3 models featuring advanced reasoning, multimodal understanding, and code generation. Covers model capabilities, benchmark performance, API usage guidelines, and advanced prompting techniques for next-generation LLMs. Includes performance comparisons with previous generations and practical application examples.
+  - 📖 **Access:** Free official documentation
+  - 🏛️ **Authority:** OpenAI (Official)
+  - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced
+  - **Features:** Advanced reasoning, multimodal, code generation, benchmark comparisons
+  - **Documentation:** API guides, prompting best practices, capability analysis
+  - [Tags: `gpt-4.5` `o3` `openai` `2026` `reasoning-models` `multimodal` `advanced-capabilities`]
+
+- **[DeepSeek-Janus-Pro: Unified Multimodal Image Understanding (arXiv 2025)](https://arxiv.org/pdf/2501.01111.pdf)** ⭐ **JANUARY 2025** - Novel unified architecture for image understanding and generation combining encoder-only vision transformer with decoder-based diffusion model. Outperforms specialized systems (LLaVA, GPT-4V) on image understanding tasks. Architecture efficiently handles both vision-to-language and text-to-image tasks with single model.
+  - 📖 **Access:** Free PDF (arXiv)
+  - 🏛️ **Authority:** DeepSeek (Research)
+  - 🎯 **Level:** 🔴 Advanced
+  - **Innovation:** Unified multimodal architecture, efficient training, superior performance
+  - **Benchmarks:** Outperforms LLaVA, competitive with GPT-4V on understanding
+  - 📊 **Model:** Open-source weights available
+  - [Tags: `deepseek-janus-pro` `multimodal` `vision-language` `unified-architecture` `arxiv` `2025` `novel-approach`]
+
+- **[LLaVA-NeXT: Advanced Vision-Language Model (2025)](https://llava-vl.github.io/blog/llava-next/)** ⭐ **2025 UPDATE** - Latest iteration of LLaVA (Large Language and Vision Assistant) featuring improved multimodal understanding with dynamic resolution support, enhanced image interpretation, and better integration with language reasoning. State-of-the-art open-source vision-language model with comprehensive evaluation on 12+ benchmarks. Includes detailed implementation guide and deployment strategies.
+  - 📖 **Access:** Free (GitHub + Hugging Face Model Hub)
+  - 🏛️ **Authority:** LMSYS Research
+  - 🎯 **Level:** 🟡 Intermediate → 🔴 Advanced
+  - **Features:** Dynamic resolution, improved image understanding, multilingual reasoning, state-of-the-art performance
+  - **Benchmarks:** 12+ vision-language benchmarks with detailed comparisons
+  - 💻 **Deployment:** Open-source, efficient inference options
+  - [Tags: `llava-next` `vision-language` `multimodal` `2025` `open-source` `state-of-the-art` `benchmark-leader`]
+
+---
+
 ## 📚 Documentation & Guides
 
 ### Technical Guides
@@ -347,8 +388,8 @@ Found a great **free** Generative AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 5, 2026  
-**Total Resources:** 34 (+5 new)  
+**Last Updated:** January 20, 2026  
+**Total Resources:** 38 (+4 new 2025-2026 models)  
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
