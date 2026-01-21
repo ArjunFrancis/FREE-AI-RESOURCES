@@ -36,23 +36,23 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: Stanford University (Fei-Fei Li, Andrej Karpathy)
   - [Tags: advanced stanford cnn deep-learning]
 
-- [Stanford CS231n Spring 2025 - Latest Offering](https://www.youtube.com/watch?v=2fq9wYslV0A) **(Advanced)** - The latest 2025 offering of Stanford's legendary deep learning for computer vision course. Updated with latest vision transformer techniques, foundation models, diffusion-based image generation, and modern computer vision architectures. Free video lectures available with all course materials. (🔴 Advanced)
+- **[Stanford CS231n Spring 2025 - Latest Offering](https://www.youtube.com/watch?v=2fq9wYslV0A)** 🔴 **Advanced** — The latest 2025 offering of Stanford's legendary deep learning for computer vision course. Updated with latest vision transformer techniques, foundation models, diffusion-based image generation, and modern computer vision architectures. Free video lectures available with all course materials covering state-of-the-art visual recognition methods.
   - 📖 Access: Fully open on YouTube with materials
   - 🏛️ Authority: Stanford University (2025 edition)
   - ⏱️ Duration: Full semester course with video lectures
-  - 📺 Format: Complete lecture videos, assignments, projects
+  - 🞥 Format: Complete lecture videos, assignments, projects
   - 🔧 Topics: Vision transformers, foundation models, diffusion models, state-of-the-art CV
   - [Tags: stanford cs231n 2025 spring advanced vision-transformers foundation-models]
 
-- [MIT Advances in Computer Vision - Spring 2025](https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/) **(Advanced)** - Cutting-edge MIT course on advanced computer vision covering geometry in computer vision, 3D reconstruction, image formation, representation theory, and modern deep learning approaches. Spring 2025 offering with latest research. Full course materials and lectures available. (🔴 Advanced)
+- [MIT Advances in Computer Vision - Spring 2025](https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/) **(Advanced)** - Cutting-edge MIT course on advanced computer vision covering geometry in computer vision, 3D reconstruction, image formation, representation theory, and modern deep learning approaches. Spring 2025 offering with latest research. Full course materials and lectures available.
   - 📖 Access: Fully open on MIT OpenCourseWare, free
   - 🏛️ Authority: MIT (leading research institution)
-  - 📖 Coverage: Geometry, 3D, representation learning, modern architectures
-  - 📺 Format: Lecture materials, readings, assignments
+  - 📄 Coverage: Geometry, 3D, representation learning, modern architectures
+  - 🞥 Format: Lecture materials, readings, assignments
   - 🔧 Topics: Camera geometry, 3D reconstruction, geometric transformations, deep learning
   - [Tags: mit advanced-cv 2025 geometry 3d-reconstruction representation-learning]
 
-- [MIT Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **(Advanced)** - Open-source hands-on robotics course covering geometric control, trajectory optimization, 2D/3D computer vision, visual odometry, SLAM, and deep learning for perception in autonomous systems. Bridges traditional CV and embodied intelligence with real-world applications. (🔴 Advanced)
+- [MIT Visual Navigation for Autonomous Vehicles](https://vnav.mit.edu/) **(Advanced)** - Open-source hands-on robotics course covering geometric control, trajectory optimization, 2D/3D computer vision, visual odometry, SLAM, and deep learning for perception in autonomous systems. Bridges traditional CV and embodied intelligence with real-world applications.
   - 📖 Access: Fully open, course materials + code
   - 🏛️ Authority: MIT (Massachusetts Institute of Technology)
   - 🛠️ Hands-on: Robotics projects, practical exercises
@@ -76,24 +76,24 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: University of Colorado Boulder
   - [Tags: intermediate coursera deep-learning applications 2025]
 
-- [Computational Thinking with Computer Vision: Developing AI Competency](https://arxiv.org/html/2503.19006) **(Intermediate)** - Introductory computer science course teaching computational thinking through computer vision applications and AI competency development. Balances technical learning with critical thinking about AI challenges and ethics in modern AI landscape. (🟡 Intermediate)
+- **[Computational Thinking with Computer Vision: Developing AI Competency](https://arxiv.org/html/2503.19006)** 🟡 **Intermediate** — Introductory computer science course teaching computational thinking through computer vision applications and AI competency development. Balances technical learning with critical thinking about AI challenges and ethics in modern AI landscape. Perfect for understanding both technical implementations and responsible AI principles in vision systems.
   - 📖 Access: Free on arXiv
   - 🏛️ Authority: Academic research, educational focus
-  - 📜 Format: Course paper with pedagogical insights
-  - 🎓 Features: Computational thinking, critical thinking, AI literacy
+  - 📄 Format: Course paper with pedagogical insights
+  - 🏍️ Features: Computational thinking, critical thinking, AI literacy
   - [Tags: intermediate educational computer-vision computational-thinking ai-ethics 2025]
 
 ---
 
-## 📘 Tutorials & Practical Guides
+## 📄 Tutorials & Practical Guides
 
 ### 🟢 Beginner-Friendly
 
-- [Roboflow Learn](https://blog.roboflow.com/) **(Beginner/Intermediate)** - Free comprehensive platform with blogs, videos, and documentation for planning, labeling data, training, deploying, and improving computer vision projects in 2025. Beginner-friendly with short actionable content covering latest CV techniques, object detection, image segmentation, and production deployment. (🟢 Beginner to 🟡 Intermediate)
+- [Roboflow Learn](https://blog.roboflow.com/) **(Beginner/Intermediate)** - Free comprehensive platform with blogs, videos, and documentation for planning, labeling data, training, deploying, and improving computer vision projects in 2025. Beginner-friendly with short actionable content covering latest CV techniques, object detection, image segmentation, and production deployment.
   - 📖 Access: Fully free, regularly updated
   - 🏛️ Authority: Roboflow (industry-leading CV platform)
   - 🛠️ Hands-on: Practical tutorials, code examples
-  - 📜 Features: Data labeling, model training, deployment
+  - 📄 Features: Data labeling, model training, deployment
   - [Tags: beginner roboflow practical deployment object-detection tutorials 2025]
 
 - [OpenCV University: Free Computer Vision Courses](https://opencv.org/university/free-courses/) **(Beginner/Intermediate)** - Free comprehensive courses on computer vision and image processing using OpenCV library covering basics to advanced techniques with hands-on coding examples and projects.
@@ -101,35 +101,35 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: OpenCV Foundation (official)
   - [Tags: beginner opencv hands-on courses]
 
-- [Vision-Language Models Bootcamp (OpenCV)](https://opencv.org/university/free-courses/) **(Beginner)** - Free VLM course teaching multimodal AI with hands-on Python examples. Learn CLIP for zero-shot classification, Qwen2.5-VL for image captioning and object detection. Perfect for beginners entering vision-language models and multimodal AI applications. (🟢 Beginner)
+- [Vision-Language Models Bootcamp (OpenCV)](https://opencv.org/university/free-courses/) **(Beginner)** - Free VLM course teaching multimodal AI with hands-on Python examples. Learn CLIP for zero-shot classification, Qwen2.5-VL for image captioning and object detection. Perfect for beginners entering vision-language models and multimodal AI applications.
   - 📖 Access: Fully free, official course
   - 🏛️ Authority: OpenCV Foundation
   - 🛠️ Hands-on: Python notebooks, executable code
-  - 📜 Features: CLIP, Qwen2.5-VL, multimodal AI
+  - 📄 Features: CLIP, Qwen2.5-VL, multimodal AI
   - [Tags: beginner vlm vision-language-models clip multimodal python 2025]
 
-- [OpenCV PyTorch Bootcamp (Free 5-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner/Intermediate)** - Free official OpenCV bootcamp covering PyTorch fundamentals for deep learning with hands-on training. Learn tensors, neural networks, optimization, and real-world applications including object detection and segmentation. (🟢 Beginner to 🟡 Intermediate)
+- [OpenCV PyTorch Bootcamp (Free 5-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner/Intermediate)** - Free official OpenCV bootcamp covering PyTorch fundamentals for deep learning with hands-on training. Learn tensors, neural networks, optimization, and real-world applications including object detection and segmentation.
   - 📖 Access: Fully free, official bootcamp
   - 🏛️ Authority: OpenCV Foundation
   - ⏱️ Duration: 5 hours
   - 🛠️ Hands-on: PyTorch, tensors, neural networks
-  - 📜 Features: Object detection, segmentation, real-world applications
+  - 📄 Features: Object detection, segmentation, real-world applications
   - [Tags: beginner pytorch bootcamp neural-networks deep-learning opencv 2025]
 
-- [OpenCV TensorFlow Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp teaching neural networks, multi-layer perceptrons, and convolutional neural networks (CNNs) for image classification and segmentation. Train your own CNN model on custom datasets in just 3 hours. (🟢 Beginner)
+- [OpenCV TensorFlow Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp teaching neural networks, multi-layer perceptrons, and convolutional neural networks (CNNs) for image classification and segmentation. Train your own CNN model on custom datasets in just 3 hours.
   - 📖 Access: Fully free, official bootcamp
   - 🏛️ Authority: OpenCV Foundation
   - ⏱️ Duration: 3 hours
   - 🛠️ Hands-on: TensorFlow, CNN training on custom data
-  - 📜 Features: Image classification, segmentation
+  - 📄 Features: Image classification, segmentation
   - [Tags: beginner tensorflow cnn bootcamp custom-datasets 2025]
 
-- [OpenCV Fundamentals Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp covering image and video manipulation, object detection, and facial recognition fundamentals. Master the world's largest computer vision library with hands-on practical exercises. (🟢 Beginner)
+- [OpenCV Fundamentals Bootcamp (3-Hour Course)](https://opencv.org/university/free-courses/) **(Beginner)** - Free official OpenCV bootcamp covering image and video manipulation, object detection, and facial recognition fundamentals. Master the world's largest computer vision library with hands-on practical exercises.
   - 📖 Access: Fully free, official bootcamp
   - 🏛️ Authority: OpenCV Foundation (official)
   - ⏱️ Duration: 3 hours
   - 🛠️ Hands-on: Image/video manipulation, object & face detection
-  - 📜 Features: Practical fundamentals, real-time applications
+  - 📄 Features: Practical fundamentals, real-time applications
   - [Tags: beginner opencv bootcamp image-processing video-analysis face-detection 2025]
 
 - [GeeksforGeeks Computer Vision Tutorial](https://www.geeksforgeeks.org/computer-vision/) **(Beginner)** - Comprehensive beginner-friendly tutorial covering computer vision fundamentals, image processing operations, feature detection, object detection methods, and practical Python implementations with clear explanations.
@@ -149,24 +149,24 @@ Computer vision enables machines to interpret and understand visual information 
   - 🏛️ Authority: Ultralytics (YOLO creators)
   - [Tags: beginner project-guide yolo deployment]
 
-- [Learn OpenCV Blog](https://learnopencv.com/) **(Beginner/Intermediate)** - Free, regularly updated blog with detailed tutorials on OpenCV, deep learning for vision, image processing techniques, computer vision projects, and hands-on code examples. Covers beginner to advanced topics in practical, understandable manner. (🟢 Beginner to 🟡 Intermediate)
+- [Learn OpenCV Blog](https://learnopencv.com/) **(Beginner/Intermediate)** - Free, regularly updated blog with detailed tutorials on OpenCV, deep learning for vision, image processing techniques, computer vision projects, and hands-on code examples. Covers beginner to advanced topics in practical, understandable manner.
   - 📖 Access: Fully free, blog-based content
   - 🏛️ Authority: LearnOpenCV (Satya Mallick)
   - 🛠️ Hands-on: Python code + Jupyter notebooks
-  - 📜 Format: Tutorials, project walkthroughs
+  - 📄 Format: Tutorials, project walkthroughs
   - [Tags: beginner blog opencv deep-learning cv-tutorials practical 2025]
 
-- [mint-lab Computer Vision Tutorial](https://github.com/mint-lab/cv_tutorial) **(Beginner/Intermediate)** - Open-source GitHub tutorial including classical computer vision theories and recent ML/DL-based methods with lecture slides, Python code examples using OpenCV and PyTorch. Covers image processing, camera models, pose estimation, object detection, segmentation, tracking, structure-from-motion, and NeRF. (🟢 Beginner to 🟡 Intermediate)
+- [mint-lab Computer Vision Tutorial](https://github.com/mint-lab/cv_tutorial) **(Beginner/Intermediate)** - Open-source GitHub tutorial including classical computer vision theories and recent ML/DL-based methods with lecture slides, Python code examples using OpenCV and PyTorch. Covers image processing, camera models, pose estimation, object detection, segmentation, tracking, structure-from-motion, and NeRF.
   - 📖 Access: Fully open, GitHub repository
   - 🏛️ Authority: SeoulTech University (Educational)
   - 🛠️ Hands-on: Python with OpenCV & PyTorch
-  - 📜 Format: Lecture slides + code examples
+  - 📄 Format: Lecture slides + code examples
   - 💾 Sections: 14 comprehensive modules
   - [Tags: beginner github tutorial opencv pytorch classical-cv deep-learning 2025]
 
 ---
 
-## 📚 Official Framework Documentation
+## 📉 Official Framework Documentation
 
 ### 🟡 Intermediate
 
@@ -177,25 +177,25 @@ Computer vision enables machines to interpret and understand visual information 
 
 ### 🔴 Advanced
 
-- [Ultralytics YOLO Guides](https://docs.ultralytics.com/guides/) **(Advanced)** - Comprehensive collection of production-ready tutorials covering YOLO object detection, instance segmentation, pose estimation, tracking, and deployment. Includes model training best practices, optimization tips for batch sizes, mixed precision, pretrained weights, and real-world computer vision workflows. (🔴 Advanced)
+- [Ultralytics YOLO Guides](https://docs.ultralytics.com/guides/) **(Advanced)** - Comprehensive collection of production-ready tutorials covering YOLO object detection, instance segmentation, pose estimation, tracking, and deployment. Includes model training best practices, optimization tips for batch sizes, mixed precision, pretrained weights, and real-world computer vision workflows.
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: Ultralytics (YOLO creators)
   - 🛠️ Hands-on: PyTorch-based framework
-  - 📜 Features: YOLO11, segmentation, pose, tracking
+  - 📄 Features: YOLO11, segmentation, pose, tracking
   - [Tags: advanced yolo pytorch production training-tips optimization 2025]
 
-- [DINOv2: Learning Robust Visual Features without Supervision (Meta AI)](https://arxiv.org/abs/2304.07193) **(Advanced)** - Breakthrough foundation model for computer vision from Meta AI. Learns all-purpose visual features from unlabeled data, works across image distributions and tasks without fine-tuning. Achieves state-of-the-art results on downstream vision tasks, enabling zero-shot transfer learning. Released with pre-trained weights for immediate use. Represents modern paradigm shift in CV toward foundation models. (🔴 Advanced)
+- [DINOv2: Learning Robust Visual Features without Supervision (Meta AI)](https://arxiv.org/abs/2304.07193) **(Advanced)** - Breakthrough foundation model for computer vision from Meta AI. Learns all-purpose visual features from unlabeled data, works across image distributions and tasks without fine-tuning. Achieves state-of-the-art results on downstream vision tasks, enabling zero-shot transfer learning. Released with pre-trained weights for immediate use. Represents modern paradigm shift in CV toward foundation models.
   - 📖 Access: Free on arXiv with code and weights released
   - 🏛️ Authority: Meta AI Research
   - 🛠️ Hands-on: Pre-trained models available for download
-  - 📜 Features: Self-supervised learning, zero-shot transfer, dense predictions
+  - 📄 Features: Self-supervised learning, zero-shot transfer, dense predictions
   - 🔧 Applications: Image classification, segmentation, detection without fine-tuning
   - [Tags: advanced dinov2 meta-ai foundation-models self-supervised zero-shot 2024]
 
-- [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191) **(Advanced)** - Foundation model for video understanding using both generative and discriminative learning. Extends computer vision to temporal/dynamic domain with strong performance on video classification, action detection, and temporal understanding. Addresses gap in video-level foundation models. (🔴 Advanced)
+- [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191) **(Advanced)** - Foundation model for video understanding using both generative and discriminative learning. Extends computer vision to temporal/dynamic domain with strong performance on video classification, action detection, and temporal understanding. Addresses gap in video-level foundation models.
   - 📖 Access: Free on arXiv with models released
   - 🏛️ Authority: Academic research (generative/discriminative approach)
-  - 📜 Features: Video foundation model, temporal understanding, dual learning
+  - 📄 Features: Video foundation model, temporal understanding, dual learning
   - 🔧 Applications: Video classification, action detection, temporal analysis
   - [Tags: advanced video-foundation-models temporal-understanding generative-discriminative 2022-2025]
 
@@ -236,6 +236,6 @@ Found a great free computer vision resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 14, 2026 | **Total Resources:** 25 (updated from 20)
+**Last Updated:** January 21, 2026 | **Total Resources:** 27 (+2 new)
 
-**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, tensorflow, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv, bootcamp, foundation-models, dinov2, video-foundation-models, 2025
+**Keywords:** computer-vision, opencv, object-detection, image-segmentation, image-classification, cnn, convolutional-neural-networks, facial-recognition, video-analysis, image-processing, deep-learning-vision, transfer-learning, yolo, pytorch, tensorflow, stanford-cs231n, roboflow, vision-language-models, vlm, multimodal-ai, autonomous-vehicles, slam, learnopencv, bootcamp, foundation-models, dinov2, video-foundation-models, computational-thinking, ai-ethics, 2025
