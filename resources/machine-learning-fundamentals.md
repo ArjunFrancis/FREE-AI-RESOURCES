@@ -124,6 +124,22 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
 
 ### 🔴 Advanced
 
+- **[CS229: Machine Learning by Andrew Ng (Stanford University)](https://cs229.stanford.edu/)** 🔴 Advanced — Comprehensive graduate-level Stanford course covering supervised learning (linear/logistic regression, SVMs, neural networks), unsupervised learning (clustering, dimensionality reduction), learning theory, and reinforcement learning. Full lecture notes, problem sets, and video recordings available. The authoritative course for advanced ML theory and practice from the legendary Andrew Ng.
+  - 📖 Access: Fully free (full course materials and videos)
+  - 🏛️ Authority: Andrew Ng, Stanford University (graduate-level)
+  - 🛠️ Hands-on: Yes (problem sets, projects)
+  - 📄 Resources: Complete lecture notes, problem sets, video recordings
+  - 🎯 Topics: Supervised learning, unsupervised learning, learning theory, RL, SVMs, neural networks
+  - ⏱️ Duration: Full semester (14 weeks)
+  - [Tags: advanced stanford cs229 andrew-ng supervised-learning unsupervised-learning neural-networks learning-theory graduate-level 2026]
+
+- **[Matrix Calculus for Machine Learning and Beyond](https://arxiv.org/abs/2501.07502)** 🔴 Advanced — Advanced mathematics course covering differential calculus on vector spaces, matrix calculus, gradients, Jacobians, and Hessians with applications to optimization and large-scale ML algorithms. Essential mathematical foundations for understanding deep learning optimization and advanced ML techniques. Free course materials and lecture notes.
+  - 📖 Access: Fully free (university course materials + arXiv)
+  - 📄 Format: University lecture notes and tutorials
+  - 🎯 Topics: Matrix calculus, vector derivatives, optimization, gradient-based methods, large-scale ML
+  - 🏛️ Authority: University course, 2025 publication
+  - [Tags: advanced matrix-calculus linear-algebra optimization gradient-descent deep-learning mathematical-foundations 2025]
+
 - **[Information-Theoretic Foundations for Machine Learning (arXiv 2024)](https://arxiv.org/pdf/2407.12288.pdf)** 🔴 Advanced — Cutting-edge theoretical framework for ML rooted in Bayesian statistics and Shannon's information theory. Characterizes optimal Bayesian learner performance and fundamental limits of information across i.i.d., sequential, and various data settings. Deep mathematical treatment unifying analysis of ML phenomena with very general theoretical results and specific insights.
   - 📖 Access: Free PDF (arXiv)
   - 🔬 Research: Theoretical foundations, information theory
@@ -187,6 +203,6 @@ Found a great free machine learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 18, 2026 | **Total Resources:** 16 (+3 new)
+**Last Updated:** January 21, 2026 | **Total Resources:** 18 (+2 new)
 
-**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle, simplilearn, geeksforgeeks, 365datascience, reinforcement-learning, coursera, arxiv, information-theory, bayesian-statistics, 2026, 2024, 2022
+**Keywords:** machine-learning, supervised-learning, unsupervised-learning, regression, classification, clustering, decision-trees, random-forest, svm, model-evaluation, scikit-learn, python, andrew-ng, stanford, mit, kaggle, simplilearn, geeksforgeeks, 365datascience, reinforcement-learning, coursera, arxiv, information-theory, bayesian-statistics, matrix-calculus, cs229, 2026, 2024, 2022
