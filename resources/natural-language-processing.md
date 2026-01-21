@@ -38,7 +38,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 
 - [Intellipaat: Free NLP Course with Certificate](https://intellipaat.com/academy/course/nlp-free-course/) – Self-paced course covering NLP fundamentals including tokenization, stemming, word files, and text mining using Python. 11 comprehensive lectures with free certification. (🟢 Beginner)
   - 📖 Access: Free account required
-  - 📜 Certificate: Yes (free)
+  - 📄 Certificate: Yes (free)
   - 🛠️ Hands-on: Yes, Python code examples
   - ⏱️ Duration: Self-paced
   - [Tags: certification tokenization text-mining python beginner 2024]
@@ -52,7 +52,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 
 - [Simplilearn: Free NLP Course with Certificate](https://www.simplilearn.com/learn-basics-of-natural-language-processing-free-course-skillup) – Beginner-friendly introduction to NLP, AI applications, and machine learning basics. Perfect for those starting their NLP journey. (🟢 Beginner)
   - 📖 Access: Free account required
-  - 📜 Certificate: Yes (free)
+  - 📄 Certificate: Yes (free)
   - [Tags: ai-applications ml-basics nlp-intro beginner 2021]
   - [Verified: 2025-12-16]
 
@@ -71,28 +71,30 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Natural Language Processing 4 All (NLP4All)](https://nlp4all.org/) – Web-based tool designed to broaden participation in NLP for K-16 students and learners without coding skills. Makes NLP concepts accessible through interactive interface. (🟢 Beginner)
   - 📖 Access: Fully open, no coding required
   - 🏛️ Authority: Research-backed educational platform
-  - 🌍 Global: Accessible worldwide, designed for diverse learners
+  - 🌐 Global: Accessible worldwide, designed for diverse learners
   - [Tags: education accessibility k16-learning nlp-concepts no-code 2021]
   - [Verified: 2025-12-16]
 
 - [KnowledgeHut: Free NLP Course with Certificate](https://www.knowledgehut.com/free-courses/free-nlp-course-with-certificate) – Self-paced 18+ hours covering NLP fundamentals, transformers, and practical applications with certificate of completion. (🟢 Beginner)
   - 📖 Access: Free account required
-  - 📜 Certificate: Yes (free)
+  - 📄 Certificate: Yes (free)
   - ⏱️ Duration: 18+ hours
   - [Tags: certification nlp-basics transformers self-paced beginner 2025]
   - [Verified: 2025-12-16]
 
-- [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) – 18-lesson comprehensive course by Microsoft covering foundational concepts of generative AI and LLMs. Includes prompt engineering, model selection, and building generative applications. All materials freely available on GitHub. (🟢 Beginner)
-  - 📖 Access: Fully open (GitHub repository)
-  - 🏛️ Authority: Microsoft
-  - 🛠️ Hands-on: Yes, code examples and exercises
-  - ⏱️ Duration: 18 lessons, self-paced
-  - [Tags: microsoft github generative-ai llm prompt-engineering beginner 2024]
-  - [Verified: 2025-12-17]
+- **[Generative AI for Beginners: 21 Lessons (Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)** 🟢 Beginner — Comprehensive 21-lesson free course by Microsoft covering fundamentals of generative AI and large language models. Learn about transformer architectures, prompt engineering, building GenAI applications, ChatGPT, RAG systems, fine-tuning, and responsible AI practices. All course materials including videos, code examples, and resources freely available on GitHub. Perfect entry point for learning modern generative AI and LLMs.
+  - 📖 Access: Fully free (GitHub repository, no login required)
+  - 🏛️ Authority: Microsoft (official open-source course)
+  - 🛠️ Hands-on: Yes (code examples, exercises, projects)
+  - ⏱️ Duration: 21 lessons, self-paced (4-6 weeks recommended)
+  - 🎯 Topics: Generative AI fundamentals, LLMs, transformers, prompt engineering, chatbots, RAG, fine-tuning, responsible AI, model deployment
+  - 📄 Format: Markdown lessons + code notebooks + video links
+  - [Tags: microsoft github generative-ai llm prompt-engineering beginner 21-lessons 2024]
+  - [Verified: 2025-01-21]
 
 - [Learn NLP for Free - Complete Beginner Guide (YouTube)](https://www.youtube.com/watch?v=gVAJ_l_S7uQ) – Educational video guide explaining how to start learning NLP from scratch with recommended free resources, learning paths, and prerequisite knowledge. Perfect roadmap for complete beginners with no prior experience. (🟢 Beginner)
   - 📖 Access: Fully open (YouTube)
-  - 📺 Video: Comprehensive learning roadmap
+  - 🞥 Video: Comprehensive learning roadmap
   - 🏛️ Authority: Educational YouTube channel
   - [Tags: youtube beginner-guide learning-roadmap free-resources 2022]
   - [Verified: 2025-12-31]
@@ -109,14 +111,14 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Hugging Face Transformers Tutorial (YouTube)](https://www.youtube.com/watch?v=zydauf0KrEc) – Practical 17-minute video tutorial demonstrating how to use Hugging Face Transformers library for classification, QA, NER, summarization, and text generation. Includes GitHub code examples. (🟡 Intermediate)
   - 📖 Access: Fully open (YouTube)
   - 🛠️ Hands-on: Yes, GitHub notebook provided
-  - 📺 Video: 17 minutes with complete code walkthrough
+  - 🞥 Video: 17 minutes with complete code walkthrough
   - [Tags: youtube huggingface tutorial practical-examples intermediate 2022]
   - [Verified: 2025-12-16]
 
 - [Mastering NLP Transformers Pipeline Tutorial](https://www.youtube.com/watch?v=cLtKAhaUqeo) – Comprehensive video tutorial on building complete NLP transformer pipelines including sentiment analysis, NER, summarization, question-answering. Includes Kaggle notebook and GitHub code. (🟡 Intermediate)
   - 📖 Access: Fully open (YouTube + Kaggle)
   - 🛠️ Hands-on: Yes, Kaggle notebook + GitHub repo
-  - 📺 Video: Full pipeline tutorial
+  - 🞥 Video: Full pipeline tutorial
   - [Tags: transformers pipeline kaggle hands-on intermediate 2023]
   - [Verified: 2025-12-16]
 
@@ -165,7 +167,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [The Self-Taught NLP Engineer: A Complete Curriculum](https://jamescalam.medium.com/the-self-taught-nlp-engineer-curriculum-c425c3fc3ff6) – Comprehensive learning roadmap covering prerequisites, core NLP topics, advanced techniques, and career guidance. Structured curriculum with recommended resources, project ideas, and timeline. (🟡 Intermediate)
   - 📖 Access: Fully open (Medium article)
   - 🏛️ Authority: James Clam (NLP expert)
-  - 📋 Type: Learning curriculum and roadmap
+  - 📉 Type: Learning curriculum and roadmap
   - [Tags: curriculum roadmap self-taught learning-path intermediate 2022]
   - [Verified: 2025-12-31]
 
@@ -173,7 +175,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open, no login or paywall
   - 🛠️ Hands-on: Yes, practical code examples
   - ⏱️ Duration: Self-paced, comprehensive
-  - 📝 Topics: Tokenization, embeddings, attention, BERT, GPT, fine-tuning, question-answering, transfer learning
+  - 📃 Topics: Tokenization, embeddings, attention, BERT, GPT, fine-tuning, question-answering, transfer learning
   - [Tags: nlp-demystified free-course transformers bert gpt fine-tuning intermediate 2025]
   - [Verified: 2025-01-07]
 
@@ -181,7 +183,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Free access to course materials
   - 🛠️ Hands-on: Yes, Python scripts, Google Colab, Jupyter Notebooks
   - 🏛️ Authority: UC San Diego (official extended studies)
-  - 📝 Topics: Text preprocessing, word embeddings, RNNs, LSTMs, Transformers, GPT, BERT, language modeling, machine translation
+  - 📃 Topics: Text preprocessing, word embeddings, RNNs, LSTMs, Transformers, GPT, BERT, language modeling, machine translation
   - [Tags: ucsd extended-studies comprehensive-nlp transformers bert gpt intermediate 2025]
   - [Verified: 2025-01-14]
 
@@ -189,7 +191,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open, official TensorFlow documentation
   - 🛠️ Hands-on: Yes, complete code examples and configuration
   - 🏛️ Authority: TensorFlow (official)
-  - 📝 Topics: BERT configuration, AdamW optimizer, learning rate scheduling, training, evaluation, inference
+  - 📃 Topics: BERT configuration, AdamW optimizer, learning rate scheduling, training, evaluation, inference
   - [Tags: tensorflow official bert fine-tuning adamw training intermediate 2025]
   - [Verified: 2025-01-14]
 
@@ -197,7 +199,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open, comprehensive guide
   - 🛠️ Hands-on: Yes, complete PyTorch code examples
   - 🏛️ Authority: MachineLearningMastery.com
-  - 📝 Topics: GLUE tasks, SQuAD QA, tokenization, training loops, evaluation metrics
+  - 📃 Topics: GLUE tasks, SQuAD QA, tokenization, training loops, evaluation metrics
   - [Tags: pytorch mastery glue squad fine-tuning code-examples intermediate 2025]
   - [Verified: 2025-01-14]
 
@@ -205,7 +207,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open, detailed blog post
   - 🛠️ Hands-on: Yes, complete implementation with arXiv dataset
   - 🏛️ Authority: LearnOpenCV (trusted computer vision & ML platform)
-  - 📝 Topics: Arxiv classification, dataset preparation, Hugging Face transformers, evaluation metrics, inference
+  - 📃 Topics: Arxiv classification, dataset preparation, Hugging Face transformers, evaluation metrics, inference
   - [Tags: huggingface arxiv-classification real-world-example text-classification intermediate 2025]
   - [Verified: 2025-01-14]
 
@@ -213,11 +215,11 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open, interactive tutorial
   - 🛠️ Hands-on: Yes, complete PyTorch implementation
   - 🏛️ Authority: DataCamp (official tutorial)
-  - 📝 Topics: Multi-head attention, positional encoding, encoder blocks, decoder blocks, training loops
+  - 📃 Topics: Multi-head attention, positional encoding, encoder blocks, decoder blocks, training loops
   - [Tags: datacamp pytorch transformer architecture from-scratch intermediate 2025]
   - [Verified: 2025-01-14]
 
-- **[Retrieval Augmented Generation (RAG) Deep Dive - DeepLearning.AI (2025)](https://www.deeplearning.ai/short-courses/retrieval-augmented-generation-rag/)** ⭐ **NEW 2025** - Comprehensive 2-hour course on building production-grade RAG systems. Master retrieval techniques, dense vs. sparse retrievers, re-ranking, evaluation metrics, and RAG optimization strategies. Learn how to augment LLMs with custom knowledge bases for grounded, accurate responses. Hands-on labs with Hugging Face, LangChain, and vector databases.
+- [Retrieval Augmented Generation (RAG) Deep Dive - DeepLearning.AI (2025)](https://www.deeplearning.ai/short-courses/retrieval-augmented-generation-rag/) – Comprehensive 2-hour course on building production-grade RAG systems. Master retrieval techniques, dense vs. sparse retrievers, re-ranking, evaluation metrics, and RAG optimization strategies. Learn how to augment LLMs with custom knowledge bases for grounded, accurate responses. Hands-on labs with Hugging Face, LangChain, and vector databases.
   - 📖 **Access:** 100% free (DeepLearning.AI)
   - ⏱️ **Duration:** 2 hours (short course)
   - 🛠️ **Hands-on:** Yes (practical labs)
@@ -233,13 +235,13 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 
 ### 🔴 Advanced
 
-- [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) – World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP. (🔴 Advanced)
+- **[Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)** 🔴 Advanced — World-renowned Stanford course by Christopher Manning covering neural networks, RNNs, LSTMs, transformers, language models, and RLHF. Official course website with lecture videos, assignments, and materials. The gold standard for deep learning NLP with comprehensive coverage of modern techniques.
   - 📖 Access: Fully open, official course site + YouTube
   - 🏛️ Authority: Stanford University (Christopher Manning, Director of Stanford AI Lab)
   - 🛠️ Hands-on: Assignments and past projects available
-  - 📺 Video: [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOBuwVSdefLN0E1g6lA7YwM)
+  - 🞥 Video: [YouTube Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOBuwVSdefLN0E1g6lA7YwM)
   - ⏱️ Duration: Winter 2025 offering, comprehensive
-  - 📝 Topics: Deep learning fundamentals, RNNs, LSTMs, seq2seq, attention, transformers, BERT, GPT, LLMs, RLHF, inference, scaling
+  - 📃 Topics: Deep learning fundamentals, RNNs, LSTMs, seq2seq, attention, transformers, BERT, GPT, LLMs, RLHF, inference, scaling
   - [Tags: stanford cs224n deep-learning transformers christopher-manning advanced 2025]
   - [Verified: 2025-01-07]
 
@@ -247,9 +249,9 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open (course website + videos)
   - 🏛️ Authority: Carnegie Mellon University (LTI Department)
   - 🛠️ Hands-on: Yes, research-focused assignments and final project
-  - 📺 Video: Full lecture videos and recitation sessions
+  - 🞥 Video: Full lecture videos and recitation sessions
   - ⏱️ Duration: Spring 2025, graduate-level depth
-  - 📝 Topics: Tokenization, neural networks, RNNs, transformers, prompting, fine-tuning, inference, reinforcement learning, multimodal models, agents
+  - 📃 Topics: Tokenization, neural networks, RNNs, transformers, prompting, fine-tuning, inference, reinforcement learning, multimodal models, agents
   - 🎯 Projects: Literature survey, competitive baseline reproduction, research project
   - [Tags: cmu advanced-nlp spring-2025 research modern-methods neural-networks cutting-edge advanced 2025]
   - [Verified: 2025-01-07]
@@ -257,7 +259,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Georgia Tech OMSCS: CS 7650 Natural Language Processing](https://omscs.gatech.edu/cs-7650-natural-language-processing) – Graduate-level NLP overview course covering modern data-driven techniques from shallow models to rich structural representations. Covers fundamental algorithms for text processing, language models, and NLP applications. (🔴 Advanced)
   - 📖 Access: Fully open, official course materials
   - 🏛️ Authority: Georgia Tech (OMSCS - Online Masters Program)
-  - 📝 Topics: Text classification, language models, machine translation, dialogue systems, information extraction
+  - 📃 Topics: Text classification, language models, machine translation, dialogue systems, information extraction
   - 🎯 Skills: Implementation of NLP algorithms, statistical and neural approaches, problem-solving for real-world NLP tasks
   - [Tags: georgia-tech omscs graduate-level nlp language-models advanced 2025]
   - [Verified: 2025-01-14]
@@ -265,7 +267,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Foundations of Large Language Models (arXiv 2501.09223)](https://arxiv.org/abs/2501.09223) – Comprehensive academic book on LLM foundations covering pre-training, generative models, prompting techniques, alignment methods, and inference. Covers foundational concepts for students, professionals, and researchers in NLP and AI. Published January 2025, updated June 2025. (🔴 Advanced)
   - 📖 Access: Fully open (arXiv, PDF download)
   - 🏛️ Authority: Academic research (arXiv publication)
-  - 📝 Topics: Pre-training, generative models, prompting, alignment, inference, LLM theory
+  - 📃 Topics: Pre-training, generative models, prompting, alignment, inference, LLM theory
   - ⏱️ Duration: Self-paced academic reference
   - 🎯 Audience: College students, professionals, practitioners, researchers
   - 🔗 Format: Book-style with 5 main chapters
@@ -275,26 +277,26 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Fine-Tune an Open-Source LLM: Step-by-Step 2025 Edition](https://www.ashutosh.dev/how-to-fine-tune-an-open-source-llm-step-by-step-2025-edition/) – Comprehensive step-by-step guide to fine-tuning open-source LLMs (Mistral, LLaMA, Gemma) with detailed explanations of QLoRA, LoRA, PEFT, and parameter-efficient techniques. Includes model selection, dataset preparation, tokenization, training setup, hyperparameter tuning, and deployment. (🔴 Advanced)
   - 📖 Access: Fully open (blog post)
   - 🛠️ Hands-on: Yes, code examples and JSON schemas
-  - 📝 Topics: Model selection, QLoRA/LoRA, dataset preparation, tokenization, training environment, hyperparameter tuning, deployment
+  - 📃 Topics: Model selection, QLoRA/LoRA, dataset preparation, tokenization, training environment, hyperparameter tuning, deployment
   - 🏛️ Authority: Industry practitioner (Ashutosh Sharma)
-  - 📊 Details: Covers Mistral, LLaMA 3, Gemma, Phi-3; explains hardware requirements
+  - 📈 Details: Covers Mistral, LLaMA 3, Gemma, Phi-3; explains hardware requirements
   - [Tags: fine-tuning lora-qlora mistral llama gemma instruction-tuning 2025 advanced]
   - [Verified: 2025-01-07]
 
 - [Instruction Fine-Tuning with Open-Source LLMs](https://www.emergentmind.com/topics/instruction-fine-tuning-with-open-source-llms) – Comprehensive guide on instruction fine-tuning paradigms for adapting LLMs to follow explicit instructions. Covers principles, parameter-efficient methods (LoRA/QLoRA), best practices, benchmarks (MT-Bench, AlpacaEval), and applications across domains (finance, medical, code). Updated December 2025. (🔴 Advanced)
   - 📖 Access: Fully open (research guide)
-  - 📝 Topics: Instruction fine-tuning principles, parameter-efficient methods, LoRA/QLoRA, best practices, domain applications
+  - 📃 Topics: Instruction fine-tuning principles, parameter-efficient methods, LoRA/QLoRA, best practices, domain applications
   - 🏛️ Authority: Emergent Mind (AI research aggregator)
   - 🎯 Benchmarks: MT-Bench, AlpacaEval, HHH, domain-specific evaluation
-  - 📊 Applications: Financial, medical, code, educational models
+  - 📈 Applications: Financial, medical, code, educational models
   - [Tags: instruction-fine-tuning parameter-efficient qlora lora best-practices benchmarks advanced 2025]
   - [Verified: 2025-01-07]
 
 - [Intro to Fine-Tuning Large Language Models (freeCodeCamp, 2025)](https://www.youtube.com/watch?v=H-oCV5brtU4) – Comprehensive YouTube course (2+ hours) covering fine-tuning LLMs from theory to practice. Includes supervised fine-tuning (SFT), reinforcement learning from human feedback (RLHF), and QLoRA for fine-tuning massive models on consumer hardware. Practical implementation with Python, PyTorch, and Hugging Face. (🟡 Intermediate-Advanced)
   - 📖 Access: Fully open (YouTube)
   - 🛠️ Hands-on: Yes, practical code examples
-  - 📺 Video: 2+ hours comprehensive tutorial
-  - 📝 Topics: Supervised fine-tuning, RLHF, QLoRA, Llama 70B on consumer GPUs, PyTorch implementation
+  - 🞥 Video: 2+ hours comprehensive tutorial
+  - 📃 Topics: Supervised fine-tuning, RLHF, QLoRA, Llama 70B on consumer GPUs, PyTorch implementation
   - 🏛️ Authority: freeCodeCamp (trusted educational platform)
   - 🎯 Focus: From theoretical foundations to practical deployment
   - [Tags: youtube freecodcamp fine-tuning llm qlohf rlhf pytorch 2025]
@@ -303,7 +305,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 - [Natural Language Processing Full Course 2025 (Edureka)](https://www.youtube.com/watch?v=SNG7yLLh_lA) – Comprehensive 8+ hour NLP course from beginner to advanced covering tokenization, stemming, vectorization, word embeddings, sentiment analysis, BERT, and transformers. Hands-on Python coding with NLTK, spaCy, Hugging Face, and TensorFlow with real-world projects. (🔴 Advanced)
   - 📖 Access: Fully open (YouTube)
   - 🛠️ Hands-on: Yes, complete Python examples with live projects
-  - 📺 Video: 8+ hours comprehensive tutorial with code walkthrough
+  - 🞥 Video: 8+ hours comprehensive tutorial with code walkthrough
   - ⏱️ Duration: Full course (8+ hours)
   - 🏛️ Authority: Edureka (leading online learning platform)
   - **Topics:** Tokenization, stemming, TF-IDF, word embeddings, Word2Vec, sentiment analysis, BERT, Transformers, NER, machine translation
@@ -318,7 +320,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
 
 - [Intro to Large Language Models by Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g) – Comprehensive 1-hour video by former Tesla AI director explaining LLM fundamentals, architecture, training, and inference. Direct insights from top AI researcher. (🔴 Advanced)
   - 📖 Access: Fully open (YouTube)
-  - 📺 Video: 60 minutes comprehensive overview
+  - 🞥 Video: 60 minutes comprehensive overview
   - 🏛️ Authority: Andrej Karpathy (Tesla Director of AI)
   - [Tags: youtube andrej-karpathy llm-fundamentals architecture training inference 2024]
   - [Verified: 2025-12-17]
@@ -334,7 +336,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully open (Hugging Face forum/tutorial)
   - 🛠️ Hands-on: Yes, complete implementation guide
   - 🏛️ Authority: Hugging Face community
-  - 📝 Topics: Encoder-decoder architecture, multi-head attention, positional encoding, testing
+  - 📃 Topics: Encoder-decoder architecture, multi-head attention, positional encoding, testing
   - [Tags: huggingface transformer from-scratch implementation advanced 2024]
   - [Verified: 2025-01-14]
 
@@ -342,13 +344,13 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - 📖 Access: Fully free live + recorded sessions
   - 🏛️ Authority: ODS.AI & Yandex Research (Valentin Malykh)
   - ⏱️ Duration: Spring 2025 (ongoing), 18+ weeks
-  - 🌍 Global: Online sessions, accessible worldwide
-  - 📺 Format: Live lectures + recorded sessions available
-  - 📝 Topics: NLP fundamentals, statistical methods, neural networks, transformers, modern applications
+  - 🌐 Global: Online sessions, accessible worldwide
+  - 🞥 Format: Live lectures + recorded sessions available
+  - 📃 Topics: NLP fundamentals, statistical methods, neural networks, transformers, modern applications
   - [Tags: ods-ai university-level spring-2025 valentin-malykh yandex-research advanced 2025]
   - [Verified: 2025-01-14]
 
-- **[Graph Neural Networks for NLP: Architecture & Applications (Stanford, 2025)](https://web.stanford.edu/class/cs224w/resources/)** ⭐ **NEW 2025** - Advanced course materials from Stanford's Machine Learning with Graphs (CS224W) focusing on GNN architectures and their applications to NLP tasks. Covers graph attention networks, knowledge graph embeddings, relation extraction, and semantic understanding through graph structures. Learn to model language as graphs and build GNN-based NLP systems.
+- [Graph Neural Networks for NLP: Architecture & Applications (Stanford, 2025)](https://web.stanford.edu/class/cs224w/resources/) – Advanced course materials from Stanford's Machine Learning with Graphs (CS224W) focusing on GNN architectures and their applications to NLP tasks. Covers graph attention networks, knowledge graph embeddings, relation extraction, and semantic understanding through graph structures. Learn to model language as graphs and build GNN-based NLP systems.
   - 📖 **Access:** Free course materials (Stanford + YouTube lectures)
   - 🏛️ **Authority:** Stanford University
   - 🛠️ **Hands-on:** Yes (assignments with PyTorch Geometric)
@@ -360,7 +362,7 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
     - NLP task applications  
   - [Tags: `gnn` `graph-neural-networks` `nlp` `stanford` `cs224w` `knowledge-graphs` `advanced` `2025`]
 
-- **[Semantic Search & Vector Databases: Building Production Systems (Pinecone, 2025)](https://www.pinecone.io/learn/semantic-search/)** ⭐ **NEW 2025** - Comprehensive guide to building semantic search systems using vector embeddings and vector databases. Covers embedding models, similarity metrics, vector database selection (Pinecone, Weaviate, Milvus), and production deployment. Learn to build scalable search systems for large document collections, recommendation engines, and retrieval-augmented generation (RAG) systems.
+- [Semantic Search & Vector Databases: Building Production Systems (Pinecone, 2025)](https://www.pinecone.io/learn/semantic-search/) – Comprehensive guide to building semantic search systems using vector embeddings and vector databases. Covers embedding models, similarity metrics, vector database selection (Pinecone, Weaviate, Milvus), and production deployment. Learn to build scalable search systems for large document collections, recommendation engines, and retrieval-augmented generation (RAG) systems.
   - 📖 **Access:** Free learning hub (Pinecone)
   - 🏛️ **Authority:** Pinecone (leading vector DB platform)
   - **Topics:**  
@@ -438,7 +440,7 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** January 20, 2026 | **Total Resources:** 58 (+4 new, 38 courses + 4 docs + 4 tools + 12 advanced guides)  
-**Last Link Validation:** January 20, 2026
+**Last Updated:** January 21, 2026 | **Total Resources:** 60 (+2 new: 40 courses + 4 docs + 4 tools + 12 advanced guides)  
+**Last Link Validation:** January 21, 2026
 
 **Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch, rag, retrieval-augmented-generation, semantic-search, vector-databases, graph-neural-networks, gnn, 2025-2026
