@@ -256,6 +256,19 @@ Natural Language Processing (NLP) enables computers to understand, interpret, an
   - [Tags: cmu advanced-nlp spring-2025 research modern-methods neural-networks cutting-edge advanced 2025]
   - [Verified: 2025-01-07]
 
+- **[Stanford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)** 🔴 Advanced — Stanford course focused on meaning, semantics, and grounded language understanding. Covers distributional semantics, question answering, entailment, semantic parsing, and representation learning for language understanding tasks.
+  - 📖 Access: Fully open, official course site
+  - 🏛️ Authority: Stanford University
+  - 🛠️ Hands-on: Assignments and project guidelines available
+  - 📃 Topics: Semantics, NLU benchmarks, representation learning, question answering, entailment, grounded language
+  - [Tags: stanford cs224u natural-language-understanding semantics advanced 2024]
+
+- **[Oxford Deep Learning for Natural Language Processing (2017)](https://github.com/oxford-cs-deepnlp-2017/)** 🔴 Advanced — Classic Oxford course on deep learning methods for NLP. Provides lecture slides, reading lists, and GitHub materials on RNNs, CNNs, sequence-to-sequence models, attention, and early transformer-style architectures.
+  - 📖 Access: Fully open (GitHub materials + archived lectures)
+  - 🏛️ Authority: University of Oxford
+  - 📃 Topics: RNNs, CNNs, seq2seq, attention, word embeddings, early neural NLP
+  - [Tags: oxford deep-learning-nlp rnn cnn seq2seq attention advanced 2017]
+
 - [Georgia Tech OMSCS: CS 7650 Natural Language Processing](https://omscs.gatech.edu/cs-7650-natural-language-processing) – Graduate-level NLP overview course covering modern data-driven techniques from shallow models to rich structural representations. Covers fundamental algorithms for text processing, language models, and NLP applications. (🔴 Advanced)
   - 📖 Access: Fully open, official course materials
   - 🏛️ Authority: Georgia Tech (OMSCS - Online Masters Program)
@@ -440,7 +453,6 @@ Ensure all resources are:
 
 ---
 
-**Last Updated:** January 21, 2026 | **Total Resources:** 60 (+2 new: 40 courses + 4 docs + 4 tools + 12 advanced guides)  
-**Last Link Validation:** January 21, 2026
+**Last Updated:** January 22, 2026 | **Total Resources:** 62 (courses, docs, tools, and advanced guides)
 
-**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch, rag, retrieval-augmented-generation, semantic-search, vector-databases, graph-neural-networks, gnn, 2025-2026
+**Keywords:** NLP, natural-language-processing, transformers, bert, gpt, language-models, text-classification, sentiment-analysis, machine-translation, huggingface, spacy, nltk, deep-learning, stanford-cs224n, cs224u, cmu-anlp, coursera, llm-2025, fine-tuning, instruction-tuning, free-courses-2025, generative-ai, parameter-efficient-fine-tuning, qlora-lora, tensorflow, pytorch, rag, retrieval-augmented-generation, semantic-search, vector-databases, graph-neural-networks, gnn, 2025-2026
