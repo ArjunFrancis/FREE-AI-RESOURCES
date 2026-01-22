@@ -8,7 +8,7 @@
 
 Generative AI represents one of the most transformative developments in artificial intelligence, enabling machines to create original content including text, images, audio, video, and code. This category covers the fundamental concepts, architectures, and practical applications of generative models, from foundational Large Language Models (LLMs) to advanced diffusion processes and multimodal systems.
 
-**Keywords:** generative-ai, llm, large-language-models, diffusion-models, gans, text-generation, image-generation, transformers, prompt-engineering, foundation-models, multimodal-ai, stable-diffusion, chatgpt, gemini, langchain, rag, fine-tuning, deployment, llama-3.3, gpt-4.5, o3, deepseek-janus, llava-next, vision-language-models, 2025, 2026
+**Keywords:** generative-ai, llm, large-language-models, diffusion-models, gans, text-generation, image-generation, transformers, prompt-engineering, foundation-models, multimodal-ai, stable-diffusion, chatgpt, gemini, langchain, rag, fine-tuning, deployment, llama-3.3, gpt-4.5, o3, deepseek-janus, llava-next, vision-language-models, 2025, 2026, agents, agentic-ai, langgraph, autogen
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -299,6 +299,22 @@ Generative AI represents one of the most transformative developments in artifici
   - **Use Cases:** RAG systems, AI agents, Production LLM apps, Data integration  
   - [Tags: `langchain` `llm-framework` `rag` `agents` `open-source` `production` `python` `javascript` `2025`]
 
+### Agents & Orchestration Frameworks
+
+- **[LangGraph: Building Stateful LLM Agents](https://langchain-ai.github.io/langgraph/)** - Open-source framework for building robust, stateful LLM agents and workflows as graphs. Makes it easy to define tools, memory, branching logic, and error handling for complex AI assistants and multi-step processes.
+  - 📖 **Access:** Fully open documentation and examples
+  - 🏛️ **Source:** LangChain AI (official agent framework)
+  - 🎯 **Level:** 🟡🔴 Intermediate–Advanced
+  - **Use Cases:** Multi-step workflows, tool-using agents, human-in-the-loop review, production-grade assistants
+  - [Tags: `langgraph` `agents` `workflows` `stateful` `langchain` `open-source` `2025`]
+
+- **[Microsoft AutoGen: Multi-Agent Framework for LLM Applications](https://github.com/microsoft/autogen)** - Powerful open-source framework from Microsoft for building multi-agent LLM systems where multiple specialized agents collaborate to solve complex tasks. Supports tool usage, code execution, human feedback, and customizable communication patterns.
+  - 📖 **Access:** 100% open source (GitHub)
+  - 🏛️ **Authority:** Microsoft
+  - 🎯 **Level:** 🟡🔴 Intermediate–Advanced
+  - **Features:** Multi-agent orchestration, tool calling, conversation graphs, human-in-the-loop, integration with OpenAI/Azure/Open-source LLMs
+  - [Tags: `autogen` `microsoft` `multi-agent` `llm-agents` `tool-calling` `open-source` `2024`]
+
 ### Datasets & Resources
 
 - **[RedPajama - Open Dataset for Training LLMs](https://arxiv.org/html/2411.12372)** - Open reproduction of LLaMA training dataset (RedPajama-V1) plus massive web-only dataset (RedPajama-V2) with over 100 trillion tokens. Includes quality signals and metadata for dataset curation.
@@ -364,7 +380,7 @@ Generative AI represents one of the most transformative developments in artifici
 - LLM training connects with [MLOps](mlops.md) for production deployment
 - Diffusion models build on [Mathematics for AI](mathematics-for-ai.md) fundamentals
 - Generative AI tools integrate with [AI Tools & Frameworks](ai-tools-frameworks.md)
-- LangChain enables [RAG systems](prompt-engineering.md) and AI agent workflows
+- LangChain and LangGraph enable [RAG systems](prompt-engineering.md) and AI agent workflows
 
 ---
 
@@ -388,8 +404,9 @@ Found a great **free** Generative AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 20, 2026  
-**Total Resources:** 38 (+4 new 2025-2026 models)  
+**Last Updated:** January 22, 2026  
+**Total Resources:** 40 (courses, docs, tools, frameworks, and 2025-2026 models)
+
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
