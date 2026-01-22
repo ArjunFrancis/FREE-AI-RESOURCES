@@ -67,6 +67,14 @@ Prompt engineering is the art and science of designing inputs that elicit the be
   - **Topics:** Introduction, Advanced techniques, Mastering prompts  
   - [Tags: `official-tutorial` `openai` `video-series` `three-part-course` `intermediate` `2025`]
 
+- **[ChatGPT Prompt Engineering for Developers (DeepLearning.AI & OpenAI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)** - Flagship short course teaching developers how to work effectively with LLMs using real-world examples in Python and JavaScript. Covers prompt patterns for summarization, classification, transformation, and conversation, along with safety, evaluation, and chaining.
+  - 📖 **Access:** Free audit (DeepLearning.AI short course)
+  - 🏛️ **Authority:** DeepLearning.AI + OpenAI (official collaboration)
+  - 🎯 **Level:** 🟡 Intermediate
+  - 🛠️ **Hands-on:** Yes (code labs and exercises)
+  - **Topics:** Prompt patterns, system messages, evaluation, chaining, API usage
+  - [Tags: `deeplearning-ai` `openai` `developers` `prompt-patterns` `api` `intermediate` `2024`]
+
 - **[Guide to OpenAI Prompt Engineering 2025 - eesel AI](https://www.eesel.ai/blog/openai-prompt-engineering)** - 2025 practical guide to prompt engineering fundamentals with OpenAI models. Covers clear instructions, providing context, using examples, defining formats, and real-world business applications. Explains prompt components and best practices without requiring developer expertise.
   - 📖 **Access:** Fully free  
   - 🎯 **Level:** 🟡 Intermediate  
@@ -155,6 +163,13 @@ Prompt engineering is the art and science of designing inputs that elicit the be
     - Continuous improvement pipelines  
   - **Focus:** Enterprise-scale prompt engineering, automation, reliability, cost control  
   - [Tags: `advanced` `production-prompting` `mlops` `prompt-versioning` `evaluation-metrics` `cost-optimization` `langchain` `2026`]
+
+- **[DSPy: Programming Language Models (Stanford, 2024)](https://dspy.ai/)** - Open-source framework from Stanford for programmatically optimizing prompts and inference graphs instead of manually crafting prompts. Uses declarative programs that are automatically compiled into optimized prompts, retrieval pipelines, and tool calls. Ideal for advanced practitioners building production LLM systems.
+  - 📖 **Access:** Fully open-source (website + GitHub)
+  - 🏛️ **Authority:** Stanford/DS4 (research group)
+  - 🎯 **Level:** 🔴 Advanced
+  - **Focus:** Automated prompt optimization, declarative LLM programming, evaluation-driven refinement
+  - [Tags: `advanced` `dspy` `stanford` `prompt-optimization` `declarative-programming` `llm-systems` `2024`]
 
 ---
 
@@ -268,7 +283,7 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 20, 2026 | **Total Resources:** 31 (+4 new)  
+**Last Updated:** January 22, 2026 | **Total Resources:** 33 (+2 new this rotation)
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---
