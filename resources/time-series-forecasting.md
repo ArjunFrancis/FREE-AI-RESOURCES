@@ -135,7 +135,7 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 📖 Access: Free on arXiv
   - 📊 Format: Research paper with experimental methodology
   - 🔧 Topics: LLM reasoning, prompt engineering, zero-shot forecasting, temporal reasoning
-  - 🇳️ Novel: TimeReasoner framework, slow-thinking LLMs for forecasting
+  - 🆕 Novel: TimeReasoner framework, slow-thinking LLMs for forecasting
   - 🔬 Findings: LLMs can capture complex temporal patterns without training
   - [Tags: advanced arxiv llm reasoning prompt-engineering zero-shot temporal timereasonser 2025]
 
@@ -164,6 +164,27 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 📊 Format: Research paper
   - 🔧 Topics: Global models, cross-series learning, transfer learning, transformers
   - [Tags: advanced arxiv google-research transformers cross-learning foundation-models 2023-2024]
+
+- [Adaptive Anomaly Detection in Time Series: A Comprehensive Framework (Jan 2025, arXiv 2501.13254)](https://arxiv.org/abs/2501.13254) – Recent research on adaptive anomaly detection methods for time series using deep learning. Addresses challenges of detecting anomalies in streaming data with concept drift and seasonality. Compares state-of-the-art methods and provides comprehensive evaluation framework. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper with methodology
+  - 🔧 Topics: Anomaly detection, concept drift, deep learning, evaluation metrics
+  - 🔬 Focus: Adaptive and streaming time series
+  - [Tags: advanced arxiv anomaly-detection adaptive concept-drift deep-learning 2025]
+
+- [MetaLS: A Meta-Learning Approach for Time Series Forecasting (Feb 2025, arXiv 2502.03849)](https://arxiv.org/abs/2502.03849) – Novel meta-learning framework for time series forecasting that learns to quickly adapt to new datasets with minimal fine-tuning. Addresses the challenge of transfer learning across diverse time series with different characteristics. Shows improved few-shot performance. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper
+  - 🔧 Topics: Meta-learning, few-shot learning, transfer learning, adaptation
+  - 🆕 Novel: Meta-learning paradigm for time series forecasting
+  - [Tags: advanced arxiv meta-learning few-shot transfer-learning adaptation 2025]
+
+- [Hierarchical and Grouped Time Series Forecasting (Nixtla's NeuralForecast)](https://github.com/Nixtla/neuralforecast) – State-of-the-art open-source library for hierarchical and grouped time series forecasting. Includes modern architectures (Transformers, N-BEATS, MLP-Mixer) optimized for reconciliation at different hierarchical levels. Production-ready with extensive documentation and examples. (🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, PyTorch, optimized for scale
+  - 🔧 Topics: Hierarchical forecasting, reconciliation, modern architectures, distributed training
+  - ⭐ Production: Used globally with GPU support and distributed training
+  - [Tags: advanced github neuralforecast hierarchical-forecasting reconciliation pytorch 2024-2025]
 
 ---
 
@@ -222,6 +243,9 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
 - **Cross-Learning**: Global models learning across diverse time series domains
 - **Agentic Forecasting**: Autonomous forecasting systems with reasoning and planning
 - **Temporal Reasoning**: Moving beyond statistical patterns to causal and semantic understanding
+- **Meta-Learning**: Few-shot adaptation to new datasets with minimal fine-tuning
+- **Adaptive Anomaly Detection**: Real-time detection in streaming data with concept drift
+- **Hierarchical Reconciliation**: Advanced methods for reconciling forecasts across hierarchical levels
 - **Multimodal Time Series**: Combining numeric data with textual context and external knowledge
 
 ---
@@ -246,6 +270,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 17, 2026 | **Total Resources:** 26 (Courses: 23 + Tools: 3 + Advanced Research)
+**Last Updated:** February 3, 2026 | **Total Resources:** 30 (Courses: 23 + Tools: 3 + Advanced Research: 4)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, 2025-2026
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, 2025-2026
