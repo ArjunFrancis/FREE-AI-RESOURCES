@@ -85,6 +85,14 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 📖 Access: Fully open, free enrollment
   - [Tags: nvidia, free-course, robotics, isaac-sim, beginner, official]
 
+- [Machine Learning with LEGO Robotics (Interactive Platform)](https://learning-and-dynamics.github.io/ml-with-bricks/) – Programming-free web-based platform for teaching machine learning to ages 12-17 using LEGO robots. Interactive visualizations combined with tangible robotics to teach KNN, linear regression, and Q-learning. Open-source with video tutorials available. (🟢 Beginner)
+  - 📖 Access: Fully open, free, no authentication
+  - 🌐 Platform: Web-based, browser-accessible
+  - 🛠️ Hands-on: Yes, with LEGO robotics
+  - 💻 Tools: LEGO Mindstorms, interactive visualizations, Python backend
+  - 📹 Video tutorials: Free YouTube playlist included
+  - [Tags: beginner lego-robotics ml-fundamentals programming-free interactive hands-on 2026]
+
 ### 🟡 Intermediate
 
 - [Programming for Robotics - ROS (ETH Zurich)](https://rsl.ethz.ch/education-students/lectures/ros.html) – Comprehensive ROS programming course from ETH Zurich (Swiss Federal Institute of Technology). Covers fundamentals to advanced ROS concepts with emphasis on practical robot programming. Includes video lectures, assignments, and access to simulation environments. Taught by leading robotics researchers. One of the most respected academic ROS courses. (🟡 Intermediate)
@@ -137,6 +145,45 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 💻 Tools: ROS2, mobile robotics, competitive coding
   - 🤖 Topics: ROS2 fundamentals, navigation, team programming
   - [Tags: intermediate game-based-learning ros2 mobile-robotics competitive-programming 2025]
+
+- [Open-Source Drone Programming Course (RoboticsAcademy)](https://www.mdpi.com/2079-9292/9/12/2163/pdf) – Full autonomous drone programming course within RoboticsAcademy framework. Learn to program diverse drones on computers without physical presence, perfect for distance learning. Emphasizes UAV software intelligence and practical autonomous systems. Free and open-access. (🟡 Intermediate)
+  - 📖 Access: Fully open on mdpi.com (Open-Access Paper)
+  - 🌐 Remote-ready: Distance-friendly course design
+  - 🛠️ Hands-on: Yes (simulated drones)
+  - 💻 Tools: Python, ROS, RoboticsAcademy framework
+  - 🤖 Topics: UAV programming, autonomy, perception, control
+  - [Tags: intermediate open-source drone-programming uav roboticsacademy distance-learning 2020]
+
+- [UMIRobot: Open-Source, Low-Cost Robotic Manipulator for Education](https://arxiv.org/abs/2301.06668) – Complete DIY robotic arm kit (<$100 USD) with open-source software and hardware designs. Includes 3D printing and assembly instructions. 73+ kits deployed across 8 countries. Enables risk-free learning with affordable hardware. Online/hybrid course ecosystem available. (🟡 Intermediate)
+  - 📖 Access: Fully open on arXiv with GitHub resources
+  - 💰 Cost: <$100 USD (3D printable + affordable parts)
+  - 🛠️ Hands-on: Yes (build your own robot arm)
+  - 📦 Deployment: 73+ kits in 8 countries
+  - 💻 Tools: Python, teleoperation interfaces, open-source hardware
+  - [Tags: intermediate diy-robotics open-source hardware-design low-cost educational 2023]
+
+- [MuSHR: Low-Cost, Open-Source Robotic Racecar for Education](https://arxiv.org/abs/1908.08031) – DIY robotic racecar platform with detailed open documentation. Includes lab assignments from University of Washington Mobile Robots course. Community-driven development with comprehensive tutorials for assembly and programming. Affordable platform for autonomous vehicle research. (🟡 Intermediate)
+  - 📖 Access: Fully open on arXiv with GitHub resources
+  - 📚 Format: Open documentation + lab assignments
+  - 🛠️ Hands-on: Yes (build your own racing robot)
+  - 🏫 Educational: Includes UW course assignments
+  - 💻 Tools: Python, ROS, computer vision libraries
+  - [Tags: intermediate open-source diy-robotics racing autonomous-vehicles hands-on 2019]
+
+- [Scalable and Low-Cost Remote Lab Platforms: Teaching Industrial Robotics](https://arxiv.org/abs/2412.15369) – Novel open-source approach for teaching industrial robotics via remote labs. Addresses safety concerns and high equipment costs through virtualization. Provides scalable infrastructure for hands-on industrial robotics education. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open on arXiv
+  - 🌐 Remote-friendly: Designed for distance education
+  - 🛠️ Hands-on: Yes (remote robot control)
+  - 🏭 Focus: Industrial robotics and safety
+  - 💻 Tools: Open-source tools, remote operation interfaces
+  - [Tags: intermediate-advanced industrial-robotics remote-labs open-source safety education 2024]
+
+- [BEATRIX: Open-Source Humanoid Head Platform for Robotics](https://linkinghub.elsevier.com/retrieve/pii/S2468067224000853) – Open-source hardware and software platform for a modular humanoid head. Designed for both education and research in humanoid robotics. Includes complete design specifications, assembly guidelines, and software framework. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open-source (hardware + software)
+  - 🛠️ Hands-on: Yes (build and program the head)
+  - 🤖 Topics: Humanoid robotics, modular design, embodied AI
+  - 🏗️ Deployment: Used in research labs worldwide
+  - [Tags: intermediate-advanced open-hardware humanoid-robotics modular research-platform 2024]
 
 ### 🔴 Advanced
 
@@ -213,6 +260,14 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 🤖 Applications: Autonomous aerial vehicles, perception, safe testing
   - [Tags: advanced aerial-robotics simulation gauss-splatting hitl 2025]
 
+- [Visual Navigation for Autonomous Vehicles: Open-source MIT Course](https://arxiv.org/abs/2206.00777) – Modern open-sourced MIT robotics course on visual navigation for autonomous vehicles. Features rigorous technical notes covering less-explored topics like on-manifold optimization, alongside slides and videos showcasing latest research. Balances depth and breadth for comprehensive learning. (🔴 Advanced)
+  - 📖 Access: Fully open on arXiv with GitHub resources
+  - 🏛️ Authority: MIT (cutting-edge robotics research)
+  - 📚 Format: Technical notes + video lectures
+  - 🔧 Topics: Visual navigation, autonomous vehicles, optimization, perception
+  - 💻 Tools: Python, computer vision libraries, robotics frameworks
+  - [Tags: advanced mit autonomous-vehicles visual-navigation computer-vision optimization 2022]
+
 ---
 
 ## 🛠️ Tools & Frameworks
@@ -270,7 +325,7 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 ```
 
 **Ensure all resources are:**
-- ✅ Completely free to access (or free tier/audit available)
+- ✅ Completely free to access (or free tier available)
 - ✅ Openly available (minimal authentication barriers)
 - ✅ High-quality and educational
 - ✅ Relevant to robotics and embodied AI
@@ -278,6 +333,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 14, 2026 | **Total Resources:** 30 (updated from 26, +4 new resources)
+**Last Updated:** February 3, 2026 | **Total Resources:** 38 (updated from 30, +8 new resources)
 
-**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics, embodied-foundation-models, stanford-robotics-seminar-2025
+**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics, embodied-foundation-models, stanford-robotics-seminar-2025, lego-robotics, diy-robotics, drone-programming, industrial-robotics, humanoid-robotics, autonomous-vehicles-visual-navigation
