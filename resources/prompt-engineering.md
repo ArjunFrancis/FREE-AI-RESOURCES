@@ -59,6 +59,42 @@ Prompt engineering is the art and science of designing inputs that elicit the be
 
 ### 🟡 Intermediate
 
+- **[Simplilearn Prompt Engineering Full Course 2026 - YouTube](https://www.youtube.com/watch?v=dE5isWx82WU)** ⭐ **NEW SEPTEMBER 2025** - Comprehensive 7+ hour YouTube course covering 2026 prompt engineering from fundamentals to advanced techniques. Topics include prompt elements, ChatGPT/Claude/Gemini patterns, advanced techniques (chain-of-thought, role-playing), agentic AI, multimodal prompting, context engineering, tool integration (LangChain, OpenAI Codex, n8n, GitHub Copilot), and job interview prep.
+  - 📖 **Access:** Fully free on YouTube  
+  - ⏱️ **Duration:** 7+ hours (comprehensive)  
+  - 🛠️ **Hands-on:** Yes (tool demos and walkthroughs)  
+  - 🏛️ **Source:** Simplilearn (trusted platform, 3M+ learners)  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Topics:** Fundamentals, patterns, advanced techniques, agentic AI, multimodal, tools, career prep  
+  - [Tags: `intermediate` `youtube` `simplilearn` `comprehensive` `agentic-ai` `multimodal-prompting` `langchain` `2026`]
+
+- **[Edureka Prompt Engineering Full Course 2026 - YouTube](https://www.youtube.com/watch?v=pUDTaMMot3Y)** ⭐ **NEW OCTOBER 2025** - Complete 3.5+ hour prompt engineering course covering fundamentals through advanced enterprise applications. Learn prompt design principles, few-shot learning, chain-of-thought reasoning, system prompts, temperature/token settings, and real-world business use cases. Practical examples with GPT-4, Claude, and Gemini.
+  - 📖 **Access:** Fully free on YouTube  
+  - ⏱️ **Duration:** 3.5+ hours  
+  - 🛠️ **Hands-on:** Yes (practical examples)  
+  - 🏛️ **Source:** Edureka (trusted education platform)  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Topics:** Fundamentals, few-shot, chain-of-thought, system prompts, parameters, enterprise use cases  
+  - [Tags: `intermediate` `youtube` `edureka` `practical-examples` `enterprise` `gpt-4` `claude` `gemini` `2026`]
+
+- **[Prompt Engineering for Vision Models - DeepLearning.AI (GitHub)](https://github.com/ksm26/Prompt-Engineering-for-Vision-Models)** ⭐ **NEW MAY 2024** - Comprehensive GitHub repository with DeepLearning.AI course materials on prompt engineering specifically for vision-language models. Covers multimodal prompting techniques, zero-shot image classification, visual question answering, image captioning, and working with models like CLIP, LLaVA, and GPT-4V. Includes Jupyter notebooks and hands-on code examples.
+  - 📖 **Access:** Fully free on GitHub  
+  - 🛠️ **Hands-on:** Yes (Jupyter notebooks, code examples)  
+  - 🏛️ **Source:** DeepLearning.AI course materials  
+  - 🎯 **Level:** 🟡 Intermediate  
+  - **Topics:** Vision-language models, multimodal prompting, zero-shot classification, VQA, image captioning  
+  - **Models:** CLIP, LLaVA, GPT-4V, vision transformers  
+  - [Tags: `intermediate` `vision-models` `multimodal-prompting` `deeplearning-ai` `jupyter-notebooks` `github` `2024`]
+
+- **[Prompt Engineering Guide - Comprehensive GitHub Resource](https://github.com/oxbshw/Prompt-Engineering-Guide)** ⭐ **NEW JUNE 2025** - Comprehensive community-driven GitHub repository providing practical techniques and strategies for crafting effective prompts. Covers prompt design patterns, optimization strategies, model-specific techniques, advanced reasoning patterns, and real-world use cases across multiple LLM providers (OpenAI, Anthropic, Google, Meta).
+  - 📖 **Access:** Fully free on GitHub  
+  - 🛠️ **Hands-on:** Yes (examples and templates)  
+  - 🏛️ **Source:** Community-driven GitHub resource  
+  - 🎯 **Level:** 🟢🟡 Beginner-Intermediate  
+  - **Topics:** Design patterns, optimization, multi-model strategies, advanced reasoning, real-world applications  
+  - **Coverage:** OpenAI GPT, Claude, Gemini, Llama  
+  - [Tags: `beginner-intermediate` `github` `community-resource` `comprehensive` `multi-provider` `design-patterns` `2025`]
+
 - **[OpenAI Prompt Engineering Tutorial Videos - Official Series](https://platform.openai.com/docs/guides/prompt-engineering)** - Three-part official video series by OpenAI covering Introduction to Prompt Engineering, Advanced Techniques, and Mastering Prompt Engineering. Comprehensive tutorial from basics to expert level with practical demonstrations and real-world applications.
   - 📖 **Access:** Free with email (OpenAI platform)  
   - 🏛️ **Authority:** OpenAI (Official)  
@@ -283,7 +319,7 @@ Found a great free prompt engineering resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 22, 2026 | **Total Resources:** 33 (+2 new this rotation)
+**Last Updated:** February 16, 2026 | **Total Resources:** 37 (+4 new this rotation)
 **Maintained by:** [@ArjunFrancis](https://github.com/ArjunFrancis)
 
 ---

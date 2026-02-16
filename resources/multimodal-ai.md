@@ -6,7 +6,7 @@ AI systems that process and integrate multiple types of data (text, images, audi
 
 Multimodal AI represents the next frontier in artificial intelligence, enabling systems to understand and generate content across different modalities. These models can process text alongside images, audio, video, and other data types to create more comprehensive AI applications that mirror human multi-sensory perception.
 
-**Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, multimodal-transformers, audio-visual-learning, multimodal-llms, transformers, huggingface
+**Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, multimodal-transformers, audio-visual-learning, multimodal-llms, transformers, huggingface, vlm, qwen-vl, llava, molmo2, 2026
 
 **Skill Levels:** 🟢 Beginner | 🟡 Intermediate | 🔴 Advanced
 
@@ -14,7 +14,7 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 
 ## 📚 Topics Covered
 
-- Vision-language models (CLIP, DALL-E, Flamingo, GPT-4V)
+- Vision-language models (CLIP, DALL-E, Flamingo, GPT-4V, Qwen-VL, Molmo2)
 - Audio-text integration (Whisper, AudioLM, MusicLM)
 - Video understanding and generation
 - Cross-modal retrieval and alignment
@@ -27,12 +27,22 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 - Medical multimodal AI and clinical applications
 - Multimodal representation learning
 - Vision-Language-Action (VLA) models for robotics
+- Hallucination mitigation in VLMs
 
 ---
 
 ## 🎓 Courses & Tutorials
 
 ### 🟢 Beginner-Friendly
+
+- **[OpenCV Vision-Language Model Bootcamp 2026 - Free Course](https://opencv.org/university/vision-language-model-bootcamp/)** ⭐ **NEW NOVEMBER 2025** - Comprehensive free VLM bootcamp covering CLIP for zero-shot image classification and Qwen2.5-VL for advanced image captioning and object detection. Hands-on Python tutorials from beginner to advanced level with complete implementation examples. Official OpenCV certification available.
+  - 📖 **Access:** Fully free, no login required for course content  
+  - 🏛️ **Authority:** OpenCV (industry standard, 2.5M+ users)  
+  - 🎯 **Level:** 🟢 Beginner → 🟡 Intermediate  
+  - 🛠️ **Hands-on:** Yes (Python code examples and tutorials)  
+  - **Topics:** CLIP architecture, zero-shot classification, Qwen2.5-VL, image captioning, object detection, practical implementation  
+  - **Certificate:** Official OpenCV certification available (optional)  
+  - [Tags: `beginner-intermediate` `vlm-bootcamp` `clip` `qwen2.5-vl` `opencv` `python` `hands-on` `certification` `2026`]
 
 - **[Vision-Language Models Free Course - OpenCV University](https://opencv.org/university/free-courses/)** - Free Vision-Language Models bootcamp course covering CLIP for zero-shot image classification, Qwen2.5-VL for image captioning and object detection with detailed hands-on Python tutorials. Learn to implement vision-language models from beginner to advanced level with practical code examples.
   - 📖 **Access:** Fully free, no login required  
@@ -145,6 +155,24 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 
 ### 🔴 Advanced
 
+- **[CRoPS: Training-Free Hallucination Mitigation for VLMs - arXiv TMLR 2026](https://arxiv.org/abs/2601.00659)** ⭐ **NEW JANUARY 2026** - Novel training-free framework for mitigating hallucinations in vision-language models through Cross-modal Retrieval of Probability Shift (CRoPS). Addresses critical challenge of factual accuracy in VLMs without requiring model retraining or fine-tuning. Published in Transactions on Machine Learning Research (TMLR) 2026.
+  - 📖 **Access:** Free on arXiv (PDF + HTML)  
+  - 🏛️ **Authority:** TMLR 2026 (peer-reviewed)  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Innovation:** Training-free hallucination mitigation, cross-modal probability shift  
+  - **Problem:** Factual accuracy, hallucination prevention in VLMs  
+  - **Applications:** Medical imaging, autonomous systems, critical applications requiring high accuracy  
+  - [Tags: `advanced` `hallucination-mitigation` `vision-language-models` `training-free` `tmlr` `arxiv` `2026`]
+
+- **[Molmo2: Vision-Language Models with Video Understanding - arXiv Jan 2026](https://arxiv.org/abs/2601.09159)** ⭐ **NEW JANUARY 2026** - State-of-the-art open-weights multimodal model with advanced video understanding and grounding capabilities. Extends VLM capabilities to temporal reasoning, video analysis, and visual grounding. Comprehensive model with open weights, training data, and evaluation benchmarks released.
+  - 📖 **Access:** Free on arXiv (PDF)  
+  - 🏛️ **Authority:** arXiv research (January 2026)  
+  - 🎯 **Level:** 🔴 Advanced  
+  - **Innovation:** Video understanding, temporal reasoning, visual grounding, open weights  
+  - **Capabilities:** Image + video understanding, spatial-temporal reasoning, grounding  
+  - **Release:** Model weights, training data, benchmarks all open  
+  - [Tags: `advanced` `video-understanding` `temporal-reasoning` `visual-grounding` `open-weights` `arxiv` `2026`]
+
 - **[Vision–Language Models (VLMs): The Future of Multimodal AI - Code-B Dev](https://code-b.dev/blog/vision-llm)** - Comprehensive analysis of top 10 vision-language models in 2025 including GPT-5, Gemini 2, Claude 4, Gemma 3, and DeepSeek VL. Deep dive into VLM architectures (vision encoders, language models, fusion mechanisms), capabilities across modalities, and emerging challenges including bias, transparency, and responsible deployment.
   - 📖 **Access:** Fully free  
   - 🎯 **Level:** 🟡🔴 Intermediate-Advanced  
@@ -234,6 +262,7 @@ Multimodal AI represents the next frontier in artificial intelligence, enabling 
 - **Qwen-VL** - Versatile vision-language model
 - **Gemma 3** - Multimodal capabilities
 - **DeepSeek-VL2** - Advanced vision-language reasoning
+- **Molmo2** (2026) - Video understanding and grounding
 
 **Frameworks & Tools:**
 - **Hugging Face Transformers** - Multimodal model implementations
@@ -281,6 +310,6 @@ Found a great free Multimodal AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 8, 2026 | **Total Resources:** 24 (+7 new)
+**Last Updated:** February 16, 2026 | **Total Resources:** 27 (+3 new this rotation)
 
-**Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, gpt-4v, multimodal-transformers, audio-visual-learning, multimodal-llms, text-to-image, image-captioning, vqa, cross-modal-retrieval, huggingface, transformers, deeplearning-ai, llava, vision-language-action, robotics
+**Keywords:** multimodal-ai, vision-language-models, cross-modal-learning, multimodal-generation, clip, dall-e, flamingo, gpt-4v, multimodal-transformers, audio-visual-learning, multimodal-llms, text-to-image, image-captioning, vqa, cross-modal-retrieval, huggingface, transformers, deeplearning-ai, llava, vision-language-action, robotics, qwen-vl, molmo2, hallucination-mitigation, 2026
