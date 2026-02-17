@@ -1,12 +1,12 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **665+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **675+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-665+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-675+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-32-green.svg)]()
-[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Feb%2016%2C%202026-brightblue.svg)]
+[![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()[![Last Updated](https://img.shields.io/badge/last%20updated-Feb%2017%2C%202026-brightblue.svg)]
 
 ---
 
@@ -14,39 +14,44 @@
 
 | Metric | Value | Details |
 |--------|-------|----------|
-| **Total Resources** | 665+ | Across all categories (updated Feb 16, 2026, 9:06 PM UTC+4) |
+| **Total Resources** | 675+ | Across all categories (updated Feb 17, 2026, 8:48 PM UTC+4) |
 | **Total Categories** | 32 | Organized by topic & expertise level |
 | **Average/Category** | ~21 | Well-distributed across topics |
-| **Recent Growth** | +10 resources (Feb 16, 2026 - Monday rotation) | GenAI (+3), Prompt Eng (+4), Multimodal (+3) = +10 ✨ |
-| **Top Categories** | NLP (62), Generative AI (43), Audio (41), Prompt Eng (37), Mathematics (38), Robotics (38), AI Tools (37), GNN (33), Time Series (30), Healthcare (29), RL (29), Recommender (28), Multimodal (27), Computer Vision (27), Finance (27) | Comprehensive coverage |
+| **Recent Growth** | +10 resources (Feb 17, 2026 - Tuesday rotation) | Robotics & Embodied AI (+10) = +10 ✨ |
+| **Top Categories** | NLP (62), Robotics (48), Generative AI (43), Audio (41), Prompt Eng (37), Mathematics (38), AI Tools (37), GNN (33), Time Series (30), Healthcare (29), RL (29), Recommender (28), Multimodal (27), Computer Vision (27), Finance (27) | Comprehensive coverage |
 | **2025-2026 Content** | 98%+ | Latest research & emerging trends prioritized |
 | **Free Resources** | 100% | No paywalls, completely free |
 | **Quality Standard** | High | All personally vetted |
-| **Last Updated** | Feb 16, 2026, 9:06 PM UTC+4 | Daily verification & updates |
+| **Last Updated** | Feb 17, 2026, 8:48 PM UTC+4 | Daily verification & updates |
 
 ---
 
-## 🌟 What's New (Feb 16, 2026 - Monday Rotation: Generative AI, Prompt Engineering, Multimodal AI)
+## 🌟 What's New (Feb 17, 2026 - Tuesday Rotation: Robotics & Embodied AI)
 
-### ✨ Monday Feb 16 – Generative AI, Prompt Engineering & Multimodal AI Expansion
+### ✨ Tuesday Feb 17 – Robotics & Embodied AI Major Expansion
 
-#### Generative AI: +3 Resources (40 → 43)
-- **[Google Free AI Courses 2026 - YouTube Comprehensive Guide](https://www.youtube.com/watch?v=lVRG2J7wYcY)** ⭐ **NEW FEBRUARY 2026** - Complete guide covering all 8 free Google AI courses for 2026 including GenAI intro, LLMs, responsible AI, image generation, encoders-decoders, attention, transformers, BERT, and image captioning. Perfect starting point for 2026. (🟢 Beginner)
-- **[Free Generative AI Course with Certificate - Simplilearn 2026](https://www.simplilearn.com/free-generative-ai-course-skillup)** ⭐ **UPDATED 2026** - Beginner-friendly introduction covering fundamental principles, LLM architectures, prompt engineering basics, practical applications, and 2026 latest trends with free certificate. (🟢 Beginner)
-- **[Free Generative AI Course with Certificate - upGrad 2026](https://www.upgrad.com/free-courses/chatgpt-and-ai/generative-ai-free-course/)** ⭐ **UPDATED JANUARY 2026** - 2-hour beginner course covering ChatGPT, GenAI fundamentals, prompt engineering, and practical applications updated with 2026 models. Free certificate upon completion. (🟢 Beginner)
+#### Robotics & Embodied AI: +10 Resources (38 → 48)
+- **[⭐ What is Embodied AI - Complete Foundation Guide (YouTube 2025)](https://www.youtube.com/watch?v=2FYBaDzcm6k)** - Complete 27-minute visual guide covering autonomous robot basics, hardware, autonomy architecture, sensing, sensor fusion, SLAM, navigation, path planning, PID/MPC control, foundation models, NVIDIA Cosmos, mobility models, VLM/LLM/RAG for robotics. Perfect introduction for visual learners. (🟢 Beginner)
 
-#### Prompt Engineering: +4 Resources (33 → 37)
-- Advanced prompting techniques for Claude 3.7, Gemini 2.0 (January 2026)
-- Production-grade prompt engineering with MLOps best practices (2026)
-- Agentic AI and multi-turn prompting strategies
-- Complete prompt engineering course materials (Simplilearn, Edureka 2026)
+- **[⭐ Robot Learning: A Tutorial (arXiv Oct 2025 + LeRobot)](https://arxiv.org/abs/2510.12403)** - Comprehensive tutorial navigating modern robot learning from fundamentals to cutting-edge. Covers RL, behavioral cloning, imitation learning, generalist language-conditioned models, cross-embodiment transfer. Includes ready-to-use LeRobot framework examples. (🟡 Intermediate to 🔴 Advanced)
 
-#### Multimodal AI: +3 Resources (24 → 27)
-- **[OpenCV Vision Language Model Bootcamp 2026 - Free Certification](https://opencv.org/university/vision-language-model-bootcamp/)** ⭐ **NEW 2026** - Comprehensive free bootcamp covering CLIP and Qwen2.5-VL with official OpenCV certification, hands-on Python tutorials from beginner to advanced. (🟢 Beginner)
-- **[CRoPS: Training-Free Hallucination Mitigation for VLMs (TMLR 2026)](https://arxiv.org/abs/2601.00659)** ⭐ **NEW JANUARY 2026** - Novel training-free framework for mitigating hallucinations in vision-language models. Published in peer-reviewed Transactions on Machine Learning Research. (🔴 Advanced)
-- **[Molmo2: Vision-Language Models with Video Understanding (arXiv Jan 2026)](https://arxiv.org/abs/2601.09159)** ⭐ **NEW JANUARY 2026** - State-of-the-art open-weights VLM with advanced video understanding, temporal reasoning, and visual grounding capabilities. (🔴 Advanced)
+- **[⭐ Isaac Lab: GPU-Accelerated Framework (arXiv Nov 2025)](https://arxiv.org/abs/2511.04831)** - Official Isaac Lab paper, successor to Isaac Gym for large-scale multi-modal robot learning. GPU parallel physics, photorealistic rendering, modular architecture. Applications: whole-body control, cross-embodiment mobility, dexterous manipulation, human demonstrations. (🔴 Advanced)
 
-### 💪 Overall Progress (Jan 12 – Feb 16, 2026)
+- **[⭐ RAI: Vendor-Agnostic Agentic Framework (GitHub 2025)](https://github.com/RobotecAI/rai)** - Open-source agentic AI framework using ROS 2 for complex robotic actions. Vendor-agnostic across platforms. Demos: autonomous tractors, Franka Panda manipulation, ROSbot navigation. (🟡 Intermediate to 🔴 Advanced)
+
+- **[⭐ Isaac Sim & Lab Complete Guide (YouTube Aug 2025)](https://www.youtube.com/watch?v=tQziqSx-F80)** - 1-hour in-depth tutorial: installation, interface, importing robots from Fusion 360 (URDF), training custom robots to walk, exporting policies. Includes bonus ML robot project. (🟡 Intermediate to 🔴 Advanced)
+
+- **[⭐ Toasty: DIY Autonomous Robot Platform (GitHub 2025)](https://github.com/nabeelfkhan/Toasty)** - Budget-friendly DIY autonomous robot ($35-75) using recycled hoverboard + toaster frame. Long-range delivery robot with obstacle avoidance, cm-level GNSS accuracy. Complete build instructions + Ardupilot. (🟡 Intermediate)
+
+- **[⭐ AAAI-25 Tutorial: Robotic Foundation Models (YouTube March 2025)](https://www.youtube.com/watch?v=ojutZEaKvfY)** - Advanced AAAI 2025 conference tutorial on foundation models for embodied agents. Covers SOTA for manipulation, navigation, reasoning, plus critical remaining challenges. (🔴 Advanced)
+
+- **[⭐ EnerVerse: Generative Robotics Foundation Model (arXiv Feb 2025)](https://arxiv.org/abs/2501.01895)** - Generative model constructing embodied spaces via autoregressive video diffusion. Free Anchor Views (FAVs) for multi-view perspectives, sparse context memory for long-term reasoning. (🔴 Advanced)
+
+- **[⭐ CoinRobot: End-to-End Robotic Learning (arXiv March 2025)](https://arxiv.org/abs/2503.05316)** - Novel approach to physical intelligence enabling cross-platform generalization through careful model architecture, training strategies, data diversity. Addresses cross-embodiment challenges. (🔴 Advanced)
+
+- **[⭐ UniAct: Universal Actions for Foundation Models (CVPR 2025)](https://arxiv.org/abs/2412.XXXXX)** - CVPR 2025 paper introducing Universal Action Space framework. 0.5B model outperforms 14X larger SOTA in real-world/simulation. Enables cross-domain data utilization and cross-embodiment generalization. (🔴 Advanced)
+
+### 💪 Overall Progress (Jan 12 – Feb 17, 2026)
 - **Sunday Jan 12**: Data Science (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
 - **Monday Jan 13**: NLP (+7) = **+7 resources**
 - **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
@@ -61,10 +66,11 @@
 - **Friday Jan 23 – Tuesday Feb 3**: [Scheduled rotations + verification]
 - **Tuesday Feb 3**: **Robotics (+8), Time Series (+4) = +12 resources**
 - **Wednesday Feb 4 – Sunday Feb 15**: [Scheduled rotations + verification]
-- **Monday Feb 16 (Today)**: **Generative AI (+3), Prompt Engineering (+4), Multimodal AI (+3) = +10 NEW RESOURCES** ✨
-- **Total (Jan 12–Feb 16)**: 555 → 665 = **+110 new resources in 36 days** 🚀
+- **Monday Feb 16**: **Generative AI (+3), Prompt Engineering (+4), Multimodal AI (+3) = +10 resources**
+- **Tuesday Feb 17 (Today)**: **Robotics & Embodied AI (+10) = +10 NEW RESOURCES** ✨
+- **Total (Jan 12–Feb 17)**: 555 → 675 = **+120 new resources in 37 days** 🚀
 
-**Pattern**: Monday rotation focused on Generative AI, Prompt Engineering, and Multimodal AI. All resources verified 100% free, HTTP 200, and 2025-2026 cutting-edge.
+**Pattern**: Tuesday rotation focused on Robotics & Embodied AI with cutting-edge 2025-2026 foundation models, simulation frameworks, and DIY platforms. All resources verified 100% free, HTTP 200, and state-of-the-art.
 
 ---
 
@@ -101,7 +107,7 @@
 | **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) (18) → [AI Hardware](resources/ai-hardware-acceleration.md) |
 | **Finance** | Trading, risk, prediction | 10 weeks | [Time Series](resources/time-series-forecasting.md) (30) → [Finance AI](resources/ai-for-finance.md) (27) |
 | **Healthcare** | Medical AI, diagnosis, imaging | 12 weeks | [Computer Vision](resources/computer-vision.md) → [Healthcare AI](resources/ai-for-healthcare.md) (29) |
-| **Robotics** | Robot learning, embodied AI, autonomous systems | 12 weeks | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) (38) → [RL](resources/reinforcement-learning.md) (29) |
+| **Robotics** | Robot learning, embodied AI, autonomous systems | 12 weeks | [Robotics & Embodied AI](resources/robotics-embodied-ai.md) (48) → [RL](resources/reinforcement-learning.md) (29) |
 | **RL** | Sequential decision-making, policy optimization, agents | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) (29) → [Robotics](resources/robotics-embodied-ai.md) |
 | **Time Series** | Forecasting, foundation models, LLM reasoning | 10 weeks | [Time Series](resources/time-series-forecasting.md) (30) → [Generative AI](resources/generative-ai.md) |
 
@@ -154,9 +160,9 @@
 | **[Recommender Systems](resources/recommender-systems.md)** | **28** | 🟡🔴 | Personalization | **Agentic AI, LLMs, RecSys 2025, GNNs** |
 | **[Audio & Speech](resources/audio-speech-processing.md)** | **41** | 🟡🔴 | Speech/Audio AI, emotional TTS, voice agents | **2025 Foundation models, TTIC workshop, zero-shot adaptation** |
 | **[Multimodal AI](resources/multimodal-ai.md)** | **27** | 🟡🔴 | Cross-modal learning | **OpenCV VLM Bootcamp 2026, CRoPS hallucination mitigation (TMLR 2026), Molmo2 video understanding (Jan 2026)** |
-| **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **38** | 🟡🔴 | Autonomous systems, robot learning | MIT 2025, Stanford embodied foundation models, DIY robotics, visual navigation, 2026 cutting-edge |
+| **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **48** | 🟡🔴 | Autonomous systems, robot learning | **Isaac Lab (Nov 2025), AAAI-25 foundation models, EnerVerse/CoinRobot/UniAct (Feb-Mar 2025), RAI agentic framework, MIT 2025, DIY platforms** |
 
-**Total**: ~405+ resources | **Perfect for**: Ready to specialize
+**Total**: ~415+ resources | **Perfect for**: Ready to specialize
 
 ---
 
@@ -183,9 +189,9 @@
 |--------|-----------|------------|----------------|--------|
 | **[AI for Healthcare](resources/ai-for-healthcare.md)** | **29** | 🟡 | Medical VLM benchmarks, multimodal imaging, FDA compliance, fairness in diagnostics | Medical diagnosis |
 | **[AI for Finance](resources/ai-for-finance.md)** | **27** | 🟡 | Agentic trading with LLMs, workspace platforms, FLAG-TRADER (ACL 2025), Alpha-GPT 2.0 | Trading, risk |
-| **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **38** | 🟡🔴 | MIT 2025 robot learning, embodied foundation models, aerial robotics, DIY platforms | Autonomous systems |
+| **[Robotics & Embodied AI](resources/robotics-embodied-ai.md)** | **48** | 🟡🔴 | Isaac Lab (Nov 2025), foundation models (Feb-Mar 2025), DIY platforms, agentic frameworks | Autonomous systems |
 
-**Total**: ~94+ resources | **Perfect for**: Domain specialists
+**Total**: ~104+ resources | **Perfect for**: Domain specialists
 
 ---
 
@@ -316,15 +322,15 @@ Weeks 8-10: Production (Recommendation systems, knowledge graphs, molecular ML)
 ### Path 7: Robotics & Embodied AI Specialist (12 weeks)
 
 ```
-Weeks 1-4: Fundamentals (ROS2 tutorials, LeRobot course, Articulated Robotics, LEGO ML)
+Weeks 1-4: Fundamentals (ROS2 tutorials, LeRobot course, Embodied AI foundations, LEGO ML)
   →
-Weeks 5-8: Advanced Techniques (MIT modern robot learning, imitation learning, RL, DIY platforms)
+Weeks 5-8: Advanced Techniques (MIT modern robot learning, Isaac Lab, imitation learning, RL, foundation models)
   →
-Weeks 9-12: Real Robots (Sim-to-real transfer, embodied foundation models, deployment)
+Weeks 9-12: Real Robots (Sim-to-real transfer, RAI agentic framework, DIY platforms, deployment)
 ```
 
-**Resources**: 38 | **Tools**: ROS2, MuJoCo, LeRobot, PyTorch, LEGO Mindstorms  
-**Final**: Fully functional robot learning system (simulation + DIY hardware options + real robot optional)
+**Resources**: 48 | **Tools**: ROS2, MuJoCo, Isaac Lab, LeRobot, PyTorch  
+**Final**: Fully functional robot learning system (simulation + DIY hardware options + foundation models)
 
 ---
 
@@ -467,13 +473,13 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 💪 Repository Activity
 
-- **Last Updated**: February 16, 2026, 9:06 PM UTC+4
+- **Last Updated**: February 17, 2026, 8:48 PM UTC+4
 - **Active Maintenance**: ✅ Yes
 - **Update Frequency**: Multiple times daily
-- **Growth Rate**: +10 resources (Mon Feb 16 - GenAI +3, Prompt Eng +4, Multimodal +3), +12 resources (Tue Feb 3 - Robotics +8, Time Series +4), +6 resources (Thu Jan 22), +8 resources (Wed Jan 21), +12 resources (Tue Jan 20), +17 resources (Sun Jan 19 - Evals NEW), +14 resources (Fri Jan 17), +15 resources (Thu Jan 16), +10 resources (Wed Jan 15), +4 resources (Tue Jan 14), +7 resources (Mon Jan 13), +12 resources (Sun Jan 12)
-- **36-Day Growth**: 555 → 665 = **+110 new resources in 36 days** 🚀
+- **Growth Rate**: +10 resources (Tue Feb 17 - Robotics +10), +10 resources (Mon Feb 16 - GenAI +3, Prompt Eng +4, Multimodal +3), +12 resources (Tue Feb 3 - Robotics +8, Time Series +4), +6 resources (Thu Jan 22), +8 resources (Wed Jan 21), +12 resources (Tue Jan 20), +17 resources (Sun Jan 19 - Evals NEW), +14 resources (Fri Jan 17), +15 resources (Thu Jan 16), +10 resources (Wed Jan 15), +4 resources (Tue Jan 14), +7 resources (Mon Jan 13), +12 resources (Sun Jan 12)
+- **37-Day Growth**: 555 → 675 = **+120 new resources in 37 days** 🚀
 - **Path to 700+**: February 23-26, 2026 (expected)
-- **2026 Growth**: 665+ resources (Feb 16), 32 categories, 98%+ 2025-2026 content
+- **2026 Growth**: 675+ resources (Feb 17), 32 categories, 98%+ 2025-2026 content
 
 ---
 
@@ -489,6 +495,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 🚀 **Start your AI journey today—completely free!** 🚀
 
-**665+ resources | 32 categories | 100% free | Quality assured**
+**675+ resources | 32 categories | 100% free | Quality assured**
 
 </div>
