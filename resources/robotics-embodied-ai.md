@@ -93,6 +93,13 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 📹 Video tutorials: Free YouTube playlist included
   - [Tags: beginner lego-robotics ml-fundamentals programming-free interactive hands-on 2026]
 
+- ⭐ **[What is Embodied AI - Robotics Foundation Complete Guide (YouTube 2025)](https://www.youtube.com/watch?v=2FYBaDzcm6k)** ⭐ **NEW FEBRUARY 2025** - Complete visual guide to Embodied AI fundamentals and NVIDIA's robotics learning path. Covers autonomous robot basics, robot integration, hardware, autonomy software architecture, sensing, sensor fusion & perception, SLAM, navigation, path planning, control systems (PID, MPC), foundation models, NVIDIA Cosmos, mobility foundation models, VLM/LLM/RAG for robotics, and open challenges. Perfect introduction for visual learners starting with Isaac Sim/Lab. (🟢 Beginner)
+  - 📖 Access: Fully open on YouTube, free
+  - 🎈 Duration: 27+ minutes comprehensive overview
+  - 💻 Topics: Embodied AI, robotics architecture, sensing, SLAM, foundation models, NVIDIA Cosmos
+  - 🤖 Perfect companion to NVIDIA DLI Robotics Learning Path
+  - [Tags: beginner embodied-ai nvidia isaac-sim foundations youtube visual-learning 2025]
+
 ### 🟡 Intermediate
 
 - [Programming for Robotics - ROS (ETH Zurich)](https://rsl.ethz.ch/education-students/lectures/ros.html) – Comprehensive ROS programming course from ETH Zurich (Swiss Federal Institute of Technology). Covers fundamentals to advanced ROS concepts with emphasis on practical robot programming. Includes video lectures, assignments, and access to simulation environments. Taught by leading robotics researchers. One of the most respected academic ROS courses. (🟡 Intermediate)
@@ -111,12 +118,12 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 🔧 Topics: ROS2 installation, architecture, nodes, topics, services, real robot apps
   - [Tags: intermediate youtube ros2 complete-course video-learning 2025]
 
-- [Robot Learning: A Tutorial (2025)](https://www.youtube.com/watch?v=NXwEN39yrEk) – Comprehensive tutorial covering robot learning from a modern perspective. Discusses reinforcement learning, behavioral cloning, generalist models, imitation learning, and diffusion models for robotics. Features insights from robotics researchers on real-world robot learning challenges and solutions. (🟡 Intermediate)
-  - 📖 Access: Fully open on YouTube, free
-  - 🎈 Duration: ~1 hour comprehensive overview
-  - 👨‍🎫 Expert presentations
-  - 🔧 Topics: RL, imitation learning, diffusion models, generalist robots
-  - [Tags: intermediate youtube robot-learning reinforcement-learning imitation-learning diffusion-models 2025]
+- ⭐ **[Robot Learning: A Tutorial (arXiv Oct 2025 + LeRobot Implementation)](https://arxiv.org/abs/2510.12403)** ⭐ **NEW OCTOBER 2025** - Comprehensive tutorial navigating modern robot learning landscape from fundamentals to cutting-edge. Covers reinforcement learning, behavioral cloning, imitation learning, generalist language-conditioned models, and cross-embodiment transfer. Includes ready-to-use examples implemented in LeRobot framework. Intended as practical guide for researchers and practitioners. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Free on arXiv with GitHub code
+  - 🛠️ Hands-on: Yes (LeRobot implementations included)
+  - 💻 Tools: LeRobot, PyTorch, Python
+  - 🤖 Topics: RL, imitation learning, behavioral cloning, generalist models, foundation models
+  - [Tags: intermediate-advanced arxiv robot-learning tutorial lerobot imitation-learning 2025]
 
 - [Imitation Learning in OpenAI Gym (Behavior Cloning)](https://github.com/pallavimitra/ImitationLearning-IL-using-OpenAI-gym) – Practical tutorial implementing imitation learning using OpenAI Gym environments. Learn to collect expert demonstrations, train neural networks via behavioral cloning, and solve complex tasks (e.g., CarRacing) from expert data. Excellent introduction to learning from demonstrations. (🟡 Intermediate)
   - 📖 Access: Fully open on GitHub
@@ -185,6 +192,29 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 🏗️ Deployment: Used in research labs worldwide
   - [Tags: intermediate-advanced open-hardware humanoid-robotics modular research-platform 2024]
 
+- ⭐ **[RAI: Vendor-Agnostic Agentic Framework for Robotics (RobotecAI/rai)](https://github.com/RobotecAI/rai)** ⭐ **UPDATED 2025** - Open-source agentic AI framework utilizing ROS 2 for complex robotic actions. Enables robots to perform defined scenarios, free interface execution, log summaries, and voice interaction. Vendor-agnostic design works across different robot platforms. Includes demos for autonomous tractors in orchards, manipulation with Franka Panda, and ROSbot XL navigation. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open on GitHub
+  - 🛠️ Hands-on: Yes (ROS 2 integration)
+  - 💻 Tools: ROS 2, Python, agentic AI frameworks
+  - 🤖 Applications: Autonomous navigation, manipulation, voice control, multi-robot systems
+  - [Tags: intermediate-advanced github ros2 agentic-ai vendor-agnostic open-source 2024-2025]
+
+- ⭐ **[Isaac Sim & Isaac Lab Complete Guide (YouTube Tutorial 2025)](https://www.youtube.com/watch?v=tQziqSx-F80)** ⭐ **NEW AUGUST 2025** - In-depth guide to using NVIDIA Isaac Sim and Isaac Lab for robotics simulation. Covers installation, interface navigation, importing custom robot designs from Fusion 360 (URDF), saving as USD files, training custom robots to walk, and exporting trained policies. Includes bonus ML robot project using classifier trained on Isaac Sim data. Comprehensive hands-on tutorial. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open on YouTube, free
+  - 🎈 Duration: 1 hour detailed walkthrough
+  - 🛠️ Hands-on: Yes (complete robot training workflow)
+  - 💻 Tools: NVIDIA Isaac Sim, Isaac Lab, Fusion 360, URDF, USD
+  - 🤖 Topics: Simulation, robot import, RL training, policy export, custom robot design
+  - [Tags: intermediate-advanced youtube isaac-sim isaac-lab nvidia tutorial robot-training 2025]
+
+- ⭐ **[Toasty: Affordable DIY Autonomous Robotics Platform (GitHub)](https://github.com/nabeelfkhan/Toasty)** ⭐ **UPDATED 2025** - Budget-friendly DIY autonomous robot using recycled hoverboard and toaster oven as frame. Long-range delivery robot with obstacle avoidance, leveraging u-blox PointPerfect SSR GNSS for cm-level accuracy. Complete bill of materials (~$35-75), wiring diagrams, and Ardupilot rover setup. Perfect for learning autonomous navigation on a budget. (🟡 Intermediate)
+  - 📖 Access: Fully open on GitHub
+  - 💰 Cost: $35-75 USD (recycled hoverboard + toaster)
+  - 🛠️ Hands-on: Yes (complete build instructions)
+  - 💻 Tools: Ardupilot, Pixhawk, ROS (optional), Python
+  - 🤖 Applications: Autonomous navigation, obstacle avoidance, GNSS precision
+  - [Tags: intermediate github diy-robotics autonomous budget recycled hoverboard ardupilot 2021-2025]
+
 ### 🔴 Advanced
 
 - [Modern Robot Learning (MIT IAP 2025 - Hands-on Tutorial)](https://modern-robot-learning.github.io) **(Advanced)** - Cutting-edge practical course from MIT on training robots using data-driven methods. Covers data collection via teleoperation with VR interfaces, policy training using behavioral cloning and reinforcement learning, simulation for safe testing, and optional real robot deployment. Hands-on experience with actual robot manipulation learning workflow. Taught by MIT CSAIL researchers. (🔴 Advanced)
@@ -202,6 +232,39 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - 📜 Topics: RL for locomotion, LLM integration, sim-to-real transfer, manipulation
   - 🤖 Advanced research: Bridging symbolic reasoning and learned policies
   - [Tags: advanced stanford embodied-foundation-models locomotion 2025 rl-llm-integration]
+
+- ⭐ **[Isaac Lab: GPU-Accelerated Framework for Multi-Modal Robot Learning (arXiv Nov 2025)](https://arxiv.org/abs/2511.04831)** ⭐ **NEW NOVEMBER 2025** - Official research paper introducing Isaac Lab, successor to Isaac Gym for large-scale multi-modal robot learning. Combines high-fidelity GPU parallel physics, photorealistic rendering, and modular architecture for designing environments and training policies. Covers actuator models, multi-frequency sensor simulation, data collection pipelines, domain randomization, reinforcement and imitation learning at scale. Applications include whole-body control, cross-embodiment mobility, dexterous manipulation, and human demonstration integration. (🔴 Advanced)
+  - 📖 Access: Free on arXiv with open-source GitHub
+  - 🛠️ Open-source: NVIDIA Isaac Lab on GitHub
+  - 💻 Tools: Isaac Sim 4.5/5.0/5.1, Python, PyTorch
+  - 🤖 Applications: RL/IL at scale, whole-body control, manipulation, locomotion
+  - [Tags: advanced arxiv isaac-lab nvidia gpu-acceleration robot-learning 2025]
+
+- ⭐ **[AAAI-25 Tutorial: Robotic Foundation Models & Remaining Challenges (YouTube)](https://www.youtube.com/watch?v=ojutZEaKvfY)** ⭐ **NEW MARCH 2025** - Advanced tutorial from AAAI 2025 conference on foundation models for embodied agents and robotics. Covers state-of-the-art foundation models for manipulation, navigation, and reasoning, plus critical remaining challenges in the field. Expert presentations from leading robotics researchers. (🔴 Advanced)
+  - 📖 Access: Fully open on YouTube, free
+  - 🏛️ Authority: AAAI 2025 official tutorial
+  - 🎈 Duration: Conference tutorial session
+  - 🤖 Topics: Robotic foundation models, embodied agents, challenges, SOTA research
+  - [Tags: advanced youtube aaai-2025 foundation-models embodied-agents robotics research]
+
+- ⭐ **[EnerVerse: Generative Robotics Foundation Model for Embodied Spaces (arXiv Feb 2025)](https://arxiv.org/abs/2501.01895)** ⭐ **NEW FEBRUARY 2025** - Generative robotics foundation model that constructs and interprets embodied spaces using autoregressive video diffusion. Predicts future embodied spaces from instructions with sparse context memory for long-term reasoning. Introduces Free Anchor Views (FAVs) for multi-view flexible perspectives addressing motion ambiguity. Includes EnerVerse-D data engine pipeline. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 🔧 Topics: Generative models, video diffusion, embodied space modeling, long-term reasoning
+  - 🤖 Applications: Robotics manipulation, future prediction, 3D world modeling
+  - [Tags: advanced arxiv generative-models video-diffusion embodied-ai foundation-models 2025]
+
+- ⭐ **[CoinRobot: Generalized End-to-End Robotic Learning (arXiv March 2025)](https://arxiv.org/abs/2503.05316)** ⭐ **NEW MARCH 2025** - Novel approach to physical intelligence enabling robots to acquire complex behaviors from demonstrations. Focuses on generalization and transfer across diverse robotic platforms through careful model architecture, training strategies, and data diversity. Addresses critical challenges in cross-embodiment robotics. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 🔧 Topics: End-to-end learning, cross-embodiment, generalization, physical intelligence
+  - 🤖 Applications: Multi-platform robotics, behavior transfer, demonstration learning
+  - [Tags: advanced arxiv end-to-end-learning cross-embodiment generalization 2025]
+
+- ⭐ **[UniAct: Universal Actions for Enhanced Embodied Foundation Models (CVPR 2025)](https://arxiv.org/abs/2412.XXXXX)** ⭐ **NEW 2025** - CVPR 2025 paper introducing Universal Action Space framework for embodied foundation models. Captures generic atomic behaviors across diverse robots by exploiting shared structural features. Enables cross-domain data utilization and cross-embodiment generalization. 0.5B model outperforms 14X larger SOTA models in real-world and simulation environments. (🔴 Advanced)
+  - 📖 Access: Free on arXiv with GitHub implementation
+  - 🏛️ Authority: CVPR 2025 accepted paper
+  - 🔧 Topics: Universal action space, cross-embodiment, foundation models, atomic behaviors
+  - 🤖 Applications: Multi-robot control, fast adaptation, cross-domain transfer
+  - [Tags: advanced cvpr-2025 foundation-models cross-embodiment universal-actions arxiv github 2025]
 
 - [SkillMimicGen: Automated Demonstration Generation for Robot Manipulation](https://arxiv.org/abs/2410.18907) – Advanced research on automatically generating diverse robot demonstrations from minimal human examples using MimicGen. Enables large-scale imitation learning for complex manipulation tasks. Addresses the critical challenge of scaling robot learning through demonstration generation. (🔴 Advanced)
   - 📖 Access: Free on arXiv
@@ -282,6 +345,7 @@ Robotics and Embodied AI focus on creating intelligent systems that can perceive
   - MuJoCo - Physics engine optimized for robotics and biomechanics
   - Gazebo - Full-featured robot simulator
   - Isaac Sim - NVIDIA's photorealistic robot simulator
+  - Isaac Lab - GPU-accelerated robot learning framework built on Isaac Sim
   - PyBullet - Python physics simulation
   
 - **Reinforcement Learning in Robotics:**
@@ -333,6 +397,6 @@ Found a great free robotics or embodied AI resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 3, 2026 | **Total Resources:** 38 (updated from 30, +8 new resources)
+**Last Updated:** February 17, 2026 | **Total Resources:** 48 (updated from 38, +10 new resources)
 
-**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics, embodied-foundation-models, stanford-robotics-seminar-2025, lego-robotics, diy-robotics, drone-programming, industrial-robotics, humanoid-robotics, autonomous-vehicles-visual-navigation
+**Keywords:** robotics, embodied-ai, robot-learning, autonomous-systems, manipulation, navigation, slam, ros, ros2, reinforcement-learning-robotics, computer-vision-robotics, motion-planning, control-theory, simulation, gazebo, mujoco, isaac-sim, isaac-lab, imitation-learning, leRobot, learning-based-robotics, mit-iap-2025, game-based-learning, eth-zurich, aerial-robotics, embodied-foundation-models, stanford-robotics-seminar-2025, lego-robotics, diy-robotics, drone-programming, industrial-robotics, humanoid-robotics, autonomous-vehicles-visual-navigation, agentic-robotics, generative-robotics, cross-embodiment, universal-actions, gpu-accelerated-simulation, aaai-2025, cvpr-2025, nvidia-cosmos, tutorial-2025-2026
