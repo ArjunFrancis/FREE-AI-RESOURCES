@@ -76,6 +76,23 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - [Tags: beginner tinyml edge-impulse microcontrollers no-code hands-on 2025]
   - [Verified: 2025-01-15]
 
+- **[TinyML Applications on Microcontrollers: Revolutionizing Edge AI (ThinkRobotics Guide 2025)](https://thinkrobotics.com/blogs/learn/tinyml-applications-on-microcontrollers-revolutionizing-edge-ai)** 🟢 Beginner - Comprehensive June 2025 guide exploring TinyML applications from voice recognition to predictive maintenance. Covers key technologies (TensorFlow Lite Micro, Edge Impulse, CMSIS-NN, Arduino ML Libraries), popular microcontrollers (ARM Cortex-M series, Arduino Nano 33 BLE Sense, ESP32), and complete getting-started workflow from data collection to model deployment. Includes real-world application examples across wearables, smart home devices, industrial IoT, healthcare monitoring, and environmental sensing.
+  - 📖 Access: Fully open blog article
+  - 🏛️ Authority: ThinkRobotics (robotics education platform)
+  - 📊 Topics: TinyML applications, voice recognition, gesture control, anomaly detection, predictive maintenance, energy harvesting
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: beginner tinyml applications microcontrollers edge-impulse arduino esp32 real-world-examples 2025]
+  - [Verified: 2026-02-18]
+
+- **[AI on the Edge: Deploying TinyML on Microcontrollers (DeepTech Hackathon 2026 Webinar)](https://www.youtube.com/watch?v=Ly4dG8sOvJ0)** 🟢 Beginner - Recent February 2026 webinar introducing TinyML fundamentals for the DeepTech Hackathon 2026. Covers what TinyML is and why it matters, popular hardware platforms (Arduino, ESP32, STM32), training and quantizing models using TensorFlow Lite, deploying ML models to microcontrollers, and real-world applications. Ideal entry point for understanding edge AI deployment before diving into hands-on development.
+  - 📖 Access: Fully free (YouTube webinar)
+  - 🏛️ Authority: DeepTech Hackathon 2026 (official educational webinar)
+  - 📺 Video: Educational webinar with slides and demonstrations
+  - 📊 Topics: TinyML introduction, hardware platforms, model quantization, deployment workflow, applications
+  - ⏱️ Duration: Webinar format
+  - [Tags: beginner tinyml introduction webinar hardware deployment applications 2026]
+  - [Verified: 2026-02-18]
+
 ### 🟡 Intermediate
 
 - **[Computer Vision with TinyML: Edge AI + CNNs (TheTechSlayer, 2025)](https://www.youtube.com/watch?v=7vBbkChN7Wk)** 🟡 Intermediate - Comprehensive 2025 video course teaching computer vision and TinyML deployment on edge devices. Covers CNN fundamentals, image classification, object detection, and real-world deployment on microcontrollers and Raspberry Pi. Created in collaboration with Edge Impulse, OpenMV, and Seeed Studio. Features practical projects with hands-on hardware labs using industry-standard tools and platforms.
@@ -127,6 +144,15 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - 🛠️ Hands-on: Case studies and exercises
   - [Tags: intermediate federated-learning privacy edge-ai healthcare 2025]
   - [Verified: 2025-12-16]
+
+- **[Deploying AI on Microcontrollers with TinyML (NobleProg Training Course)](https://www.nobleprog.ae/cc/mctinyml)** 🟡 Intermediate - Comprehensive instructor-led training course (online or onsite) for embedded systems engineers and AI developers teaching practical TinyML deployment on microcontrollers using TensorFlow Lite and Edge Impulse. Covers TinyML fundamentals, development environment setup for Arduino IDE and TensorFlow Lite, training and optimizing AI models for low-power devices, real-world deployment on microcontrollers, and tuning for power efficiency and memory constraints. Hands-on approach with sensor data collection, model training, and edge deployment exercises.
+  - 📖 Access: Free course outline fully accessible (training sessions available)
+  - 🏛️ Authority: NobleProg (established technical training provider)
+  - 🛠️ Hands-on: Yes (practical labs, microcontroller deployment)
+  - 📊 Topics: TinyML workflow, TensorFlow Lite Micro, Edge Impulse Studio, model optimization, power efficiency, Arduino IDE
+  - ⏱️ Duration: Instructor-led format (flexible scheduling)
+  - [Tags: intermediate tinyml tensorflow-lite edge-impulse microcontrollers hands-on training 2025]
+  - [Verified: 2026-02-18]
 
 ### 🔴 Advanced
 
@@ -205,7 +231,7 @@ Found a great free Edge AI or TinyML resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 15, 2026 | **Total Resources:** 14 (+3 new)
-**Last Link Validation:** January 15, 2026
+**Last Updated:** February 18, 2026 | **Total Resources:** 17 (+3 new)
+**Last Link Validation:** February 18, 2026
 
-**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, computer-vision-edge, openMV, arm-cortex, 2025, free-courses
+**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, computer-vision-edge, openMV, arm-cortex, nobleprog, thinkrobotics, 2025-2026, free-courses
