@@ -62,6 +62,15 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: all-levels curated-list papers tools defenses 2025]
   - [Verified: 2025-12-16]
 
+- **[AI Security Training Lab: Hands-On OWASP LLM Top 10 (GitHub 2025)](https://github.com/citizenjosh/ai-security-training-lab)** 🟢 Beginner - Comprehensive hands-on environment for learning AI security through real-world attack and defense scenarios. Based on OWASP Top 10 for LLM Applications with Docker-based labs covering prompt injection, insecure output handling, training data poisoning, model DoS, supply-chain vulnerabilities, sensitive information disclosure, insecure plugin design, excessive agency, overreliance, and model theft. Includes free open-source security tools (Guardrails AI, PromptInject, Cleanlab, SecretFlow, Opacus, TextAttack, RobustBench) and step-by-step tutorials for each vulnerability class.
+  - 📖 Access: Fully free (GitHub repository + Docker labs)
+  - 🏛️ Authority: Community-driven, OWASP-aligned
+  - 🛠️ Hands-on: Yes (Docker environments, real exploit scenarios)
+  - 📊 Topics: OWASP LLM Top 10, prompt injection, adversarial attacks, model theft, ethical hacking, security tools
+  - 📜 License: MIT
+  - [Tags: beginner hands-on owasp llm-security docker labs prompt-injection 2025]
+  - [Verified: 2026-02-18]
+
 ### 🟡 Intermediate
 
 - [Microsoft AI Red Teaming 101 Series (2025)](https://learn.microsoft.com/en-us/security/ai-red-team/training) ★ **OFFICIAL 2025** – Comprehensive training series from Microsoft helping professionals secure generative AI systems against emerging threats. Dive into vulnerabilities, attack techniques (prompt injection, multi-turn attacks, jailbreaking), and defense strategies with real-world case studies from Microsoft's production AI security work. Part A covers vulnerabilities and attacks (prompt injection, single-turn and multi-turn attacks, filter evasion, encoding tricks). Part B covers defenses and mitigation strategies including Microsoft's Spotlighting methods (delimiting, data marking, encoding). Includes automation tools (PyRIT) for scaling red teaming efforts. (🟡 Intermediate)
@@ -88,6 +97,15 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 🌍 Global: Fully accessible worldwide
   - [Tags: intermediate red-teaming adversarial-examples jailbreaks security-research 2025]
   - [Verified: 2026-01-15]
+
+- **[AI Red Teaming: The Complete Guide (GitHub 2025-2026)](https://github.com/requie/AI-Red-Teaming-Guide)** 🟡 Intermediate - Comprehensive open-source guide to adversarial testing and security evaluation of AI systems covering NIST AI RMF, OWASP GenAI Red Teaming, MITRE ATLAS, and CSA Agentic AI frameworks. Provides evidence-based methodologies from Microsoft's 100+ AI product red teams including attack vectors (prompt injection, jailbreaking, data poisoning, model extraction, membership inference), red teaming tools (PyRIT, DeepTeam, Garak, Giskard), real-world case studies (Microsoft SSRF, GPT-4 Base64, NIST ARIA), and practical implementation guides. Includes detailed threat modeling, manual and automated testing approaches, evaluation metrics (Attack Success Rate), and remediation strategies.
+  - 📖 Access: Fully open (GitHub repository)
+  - 🏛️ Authority: Community-driven, Microsoft research-based
+  - 🛠️ Hands-on: Yes (tool tutorials, code examples, practical methodologies)
+  - 📊 Topics: Red teaming frameworks, attack vectors, prompt injection, jailbreaking, automated testing, PyRIT, threat modeling, real-world cases
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate red-teaming adversarial-testing nist-rmf owasp mitre-atlas prompt-injection tools-guide 2025]
+  - [Verified: 2026-02-18]
 
 - [Stanford CS 330i: AI Security Fundamentals (Fall 2025)](https://www.youtube.com/watch?v=5QmQ49BikQY) ★ **LIVE COURSE FALL 2025** – Official Stanford course introducing security challenges of modern AI systems. Examine how vulnerabilities can be introduced during system architecture design, model development, training, and deployment. Explore attacks like prompt injection, adversarial inputs, data poisoning, and model extraction that exploit foundation models, retrieval-augmented systems, and AI agents. Learn about emerging defenses such as secure architectures, verifiable training, prompt-level protections, and gain deeper understanding of how to assess and improve AI system security. (🟡 Intermediate-Advanced)
   - 📖 Access: Free on YouTube (official Stanford lectures)
@@ -175,6 +193,25 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: advanced adversarial-attacks mathematical-defenses robustness arxiv 2025]
   - [Verified: 2025-12-29]
 
+- **[TensorFlow Privacy: Differential Privacy Tutorial (Official Google)](https://www.tensorflow.org/responsible_ai/privacy/tutorials/classification_privacy)** 🔴 Advanced - Official TensorFlow tutorial demonstrating differential privacy implementation in machine learning using DP-SGD (Differentially Private Stochastic Gradient Descent). Covers modifying gradients for privacy guarantees, gradient clipping and noise addition techniques, privacy budget tracking with epsilon/delta parameters, and measuring privacy-utility tradeoffs. Includes complete executable Colab notebooks with real datasets, step-by-step code examples for wrapping optimizers (SGD, Adam) with differential privacy, hyperparameter tuning for privacy-preserving models, and analysis tools for quantifying privacy guarantees. Essential resource for implementing production-ready private ML systems.
+  - 📖 Access: Fully open (official TensorFlow documentation)
+  - 🏛️ Authority: TensorFlow / Google (official source)
+  - 🛠️ Hands-on: Yes (executable Colab notebooks, complete code)
+  - 💪 Code: Python, TensorFlow 2.x, TensorFlow Privacy library
+  - 📊 Topics: DP-SGD, gradient clipping, noise mechanisms, privacy budget, epsilon-delta analysis
+  - [Tags: advanced differential-privacy tensorflow dp-sgd tutorial hands-on google 2025]
+  - [Verified: 2026-02-18]
+
+- **[IBM Differential Privacy Library (Diffprivlib) - Open Source](https://github.com/IBM/differential-privacy-library)** 🔴 Advanced - Production-grade open-source Python library from IBM Research providing comprehensive toolkit for differential privacy in machine learning. Includes four major components: (1) Privacy mechanisms (building blocks for DP algorithms with expert-level control), (2) ML models with built-in DP (clustering, classification, regression, dimensionality reduction, preprocessing), (3) Differentially private data analysis tools (histograms compatible with NumPy), and (4) BudgetAccountant for tracking privacy loss using advanced composition techniques. Drop-in replacements for scikit-learn models with privacy guarantees. Extensively documented with tutorials, examples, and mathematical foundations.
+  - 📖 Access: Fully free, open source (MIT License)
+  - 🏛️ Authority: IBM Research (official library)
+  - 🛠️ Hands-on: Yes (Python library, extensive examples, Jupyter notebooks)
+  - 💪 Code: Python, scikit-learn compatible API
+  - 📊 Topics: Differential privacy mechanisms, private ML models, privacy budgets, advanced composition, scikit-learn integration
+  - 📜 License: MIT
+  - [Tags: advanced differential-privacy open-source ibm python library production-ready 2025]
+  - [Verified: 2026-02-18]
+
 - [TensorFlow Federated: Differential Privacy in Federated Learning](https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy) – Official TensorFlow tutorial demonstrating how to implement differential privacy techniques in federated learning systems with code examples and mathematical foundations for privacy guarantees. (🔴 Advanced)
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: TensorFlow (Google)
@@ -257,10 +294,14 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **TextAttack** - NLP adversarial attacks
 - **PrivacyRaven** - Privacy attack testing
 - **TensorFlow Federated** - Privacy-preserving ML framework
+- **TensorFlow Privacy** - Differential privacy for TensorFlow
+- **IBM Diffprivlib** - Differential privacy library
 - **PyRIT** (Microsoft) - Red teaming automation
 - **HarmBench** (CAIS) - Red teaming evaluation
 - **OpenMined PySyft** - Encrypted ML framework
 - **Google SAIF** - Secure AI framework
+- **Guardrails AI** - LLM output validation
+- **PromptInject** - Prompt injection testing
 
 ---
 
@@ -301,7 +342,7 @@ Found a great free AI Security resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 15, 2026 | **Total Resources:** 22 (+3 new)
-**Last Link Validation:** January 15, 2026
+**Last Updated:** February 18, 2026 | **Total Resources:** 26 (+4 new)
+**Last Link Validation:** February 18, 2026
 
-**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, threat-modeling, google-saif, tensorflow-federated, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, hackthebox, free-courses-2025-2026
+**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, threat-modeling, google-saif, tensorflow-federated, tensorflow-privacy, ibm-diffprivlib, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, owasp-llm-top-10, hackthebox, hands-on-labs, free-courses-2025-2026
