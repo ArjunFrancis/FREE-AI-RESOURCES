@@ -95,6 +95,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 💻 Tools: Various (Hugging Face, Kaggle, Coursera, YouTube)
   - [Tags: beginner course-collection curated ml-mastery free-resources 2025]
 
+- [Teaching Machine Learning Fundamentals with LEGO Robotics (January 2026)](https://www.semanticscholar.org/paper/3ef31bdc4b9ff38ea253d86b812ea3eef8dcd91d) – Free open-source educational platform "Machine Learning with Bricks" enabling programming-free robotics for teaching ML concepts (k-NN, regression, Q-learning) to students aged 12-17. Web-based interface with modular activities, YouTube tutorials, and demonstrated effectiveness in informal learning settings. Perfect for introducing RL concepts through hands-on robot programming without code barriers. (🟢 Beginner)
+  - 📖 Access: Fully open, free platform
+  - 🏛️ Authority: Published research (January 2026)
+  - 🛠️ Hands-on: Yes (LEGO robotics, web interface, no programming required)
+  - 👥 Target: Ages 12-17, beginners, informal learning
+  - 🔧 Topics: k-NN, regression, Q-learning, visual programming
+  - 📺 Resources: YouTube tutorials, modular curriculum
+  - [Tags: beginner lego-robotics educational no-code q-learning hands-on youth 2026]
+
 ### 🟡 Intermediate
 
 - [RL Course by David Silver (YouTube, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) – The original, foundational lecture series from DeepMind's David Silver, co-author of "Reinforcement Learning: An Introduction." Covers RL fundamentals, MDPs, dynamic programming, Monte Carlo methods, temporal difference learning, function approximation, and policy gradients. Essential viewing for deep understanding of RL principles. (🟡 Intermediate)
@@ -179,6 +188,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 📚 Includes: Environment suite, algorithm templates, exercises
   - [Tags: intermediate education jupyter-notebooks framework arxiv 2024]
 
+- [Reinforcement Learning for Robotics (The Construct / Robot Ignite Academy)](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/reinforcement-learning-for-robotics/) – Comprehensive free course applying RL to robotics using ROS simulator. Covers Markov Decision Processes, Bellman equations, Dynamic Programming, Monte Carlo, Temporal Difference methods, SARSA, and Q-learning with hands-on robot training in Gazebo. Train drones and TurtleBots to navigate and complete tasks. Perfect bridge from RL theory to robotic applications. (🟡 Intermediate)
+  - 📖 Access: Fully free, complete course
+  - 🏛️ Authority: The Construct (ROS experts)
+  - 🛠️ Hands-on: Yes (ROS simulations, Gazebo environment)
+  - 🤖 Applications: Train drones, TurtleBots in simulation
+  - 🔧 Topics: MDP, Bellman equations, Q-learning, SARSA, TD methods
+  - 💻 Tools: ROS, Gazebo, Python
+  - [Tags: intermediate robotics ros gazebo q-learning hands-on simulation 2025]
+
 ### 🔴 Advanced
 
 - [Stanford CS224R: Deep Reinforcement Learning (Spring 2025)](https://cs224r.stanford.edu/) – Advanced graduate-level course taught by Chelsea Finn covering cutting-edge deep RL research. Topics include imitation learning, model-based RL, offline RL, meta-learning, multi-task RL, and real-world applications in robotics. Full lecture videos available on YouTube (Spring 2025 playlist). Course materials, slides, and assignments publicly accessible. (🔴 Advanced)
@@ -227,6 +245,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🤖 Applications: Robotics, autonomous control, complex environments
   - 📚 Advanced: Automated goal creation and task progression
   - [Tags: advanced curriculum-learning goal-based multi-task arxiv 2025]
+
+- [Model-Based Meta Automatic Curriculum Learning (OpenReview ICLR 2023)](https://openreview.net/forum?id=9Sh16qEFlE) – Novel meta-learning approach for automatic curriculum generation in reinforcement learning. Proposes Skill-Environment Bayesian Networks (SEBNs) to learn performance prediction across tasks and automatically generate optimal training curricula. Outperforms baseline ACL algorithms and demonstrates effective skill composition. Critical research for solving complex task hierarchies with automated curriculum design. (🔴 Advanced)
+  - 📖 Access: Free on OpenReview (peer-reviewed ICLR)
+  - 🏛️ Authority: Published at ICLR 2023 (top ML conference)
+  - 📊 Format: Research paper with experimental results
+  - 🔧 Topics: Meta-learning, automatic curriculum learning, SEBNs, skill composition
+  - 🎯 Innovation: Probabilistic curriculum generation, performance prediction
+  - 🤖 Applications: Hierarchical RL, complex task learning, robotic skills
+  - [Tags: advanced meta-learning curriculum-learning iclr bayesian-networks automated-curriculum 2023]
 
 - [RLDG: Robotic Generalist Policy Distillation via RL (2412.09858, arXiv 2024)](https://arxiv.org/abs/2412.09858) – Advanced technique for distilling high-quality training data for generalist robotic policies using reinforcement learning. Combines foundation models with RL to improve real-world manipulation tasks. Demonstrates integration of RL with modern robotic foundation models. (🔴 Advanced)
   - 📖 Access: Free on arXiv
@@ -340,6 +367,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 20, 2026 | **Total Resources:** 33
+**Last Updated:** February 20, 2026 | **Total Resources:** 36
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, 2025-2026
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, lego-robotics, ros-robotics, automated-curriculum, 2025-2026
