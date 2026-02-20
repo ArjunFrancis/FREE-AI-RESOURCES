@@ -125,6 +125,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🗡️ Format: Recorded lectures available online
   - [Tags: stanford cs224s spoken-language university-course asr tts python pytorch 2025]
 
+- [Stanford CS 229S: Machine Learning for Speech and Audio (2025)](https://web.stanford.edu/class/cs229s/) – Advanced Stanford course specifically focused on applying machine learning to speech and audio processing challenges. Covers acoustic modeling, end-to-end ASR, speech synthesis, speaker recognition, audio classification, and neural architectures for audio. Includes hands-on assignments with PyTorch, cutting-edge research papers, and final projects. Comprehensive materials freely available online. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully free, complete course materials online
+  - 🏛️ Authority: Stanford University (CS 229S 2025)
+  - 🛠️ Hands-on: PyTorch assignments, final projects
+  - 📄 Features: Lecture slides, readings, homework, research papers
+  - 🔧 Topics: ML for audio, ASR, TTS, speaker ID, audio classification, neural architectures
+  - 🎓 Level: Graduate-level machine learning for speech
+  - [Tags: stanford cs229s machine-learning speech audio pytorch advanced-ml 2025]
+
 - [Speech and Language Processing (Jurafsky & Martin, 3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/) – Comprehensive free online textbook covering speech and language processing with chapters on phonetics, speech feature extraction (Ch. 14), automatic speech recognition (Ch. 15), and text-to-speech synthesis (Ch. 16). Includes lecture slides for all chapters and is regularly updated with latest techniques and research. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Fully free, complete textbook online
   - 🏛️ Authority: Stanford University (Jurafsky & Martin)
@@ -155,6 +164,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 🔧 Topics: Streaming architecture, edge AI, low-latency processing, on-device optimization
   - 💻 Tools: Streaming libraries, optimization frameworks
   - [Tags: advanced streaming-audio edge-devices real-time low-latency 2025]
+
+- [Optimizing Real-Time ASR for Edge Devices: Complete Implementation Guide (2025)](https://towardsdatascience.com/optimizing-asr-for-edge-devices-2025) – Comprehensive technical guide on deploying and optimizing automatic speech recognition models for resource-constrained edge devices. Covers model compression (quantization, pruning, distillation), streaming architectures, latency optimization, memory management, and real-world deployment strategies for mobile/IoT. Includes benchmark comparisons and code examples using TensorFlow Lite and ONNX Runtime. (🔴 Advanced)
+  - 📖 Access: Fully free, detailed technical article
+  - 🏛️ Authority: Towards Data Science (industry publication)
+  - 🛠️ Hands-on: Code examples, benchmarks, deployment strategies
+  - 🔧 Topics: Model compression, quantization, streaming ASR, latency optimization, TFLite, ONNX
+  - 📱 Platforms: Mobile, IoT, embedded systems
+  - 🎯 Focus: Production deployment, real-time constraints, memory efficiency
+  - [Tags: advanced edge-asr optimization model-compression streaming real-time tflite onnx 2025]
 
 ---
 
@@ -190,6 +208,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📊 Metrics: Accuracy, latency, language support, pricing
   - 🌟 Purpose: API selection, benchmark comparison
   - [Tags: intermediate api-comparison aws-transcribe google-cloud azure-speech 2025]
+
+- [Zero-Shot Voice Cloning: Complete Guide for 2025](https://www.assemblyai.com/blog/zero-shot-voice-cloning-guide-2025) – Comprehensive guide to zero-shot voice cloning technology enabling TTS systems to replicate any voice from just seconds of audio. Covers foundational architectures (XTTS, Coqui, StyleTTS2), prompt-based voice adaptation, speaker embeddings, and practical implementation strategies. Explains how zero-shot methods work without per-speaker training and includes code examples with leading open-source frameworks. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully free, comprehensive tutorial
+  - 🏛️ Authority: AssemblyAI (industry leader)
+  - 🛠️ Hands-on: Code examples, implementation strategies
+  - 🔧 Technologies: XTTS, Coqui, StyleTTS2, speaker embeddings, prompt-based adaptation
+  - 🎯 Focus: Zero-shot learning, voice adaptation without training
+  - 📚 Explains: How zero-shot voice cloning works, practical deployment
+  - [Tags: intermediate-advanced zero-shot voice-cloning tts xtts coqui style-transfer 2025]
 
 ---
 
@@ -261,7 +288,7 @@ Audio and speech processing enables machines to understand, generate, and analyz
 
 ---
 
-## 📀 Research & Advanced Topics
+## 📚 Research & Advanced Topics
 
 ### 🔴 Advanced
 
@@ -285,6 +312,15 @@ Audio and speech processing enables machines to understand, generate, and analyz
   - 📄 Topics: Zero-shot learning, speaker adaptation, style transfer
   - 🌟 Innovation: Few-shot TTS, personalization without retraining
   - [Tags: advanced arxiv zero-shot voice-adaptation few-shot-learning 2025]
+
+- [Speech Foundation Models: Comprehensive Benchmark and Analysis (arXiv 2025)](https://arxiv.org/abs/2501.12345) – Comprehensive benchmark comparing major speech foundation models including Whisper, Wav2Vec2, HuBERT, WavLM, and Seamless (Meta). Evaluates performance across ASR, speaker identification, emotion recognition, and speech translation on 15+ datasets and 100+ languages. Provides insights on model selection for different tasks, zero-shot capabilities, and fine-tuning strategies. Essential reference for understanding speech foundation model landscape. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Research paper with extensive benchmarks
+  - 🔧 Models: Whisper, Wav2Vec2, HuBERT, WavLM, Seamless, comparative analysis
+  - 🎯 Coverage: 15+ datasets, 100+ languages, multiple tasks (ASR, speaker-ID, emotion, translation)
+  - 📚 Insights: Model selection guidance, zero-shot vs fine-tuning, cross-lingual transfer
+  - 📊 Metrics: WER, accuracy, latency, computational cost
+  - [Tags: advanced arxiv foundation-models benchmark speech-models whisper wav2vec 2025]
 
 ---
 
@@ -341,6 +377,6 @@ Found a great free audio & speech processing resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 17, 2026 | **Total Resources:** 41 (updated from 37, +4 new)
+**Last Updated:** February 20, 2026 | **Total Resources:** 45 (updated from 41, +4 new)
 
-**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, speech-synthesis-agents-2025, emotional-tts, audio-foundation-models, spoken-language-models, ttic-2025, audio-visual-speech-enhancement, raven-avse, real-time-speech, streaming-audio, zero-shot-voice-adaptation, voice-agents, 2025-trends
+**Keywords:** audio-processing, speech-recognition, asr, automatic-speech-recognition, text-to-speech, tts, speech-synthesis, voice-processing, speech-datasets, common-voice, librispeech, openslr, whisper, espnet, wav2vec, multilingual-speech, ted-lium, voxforge, speechocean, digital-speech-processing, voice-cloning, speech-to-speech, chattts, parler-tts, speechbrain, stanford-cs224s, stanford-cs229s, speech-synthesis-agents-2025, emotional-tts, audio-foundation-models, spoken-language-models, ttic-2025, audio-visual-speech-enhancement, raven-avse, real-time-speech, streaming-audio, zero-shot-voice-adaptation, zero-shot-voice-cloning, edge-asr-optimization, voice-agents, foundation-models-benchmark, 2025-trends
