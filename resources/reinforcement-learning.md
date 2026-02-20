@@ -88,6 +88,13 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 📖 Access: Fully open on YouTube
   - [Tags: beginner, video, tutorial, visual, intuitive, cartoon]
 
+- [5 Free Courses on Reinforcement Learning (ML Mastery Roundup 2025)](https://machinelearningmastery.com/5-free-courses-on-reinforcement-learning/) – Curated list of the 5 best free RL courses from Machine Learning Mastery. Includes Hugging Face Deep RL Course, Kaggle Game AI course, Coursera RL Fundamentals, DeepMind x UCL intro series, and FreeCodeCamp practical course. Perfect starting point for discovering multiple learning paths. (🟢 Beginner)
+  - 📖 Access: Fully open article with links to free courses
+  - 📚 Curated selection: Top 5 free courses with descriptions
+  - 🎯 Range: Beginner to advanced, interactive to theoretical
+  - 💻 Tools: Various (Hugging Face, Kaggle, Coursera, YouTube)
+  - [Tags: beginner course-collection curated ml-mastery free-resources 2025]
+
 ### 🟡 Intermediate
 
 - [RL Course by David Silver (YouTube, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) – The original, foundational lecture series from DeepMind's David Silver, co-author of "Reinforcement Learning: An Introduction." Covers RL fundamentals, MDPs, dynamic programming, Monte Carlo methods, temporal difference learning, function approximation, and policy gradients. Essential viewing for deep understanding of RL principles. (🟡 Intermediate)
@@ -114,13 +121,14 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🔧 Covers policy gradient, actor-critic, off-policy methods
   - [Tags: intermediate hands-on deep-rl algorithms pytorch tensorflow openai 2018]
 
-- [Stanford CS234: Reinforcement Learning (Winter 2025)](http://web.stanford.edu/class/cs234/) – University-level course on RL theory and applications taught by Stanford faculty. Covers MDPs, value iteration, policy iteration, Q-learning, deep Q-networks, policy gradients, and actor-critic methods. Includes lecture notes, assignments, and projects. One of the most comprehensive academic RL courses available free online. (🟡 Intermediate to 🔴 Advanced)
+- [Stanford CS234: Reinforcement Learning (Winter 2026)](http://web.stanford.edu/class/cs234/) – University-level course on RL theory and applications taught by Stanford faculty (Emma Brunskill). Covers MDPs, value iteration, policy iteration, Q-learning, deep Q-networks, policy gradients, and actor-critic methods. Includes lecture notes, assignments, and projects. One of the most comprehensive academic RL courses available free online. Full 2024-2026 materials publicly accessible. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Fully open, course materials publicly available
   - 🏛️ Source: Stanford University
-  - 📚 Includes: Lecture notes, slides, readings
+  - 👩‍🎓 Instructor: Emma Brunskill (Associate Professor)
+  - 📚 Includes: Lecture notes, slides, readings, assignments
   - 🛠️ Projects: Real-world RL applications
-  - 🔧 Topics: MDPs, value/policy methods, deep RL, applications
-  - [Tags: intermediate-advanced stanford cs234 university-course free materials 2025]
+  - 🔧 Topics: MDPs, value/policy methods, deep RL, exploration, applications
+  - [Tags: intermediate-advanced stanford cs234 university-course free materials emma-brunskill 2026]
 
 - [Kaggle Learn: Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) – Interactive mini-course perfect for learning RL through game development. Covers game AI basics, reinforcement learning concepts, and practical implementation in game environments. Includes hands-on exercises with the Halite competition. Free, no prerequisites. (🟡 Intermediate)
   - 📖 Access: Fully open, free Kaggle account required
@@ -162,7 +170,26 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 📖 Access: Fully open, official documentation
   - [Tags: documentation, matlab, official, toolbox, intermediate]
 
+- [EduGym: Environment and Notebook Suite for Reinforcement Learning Education (arXiv 2024)](https://arxiv.org/pdf/2311.10590.pdf) – Open-source educational framework with Jupyter notebooks and custom RL environments designed specifically for teaching. Breaks down complex RL concepts into isolated, understandable challenges with progressive difficulty. Includes pre-built environments, algorithm implementations, and interactive exercises. Perfect for instructors and self-learners. (🟡 Intermediate)
+  - 📖 Access: Free on arXiv + GitHub repository
+  - 🏛️ Format: Research paper + open-source code
+  - 🛠️ Hands-on: Yes (Jupyter notebooks, custom environments)
+  - 💻 Tools: Python, Gymnasium, Jupyter
+  - 🎯 Focus: Educational framework with progressive learning
+  - 📚 Includes: Environment suite, algorithm templates, exercises
+  - [Tags: intermediate education jupyter-notebooks framework arxiv 2024]
+
 ### 🔴 Advanced
+
+- [Stanford CS224R: Deep Reinforcement Learning (Spring 2025)](https://cs224r.stanford.edu/) – Advanced graduate-level course taught by Chelsea Finn covering cutting-edge deep RL research. Topics include imitation learning, model-based RL, offline RL, meta-learning, multi-task RL, and real-world applications in robotics. Full lecture videos available on YouTube (Spring 2025 playlist). Course materials, slides, and assignments publicly accessible. (🔴 Advanced)
+  - 📖 Access: Free course website + YouTube lectures
+  - 🏛️ Source: Stanford University
+  - 👩‍🎓 Instructor: Chelsea Finn (Assistant Professor, co-founder of Pi)
+  - 🎥 Format: Full lecture videos on YouTube (Spring 2025)
+  - 📚 Topics: Imitation learning, model-based RL, offline RL, meta-RL, multi-task
+  - 🤖 Applications: Robotics, dexterous manipulation, real-world systems
+  - 🔗 YouTube: https://www.youtube.com/watch?v=EvHRQhMX7_w
+  - [Tags: advanced stanford cs224r chelsea-finn deep-rl robotics youtube 2025]
 
 - [Cambridge Advanced Reinforcement Learning Course (L171 2025-26)](https://www.cl.cam.ac.uk/teaching/2526/L171/) – Advanced university course presenting state-of-the-art RL methods, theory, and algorithms. Covers deep RL fundamentals, policy gradients, actor-critic methods, model-based RL, exploration-exploitation, multi-agent systems, and modern advancements. Lectures notes and problem sets available free online. For researchers and advanced practitioners. (🔴 Advanced)
   - 📖 Access: Free course materials, lecture notes
@@ -313,6 +340,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 17, 2026 | **Total Resources:** 29
+**Last Updated:** February 20, 2026 | **Total Resources:** 33
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, hugging-face, deepmind, openai-spinning-up, advanced-rl, 2025-2026
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, 2025-2026
