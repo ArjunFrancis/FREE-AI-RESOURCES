@@ -123,6 +123,24 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🔧 Topics: Classical methods, global models, XGBoost, deep learning, foundation models, evaluation, multivariate forecasting
   - [Tags: advanced free-course foundation-models transformers deep-learning 2025 agentic-forecasting]
 
+- [The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting (ML Mastery)](https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/) – Comprehensive guide to the 5 essential foundation models transforming forecasting in 2026: Amazon Chronos-2 (production-ready), MOIRAI-2 (multivariate), Lag-Llama (probabilistic), Time-LLM (leveraging LLM infrastructure), and TimesFM (enterprise reliability). Covers zero-shot forecasting, transfer learning, and when to use each model. Essential reading for modern practitioners. (🔴 Advanced)
+  - 📖 Access: Fully open on ML Mastery
+  - 🏛️ Authority: Machine Learning Mastery (Jason Brownlee)
+  - 📊 Coverage: 5 foundation models with practical guidance
+  - 🔧 Models: Chronos-2, MOIRAI-2, Lag-Llama, Time-LLM, TimesFM
+  - 🎯 Focus: Zero-shot forecasting, model selection, production deployment
+  - 📅 Published: January 2026 (cutting-edge)
+  - [Tags: advanced foundation-models chronos moirai timesfm zero-shot ml-mastery 2026]
+
+- [5 Time Series Foundation Models You Are Missing Out On (KDnuggets 2026)](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on) – Practical overview of 5 widely adopted time series foundation models delivering accurate zero-shot forecasting across industries: TimesFM (Google, 500M parameters), Chronos (Amazon), MOIRAI (Salesforce), TimeGPT (Nixtla), and Lag-Llama. Includes key features, use cases, and when to use each model for operational forecasting at scale. (🔴 Advanced)
+  - 📖 Access: Fully open on KDnuggets
+  - 📊 Coverage: 5 production-ready foundation models
+  - 🔧 Models: TimesFM, Chronos, MOIRAI, TimeGPT, Lag-Llama
+  - 🎯 Focus: Practical deployment, use cases, model characteristics
+  - 💼 Industry applications: Large-scale univariate/multivariate forecasting
+  - 📅 Published: February 2026
+  - [Tags: advanced foundation-models timesfm chronos moirai kdnuggets zero-shot 2026]
+
 - [Transformers and Time Series Foundation Models (Feb 2025, arXiv 2503.04948)](https://arxiv.org/abs/2503.04948) – Comprehensive theoretical and empirical analysis of transformers as time series foundation models for the universal one-model-for-all-datasets paradigm. Covers approximation capabilities, generalization bounds, and explains why transformers succeed as foundation models. Includes both univariate and multivariate approaches with rigorous mathematical analysis. (🔴 Advanced)
   - 📖 Access: Free on arXiv
   - 📊 Format: Academic research paper with theoretical analysis
@@ -130,6 +148,14 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🔬 Advanced: Mathematical proofs and theoretical foundations
   - 📚 Novel: Explains transformer success as universal time series models
   - [Tags: advanced arxiv theoretical-analysis transformers foundation-models pretraining 2025]
+
+- [Foundation Models for Time Series Forecasting (arXiv 2507.08858)](https://arxiv.org/html/2507.08858v1) – Comprehensive survey on the emergence of foundation models for time series, covering pre-training on extensive datasets, zero-shot and few-shot forecasting capabilities, and adaptation strategies for downstream tasks. Explains why foundation models (Chronos, TimesFM, MOIRAI, TimeGPT) are transforming forecasting by learning universal patterns across domains. Essential theoretical background for practitioners. (🔴 Advanced)
+  - 📖 Access: Free on arXiv
+  - 📊 Format: Survey paper with comprehensive analysis
+  - 🔧 Topics: Foundation models, pre-training, zero-shot inference, transfer learning, fine-tuning
+  - 📚 Coverage: Chronos, TimesFM, MOIRAI, TimeGPT architectures and capabilities
+  - 🎯 Explains: Why FMs work, universal pattern learning, domain adaptation
+  - [Tags: advanced arxiv survey foundation-models chronos timesfm moirai zero-shot 2025]
 
 - [LLMs as Slow-Thinking Agents for Time Series Forecasting (May 2025, arXiv 2505.24511 - TimeReasoner)](https://arxiv.org/abs/2505.24511) – Cutting-edge research on whether slow-thinking LLMs (ChatGPT-o1, DeepSeek-R1) can reason over time series patterns with zero-shot capabilities. Proposes TimeReasoner framework formulating forecasting as structured reasoning task. Shows LLMs can capture trends, seasonality, and contextual shifts without training data. First to study slow-thinking reasoning for temporal data. (🔴 Advanced)
   - 📖 Access: Free on arXiv
@@ -204,6 +230,9 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - **Flow Forecast** – Flexible PyTorch-based forecasting library
   - **TimeGPT (Nixtla)** – Foundation model for time series (production-ready)
   - **NeuralForecast (Nixtla)** – PyTorch-based neural forecasting library
+  - **Chronos (Amazon)** – Foundation model for univariate/multivariate forecasting
+  - **TimesFM (Google)** – 500M-parameter foundation model for zero-shot forecasting
+  - **MOIRAI (Salesforce)** – Multivariate foundation model
 
 - **Databases & Infrastructure:**
   - InfluxDB, TimescaleDB, Prometheus, OpenTSDB – Time series databases for large-scale data
@@ -237,7 +266,7 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
 
 ## 🐟 Emerging Trends 2025-2026
 
-- **Foundation Models for Time Series**: TimeGPT and transformers as universal models trained on massive time series corpora
+- **Foundation Models for Time Series**: TimeGPT, Chronos, TimesFM, and MOIRAI as universal models trained on massive time series corpora
 - **LLM Reasoning for Forecasting**: Using slow-thinking LLMs (ChatGPT-o1, DeepSeek-R1) for structured temporal reasoning
 - **Zero-Shot Inference**: Pre-trained models forecasting without domain-specific training
 - **Cross-Learning**: Global models learning across diverse time series domains
@@ -270,6 +299,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 3, 2026 | **Total Resources:** 30 (Courses: 23 + Tools: 3 + Advanced Research: 4)
+**Last Updated:** February 20, 2026 | **Total Resources:** 34 (Courses: 27 + Tools: 3 + Advanced Research: 4)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, 2025-2026
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, chronos, timesfm, moirai, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, 2025-2026
