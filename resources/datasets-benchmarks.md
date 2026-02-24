@@ -110,7 +110,7 @@ Quality datasets are the foundation of successful machine learning projects. Thi
 
 ---
 
-## 🏆 Benchmark Leaderboards
+## 🏆 Benchmark Leaderboards & Suites
 
 - [Papers with Code State-of-the-Art](https://paperswithcode.com/sota) - Comprehensive leaderboards tracking best model performance across 5,000+ benchmarks and tasks.
   - 📖 Access: Fully open
@@ -119,6 +119,34 @@ Quality datasets are the foundation of successful machine learning projects. Thi
 - [SuperGLUE Benchmark](https://super.gluebenchmark.com/) - Natural language understanding benchmark suite for evaluating language models.
   - 📖 Access: Fully open
   - [Tags: nlp-benchmark language-understanding glue]
+
+- **[Penn Machine Learning Benchmarks (PMLB)](https://github.com/EpistasisLab/pmlb)** 🟡 Intermediate - Curated repository of 290+ benchmark datasets for supervised machine learning with standardized API (University of Pennsylvania). Covers classification/regression tasks, binary/multi-class problems, categorical/continuous features. Python library `pmlb` enables one-line data loading with pandas compatibility. All datasets cleaned with no missing values.
+  - 📖 Access: Fully open, GitHub + PyPI
+  - 🏛️ Authority: University of Pennsylvania
+  - 📊 Size: 290+ datasets, standardized format
+  - 🐍 Python: `pip install pmlb`
+  - [Tags: intermediate benchmarks classification regression tabular-data upenn 2026]
+
+- **[Open Graph Benchmark (OGB) - Stanford](https://ogb.stanford.edu/)** 🔴 Advanced - Benchmark datasets for graph machine learning from Stanford SNAP group. Covers node/link/graph-level prediction tasks with diverse scales (small to billion-edge graphs). Includes realistic graph datasets from molecular chemistry, knowledge graphs, social networks. Standardized data loaders and evaluators for reproducible GNN research.
+  - 📖 Access: Fully open, pip installable
+  - 🏛️ Authority: Stanford University
+  - 📊 Focus: Graph ML, GNNs, network science
+  - 🐍 Python: `pip install ogb`
+  - [Tags: advanced graph-ml benchmark stanford neural-networks gnn 2026]
+
+- **[OpenML Benchmark Suites](https://github.com/openml/benchmark-suites)** 🟡 Intermediate - Curated suites of machine learning datasets for standardized benchmarking with platform-independent tools. Seamlessly integrated with OpenML platform, accessible through Python, Java, R interfaces. Enables reproducible ML research with standardized reporting and cross-language compatibility.
+  - 📖 Access: Fully open, multi-language support
+  - 🏛️ Authority: OpenML Foundation
+  - 📊 Features: Reproducible benchmarks, standardized evaluation
+  - 🐍 Languages: Python, Java, R
+  - [Tags: intermediate openml benchmark-suites reproducibility cross-platform 2026]
+
+- **[PMLBmini: Small-Data Benchmark Suite](https://arxiv.org/html/2409.01635v1)** 🟢 Beginner - Specialized benchmark of 44 binary classification datasets with ≤500 samples each (Sept 2024). Designed for data-scarce applications, evaluating AutoML and deep learning in low-data regimes. Addresses critical gap in benchmarking for resource-constrained scenarios common in healthcare, manufacturing, social sciences.
+  - 📖 Access: Fully open, arXiv + GitHub
+  - 🏛️ Authority: Academic research (peer-reviewed)
+  - 📊 Focus: Small datasets, AutoML, low-data ML
+  - 💼 Use Cases: Healthcare, IoT, edge AI
+  - [Tags: beginner small-data binary-classification automl low-data-regime 2024]
 
 ---
 
@@ -189,6 +217,6 @@ Found a great free dataset or benchmark? We'd love to add it!
 
 ---
 
-**Last Updated:** December 23, 2025 | **Total Resources:** 22 (+4 new)
+**Last Updated:** February 24, 2026 | **Total Resources:** 26 (+4 new)
 
-**Keywords:** machine-learning-datasets, training-data, benchmarks, huggingface-datasets, kaggle-datasets, computer-vision, nlp-datasets, audio-datasets, imagenet, coco-dataset, mnist, papers-with-code, dataset-hub, open-data, ai-datasets, finepdfs, tabular-data, tabpfn, opendatalab, 2025
+**Keywords:** machine-learning-datasets, training-data, benchmarks, huggingface-datasets, kaggle-datasets, computer-vision, nlp-datasets, audio-datasets, imagenet, coco-dataset, mnist, papers-with-code, dataset-hub, open-data, ai-datasets, finepdfs, tabular-data, tabpfn, opendatalab, pmlb, ogb, openml, small-data, 2026
