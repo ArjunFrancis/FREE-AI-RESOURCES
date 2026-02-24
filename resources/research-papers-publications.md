@@ -5,7 +5,7 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 ## 📋 Topics Covered
 
 - Foundational AI/ML papers
-- Recent breakthrough research (2024-2025)
+- Recent breakthrough research (2024-2026)
 - Pre-prints and conference proceedings
 - Survey papers and literature reviews
 - State-of-the-art benchmarks and leaderboards
@@ -182,6 +182,66 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 - **Why It's Valuable**: Better UX than arXiv, community insights, collaborative learning
 - **Best For**: Daily arXiv browsing, discussion-based learning, community engagement
 
+### Open Access Journals & Advanced Platforms
+
+#### 13. **JMLR - Journal of Machine Learning Research** 🔴 Advanced
+- **URL**: https://www.jmlr.org
+- **Description**: Premier open-access journal for machine learning research with rigorous peer review. All papers freely available online with no paywalls or fees. Covers theoretical foundations, algorithms, applications, and software (February 2026 updates include continual learning, federated learning, efficient diffusion models).
+- **Key Features**:
+  - 100% open access, zero fees
+  - Rigorous peer review process
+  - Theory to applications coverage
+  - Monthly updates with latest research
+  - Code availability tracking
+  - High citation impact
+- **Why It's Valuable**: Gold standard for ML research publishing, highest-quality papers, completely free access, no predatory publishing
+- **Best For**: Theoretical ML, algorithm development, reproducible research, understanding SOTA techniques
+- **Topics**: Deep learning, optimization, statistical learning, reinforcement learning, theory
+
+#### 14. **GitHub - Awesome AI Papers Collections** 🟢 Beginner | 🟡 Intermediate
+- **URL**: https://github.com/aimerou/awesome-ai-papers
+- **Description**: Community-curated collections of influential AI papers organized by publication date and field. Covers computer vision, NLP, audio processing, multimodal learning, and reinforcement learning. Includes paper summaries, direct links, code repositories, and impact assessments from 2020-2026.
+- **Key Features**:
+  - Curated by community experts
+  - Organized by date and topic (CV, NLP, Audio, Multimodal, RL)
+  - Direct arXiv/paper links
+  - Code implementations included
+  - Regular updates with trending papers
+  - Quality filtering by community
+- **Why It's Valuable**: Pre-filtered quality papers, saves discovery time, community consensus on important work, quick access
+- **Best For**: Quick overviews, trending papers, curated reading lists, finding seminal works by topic
+- **Note**: Multiple similar repositories exist (awesome-ml-papers, awesome-deep-learning-papers) - explore GitHub for specialized collections
+
+#### 15. **AI Research Integration Platform** 🔴 Advanced
+- **URL**: https://github.com/CompleteTech-LLC-AI-Research/ai-research-integration-platform
+- **Description**: Knowledge graph-powered toolkit (March 2025 release) that converts academic AI research papers into working implementations. Features Neo4j-based knowledge graph with 35+ entity types tracking research concepts, methods, datasets, and implementations. Automates paper-to-code conversion, tracks temporal evolution of AI concepts, and provides research orchestration engine.
+- **Key Features**:
+  - Knowledge graph of AI research (Neo4j)
+  - Automated code generation from papers
+  - Research orchestration engine
+  - Implementation planning system
+  - Temporal evolution tracking
+  - Team collaboration features
+  - Entity extraction (concepts, methods, datasets)
+- **Why It's Valuable**: Bridges theory-practice gap, automates implementation workflow, tracks how AI concepts evolve over time, accelerates research-to-production
+- **Best For**: Converting papers to code, research implementation planning, tracking AI concept evolution, team research projects
+- **Technologies**: Python, Neo4j, LLMs for extraction, graph analytics
+
+#### 16. **MLCommons Research** 🔴 Advanced
+- **URL**: https://mlcommons.org (GitHub: https://github.com/mlcommons)
+- **Description**: Open engineering consortium advancing machine learning through collaborative benchmarks, datasets, and best practices. Maintains MLPerf benchmarks (industry-standard performance evaluation), responsible AI standards, and 114+ open-source repositories with cutting-edge ML infrastructure tools.
+- **Key Features**:
+  - Industry-standard benchmarks (MLPerf Training/Inference)
+  - Open-source ML infrastructure tools
+  - Collaborative research initiatives
+  - Best practices documentation
+  - Community-driven standards
+  - Cross-industry partnerships
+  - Research working groups
+- **Why It's Valuable**: Industry benchmarks for fair comparison, standardized evaluation methodologies, collaborative innovation, bridge academia-industry
+- **Best For**: ML performance evaluation, industry standards, benchmark comparisons, production ML systems, reproducible research
+- **Working Groups**: Training, Inference, Storage, Medical Imaging, Science, Algorithmic Efficiency
+
 ---
 
 ## 📊 Research Areas & Landmark Papers
@@ -195,7 +255,7 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 - **Diffusion Models** (2020-2024) - Image generation
 - **Vision Transformers** (2020) - ViT architecture
 
-### 2024-2025 Breakthrough Topics
+### 2024-2026 Breakthrough Topics
 - **Large Language Models (LLMs)**: GPT-4, Claude 3, Gemini, Llama 3
 - **Multimodal AI**: CLIP, DALL-E 3, GPT-4V, Gemini Ultra
 - **World Models**: Genie, Cosmos (NVIDIA)
@@ -213,6 +273,7 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 2. Use **Google Scholar** for broad searches
 3. Read paper summaries on **Semantic Scholar**
 4. Browse trending papers on **Hugging Face Papers**
+5. Explore curated lists on **GitHub Awesome Collections**
 
 ### For Researchers
 1. Set up **arXiv** alerts for your domains
@@ -220,12 +281,14 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 3. Track citations with **Semantic Scholar**
 4. Build collections in **Research Rabbit**
 5. Extract data with **Elicit** for systematic reviews
+6. Publish in **JMLR** for open access impact
 
 ### For Practitioners
 1. Find implementations on **Papers With Code**
-2. Check benchmarks and leaderboards
+2. Check benchmarks on **MLCommons**
 3. Follow trending work on **alphaXiv**
 4. Use **CONSENSUS** for evidence-based answers
+5. Convert papers to code with **AI Research Integration Platform**
 
 ---
 
@@ -255,12 +318,14 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 - Follow Papers With Code leaderboards
 - Join Hugging Face discussions
 - Set up Google Scholar alerts
+- Star GitHub awesome-lists for updates
 
 **Efficient Reading**:
 - Read abstracts first on Semantic Scholar
 - Check Papers With Code for implementations
 - Use Elicit to extract specific data
 - Build Connected Papers graphs for context
+- Track papers in Research Rabbit collections
 
 **Citation Management**:
 - Export to Zotero/Mendeley from any platform
@@ -272,11 +337,11 @@ Comprehensive collection of platforms and databases for discovering, reading, an
 
 ## 📈 Statistics
 
-**Resource Count**: 12 free platforms  
+**Resource Count**: 16 free platforms  
 **Coverage**: 500M+ research papers  
 **Daily Updates**: 1000+ new AI/ML papers  
 **Domains**: Computer Science, AI, ML, Robotics, NLP, CV  
-**Last Updated**: December 2025  
+**Last Updated**: February 24, 2026  
 
 ---
 
@@ -295,7 +360,7 @@ To add a resource to this section, please ensure:
 - [Resource Name](URL) - Brief 1-2 sentence description highlighting unique value. Key features and best use cases.
 ```
 
-**Sources**: arXiv, Papers With Code, Semantic Scholar, IEEE, Research communities (2024-2025)
+**Sources**: arXiv, Papers With Code, Semantic Scholar, IEEE, Research communities (2024-2026)
 
 ---
 
