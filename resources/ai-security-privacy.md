@@ -71,6 +71,15 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: beginner hands-on owasp llm-security docker labs prompt-injection 2025]
   - [Verified: 2026-02-18]
 
+- **[NVIDIA: Exploring Adversarial Machine Learning (GitHub Course)](https://github.com/ismaelucky342/Nvidia_AML)** 🟢 Beginner - Official NVIDIA course exploring adversarial machine learning fundamentals with focus on understanding threats to AI models and defense strategies. Covers different types of adversarial attacks (evasion, extraction, poisoning), methods for evaluating model security, real-world vulnerabilities in AI systems, and hands-on experience with attack and defense techniques. Includes legal and ethical considerations, model optimization for robustness, and practical labs using Adversarial Robustness Toolbox (ART). Perfect introduction for developers and security practitioners entering AI security domain.
+  - 📖 Access: Fully free (GitHub repository)
+  - 🏛️ Authority: NVIDIA (official course)
+  - 🛠️ Hands-on: Yes (ART labs, attack simulations)
+  - 📊 Topics: Evasion attacks, model extraction, data poisoning, defense mechanisms, ART framework, ethical AI security
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: beginner adversarial-ml nvidia hands-on attack-defense art-framework github 2025]
+  - [Verified: 2026-02-24]
+
 ### 🟡 Intermediate
 
 - [Microsoft AI Red Teaming 101 Series (2025)](https://learn.microsoft.com/en-us/security/ai-red-team/training) ★ **OFFICIAL 2025** – Comprehensive training series from Microsoft helping professionals secure generative AI systems against emerging threats. Dive into vulnerabilities, attack techniques (prompt injection, multi-turn attacks, jailbreaking), and defense strategies with real-world case studies from Microsoft's production AI security work. Part A covers vulnerabilities and attacks (prompt injection, single-turn and multi-turn attacks, filter evasion, encoding tricks). Part B covers defenses and mitigation strategies including Microsoft's Spotlighting methods (delimiting, data marking, encoding). Includes automation tools (PyRIT) for scaling red teaming efforts. (🟡 Intermediate)
@@ -165,6 +174,25 @@ AI Security focuses on protecting machine learning models and systems from malic
   - [Tags: intermediate university workshop privacy federated-learning adversarial-robustness 2025]
   - [Verified: 2025-12-16]
 
+- **[UCSB CS291A: Adversarial Machine Learning (Academic Course GitHub)](https://github.com/UCSB-Shiyu-Teaching/CS291A)** 🟡 Intermediate - Comprehensive academic course from UC Santa Barbara exploring principles, methodologies, and challenges of adversarial machine learning. Covers how adversaries exploit ML model vulnerabilities through adversarial attacks and how to develop robust defense mechanisms. Key topics include adversarial examples generation, robustness evaluation techniques, adversarial training methodologies, certified defenses, backdoor attacks, model poisoning, and real-world security implications in computer vision and natural language processing domains. Includes lecture materials, assignments, and research paper readings.
+  - 📖 Access: Fully open (GitHub repository with course materials)
+  - 🏛️ Authority: UC Santa Barbara (official academic course)
+  - 🛠️ Hands-on: Yes (assignments, projects, paper implementations)
+  - 📊 Topics: Adversarial examples, robustness evaluation, adversarial training, certified defenses, backdoor attacks, model poisoning, CV/NLP security
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate adversarial-ml academic university course github robustness backdoors 2021]
+  - [Verified: 2026-02-24]
+
+- **[Johns Hopkins: Securing AI and Advanced Topics (Coursera 2024)](https://www.coursera.org/learn/securing-ai-and-advanced-topics)** 🟡 Intermediate - Advanced course from Johns Hopkins University exploring the cutting-edge intersection of AI and cybersecurity. Covers securing AI systems against emerging threats through practical applications including fraud prevention using cloud AI solutions, Generative Adversarial Networks (GANs) for synthetic data generation, adversarial attacks (black-box and white-box), reinforcement learning for adversarial scenarios, and data engineering techniques for ML optimization. 6 modules with hands-on practice labs, assignments, and real-world case studies. Free audit available.
+  - 📖 Access: Free audit (Coursera, full course access)
+  - 🏛️ Authority: Johns Hopkins University (official course)
+  - 🛠️ Hands-on: Yes (practice labs, assignments, Colab notebooks)
+  - 📊 Topics: GANs, adversarial attacks (black-box/white-box), reinforcement learning attacks, fraud prevention, data engineering, cloud AI security
+  - ⏱️ Duration: 6 modules, self-paced
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate ai-security gans adversarial-attacks reinforcement-learning coursera johns-hopkins 2024]
+  - [Verified: 2026-02-24]
+
 ### 🔴 Advanced
 
 - **[Google Secure AI Framework (SAIF): Official Security Guidelines](https://secureai.google/)** 🔴 Advanced – Google's official framework for building secure AI systems, available in full open-source format via GitHub. Provides comprehensive threat modeling, red-teaming practices, privacy protection strategies, and compliance frameworks for enterprise ML security. Includes detailed implementation guidelines, case studies, and threat catalogs. Authoritative source from Google's AI Security team for designing production-grade secure AI architectures.
@@ -197,7 +225,7 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 📖 Access: Fully open (official TensorFlow documentation)
   - 🏛️ Authority: TensorFlow / Google (official source)
   - 🛠️ Hands-on: Yes (executable Colab notebooks, complete code)
-  - 💪 Code: Python, TensorFlow 2.x, TensorFlow Privacy library
+  - 💻 Code: Python, TensorFlow 2.x, TensorFlow Privacy library
   - 📊 Topics: DP-SGD, gradient clipping, noise mechanisms, privacy budget, epsilon-delta analysis
   - [Tags: advanced differential-privacy tensorflow dp-sgd tutorial hands-on google 2025]
   - [Verified: 2026-02-18]
@@ -206,7 +234,7 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 📖 Access: Fully free, open source (MIT License)
   - 🏛️ Authority: IBM Research (official library)
   - 🛠️ Hands-on: Yes (Python library, extensive examples, Jupyter notebooks)
-  - 💪 Code: Python, scikit-learn compatible API
+  - 💻 Code: Python, scikit-learn compatible API
   - 📊 Topics: Differential privacy mechanisms, private ML models, privacy budgets, advanced composition, scikit-learn integration
   - 📜 License: MIT
   - [Tags: advanced differential-privacy open-source ibm python library production-ready 2025]
@@ -216,7 +244,7 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 📖 Access: Fully open, official documentation
   - 🏛️ Authority: TensorFlow (Google)
   - 🛠️ Hands-on: Yes, executable Colab notebooks
-  - 💪 Code: Python, TensorFlow Federated
+  - 💻 Code: Python, TensorFlow Federated
   - [Tags: advanced differential-privacy federated-learning tensorflow tutorial 2025]
   - [Verified: 2025-12-16]
 
@@ -240,6 +268,15 @@ AI Security focuses on protecting machine learning models and systems from malic
   - 🌍 Topics: Purple teaming, adversarial training, LLM safety, red-blue teaming integration
   - [Tags: advanced purple-teaming llm-safety adversarial-training 2024]
   - [Verified: 2026-01-09]
+
+- **[SANS SEC535: Offensive AI - Attack Tools and Techniques (2026)](https://www.sans.org/cyber-security-courses/offensive-ai-attack-tools-techniques)** 🔴 Advanced - Cutting-edge 2026 SANS Institute course teaching offensive security professionals how to leverage AI tools for penetration testing and red teaming. Covers using AI to automate reconnaissance, vulnerability exploitation, payload generation, social engineering attacks, and adversarial ML techniques targeting AI systems themselves. Includes hands-on labs with latest AI-powered attack frameworks, defensive countermeasures, and ethical considerations. Designed for experienced security practitioners wanting to integrate AI into offensive operations. Course outline fully accessible.
+  - 📖 Access: Free course outline (full training available via SANS)
+  - 🏛️ Authority: SANS Institute (premier cybersecurity training organization)
+  - 🛠️ Hands-on: Yes (offensive labs, AI-powered tools)
+  - 📊 Topics: AI-assisted pentesting, automated exploitation, adversarial ML attacks, AI red teaming, offensive automation, ethical hacking
+  - ⏱️ Updated: 2026
+  - [Tags: advanced offensive-security penetration-testing ai-tools adversarial-ml sans red-teaming 2026]
+  - [Verified: 2026-02-24]
 
 ---
 
@@ -302,6 +339,8 @@ AI Security focuses on protecting machine learning models and systems from malic
 - **Google SAIF** - Secure AI framework
 - **Guardrails AI** - LLM output validation
 - **PromptInject** - Prompt injection testing
+- **Garak** - LLM vulnerability scanner
+- **Giskard** - AI testing framework
 
 ---
 
@@ -342,7 +381,7 @@ Found a great free AI Security resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 18, 2026 | **Total Resources:** 26 (+4 new)
-**Last Link Validation:** February 18, 2026
+**Last Updated:** February 24, 2026 | **Total Resources:** 30 (+4 new)
+**Last Link Validation:** February 24, 2026
 
-**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, threat-modeling, google-saif, tensorflow-federated, tensorflow-privacy, ibm-diffprivlib, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, owasp-llm-top-10, hackthebox, hands-on-labs, free-courses-2025-2026
+**Keywords:** ai-security, adversarial-machine-learning, model-security, privacy-preserving-ai, federated-learning, differential-privacy, adversarial-attacks, model-extraction, data-poisoning, trustworthy-ai, robust-ml, secure-ai, threat-modeling, google-saif, tensorflow-federated, tensorflow-privacy, ibm-diffprivlib, prompt-injection, red-teaming, purple-teaming, generative-ai-security, llm-safety, owasp-llm-top-10, hackthebox, nvidia-aml, ucsb-cs291a, johns-hopkins, sans-sec535, offensive-ai, hands-on-labs, free-courses-2025-2026
