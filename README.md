@@ -499,41 +499,6 @@ We welcome contributions! Adding resources is easy:
 
 - **[Physics-based Deep Learning (2025)](http://arxiv.org/pdf/2109.05237.pdf)** - Open-source textbook on physics-informed neural networks (PINNs), differentiable physics, inverse problems with Jupyter implementations for scientific computing. (🔴 Advanced)
 
-#### Mathematics for AI: Maintained at 42 Resources ✅
-- **Status**: Already at target (40), verified current with Feb 22 content
-- **Coverage**: Linear algebra, calculus, probability, statistics, optimization, matrix calculus, Markov chains, Bayesian inference
-- **Latest**: MIT Matrix Calculus (2025), Probability Engineering (2025), Statistics AI Era (2024), Meta-Statistical Learning (2025)
-
----
-
-### 💪 Overall Progress (Jan 12 – Feb 22, 2026)
-- **Sunday Jan 12**: Data Science (+4), ML Fundamentals (+3), Mathematics (+5) = **+12 resources**
-- **Monday Jan 13**: NLP (+7) = **+7 resources**
-- **Tuesday Jan 14**: Robotics & Embodied AI (+4) = **+4 resources**
-- **Wednesday Jan 15**: MLOps (+4), Edge AI (+3), AI Security (+3) = **+10 resources**
-- **Thursday Jan 16**: Healthcare AI (+5), Finance AI (+5), Recommender Systems (+5) = **+15 resources**
-- **Friday Jan 17**: Reinforcement Learning (+5), Time Series (+5), Audio/Speech (+4) = **+14 resources**
-- **Saturday Jan 18**: [Rest day - no updates]
-- **Sunday Jan 19**: Ethics (+3), Tools (+4), Evals (+10 NEW CATEGORY) = **+17 resources**
-- **Monday Jan 20**: GenAI (+4), Prompt Eng (+4), NLP (+4) = **+12 resources**
-- **Wednesday Jan 21**: ML Fundamentals (+2), Deep Learning (+2), NLP (+2), Computer Vision (+2) = **+8 resources**
-- **Thursday Jan 22**: Prompt Engineering (+2), Generative AI/Agents (+2), Advanced NLP (+2) = **+6 resources**
-- **Friday Jan 23 – Tuesday Feb 3**: [Scheduled rotations + verification]
-- **Tuesday Feb 3**: Robotics (+8), Time Series (+4) = **+12 resources**
-- **Wednesday Feb 4 – Sunday Feb 15**: [Scheduled rotations + verification]
-- **Monday Feb 16**: Generative AI (+3), Prompt Engineering (+4), Multimodal AI (+3) = **+10 resources**
-- **Tuesday Feb 17**: Robotics & Embodied AI (+10) = **+10 resources**
-- **Wednesday Feb 18**: MLOps (+4), Edge AI & IoT (+3), AI Security & Privacy (+4) = **+11 resources**
-- **Thursday Feb 19**: Healthcare AI (+4) = **+4 resources**
-- **Friday Feb 20**: Reinforcement Learning (+3) = **+3 resources**
-- **Saturday Feb 21**: [Rest day - no updates]
-- **Sunday Feb 22**: ML Fundamentals (+10) = **+10 NEW RESOURCES** ✨
-- **Total (Jan 12–Feb 22)**: 555 → 703 = **+148 new resources in 42 days** 🚀
-
-**Pattern**: Sunday Week 1 rotation focused on ML Fundamentals (comprehensive growth from 18→28 resources with beginner-to-advanced coverage). Mathematics for AI already at target with latest 2025-2026 content. All resources 100% free, HTTP 200, cutting-edge.
-
-**🎉 MILESTONE: 700+ RESOURCES ACHIEVED!** Repository crossed 700 resources milestone on Feb 22, 2026!
-
 ---
 
 ## 💪 Repository Activity
