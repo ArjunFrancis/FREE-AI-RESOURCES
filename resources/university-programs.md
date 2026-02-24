@@ -4,7 +4,7 @@
 
 ## Overview
 
-This collection features **36+ university-level AI/ML courses** from the world's top institutions. All courses are **100% free**, accessible globally, and require no paid subscriptions.
+This collection features **40+ university-level AI/ML courses** from the world's top institutions. All courses are **100% free**, accessible globally, and require no paid subscriptions.
 
 **Perfect for**: Students seeking university-quality education, professionals upskilling, researchers exploring advanced topics
 
@@ -14,12 +14,16 @@ This collection features **36+ university-level AI/ML courses** from the world's
 
 | University | Courses | Format | Duration | Difficulty | Cost |
 |-----------|---------|--------|----------|------------|------|
-| **MIT** | 8 | Video lectures | 4-12 weeks | 🟡🔴 | FREE |
+| **MIT** | 9 | Video lectures | 4-12 weeks | 🟡🔴 | FREE |
 | **Stanford** | 8 | Video lectures | 4-12 weeks | 🟡🔴 | FREE |
-| **Harvard** | 6 | Video lectures | 4-10 weeks | 🟢🟡 | FREE |
+| **Harvard** | 7 | Video lectures | 4-10 weeks | 🟢🟡 | FREE |
 | **UC Berkeley** | 8 | Video lectures | 4-12 weeks | 🟡🔴 | FREE |
 | **Oxford** | 6 | Video lectures | 4-10 weeks | 🟢🟡 | FREE |
-| **TOTAL** | **36+** | **Video** | **4-12 weeks** | **All levels** | **FREE** |
+| **MBZUAI** | 1 | Graduate program | 2 years | 🔴 | FREE* |
+| **Simons Institute** | 1 | Workshop series | 4 weeks | 🔴 | FREE |
+| **TOTAL** | **40+** | **Video/Online** | **4 weeks-2 years** | **All levels** | **FREE** |
+
+*MBZUAI offers fully-funded scholarships for graduate programs
 
 ---
 
@@ -73,6 +77,12 @@ This collection features **36+ university-level AI/ML courses** from the world's
    - Duration: 12 weeks | Prerequisite: Systems background | Level: Advanced
    - Resources: Lectures, papers, projects
 
+9. **[Introduction to Data-Centric AI (2026)](https://dcai.csail.mit.edu/)** 🟡
+   - Modern approach focusing on data quality over model complexity. Systematic engineering of datasets used to train/test AI models. Covers data labeling, cleaning, augmentation, curation strategies. Emphasizes improving model performance through better data rather than bigger models.
+   - Duration: 8 weeks | Prerequisite: ML basics, Python | Level: Intermediate
+   - Resources: Lecture videos, lab assignments, practical datasets, GitHub repos
+   - **New for 2026**: Cutting-edge paradigm shift in ML practice
+
 ---
 
 ## 🌲 Stanford University - CS Courses
@@ -120,10 +130,11 @@ This collection features **36+ university-level AI/ML courses** from the world's
    - Duration: 10 weeks | Prerequisite: Linear algebra, calculus | Level: Advanced
    - Resources: Lecture notes, problem sets, projects
 
-8. **[CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)** 🔴
-   - Multi-task learning, meta-learning, few-shot learning, transfer learning
+8. **[CS330: Deep Multi-Task and Meta Learning (2025-2026)](https://cs330.stanford.edu/)** 🔴
+   - Multi-task learning, meta-learning, few-shot learning, transfer learning. Latest course iteration covering MAML, Prototypical Networks, model-agnostic meta-learning, multi-task optimization strategies. Includes recent advances in foundation models and adaptation.
    - Duration: 10 weeks | Prerequisite: Deep learning experience | Level: Advanced
-   - Resources: Lectures, projects, reading materials
+   - Resources: Video lectures, latest research papers, project templates
+   - **Updated 2025-2026**: Includes foundation model adaptation techniques
 
 ---
 
@@ -166,6 +177,12 @@ This collection features **36+ university-level AI/ML courses** from the world's
    - Applying mathematics and CS to real-world problems
    - Duration: 8 weeks | Prerequisite: Math foundations | Level: Beginner/Intermediate
    - Resources: Lectures, case studies, group projects
+
+7. **[Artificial Intelligence in Medicine (AIM) PhD Track Resources](https://dbmi.hms.harvard.edu/)** 🔴
+   - Free course materials from new HMS DBMI AI track (2025 launch). Focus on AI for precision medicine, health equity, biomedical data reasoning. Covers clinical AI applications, medical image analysis, EHR mining, drug discovery AI.
+   - Duration: Self-paced | Prerequisite: Medical/biomedical background | Level: Advanced
+   - Resources: Case studies, research papers, methodology guides, lecture slides
+   - **New for 2025**: Cutting-edge medical AI curriculum from Harvard Medical School
 
 ---
 
@@ -263,6 +280,34 @@ This collection features **36+ university-level AI/ML courses** from the world's
 
 ---
 
+## 🌟 Specialized Graduate Programs & Resources
+
+### Mohamed bin Zayed University of AI (MBZUAI)
+
+**World's First AI-Specialized University** (United Arab Emirates)
+
+- **[M.Sc. in Machine Learning](https://mbzuai.ac.ae/study/msc-programs/)** 🔴 Advanced
+  - World's first graduate-level AI university, ranked top 15 globally for Computer Vision, top 25 for Machine Learning
+  - Focus: Adaptable, explainable AI models for healthcare, energy, smart cities, climate
+  - Research Areas: Deep learning, reinforcement learning, optimization, trustworthy AI
+  - Duration: 2 years full-time | Prerequisite: BS in CS/Engineering + GRE | Level: Graduate
+  - **Funding**: Fully-funded scholarships available (100% tuition + monthly stipend + housing + health insurance)
+  - Resources: State-of-the-art research labs, industry partnerships, publication opportunities
+  - **Free Access**: Course syllabi, research papers, and some lectures available online
+  - **Note**: While degree requires enrollment, extensive free educational resources and research publications available publicly
+
+### Simons Institute for the Theory of Computing (UC Berkeley)
+
+- **[Transformers as Computational Model Workshop Series](https://simons.berkeley.edu/)** 🔴 Advanced
+  - Cutting-edge workshop series on transformer architecture theory, computational complexity, and applications
+  - Topics: Theoretical foundations, attention mechanisms, expressivity, optimization landscapes
+  - Duration: 4 weeks | Prerequisite: Advanced ML, theoretical CS | Level: Advanced
+  - Resources: Expert lectures, panel discussions, theoretical foundations, latest research
+  - **Free Access**: All workshop videos, slides, and papers freely available online
+  - **2026 Focus**: Mathematical understanding of why transformers work, computational limits
+
+---
+
 ## 📚 How to Use These Courses
 
 ### For Beginners
@@ -280,13 +325,15 @@ This collection features **36+ university-level AI/ML courses** from the world's
    - RL: Stanford CS234
    - Deep Learning: Berkeley CS182
    - Systems: Stanford CS329S
+   - Meta-Learning: Stanford CS330
 
 ### For Advanced Practitioners
 **Recommended Path** (Ongoing):
 1. MIT courses (most rigorous)
 2. Stanford advanced courses (cutting-edge)
 3. Berkeley seminars (research-focused)
-4. Combine with research papers and projects
+4. Simons Institute workshops (theoretical depth)
+5. Combine with research papers and projects
 
 ---
 
@@ -353,12 +400,12 @@ If you need to refresh:
 
 | Metric | Value |
 |--------|-------|
-| **Total Courses** | 36+ |
-| **Total Universities** | 5 |
+| **Total Courses** | 40+ |
+| **Total Universities** | 7 |
 | **Free Courses** | 100% |
 | **Average Duration** | 8-12 weeks |
 | **Difficulty Range** | 🟢 Beginner to 🔴 Advanced |
-| **Total Learning Hours** | 1000+ |
+| **Total Learning Hours** | 1200+ |
 | **Cost** | FREE |
 | **Certificates** | Free/Paid available |
 
@@ -392,7 +439,7 @@ This collection is organized under MIT License. Individual courses are maintaine
 
 ---
 
-**Last Updated**: December 12, 2025  
+**Last Updated**: February 24, 2026  
 **Status**: 🟢 Active & Growing  
 **Maintained By**: FREE-AI-RESOURCES Community
 
