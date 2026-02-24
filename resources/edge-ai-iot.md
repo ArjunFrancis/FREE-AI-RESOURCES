@@ -93,6 +93,26 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - [Tags: beginner tinyml introduction webinar hardware deployment applications 2026]
   - [Verified: 2026-02-18]
 
+- **[TinyML: Getting Started with TensorFlow Lite for Microcontrollers (Digi-Key Electronics YouTube)](https://www.youtube.com/watch?v=gDFWCxrJruQ)** 🟢 Beginner - Step-by-step video tutorial teaching complete TensorFlow Lite Micro workflow for embedded systems using STM32CubeIDE. Covers training neural networks in TensorFlow/Keras, converting to TensorFlow Lite format, generating C header files for embedded deployment, integrating TFLite Micro library into STM32 projects, and running inference on microcontrollers. Includes practical measurements of flash memory, RAM usage, and inference timing. Perfect hands-on introduction to embedded ML development.
+  - 📖 Access: Fully free (YouTube + written tutorial)
+  - 🏛️ Authority: Digi-Key Electronics (official electronics distributor educational content)
+  - 📺 Video: Complete hands-on tutorial with code walkthrough
+  - 🛠️ Hands-on: Yes (STM32, Nucleo boards, source code provided)
+  - 📊 Topics: TensorFlow Lite Micro, model conversion, C integration, STM32CubeIDE, embedded inference, memory optimization
+  - ⏱️ Duration: Comprehensive video tutorial
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: beginner tinyml tensorflow-lite stm32 microcontrollers hands-on tutorial embedded-inference 2020]
+  - [Verified: 2026-02-24]
+
+- **[TensorFlow Lite (LiteRT): Official Documentation (Google AI)](https://ai.google.dev/edge/litert)** 🟢 Beginner - Official comprehensive documentation for TensorFlow Lite (now rebranded as LiteRT), Google's solution for on-device machine learning. Covers model conversion from TensorFlow to optimized mobile/edge format, quantization techniques for model compression, platform-specific deployment guides for Android/iOS/embedded devices, hardware acceleration with GPU delegates and Edge TPU, and complete API references. Essential resource for understanding Google's edge AI stack with quickstart guides, code examples, and best practices for production deployment.
+  - 📖 Access: Fully free (official Google documentation)
+  - 🏛️ Authority: Google AI for Developers (official source)
+  - 🛠️ Hands-on: Yes (code examples, tutorials, Colab notebooks)
+  - 📊 Topics: Model conversion, quantization, mobile deployment, hardware acceleration, API reference, optimization
+  - 🌍 Global: Fully accessible worldwide, multi-platform support
+  - [Tags: beginner intermediate tensorflow-lite litert google android ios embedded official-docs model-optimization 2026]
+  - [Verified: 2026-02-24]
+
 ### 🟡 Intermediate
 
 - **[Computer Vision with TinyML: Edge AI + CNNs (TheTechSlayer, 2025)](https://www.youtube.com/watch?v=7vBbkChN7Wk)** 🟡 Intermediate - Comprehensive 2025 video course teaching computer vision and TinyML deployment on edge devices. Covers CNN fundamentals, image classification, object detection, and real-world deployment on microcontrollers and Raspberry Pi. Created in collaboration with Edge Impulse, OpenMV, and Seeed Studio. Features practical projects with hands-on hardware labs using industry-standard tools and platforms.
@@ -154,6 +174,27 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
   - [Tags: intermediate tinyml tensorflow-lite edge-impulse microcontrollers hands-on training 2025]
   - [Verified: 2026-02-18]
 
+- **[Deploying Machine Learning on Microcontrollers: Complete TinyML Guide (SmartTech Fusion YouTube 2025)](https://www.youtube.com/watch?v=5rw5ucSx8Ck)** 🟡 Intermediate - Comprehensive video guide covering the complete TinyML deployment pipeline from training workstations to resource-constrained microcontrollers. Explores model quantization techniques for memory/compute optimization, deployment pipelines using TensorFlow Lite Micro and Edge Impulse, real-time inference on Arduino/ESP32/STM32 platforms, and applications in smart agriculture, predictive maintenance, and gesture recognition. Includes performance optimization techniques for low-power operation and practical considerations for production deployment.
+  - 📖 Access: Fully free (YouTube video tutorial)
+  - 🏛️ Authority: SmartTech Fusion (embedded systems education channel)
+  - 📺 Video: Complete deployment guide with demonstrations
+  - 🛠️ Hands-on: Yes (Arduino, ESP32, practical examples)
+  - 📊 Topics: Model quantization, TFLite deployment, microcontroller platforms, optimization, real-world applications
+  - ⏱️ Duration: Comprehensive tutorial
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate tinyml deployment quantization arduino esp32 tensorflow-lite applications optimization 2025]
+  - [Verified: 2026-02-24]
+
+- **[TinyML Tutorials: Enabling Intelligent Edge Devices (GitHub)](https://github.com/wxarm/tinyML)** 🟡 Intermediate - Open-source GitHub repository with hands-on tutorials for deploying machine learning on ultra-low-power ARM Cortex-M microcontrollers using TensorFlow Lite. Includes complete walkthrough of training CNNs for CIFAR-10 image classification, converting models to TensorFlow Lite format, integrating TFLite Micro with Mbed development environment, and deploying to STM32H747I Discovery Kit. Features code examples, build instructions, and performance benchmarking. Covers CMSIS-NN optimizations for ARM SIMD instructions (Cortex-M4/M7/M33/M35P) to achieve significant inference speedups.
+  - 📖 Access: Fully free (open-source GitHub repository)
+  - 🏛️ Authority: Community-maintained (ARM ecosystem)
+  - 🛠️ Hands-on: Yes (complete code repository, STM32 hardware examples)
+  - 📊 Topics: ARM Cortex-M, TensorFlow Lite Micro, CIFAR-10, CNN deployment, CMSIS-NN, Mbed, STM32
+  - 💻 Tech Stack: C++, TensorFlow Lite Micro, Mbed CLI, ARM cross-compilation toolchain
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate tinyml arm-cortex tensorflow-lite stm32 hands-on github cifar-10 cmsis-nn 2020]
+  - [Verified: 2026-02-24]
+
 ### 🔴 Advanced
 
 - [Secure and Private AI: Differential Privacy and Federated Learning (PDF)](https://imirzadeh.me/talk/private-ai-differential-privacy-and-federated-learning/slides.pdf) – Academic presentation slides covering differential privacy fundamentals, federated learning architecture, privacy guarantees, and mathematical frameworks for secure edge AI systems with minimal accuracy loss. (🔴 Advanced)
@@ -168,7 +209,7 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 ## 🛠️ Key Tools & Frameworks
 
 **Popular Edge AI Frameworks:**
-- **TensorFlow Lite** - Lightweight ML for mobile and embedded devices
+- **TensorFlow Lite (LiteRT)** - Lightweight ML for mobile and embedded devices (Google)
 - **TensorFlow Lite Micro** - Ultra-lightweight for microcontrollers
 - **Edge Impulse** - End-to-end platform for embedded ML (free tier available)
 - **ONNX Runtime** - Cross-platform inference optimization
@@ -177,7 +218,7 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 - **PyTorch Mobile** - Mobile deployment for PyTorch models
 - **Apache TVM** - Deep learning compiler for edge devices
 - **OpenMV** - Computer vision on embedded systems
-- **TensorFlow Lite Micro** - For ultra-constrained microcontrollers
+- **CMSIS-NN** - ARM neural network kernels for Cortex-M processors
 
 **Hardware Platforms:**
 - Arduino Nano 33 BLE Sense
@@ -185,10 +226,11 @@ Edge AI brings artificial intelligence directly to edge devices—smartphones, I
 - ESP32 / ESP32-S3
 - NVIDIA Jetson (Nano, Xavier)
 - Google Coral Edge TPU
-- STM32 microcontrollers
+- STM32 microcontrollers (STM32H747I Discovery Kit)
 - Adafruit EdgeBadge
 - Seeed Studio boards
 - OpenMV camera boards
+- ARM Cortex-M series (M4, M7, M33, M35P)
 
 ---
 
@@ -231,7 +273,7 @@ Found a great free Edge AI or TinyML resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 18, 2026 | **Total Resources:** 17 (+3 new)
-**Last Link Validation:** February 18, 2026
+**Last Updated:** February 24, 2026 | **Total Resources:** 21 (+4 new)
+**Last Link Validation:** February 24, 2026
 
-**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, computer-vision-edge, openMV, arm-cortex, nobleprog, thinkrobotics, 2025-2026, free-courses
+**Keywords:** edge-ai, tinyml, embedded-machine-learning, on-device-ai, iot-ml, microcontroller-ml, low-power-ai, tensorflow-lite, litert, edge-impulse, arduino-ml, real-time-inference, model-compression, quantization, embedded-systems, raspberry-pi, federated-learning, privacy-preserving-edge-ai, computer-vision-edge, openMV, arm-cortex, stm32, esp32, cmsis-nn, digi-key, google-ai, github-tutorials, deployment-pipeline, 2025-2026, free-courses
