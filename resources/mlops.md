@@ -113,6 +113,26 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - [Tags: intermediate mlflow model-registry versioning deployment governance official-docs 2025]
   - [Verified: 2026-02-18]
 
+- **[ZenML: Open-Source MLOps Framework (GitHub)](https://github.com/zenml-io/zenml)** 🟡 Intermediate - Production-ready open-source MLOps framework for building reproducible ML pipelines that run on any infrastructure. Enables workflow orchestration from laptop prototypes to cloud deployment with automatic containerization, experiment tracking, and integrated observability. Supports 50+ tool integrations including MLflow, Kubeflow, Weights & Biases, SageMaker, GCP Vertex. Free forever open-source version with optional managed cloud service. Perfect for teams needing portable, infrastructure-agnostic ML pipelines with GitOps principles.
+  - 📖 Access: Fully free (open source, Apache 2.0 license)
+  - 🏛️ Authority: ZenML (official repository, 4k+ GitHub stars)
+  - 🛠️ Hands-on: Yes (pip installable, extensive documentation, examples)
+  - 📊 Features: Pipeline orchestration, experiment tracking, model deployment, stack abstraction, 50+ integrations
+  - 💻 Tech Stack: Python, Kubernetes, Docker, integrates with MLflow/W&B/Kubeflow
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate mlops pipelines orchestration open-source zenml kubernetes docker mlflow integrations 2026]
+  - [Verified: 2026-02-24]
+
+- **[Metaflow: Open-Source ML Infrastructure by Netflix (GitHub)](https://github.com/Netflix/metaflow)** 🟡 Intermediate - Battle-tested open-source framework originally developed at Netflix for building and managing real-world production ML applications. Enables data scientists to focus on business logic while Metaflow handles infrastructure complexity: versioning, scheduling, cloud compute, failure recovery, and deployment. Features Python-first API, seamless cloud integration (AWS, Azure, GCP, Kubernetes), built-in experiment tracking, automatic checkpointing, and zero-configuration local development. Powers thousands of ML workflows at Netflix processing petabytes of data daily. Free, Apache 2.0 licensed.
+  - 📖 Access: Fully free (open source, Apache 2.0 license)
+  - 🏛️ Authority: Netflix (official open source project, 8k+ GitHub stars)
+  - 🛠️ Hands-on: Yes (pip installable, comprehensive tutorials, real-world examples)
+  - 📊 Features: Infrastructure abstraction, cloud compute, versioning, scheduling, failure recovery, experiment tracking
+  - 💻 Tech Stack: Python, AWS/Azure/GCP/Kubernetes, S3, cloud compute
+  - 🌍 Global: Fully accessible worldwide, production-proven at scale
+  - [Tags: intermediate mlops netflix infrastructure python cloud-computing kubernetes aws versioning production-ml 2026]
+  - [Verified: 2026-02-24]
+
 ### 🔴 Advanced
 
 - **[Machine Learning Engineering for Production: MLOps Specialization (Andrew Ng, Google/Coursera)](https://www.coursera.org/learn/machine-learning-projects)** 🔴 Advanced - Part of Andrew Ng's authoritative "ML Engineering for Production" specialization from Google. Covers advanced production-ready ML systems, data pipelines, model evaluation strategies, deployment architectures, and scalability patterns. Free to audit on Coursera (full course access, no certificate). Industry-standard curriculum taught by top ML researchers and Google engineers.
@@ -161,6 +181,23 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
   - 📖 Access: Fully open
   - [Tags: official mlflow deployment serving]
 
+- **[25 Top MLOps Tools You Need to Know in 2026 (DataCamp)](https://www.datacamp.com/blog/top-mlops-tools)** 🟡 Intermediate - Comprehensive December 2024 guide categorizing and comparing 25 leading MLOps tools across experiment tracking (MLflow, W&B, Neptune.ai), workflow orchestration (Kubeflow, Airflow, Prefect, Metaflow), model deployment (SageMaker, Vertex AI, Seldon Core), data versioning (DVC, Pachyderm, lakeFS), and monitoring (Evidently, Whylogs). Includes feature comparisons, use case recommendations, integration patterns, and selection criteria for building complete MLOps stacks. Perfect reference for teams evaluating tooling options.
+  - 📖 Access: Fully free (detailed blog article)
+  - 🏛️ Authority: DataCamp (ML education platform)
+  - 📊 Categories: Experiment tracking, orchestration, deployment, monitoring, data versioning
+  - 🛠️ Tools Covered: 25 tools with comparisons
+  - [Tags: intermediate mlops tools-comparison mlflow kubeflow sagemaker dvc monitoring guide 2026]
+  - [Verified: 2026-02-24]
+
+- **[Awesome MLOps: Curated List of MLOps Tools (GitHub)](https://github.com/kelvins/awesome-mlops)** 🟡 Intermediate - Comprehensive community-curated GitHub repository cataloging 100+ open-source and commercial MLOps tools organized by category: experiment tracking, model registry, workflow orchestration, data versioning, deployment/serving, monitoring, visualization, AutoML platforms, and end-to-end solutions. Includes tool descriptions, GitHub stars, and links to official repositories. Regularly updated by community contributions, serves as definitive reference for MLOps ecosystem navigation. 6k+ GitHub stars.
+  - 📖 Access: Fully free (open GitHub repository)
+  - 🏛️ Authority: Community-maintained (6k+ stars)
+  - 📊 Categories: 10+ tool categories, 100+ tools cataloged
+  - 🛠️ Tools: MLflow, Kubeflow, DVC, W&B, ZenML, Prefect, Great Expectations, Ray, etc.
+  - 🌍 Global: Fully accessible worldwide
+  - [Tags: intermediate mlops tools curated-list github awesome-list open-source 2026]
+  - [Verified: 2026-02-24]
+
 ---
 
 ## 📚 Research Papers & Academic Resources
@@ -188,12 +225,16 @@ MLOps (Machine Learning Operations) is the practice of collaboration between dat
 **Popular Open Source MLOps Tools:**
 - **MLflow** - Experiment tracking, model registry, deployment
 - **Kubeflow** - ML workflows on Kubernetes
+- **ZenML** - Infrastructure-agnostic ML pipelines
+- **Metaflow** - Netflix's production ML infrastructure
 - **DVC** - Data version control
 - **Weights & Biases** - Experiment tracking (free tier)
 - **Apache Airflow** - Workflow orchestration
+- **Prefect** - Modern workflow orchestration
 - **Great Expectations** - Data validation
 - **Ray** - Distributed ML computing
-- **Prefect** - Workflow orchestration
+- **Seldon Core** - Model deployment on Kubernetes
+- **Evidently AI** - ML observability and monitoring
 
 ---
 
@@ -233,7 +274,7 @@ Found a great free MLOps resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 18, 2026 | **Total Resources:** 22 (+4 new)
-**Last Link Validation:** February 18, 2026
+**Last Updated:** February 24, 2026 | **Total Resources:** 26 (+4 new)
+**Last Link Validation:** February 24, 2026
 
-**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment, llm-deployment, docker, kubernetes, ci-cd, fastapi, dataops, endtoend-ml, evidently-ai, observability, model-registry, 2025-2026
+**Keywords:** mlops, machine-learning-operations, model-deployment, ml-monitoring, ml-pipelines, experiment-tracking, mlflow, kubeflow, zenml, metaflow, netflix, model-serving, drift-detection, continuous-training, devops-for-ml, production-ml, ml-infrastructure, healthcare-mlops, tinyml-deployment, llm-deployment, docker, kubernetes, ci-cd, fastapi, dataops, endtoend-ml, evidently-ai, observability, model-registry, tools-comparison, awesome-mlops, infrastructure-agnostic, 2025-2026
