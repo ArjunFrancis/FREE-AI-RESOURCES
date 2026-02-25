@@ -30,6 +30,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - FDA-approved AI diagnostic systems
 - Vision-Language Models (VLMs) for medical imaging
 - Multimodal Large Language Models (MLLMs) for radiology
+- AI security and adversarial attacks in healthcare
+- Edge AI for medical devices
 
 ---
 
@@ -139,6 +141,27 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - 🔧 Topics: Medical imaging AI, clinical data analysis, personalized medicine
   - 💻 Tools: Python, TensorFlow, Keras
   - [Tags: andrew-ng medical-imaging diagnosis prognosis treatment deeplearning-ai coursera specialization 2025]
+
+- **[AI for Medical Diagnosis (Coursera - DeepLearning.AI)](https://www.coursera.org/learn/ai-for-medical-diagnosis)** 🟡 Intermediate – First course in DeepLearning.AI's AI for Medicine Specialization taught by Andrew Ng. Learn to diagnose diseases from chest X-rays using deep learning, handle class imbalance in medical datasets, interpret model predictions with GradCAM visualization, and properly evaluate diagnostic models using sensitivity, specificity, and ROC curves. Includes hands-on exercises with real chest X-ray datasets and practical code implementations in TensorFlow/Keras. Perfect for healthcare professionals and ML engineers entering medical AI.
+  - 📖 Access: Free audit (certificate paid)
+  - 🏛️ Authority: DeepLearning.AI + Coursera
+  - 👤 Instructor: Andrew Ng (AI pioneer)
+  - 🛠️ Hands-on: Yes (TensorFlow/Keras projects)
+  - 🔧 Topics: Chest X-ray diagnosis, class imbalance, GradCAM, model evaluation
+  - 💻 Tools: Python, TensorFlow, Keras, NumPy
+  - 📁 Real datasets: Chest X-ray pathology detection
+  - [Tags: intermediate medical-diagnosis chest-xray deep-learning andrew-ng gradcam class-imbalance coursera 2025]
+  - [Verified: 2026-02-25]
+
+- **[MITRE ATLAS: Adversarial Threat Landscape for AI Systems](https://atlas.mitre.org)** 🟡 Intermediate – Official MITRE framework cataloging 15 tactics, 66 techniques, and 46 sub-techniques targeting ML systems in healthcare and other domains. October 2025 update added 14 new agentic AI attack techniques. Provides comprehensive interactive matrix with real-world case studies of AI system vulnerabilities including model poisoning, evasion attacks, and privacy breaches. Essential for securing medical AI applications, understanding adversarial threats to clinical decision support systems, and implementing defensive strategies. Includes practical guidance on threat modeling and risk assessment for healthcare AI deployments.
+  - 📖 Access: Fully open, no registration required
+  - 🏛️ Authority: MITRE Corporation (cybersecurity leader)
+  - 🔧 Topics: Adversarial ML, model security, threat modeling, attack techniques
+  - 📊 Interactive matrix with healthcare AI case studies
+  - 🛡️ Defensive strategies and mitigation techniques
+  - 🆕 2025 update: 14 new agentic AI techniques
+  - [Tags: intermediate ai-security adversarial-ml threat-modeling healthcare-security mitre atlas attack-defense 2025]
+  - [Verified: 2026-02-25]
 
 - [Machine Learning for Healthcare - MIT OpenCourseWare (6.S897)](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) – MIT's official open course introducing machine learning in healthcare systems. Covers electronic health record (EHR) analysis, risk prediction models, interpretability of clinical models, and causal inference for healthcare decisions. Includes complete lecture notes, assignments, and exams for self-study. Audit for free with no restrictions. (🟡 Intermediate)
   - 📖 Access: Completely free (MIT OpenCourseWare)
@@ -300,6 +323,27 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
   - [Tags: advanced foundation-models llm fine-tuning medical-nlp vision-models deployment 2025]
   - [Verified: 2026-02-19]
 
+- **[Intel OpenVINO 2025 Toolkit Documentation](https://docs.openvino.ai/2025/index.html)** 🔴 Advanced – Complete official documentation for OpenVINO 2025 toolkit enabling deployment of AI models on edge devices including medical imaging applications. Features 50% lower inference latency on Intel CPUs, comprehensive model conversion from TensorFlow/PyTorch/ONNX, INT8 quantization for edge deployment, and support for deploying healthcare LLMs on resource-constrained devices. Essential for clinical AI systems requiring local processing, HIPAA-compliant edge deployments, and real-time medical imaging analysis without cloud dependencies. Includes tutorials on optimizing models for embedded medical devices and portable diagnostic systems.
+  - 📖 Access: Fully open, official Intel documentation
+  - 🏛️ Authority: Intel Corporation
+  - 🔧 Topics: Edge AI deployment, model optimization, quantization, inference acceleration
+  - 💻 Tools: OpenVINO toolkit, Model Optimizer, Runtime
+  - 📁 Medical use cases: X-ray analysis, ultrasound processing, portable diagnostics
+  - 🚀 Performance: 50% latency reduction on Intel hardware
+  - 🛡️ HIPAA-compliant local processing capabilities
+  - [Tags: advanced edge-ai openvino model-optimization quantization medical-devices intel deployment 2025]
+  - [Verified: 2026-02-25]
+
+- **[AI-driven Clinical Decision Support Systems (ScienceDirect 2025)](https://www.sciencedirect.com/science/article/abs/pii/S2212958825000886)** 🔴 Advanced – Comprehensive 2025 systematic review evaluating AI applications in drug therapy and clinical pharmacology. Covers personalized medicine algorithms, drug-drug interaction prediction systems, adverse event prevention frameworks, and pharmacoeconomic optimization models. AI-powered CDSS achieve 90% accuracy in identifying known drug interactions and demonstrate significant potential in dosage optimization. Reviews cutting-edge deep learning architectures for clinical decision-making, integration challenges with electronic health records, and regulatory considerations for deploying AI in pharmacy practice. Essential reading for clinical informaticians and healthcare AI researchers.
+  - 📖 Access: Abstract fully open (full text available on ScienceDirect)
+  - 🏛️ Authority: ScienceDirect (Elsevier)
+  - 🔬 Topics: Clinical decision support, drug therapy, pharmacology, AI-CDSS
+  - 📊 Performance: 90% accuracy in drug interaction detection
+  - 🔧 Applications: Personalized medicine, adverse event prevention, dose optimization
+  - 📄 Systematic review with clinical validation data
+  - [Tags: advanced clinical-decision-support drug-therapy pharmacology cdss personalized-medicine sciencedirect 2025]
+  - [Verified: 2026-02-25]
+
 ---
 
 ## 📁 Datasets & Resources
@@ -339,6 +383,8 @@ AI for Healthcare leverages machine learning, deep learning, computer vision, an
 - [Time Series Forecasting](./time-series-forecasting.md) - Patient monitoring and disease progression
 - [Generative AI](./generative-ai.md) - LLMs and diffusion models for healthcare
 - [Multimodal AI](./multimodal-ai.md) - Vision-language models for medical imaging
+- [AI Security & Privacy](./ai-security-privacy.md) - Securing medical AI systems against adversarial attacks
+- [Edge AI & IoT](./edge-ai-iot.md) - Deploying AI on medical devices and edge systems
 
 **Cross-reference:**
 - [AI Ethics](./ai-ethics.md) - Ethical considerations in healthcare AI
@@ -394,7 +440,7 @@ Found a great free AI for healthcare resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 19, 2026 | **Total Resources:** 33 (+4 new)
-**Last Link Validation:** February 19, 2026
+**Last Updated:** February 25, 2026 | **Total Resources:** 37 (+4 new)
+**Last Link Validation:** February 25, 2026
 
-**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, vlm-medical, miccai, deep-learning-medical-imaging, rcsi, google, stanford, mit, harvard, deeplearning-ai, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, openmedlab, clinical-ai-academy, health-ai-cpd, 2025-2026
+**Keywords:** ai-healthcare, medical-ai, healthcare-machine-learning, clinical-ai, medical-imaging, radiology-ai, clinical-nlp, diagnostic-ai, healthcare-analytics, precision-medicine, pytorch, tensorflow, monai, ehr-analysis, patient-care, chest-xray, mri, ct-scan, healthcare-datasets, pathology-radiology-integration, multimodal-imaging, foundation-models-healthcare, vlm-medical, miccai, deep-learning-medical-imaging, rcsi, google, stanford, mit, harvard, deeplearning-ai, freecodecamp, alison, john-snow-labs, isbi, mhub, 3d-slicer, physiopedia, kuleuven, mimic, frontiers, openmedlab, clinical-ai-academy, health-ai-cpd, mitre-atlas, openvino, edge-ai, ai-security, clinical-decision-support, 2025-2026
