@@ -28,6 +28,8 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - Large Language Models (LLMs) for recommendations
 - Generative recommendations and reasoning-based systems
 - Real-world recommendation systems (Netflix, Spotify, Amazon)
+- Two-tower neural networks and embeddings
+- Feature/Training/Inference (FTI) architecture
 
 ---
 
@@ -110,6 +112,38 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - 🔧 Topics: Deep learning recommenders, embeddings, NCF, VAE-CF, two-tower models
   - 📃 Real project: Amazon product recommendation system
   - [Tags: intermediate-advanced deep-learning recommender-systems tensorflow coursera neural-cf two-tower 2025]
+
+- **[DecodingML: Personalized Recommender Course (H&M Fashion)](https://github.com/decodingml/personalized-recommender-course)** 🟡 Intermediate – Comprehensive open-source course on architecting and deploying real-time personalized recommendation systems for fashion articles using the H&M dataset. Learn Feature/Training/Inference (FTI) architecture pattern, collaborative filtering techniques, content-based approaches, two-tower neural networks for embedding generation, and production deployment strategies. Covers end-to-end pipeline from feature engineering to serving recommendations at scale. Includes complete code implementations, notebooks, and best practices for building production-grade recommender systems.
+  - 📖 Access: Fully open on GitHub
+  - 🏛️ Authority: DecodingML (ML systems education platform)
+  - 💻 Tools: Python, PyTorch, TensorFlow, feature stores
+  - 🛠️ Hands-on: Yes (complete implementation with H&M dataset)
+  - 🔧 Topics: FTI architecture, collaborative filtering, two-tower networks, embeddings, real-time serving
+  - 🏗️ Production focus: Deployment, scaling, monitoring
+  - 📁 Real-world dataset: H&M fashion recommendations
+  - [Tags: intermediate recommender-systems two-tower-networks fti-architecture production-ml fashion decodingml github 2024]
+  - [Verified: 2026-02-25]
+
+- **[Mastering Recommendation Systems: Complete Guide (LearnOpenCV 2024)](https://learnopencv.com/recommendation-system/)** 🟡 Intermediate – Comprehensive guide covering recommendation system fundamentals through advanced implementations. Explains collaborative filtering approaches (user-based, item-based, matrix factorization with SVD), content-based methods using TF-IDF and cosine similarity, hybrid recommendation strategies combining multiple techniques, and neural collaborative filtering with deep learning. Includes practical Python code examples, evaluation metrics (RMSE, MAE, precision, recall), and deployment considerations for production systems. Perfect resource bridging theory and practice.
+  - 📖 Access: Fully open, no registration required
+  - 🏛️ Authority: LearnOpenCV (computer vision and ML education)
+  - 💻 Tools: Python, pandas, scikit-learn, TensorFlow, Keras
+  - 🛠️ Hands-on: Yes (complete code implementations)
+  - 🔧 Topics: Collaborative filtering, content-based, hybrid methods, neural CF, evaluation
+  - 📊 Practical examples with MovieLens dataset
+  - 🎯 Covers: User-based CF, item-based CF, SVD, neural networks
+  - [Tags: intermediate recommendation-systems collaborative-filtering neural-cf hybrid-methods learnopenCV tutorial 2024]
+  - [Verified: 2026-02-25]
+
+- **[Recommender Systems Workshop: ML & DL Techniques (GitHub)](https://github.com/piyushpathak03/Recommendation-systems)** 🟡 Intermediate – Comprehensive workshop materials covering machine learning and deep learning techniques for building recommendation systems. Includes theory on collaborative filtering paradigms (content-based, collaborative, knowledge-based, hybrid), practical implementations of matrix factorization, deep matrix factorization, neural collaborative filtering, and auto-encoders for recommendations. Features notebooks for movies (MovieLens), e-commerce (YooChoose), news (HackerNews), and grocery products. Covers implicit vs explicit feedback, embeddings, convolution, recurrent models, and domain signals (location, time, context, social).
+  - 📖 Access: Fully open on GitHub
+  - 💻 Tools: Python, Keras, TensorFlow, scikit-learn, implicit, LightFM, Surprise
+  - 🛠️ Hands-on: Yes (multiple domain implementations)
+  - 🔧 Topics: Matrix factorization, deep MF, neural CF, autoencoders, implicit feedback
+  - 📁 Datasets: MovieLens, YooChoose, HackerNews, groceries
+  - 📚 Includes slides, notes, and workshop materials
+  - [Tags: intermediate recommendation-systems deep-learning neural-cf matrix-factorization implicit-feedback workshop github 2020]
+  - [Verified: 2026-02-25]
 
 ### 🔴 Advanced
 
@@ -238,7 +272,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
   - SSLRec (self-supervised learning framework)
   - **LightGNN** (scalable GNN-based recommendations)
 - **Frameworks:** PyTorch, TensorFlow, JAX
-- **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing
+- **Datasets:** MovieLens (1M, 10M, 25M variants), Amazon Reviews, Last.fm, Book-Crossing, H&M Fashion
 - **Evaluation:** Python's scikit-learn, specialized recommendation metrics
 - **LLM Integration:** OpenAI API, Anthropic Claude, LLaMA, Hugging Face Transformers for agentic/conversational recommenders
 
@@ -255,7 +289,7 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 
 **Cross-reference:**
 - [Data Science & Analytics](./data-science-analytics.md) - User behavior analysis and visualization
-- [Datasets & Benchmarks](./datasets-benchmarks.md) - Recommendation datasets (MovieLens, Amazon, etc.)
+- [Datasets & Benchmarks](./datasets-benchmarks.md) - Recommendation datasets (MovieLens, Amazon, H&M, etc.)
 - [AI Tools & Frameworks](./ai-tools-frameworks.md) - Python libraries and frameworks for recommenders
 - [Mathematics for AI](./mathematics-for-ai.md) - Linear algebra for matrix factorization
 
@@ -278,6 +312,8 @@ Recommender Systems power personalized experiences across Netflix, Spotify, Amaz
 - **Multimodal Recommendations**: Combining text, images, audio, and structured data
 - **Explainable Agentic Systems**: Making LLM-based recommendations transparent and interpretable
 - **Knowledge Graph Fusion**: Semantic enhancement of recommendations through structured knowledge
+- **Two-Tower Architectures**: Efficient embedding-based retrieval at scale
+- **FTI Architecture**: Feature/Training/Inference patterns for production systems
 
 ---
 
@@ -301,6 +337,7 @@ Found a great free recommender systems resource? We'd love to add it!
 
 ---
 
-**Last Updated:** January 16, 2026 | **Total Resources:** 28+ (Courses: 22 + Frameworks: 4 + Surveys: 2)
+**Last Updated:** February 25, 2026 | **Total Resources:** 31 (+3 new)
+**Last Link Validation:** February 25, 2026
 
-**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, agentic-recommenders, llm-recommenders, conversational-recommendation, generative-ai-recommenders, chain-of-thought, memory-systems, google, codecademy, netflix, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, recsys, 2025
+**Keywords:** recommender-systems, collaborative-filtering, content-based-filtering, matrix-factorization, recommendation-algorithms, personalization, ranking, neural-collaborative-filtering, implicit-feedback, hybrid-recommendations, user-modeling, item-similarity, deep-learning-recommenders, graph-neural-networks, self-supervised-learning, rag-recommendations, knowledge-graphs, gnn-recommendation, rdf-semantic-web, lightgnn, agentic-recommenders, llm-recommenders, conversational-recommendation, generative-ai-recommenders, chain-of-thought, memory-systems, two-tower-networks, fti-architecture, production-ml, google, codecademy, netflix, h-and-m, decodingml, learnopenCV, pytorch, tensorflow, coursera, linkedin-learning, skku, acm, recsys, 2025-2026
