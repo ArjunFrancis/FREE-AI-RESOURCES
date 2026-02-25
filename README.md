@@ -1,10 +1,10 @@
 # 🤖 FREE AI Resources - Curated Collection
 
-> Your complete gateway to **703+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
+> Your complete gateway to **715+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Resources](https://img.shields.io/badge/resources-703+-blue.svg)]()
+[![Resources](https://img.shields.io/badge/resources-715+-blue.svg)]()
 [![Categories](https://img.shields.io/badge/categories-32-green.svg)]()
 [![Maintained](https://img.shields.io/badge/maintained-active-success.svg)]()
 
@@ -14,7 +14,7 @@
 
 | Metric | Value | Details |
 |--------|-------|---------|
-| **Total Resources** | 703+ | Across all categories |
+| **Total Resources** | 715+ | Across all categories |
 | **Total Categories** | 32 | Organized by topic & type |
 | **Average/Category** | ~22 | Well-distributed |
 | **Largest Categories** | NLP (62), Robotics (48), Audio (45) | Comprehensive coverage |
@@ -22,7 +22,7 @@
 | **2025-2026 Content** | 98%+ | Cutting-edge resources |
 | **Free Resources** | 100% | No paywalls ever |
 | **Quality Standard** | High | 95%+ verification confidence |
-| **Last Updated** | Feb 22, 2026 | Daily updates |
+| **Last Updated** | Feb 24, 2026 | Daily updates |
 
 ---
 
@@ -52,7 +52,7 @@
 | **NLP** | Language models, transformers | 10 weeks | [NLP](resources/natural-language-processing.md) → [Generative AI](resources/generative-ai.md) | 62 + 43 = 105 |
 | **Vision** | Image understanding, detection | 10 weeks | [Computer Vision](resources/computer-vision.md) | 27 resources |
 | **RL** | Agent training, game playing | 12 weeks | [Reinforcement Learning](resources/reinforcement-learning.md) | 36 resources |
-| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) | 22 + 26 = 48 |
+| **Production** | MLOps, deployment, systems | 10 weeks | [MLOps](resources/mlops.md) → [AI Security](resources/ai-security-privacy.md) | 26 + 30 = 56 |
 
 **Starting Point**: Choose your specialization above
 
@@ -129,11 +129,11 @@
 | [Spatial Intelligence](resources/spatial-intelligence.md) | 12 | 🟢 Active | 3D AI, LGMs, robotics |
 | [World Models](resources/world-models.md) | 20 | 🟢 Active | Physics simulation, AGI |
 | [Quantum AI](resources/quantum-ai.md) | 13 | 🟢 Active | Quantum computing |
-| [Edge AI & IoT](resources/edge-ai-iot.md) | 14 | 🟢 Active | On-device AI |
+| [Edge AI & IoT](resources/edge-ai-iot.md) | 21 | ✅ Target Met | On-device AI, TinyML |
 | [Explainable AI (XAI)](resources/explainable-ai-xai.md) | 9 | 🟢 Active | Interpretability |
 | [AI Evals](resources/ai-evals.md) | 10 | 🟢 New | Model evaluation |
 
-**Total**: 78 resources | **Perfect for**: Research and innovation
+**Total**: 85 resources | **Perfect for**: Research and innovation
 
 ---
 
@@ -174,12 +174,12 @@
 
 | Category | Resources | Focus |
 |----------|-----------|-------|
-| [MLOps](resources/mlops.md) | 22 | Pipelines, automation, monitoring |
-| [AI Security & Privacy](resources/ai-security-privacy.md) | 26 | Adversarial robustness, privacy |
+| [MLOps](resources/mlops.md) | 26 | Pipelines, automation, monitoring, model serving |
+| [AI Security & Privacy](resources/ai-security-privacy.md) | 30 | Adversarial robustness, red teaming, privacy |
 | [AI Ethics](resources/ai-ethics.md) | 25 | Responsible AI, fairness, bias |
 | [AI Hardware Acceleration](resources/ai-hardware-acceleration.md) | 15 | GPUs, TPUs, optimization |
 
-**Total**: 88 resources | **Perfect for**: Production engineers
+**Total**: 96 resources | **Perfect for**: Production engineers
 
 ---
 
@@ -257,14 +257,14 @@ Weeks 4-6: Deep Learning Essentials
   └─ Deep Learning & Neural Networks (18 resources)
        ↓
 Weeks 7-8: MLOps & Deployment
-  ├─ MLOps (22 resources)
-  └─ AI Security & Privacy (26 resources)
+  ├─ MLOps (26 resources)
+  └─ AI Security & Privacy (30 resources)
        ↓
 Weeks 9-10: Build production ML system
   └─ CI/CD pipeline, monitoring, scaling
 ```
 
-**Resources**: 94+ available | **Tools**: Docker, Kubernetes, MLflow, DVC  
+**Resources**: 102+ available | **Tools**: Docker, Kubernetes, MLflow, DVC, BentoML  
 **Final**: Deployed, monitored ML system
 
 ---
@@ -311,7 +311,7 @@ Phase 4: Contribute & publish
   └─ Papers, open-source code, conferences
 ```
 
-**Resources**: 703+ unlimited | **Tools**: arXiv, Papers with Code, GitHub  
+**Resources**: 715+ unlimited | **Tools**: arXiv, Papers with Code, GitHub  
 **Final**: Advance the AI field
 
 ---
@@ -350,7 +350,7 @@ FREE-AI-RESOURCES/
     │   ├── spatial-intelligence.md            (12 resources)
     │   ├── world-models.md                    (20 resources)
     │   ├── quantum-ai.md                      (13 resources)
-    │   ├── edge-ai-iot.md                     (14 resources)
+    │   ├── edge-ai-iot.md                     (21 resources) ✅ Target Met
     │   ├── explainable-ai-xai.md              (9 resources)
     │   └── ai-evals.md                        (10 resources)
     │
@@ -363,8 +363,8 @@ FREE-AI-RESOURCES/
     │   └── ai-tools-frameworks.md             (37 resources)
     │
     └── PRODUCTION_RESEARCH/
-        ├── mlops.md                           (22 resources)
-        ├── ai-security-privacy.md             (26 resources)
+        ├── mlops.md                           (26 resources)
+        ├── ai-security-privacy.md             (30 resources)
         ├── ai-ethics.md                       (25 resources)
         ├── ai-hardware-acceleration.md        (15 resources)
         ├── research-papers-publications.md    (25 resources)
@@ -372,7 +372,7 @@ FREE-AI-RESOURCES/
         └── ai-communities-events.md           (15 resources)
 ```
 
-**Total: 703+ resources across 32 categories**
+**Total: 715+ resources across 32 categories**
 
 ---
 
@@ -390,7 +390,7 @@ FREE-AI-RESOURCES/
 - Multiple navigation paths: by difficulty, topic, industry, or learning goal
 - Clear prerequisites and connections between topics
 - Professional tabular format with resource counts
-- **703+ resources** systematically categorized
+- **715+ resources** systematically categorized
 
 ### 🚀 Covers Cutting-Edge Fields
 - **Spatial Intelligence** - 3D AI, Large Gaussian Models (LGMs)
@@ -411,7 +411,7 @@ FREE-AI-RESOURCES/
 - Transparent contribution guidelines
 - Rapid issue/PR response (24-48 hours)
 - Regular maintenance and broken link remediation
-- **+148 resources added** in just 42 days (Jan-Feb 2026)
+- **+160 resources added** in just 44 days (Jan-Feb 2026)
 - **700+ milestone achieved** Feb 22, 2026
 
 ---
@@ -468,50 +468,67 @@ We welcome contributions! Adding resources is easy:
 
 ## 🌟 What's New
 
-### ✨ Latest Updates (Feb 22, 2026)
+### ✨ Latest Updates (Feb 24, 2026)
 
-**🎉 MILESTONE: 700+ RESOURCES ACHIEVED!**
+#### Wednesday Feb 24 – MLOps, Edge AI & AI Security Rotation 🔒⚙️
+
+**MLOps: +4 Resources** (22 → 26) 🚀
+- **[ZenML (GitHub)](https://github.com/zenml-io/zenml)** - Open-source MLOps framework for infrastructure-agnostic ML pipelines. Stack-based architecture, experiment tracking, model registry, deployment. (🟡 Intermediate)
+- **[Metaflow (Netflix/GitHub)](https://github.com/Netflix/metaflow)** - Battle-tested production ML infrastructure by Netflix. Human-friendly Python API for scalable data science pipelines. (🟡 Intermediate)
+- **[Top MLOps Tools 2026 (DataCamp)](https://www.datacamp.com/blog/top-mlops-tools)** - Comprehensive guide comparing 25+ leading MLOps platforms with use cases, pros/cons. (🟢 Beginner)
+- **[Awesome MLOps (GitHub)](https://github.com/kelvins/awesome-mlops)** - Curated list of 100+ MLOps tools, frameworks, platforms, and resources. (🟢 All Levels)
+
+**Edge AI & IoT: +4 Resources** (17 → 21) ✅ **Target 20+ ACHIEVED!**
+- **[TinyML: Getting Started with TensorFlow Lite (Digi-Key)](https://www.youtube.com/watch?v=gDFWCxrJruQ)** - Complete hands-on TinyML tutorial for STM32 microcontrollers. (🟡 Intermediate)
+- **[TensorFlow Lite / LiteRT Official Documentation (Google)](https://ai.google.dev/edge/litert)** - Comprehensive official docs for on-device ML deployment. (🟡 Intermediate)
+- **[Deploying ML on Microcontrollers (YouTube)](https://www.youtube.com/watch?v=5rw5ucSx8Ck)** - Complete deployment pipeline from training to edge device. (🟡 Intermediate)
+- **[TinyML Tutorials for ARM Cortex-M (GitHub)](https://github.com/wxarm/tinyML)** - Practical examples for TinyML on ARM microcontrollers. (🟡 Intermediate)
+
+**AI Security & Privacy: +4 Resources** (26 → 30) 🚀
+- **[NVIDIA: Exploring Adversarial ML (GitHub)](https://github.com/ismaelucky342/Nvidia_AML)** - Official NVIDIA course with ART framework labs. (🟢 Beginner)
+- **[UCSB CS291A: Adversarial ML (GitHub)](https://github.com/UCSB-Shiyu-Teaching/CS291A)** - UC Santa Barbara academic course with assignments. (🟡 Intermediate)
+- **[Johns Hopkins: Securing AI (Coursera)](https://www.coursera.org/learn/securing-ai-and-advanced-topics)** - GANs, adversarial attacks, RL security. Free audit. (🟡 Intermediate)
+- **[SANS SEC535: Offensive AI (2026)](https://www.sans.org/cyber-security-courses/offensive-ai-attack-tools-techniques)** - Cutting-edge offensive AI security course. (🔴 Advanced)
+
+---
+
+### 🎉 Milestone: 700+ Resources (Feb 22, 2026)
 
 #### Sunday Feb 22 – Machine Learning Fundamentals (Week 1 Rotation)
 
 **Machine Learning Fundamentals: +10 Resources** (18 → 28) 🚀
 
 **🎓 Beginner Resources (3)**
-- **[Teaching ML with LEGO Robotics (Jan 2026)](https://www.semanticscholar.org/paper/3ef31bdc4b9ff38ea253d86b812ea3eef8dcd91d)** - Free open-source platform teaching k-NN classification, linear regression, and Q-learning through programming-free LEGO robotics for ages 12-17. Web interface + YouTube tutorials. (🟢 Beginner)
-
+- **[Teaching ML with LEGO Robotics (Jan 2026)](https://www.semanticscholar.org/paper/3ef31bdc4b9ff38ea253d86b812ea3eef8dcd91d)** - Free open-source platform teaching k-NN classification, linear regression, and Q-learning through programming-free LEGO robotics for ages 12-17. (🟢 Beginner)
 - **[Deep Learning Full Course 2026 (Simplilearn YouTube)](https://www.youtube.com/watch?v=VsjhpUuOKn0)** - Comprehensive 10+ hour course covering neural networks, CNNs, RNNs, autoencoders, GANs with hands-on Python/TensorFlow implementations. (🟢 Beginner)
-
-- **[Machine Learning for Good (DeltaAnalytics)](https://github.com/DeltaAnalytics/machine_learning_for_good)** - Interactive Jupyter notebooks teaching ML through social impact projects: classification, regression, feature engineering with scikit-learn. (🟢 Beginner)
+- **[Machine Learning for Good (DeltaAnalytics)](https://github.com/DeltaAnalytics/machine_learning_for_good)** - Interactive Jupyter notebooks teaching ML through social impact projects. (🟢 Beginner)
 
 **🔧 Intermediate Resources (5)**
-- **[Dive into Deep Learning (d2l.ai)](http://arxiv.org/pdf/2106.11342.pdf)** - Interactive 900+ page book with runnable code in PyTorch/TensorFlow/JAX covering neural networks, CNNs, RNNs, attention, transformers. (🟡 Intermediate)
-
-- **[Mathematical Introduction to Deep Learning (arXiv 2025)](https://arxiv.org/pdf/2310.20360.pdf)** - Comprehensive 400+ page textbook with rigorous mathematical foundations: neural networks, optimization, CNNs, RNNs, transformers, GANs. Updated Feb 2025. (🟡 Intermediate/Advanced)
-
-- **[Deep Learning with CNNs Tutorial (arXiv 2024)](https://arxiv.org/pdf/2408.12308.pdf)** - Focused CNN tutorial for supervised regression: architecture, convolutional layers, pooling, activation functions, computer vision applications. (🟡 Intermediate)
-
-- **[ML Notebook Interactive Platform](https://ml-notebook.vercel.app)** - Free web-based Jupyter-style notebooks for learning ML algorithms and neural networks with live code execution. (🟡 Intermediate)
-
-- **[Hands-on ML with PyTorch (ageron 2025)](https://github.com/ageron/handson-mlp)** - Jupyter notebooks teaching ML/DL with scikit-learn and PyTorch: supervised learning, neural networks, CNNs, RNNs, transformers. (🟡 Intermediate)
+- **[Dive into Deep Learning (d2l.ai)](http://arxiv.org/pdf/2106.11342.pdf)** - Interactive 900+ page book with runnable code in PyTorch/TensorFlow/JAX. (🟡 Intermediate)
+- **[Mathematical Introduction to Deep Learning (arXiv 2025)](https://arxiv.org/pdf/2310.20360.pdf)** - Comprehensive 400+ page textbook with rigorous mathematical foundations. (🟡 Intermediate/Advanced)
+- **[Deep Learning with CNNs Tutorial (arXiv 2024)](https://arxiv.org/pdf/2408.12308.pdf)** - Focused CNN tutorial for supervised regression. (🟡 Intermediate)
+- **[ML Notebook Interactive Platform](https://ml-notebook.vercel.app)** - Free web-based Jupyter-style notebooks for learning ML algorithms. (🟡 Intermediate)
+- **[Hands-on ML with PyTorch (ageron 2025)](https://github.com/ageron/handson-mlp)** - Jupyter notebooks teaching ML/DL with scikit-learn and PyTorch. (🟡 Intermediate)
 
 **🧠 Advanced Resources (2)**
-- **[Matrix Calculus for ML and Beyond (MIT 2025)](https://arxiv.org/pdf/2501.14787.pdf)** - MIT 18.S096 course on differential calculus for vector spaces: matrix derivatives, Jacobians, Hessians, automatic differentiation, optimization for deep learning. (🔴 Advanced)
-
-- **[Physics-based Deep Learning (2025)](http://arxiv.org/pdf/2109.05237.pdf)** - Open-source textbook on physics-informed neural networks (PINNs), differentiable physics, inverse problems with Jupyter implementations for scientific computing. (🔴 Advanced)
+- **[Matrix Calculus for ML and Beyond (MIT 2025)](https://arxiv.org/pdf/2501.14787.pdf)** - MIT 18.S096 course on differential calculus for vector spaces. (🔴 Advanced)
+- **[Physics-based Deep Learning (2025)](http://arxiv.org/pdf/2109.05237.pdf)** - Open-source textbook on physics-informed neural networks (PINNs). (🔴 Advanced)
 
 ---
 
 ## 💪 Repository Activity
 
-- **Last Updated**: February 22, 2026, 8:32 PM UTC+4
+- **Last Updated**: February 24, 2026
 - **Active Maintenance**: ✅ Yes (daily)
 - **Update Frequency**: Multiple times daily
-- **42-Day Growth**: 555 → 703 = **+148 new resources** 🚀
+- **44-Day Growth**: 555 → 715 = **+160 new resources** 🚀
 - **Path to 750+**: March 2026 (expected)
 - **2026 Milestones**:
   - ✅ 700+ resources (Feb 22, 2026)
+  - ✅ 715+ resources (Feb 24, 2026)
   - ✅ 32 categories
   - ✅ 98%+ 2025-2026 content
+  - ✅ Edge AI 20+ target achieved (21 resources)
   - 🎯 Target: 800+ by Q1 2026 end
 
 ---
@@ -538,7 +555,7 @@ All linked resources are maintained by their respective creators and institution
 ### 🌟 Join the community building the future of AI! 🌟
 
 **Status**: ✅ Active & Growing Daily  
-**Last Updated**: February 22, 2026  
+**Last Updated**: February 24, 2026  
 **Goal**: #1 free AI resource repository on GitHub  
 **Mission**: Democratizing AI education globally  
 
@@ -548,9 +565,9 @@ All linked resources are maintained by their respective creators and institution
 
 ## 🚀 **Start your AI journey today—completely free!** 🚀
 
-**703+ resources | 32 categories | 100% free | Quality assured**
+**715+ resources | 32 categories | 100% free | Quality assured**
 
-**🎉 NEW: 700+ RESOURCES MILESTONE ACHIEVED! 🎉**
+**🎉 715+ RESOURCES & EDGE AI TARGET MET! 🎉**
 
 ⭐ **Star this repository to support free AI education!** ⭐
 
