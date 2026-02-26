@@ -55,6 +55,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🌍 Global: Available worldwide, multiple languages
   - [Tags: beginner free-course hands-on hugging-face deep-rl google-colab 2025]
 
+- [Hugging Face Deep RL Course (Chinese Translation)](https://github.com/qiwang067/deep-rl-class-zh-CN) – Complete Chinese translation of the Hugging Face Deep Reinforcement Learning Course syllabus and materials. Makes the comprehensive RL curriculum accessible to Chinese-speaking learners worldwide. Covers all units from RL fundamentals through advanced topics like multi-agent systems and RLHF. Completely free with same hands-on approach and challenge environments as original. (🟢 Beginner)
+  - 📖 Access: Fully open on GitHub, free
+  - 🌐 Language: Chinese (中文)
+  - 🛠️ Hands-on: Yes (same as original course)
+  - 💻 Tools: Stable Baselines3, RL Baselines3 Zoo, Unity ML-Agents
+  - 📚 Content: Complete translation with all units and exercises
+  - 🎯 Audience: Chinese-speaking learners globally
+  - [Tags: beginner chinese translation hugging-face deep-rl accessibility multilingual 2023]
+
 - [Introduction to Reinforcement Learning by DeepMind x UCL (YouTube Lecture Series)](https://www.youtube.com/watch?v=TCCjZe0y4Qc) – Comprehensive 10-part lecture series by DeepMind research scientists (Hado van Hasselt, Diana Borsa, Matteo Hessel) covering RL foundations, MDPs, exploration, model-free and model-based methods, policy gradients, and advanced topics. Clear explanations with mathematical rigor for learners from beginner to advanced. (🟡 Intermediate)
   - 📖 Access: Fully open on YouTube, free
   - ⏱️ Duration: ~12 hours total (10 lectures, 1-2 hours each)
@@ -68,6 +77,17 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🎨 Interactive 3D visualization
   - 📚 Great for understanding RL concepts visually
   - [Tags: beginner no-code interactive visualization webgl neural-networks 2025]
+
+- [Deep Reinforcement Learning Tutorial with Python Code (YouTube, Luke Ditria)](https://www.youtube.com/watch?v=WxjEZmIiRQU) – Comprehensive 65-minute tutorial covering deep RL fundamentals and implementation in PyTorch. Topics include why deep RL matters, challenges of neural networks in RL, Deep Q-Learning, deep policy gradient methods, deep actor-critic approaches, and real-world applications. Features step-by-step code walkthrough with GitHub repository containing all implementations and slides. Perfect for learners who want to understand theory and practice simultaneously. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open on YouTube, free
+  - ⏱️ Duration: 1 hour 5 minutes
+  - 👨‍🏫 Instructor: Luke Ditria (clear teaching style)
+  - 🛠️ Hands-on: Yes (complete GitHub repo with PyTorch code)
+  - 💻 Tools: PyTorch, Python
+  - 🔧 Topics: Deep Q-Learning, policy gradients, actor-critic, applications
+  - 📚 Resources: Code + slides on GitHub (section 11 RL)
+  - 🎯 Ideal for: Visual learners wanting implementation details
+  - [Tags: beginner-intermediate youtube tutorial pytorch deep-rl hands-on code implementation 2023]
 
 - [FreeCodeCamp Reinforcement Learning Course (YouTube)](https://www.youtube.com/watch?v=nyjbcRRu4i5) – Practical, code-first 2+ hour course covering RL essentials including key algorithms (GLIE Monte Carlo, SARSA, Q-learning, Policy Gradient), best practices for running RL experiments, and reproducible research. Learn to solve 5 OpenAI Gym environments with Python, Gym, and Keras. (🟢 Beginner)
   - 📖 Access: Fully open on YouTube, free
@@ -395,6 +415,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 27, 2026 | **Total Resources:** 39
+**Last Updated:** February 27, 2026 | **Total Resources:** 42
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, lego-robotics, ros-robotics, automated-curriculum, yandex-practical-rl, cogito-ntnu, 2025-2026
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, lego-robotics, ros-robotics, automated-curriculum, yandex-practical-rl, cogito-ntnu, chinese-translation, pytorch-tutorial, luke-ditria, 2025-2026
