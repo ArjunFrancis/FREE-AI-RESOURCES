@@ -107,6 +107,15 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🎈 Modern architectures: TemporalFusionTransformer, N-BEATS, N-HiTS
   - [Tags: intermediate-advanced pytorch documentation deep-learning neural-forecasting 2024-2025]
 
+- [Deep Neural Network Time Series Forecasting Tutorial (GitHub)](https://github.com/mslawsky/dnn-time-series-forecasting) – Comprehensive hands-on tutorial demonstrating deep neural network-based time series forecasting using TensorFlow. Covers complete pipeline from synthetic data generation with realistic trends/seasonality/noise to model architecture design, training, evaluation, and production-ready forecasting. Includes modular code, visualization tools, and practical examples for real-world applications. (🟡 Intermediate)
+  - 📖 Access: Fully open on GitHub, free
+  - 🏛️ Source: GitHub community tutorial
+  - 🛠️ Hands-on: Yes (complete TensorFlow implementation)
+  - 💻 Tools: Python, TensorFlow, NumPy, Matplotlib
+  - 🔧 Topics: Data generation, windowing, normalization, DNN architecture, training pipeline, evaluation metrics, forecasting engine
+  - 📚 Features: Modular code, synthetic data, comprehensive examples
+  - [Tags: intermediate github tensorflow deep-learning hands-on tutorial dnn-forecasting 2025]
+
 ### 🔴 Advanced
 
 - [ARIMA vs Prophet vs LSTM for Time Series Prediction (Neptune.ai)](https://neptune.ai/blog/arima-vs-prophet-vs-lstm) – Advanced comparison of three major forecasting approaches: ARIMA (classical), Prophet (additive model), and LSTM (deep learning). Discusses strengths, weaknesses, implementation details, and practical guidelines for choosing the right method. Includes code snippets and real-world examples. (🔴 Advanced)
@@ -212,6 +221,25 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - ⭐ Production: Used globally with GPU support and distributed training
   - [Tags: advanced github neuralforecast hierarchical-forecasting reconciliation pytorch 2024-2025]
 
+- [Deep Learning in Time Series Forecasting with Transformer Models and RNNs (PeerJ, July 2025)](https://peerj.com/articles/cs-3001/) – Comprehensive peer-reviewed research examining 14 neural network models for time series forecasting including transformer models (Informer, iTransformer, Former, PatchTST) and RNNs (TCN, BiTCN, LSTM, GRU). Evaluates using multiple metrics (MedianAbsE, MeanAbsE, MaxAbsE, RMSPE, RMSE) on weather forecasting. Transformers excel at long-term patterns while RNNs suit short-term forecasting. Essential guide for model selection. (🔴 Advanced)
+  - 📖 Access: Free on PeerJ (peer-reviewed, open access)
+  - 🏛️ Authority: PeerJ Computer Science (academic journal)
+  - 📊 Format: Research paper with comprehensive evaluation
+  - 🔧 Models: Informer, iTransformer, Former, PatchTST, TCN, BiTCN, LSTM, GRU, NBEATS, NHITS, TFT
+  - 📈 Metrics: Median/Mean/Max AbsE, RMSPE, RMSE
+  - 🎯 Findings: Transformers for long-term, RNNs for short-term
+  - [Tags: advanced peerj research transformers rnn lstm gru evaluation model-comparison 2025]
+
+- [Performance Analysis of Neural Network Architectures for Time Series Forecasting (PMC, July 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12329085/) – Monte Carlo analysis of 2-hidden-layer neural network architectures for time series forecasting. Evaluates 9 configurations (RNN, LSTM, GRU, RNN-LSTM, RNN-GRU, LSTM-RNN, GRU-RNN, LSTM-GRU, GRU-LSTM) on sunspot dataset with cyclical patterns. GRU-LSTM shows best median MAPE (36.10%), LSTM-GRU lowest RMSE (23.17). Provides practical guidance on architecture selection for cyclical time series. (🔴 Advanced)
+  - 📖 Access: Free on PMC (PubMed Central, peer-reviewed)
+  - 🏛️ Authority: PMC/NIH (academic publication)
+  - 📊 Format: Research paper with Monte Carlo methodology
+  - 🔧 Architectures: RNN, LSTM, GRU, hybrid variants (9 total)
+  - 📈 Metrics: MAPE, RMSE comparison across architectures
+  - 🎯 Findings: GRU-LSTM best for MAPE, LSTM-GRU for RMSE, LSTM-RNN robust
+  - 🔬 Application: Cyclical time series (sunspot data)
+  - [Tags: advanced pmc research rnn lstm gru hybrid-architectures monte-carlo cyclical-patterns 2025]
+
 ---
 
 ## 🛠️ Tools & Libraries
@@ -299,6 +327,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 20, 2026 | **Total Resources:** 34 (Courses: 27 + Tools: 3 + Advanced Research: 4)
+**Last Updated:** February 27, 2026 | **Total Resources:** 37 (Courses: 30 + Tools: 3 + Advanced Research: 4)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, chronos, timesfm, moirai, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, 2025-2026
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, chronos, timesfm, moirai, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, dnn-forecasting, rnn-lstm-gru-comparison, informer-itransformer-patchtst, 2025-2026
