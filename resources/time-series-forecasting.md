@@ -174,6 +174,15 @@ Time Series Forecasting involves analyzing sequential data points ordered by tim
   - 🔬 Findings: LLMs can capture complex temporal patterns without training
   - [Tags: advanced arxiv llm reasoning prompt-engineering zero-shot temporal timereasonser 2025]
 
+- [What Matters in Deep Learning for Time Series Forecasting? (OpenReview ICLR 2026)](https://openreview.net/forum?id=t9cOXsdpKg) – Critical analysis examining why deep learning architectures for time series forecasting yield inconsistent and contradictory results. Investigates architectural choices, training methodologies, evaluation protocols, and provides rigorous empirical analysis to identify what truly matters for effective forecasting. Essential reading for understanding the state of deep learning in time series and avoiding common pitfalls. Published at ICLR 2026. (🔴 Advanced)
+  - 📖 Access: Free on OpenReview (peer-reviewed)
+  - 🏛️ Authority: Published at ICLR 2026 (top ML conference)
+  - 📊 Format: Research paper with rigorous empirical analysis
+  - 🔧 Topics: Deep learning architectures, evaluation protocols, architectural choices, training methodologies
+  - 🎯 Focus: What truly matters for effective time series forecasting
+  - 🔬 Critical: Addresses contradictory results and inconsistencies in field
+  - [Tags: advanced openreview iclr deep-learning empirical-analysis best-practices 2026]
+
 - [TimeGPT: Generative AI Model for Temporal Data (Nixtla)](https://github.com/Nixtla/nixtla) – First production-ready generative pretrained transformer for time series trained on 100+ billion data points across 15+ domains (finance, energy, healthcare, weather, IoT, sales). Zero-shot inference with no prior training required. Fine-tuning available. Deployed across 50+ companies worldwide. Open-source Python library with simple 3-line API. (🔴 Advanced)
   - 📖 Access: Fully open, free on GitHub
   - 🏛️ Authority: Nixtla (specialized time series company)
@@ -327,6 +336,6 @@ Found a great free time series forecasting resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 27, 2026 | **Total Resources:** 37 (Courses: 30 + Tools: 3 + Advanced Research: 4)
+**Last Updated:** February 27, 2026 | **Total Resources:** 40 (Courses: 32 + Tools: 3 + Advanced Research: 5)
 
-**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, chronos, timesfm, moirai, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, dnn-forecasting, rnn-lstm-gru-comparison, informer-itransformer-patchtst, 2025-2026
+**Keywords:** time-series, forecasting, arima, sarima, lstm, gru, prophet, temporal-data, sequence-modeling, trend-analysis, seasonality, stationarity, exponential-smoothing, anomaly-detection, python-time-series, foundation-models, timegpt, chronos, timesfm, moirai, transformers-forecasting, llm-forecasting, neural-forecasting, pytorch-forecasting, flow-forecast, zero-shot-forecasting, temporal-reasoning, meta-learning, hierarchical-forecasting, dnn-forecasting, rnn-lstm-gru-comparison, informer-itransformer-patchtst, openreview-iclr, openhpi-course, 2025-2026
