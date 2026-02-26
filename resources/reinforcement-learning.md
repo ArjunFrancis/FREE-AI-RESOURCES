@@ -104,6 +104,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 📺 Resources: YouTube tutorials, modular curriculum
   - [Tags: beginner lego-robotics educational no-code q-learning hands-on youth 2026]
 
+- [Course on Reinforcement Learning (Cogito NTNU 2024)](https://github.com/CogitoNTNU/course-on-reinforcement-learning) – Practical educational course introducing RL fundamentals with hands-on tasks. Covers basic concepts, environment and agent design, Q-learning with CartPole, Deep Q-Networks (DQN), and advanced optimization strategies. Includes interactive tasks, code examples, and optional WandB integration for tracking learning progress. Perfect for beginners wanting structured, practical experience. (🟢 Beginner to 🟡 Intermediate)
+  - 📖 Access: Fully open on GitHub, free
+  - 🏛️ Source: Cogito NTNU (Norwegian AI student organization)
+  - 🛠️ Hands-on: Yes (Python, interactive tasks)
+  - 🔧 Topics: Q-learning, CartPole, DQN, optimization strategies
+  - 💻 Tools: Python, WandB (optional)
+  - 📚 Structure: Progressive learning path with tasks
+  - [Tags: beginner-intermediate github hands-on q-learning dqn cartpole practical norwegian 2024]
+
 ### 🟡 Intermediate
 
 - [RL Course by David Silver (YouTube, DeepMind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) – The original, foundational lecture series from DeepMind's David Silver, co-author of "Reinforcement Learning: An Introduction." Covers RL fundamentals, MDPs, dynamic programming, Monte Carlo methods, temporal difference learning, function approximation, and policy gradients. Essential viewing for deep understanding of RL principles. (🟡 Intermediate)
@@ -129,6 +138,16 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 💻 Tools: PyTorch and TensorFlow examples
   - 🔧 Covers policy gradient, actor-critic, off-policy methods
   - [Tags: intermediate hands-on deep-rl algorithms pytorch tensorflow openai 2018]
+
+- [OpenAI Spinning Up Workshop (February 2019, YouTube)](https://www.youtube.com/watch?v=fdY7dt3ijgY) – Official OpenAI workshop recording introducing deep reinforcement learning fundamentals and Spinning Up toolkit. Features comprehensive lectures by Joshua Achiam covering RL basics, policy gradients, actor-critic methods, practical training techniques, and real-world applications including Learning Dexterity and AI Safety. Perfect companion to Spinning Up documentation providing visual explanations and live demonstrations. (🟡 Intermediate)
+  - 📖 Access: Fully open on YouTube, free
+  - 🏛️ Source: OpenAI (official workshop)
+  - 👨‍🏫 Instructor: Joshua Achiam (OpenAI research scientist)
+  - ⏱️ Duration: ~4 hours comprehensive workshop
+  - 🔧 Topics: RL fundamentals, policy gradients, neural networks, training techniques, Learning Dexterity, AI safety
+  - 📚 Companion: Complements Spinning Up documentation
+  - 🎥 Format: Workshop with slides, live demonstrations
+  - [Tags: intermediate openai workshop youtube deep-rl policy-gradients joshua-achiam hands-on 2019]
 
 - [Stanford CS234: Reinforcement Learning (Winter 2026)](http://web.stanford.edu/class/cs234/) – University-level course on RL theory and applications taught by Stanford faculty (Emma Brunskill). Covers MDPs, value iteration, policy iteration, Q-learning, deep Q-networks, policy gradients, and actor-critic methods. Includes lecture notes, assignments, and projects. One of the most comprehensive academic RL courses available free online. Full 2024-2026 materials publicly accessible. (🟡 Intermediate to 🔴 Advanced)
   - 📖 Access: Fully open, course materials publicly available
@@ -196,6 +215,15 @@ Reinforcement Learning (RL) is a powerful machine learning paradigm where agents
   - 🔧 Topics: MDP, Bellman equations, Q-learning, SARSA, TD methods
   - 💻 Tools: ROS, Gazebo, Python
   - [Tags: intermediate robotics ros gazebo q-learning hands-on simulation 2025]
+
+- [Practical Reinforcement Learning Course (Yandex Data School)](https://github.com/yandexdataschool/Practical_RL) – Comprehensive practical RL course with 10+ weeks of materials covering value-based methods (DQN), policy gradients (REINFORCE, A3C, PPO), model-free algorithms, and advanced techniques. Includes weekly seminars, homework assignments, and hands-on implementation tasks. Perfect balance of theory and practice from leading data science school. (🟡 Intermediate to 🔴 Advanced)
+  - 📖 Access: Fully open on GitHub, free
+  - 🏛️ Source: Yandex Data School (top-tier CS education)
+  - 🛠️ Hands-on: Yes (weekly homework, Python implementations)
+  - 📚 Structure: 10+ week curriculum with lectures and seminars
+  - 🔧 Topics: Value iteration, Q-learning, SARSA, DQN, policy gradients, PPO, A3C
+  - 💻 Tools: Python, PyTorch, OpenAI Gym
+  - [Tags: intermediate-advanced yandex practical hands-on dqn policy-gradients assignments github 2020]
 
 ### 🔴 Advanced
 
@@ -367,6 +395,6 @@ Found a great free reinforcement learning resource? We'd love to add it!
 
 ---
 
-**Last Updated:** February 20, 2026 | **Total Resources:** 36
+**Last Updated:** February 27, 2026 | **Total Resources:** 39
 
-**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, lego-robotics, ros-robotics, automated-curriculum, 2025-2026
+**Keywords:** reinforcement-learning, deep-rl, q-learning, policy-gradients, deep-q-networks, dqn, actor-critic, multi-agent-rl, markov-decision-process, mdp, temporal-difference, policy-optimization, ppo, trpo, curriculum-learning, meta-rl, robotic-learning, rl-with-llms, policy-gradient, value-function, model-free-rl, model-based-rl, stanford-cs234, stanford-cs224r, hugging-face, deepmind, openai-spinning-up, advanced-rl, lego-robotics, ros-robotics, automated-curriculum, yandex-practical-rl, cogito-ntnu, 2025-2026
