@@ -169,6 +169,14 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
   - ⚠️ Note: Requires free Coursera account
   - [Tags: beginner intermediate mathematics-for-ai linear-algebra calculus statistics machine-learning imperial-college-london free-course fundamentals 2025]
 
+- [Mathematics for Artificial Intelligence and Machine Learning (Harvard Extension)](https://coursebrowser.dce.harvard.edu/course/mathematics-for-artificial-intelligence-and-machine-learning/) **(Intermediate to Advanced)** ⭐ **SPRING 2026** - Comprehensive Harvard course teaching mathematics needed to understand how AI works under the hood. Covers intensive review of linear algebra, analytic geometry, vector calculus, optimization, and probability, then applies them to ML methods like regression, dimensionality reduction (PCA), density estimation with Gaussian mixture models, and classification with support vector machines. Designed for developers and practitioners bridging math knowledge and ML methods.
+  - 📖 Access: Course info freely available (enrollment for credit requires registration)
+  - 🏛️ Authority: Harvard University (Division of Continuing Education)
+  - 🎓 Credits: 4 graduate/undergraduate/noncredit
+  - 📝 Topics: Linear algebra, vector calculus, optimization, probability, PCA, SVMs, regression, GMMs
+  - ⏱️ Term: Spring 2026, Full Term, Live Web Conference
+  - [Tags: intermediate advanced harvard spring-2026 linear-algebra optimization probability ml-methods 2026]
+
 - [MIT OpenCourseWare - Linear Algebra (18.06) by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) **(Intermediate)** - Legendary MIT course covering matrix operations, vector spaces, eigenvalues, positive definite matrices, and applications with full lecture videos, assignments, and exams. One of the most popular math courses for ML practitioners.
   - 📖 Access: Fully open, MIT OCW
   - 🌍 Authority: MIT (Professor Gilbert Strang)
@@ -225,6 +233,13 @@ Mathematics forms the theoretical foundation of AI and machine learning. Underst
 ## 🛠️ Tools & Implementation
 
 ### 🟡 Intermediate
+
+- [Math for AI - Comprehensive GitHub Repository (2025)](https://github.com/BBWorksB/Math-for-AI) **(Beginner to Advanced)** ⭐ **MARCH 2025** - Comprehensive open-source GitHub repository covering all math concepts needed for AI from fundamentals to advanced topics. Includes supervised learning (linear/logistic regression, SVMs, neural networks with PyTorch), unsupervised learning (clustering, PCA), learning theory (optimization, overfitting, bias-variance), and advanced topics (distributed learning, online learning, reinforcement learning, transformers). Well-organized with code examples and practical implementations.
+  - 📖 Access: Fully open on GitHub, free
+  - 🛠️ Hands-on: Yes (PyTorch implementations)
+  - 🎯 Topics: Linear algebra, calculus, probability, optimization, supervised/unsupervised learning, neural networks, transformers
+  - 📚 Coverage: Fundamentals → Advanced (comprehensive)
+  - [Tags: intermediate advanced github open-source pytorch neural-networks transformers comprehensive 2025]
 
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) **(Beginner/Intermediate)** - Official comprehensive PyTorch tutorials covering tensor mathematics, automatic differentiation, neural network building blocks, and practical implementation of mathematical concepts in deep learning including linear algebra operations, gradient computation, and optimization algorithms with runnable code examples.
   - 📖 Access: Fully open, official documentation
@@ -302,6 +317,6 @@ Found a great free mathematics resource for AI/ML? We'd love to add it!
 
 ---
 
-**Last Updated:** January 18, 2026 | **Total Resources:** 42 (+4 new 2026 resources)
+**Last Updated:** February 27, 2026 | **Total Resources:** 44 (+2 new 2026 resources)
 
-**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, meta-statistical-learning, distribution-inference, guvi, ut-austin, 2025, 2026, pass-your-math, mit-18-05, mit-18-s096, youtube-statistics
+**Keywords:** mathematics-for-machine-learning, linear-algebra, calculus, probability-theory, statistics, optimization, matrix-computation, eigenvalues, gradient-descent, multivariate-calculus, mathematical-foundations, ml-math, 3blue1brown, mit-ocw, khan-academy, imperial-college-london, stanford, pytorch, discrete-math, deeplearning-ai, andrew-ng, simplilearn, matrix-calculus, markov-chains, monte-carlo, tu-delft, convex-optimization, brilliant, stephen-boyd, probability-engineering, statistics-ai-era, uncertainty-quantification, bayesian-inference, meta-statistical-learning, distribution-inference, guvi, ut-austin, harvard, math-for-ai-github, 2025, 2026, pass-your-math, mit-18-05, mit-18-s096, youtube-statistics
