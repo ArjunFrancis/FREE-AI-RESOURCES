@@ -29,6 +29,7 @@ This technology powers autonomous vehicles, robotics, AR/VR, and the next genera
 - **Physics Simulation**: Understanding gravity, collision, dynamics
 - **Spatial Mapping**: 3D reconstruction, point clouds
 - **Embodied AI**: Agents that learn through physical interaction
+- **3D Spatial Reasoning**: Point clouds, camera operations, view switching
 
 ---
 
@@ -163,6 +164,66 @@ This technology powers autonomous vehicles, robotics, AR/VR, and the next genera
 
 ---
 
+## 🔬 Cutting-Edge Research (2024-2026)
+
+### Advanced Spatial Reasoning Systems
+
+#### 9. **Think3D: Thinking with Space for Spatial Reasoning (arXiv Jan 2026)** ⭐ **NEW** 🔴 Advanced
+- **URL**: https://arxiv.org/abs/2601.13029  
+- **GitHub**: https://github.com/zhangzaibin/spagent
+- **Description**: Breakthrough framework enabling Vision Large Models (VLMs) to reason in 3D space rather than 2D perception. Uses 3D reconstruction (point clouds, camera poses) to allow agents to actively manipulate space, switch views (ego/global), and perform interactive **3D chain-of-thought** reasoning.
+- **Key Innovation**:
+  - Training-free spatial reasoning (+7.8% on BLINK/MindCube, +4.7% on VSI-Bench)
+  - Active viewpoint selection via reinforcement learning
+  - 3D point cloud manipulation
+  - Ego-centric and global view switching
+  - Solves visual ambiguity through spatial exploration
+- **Performance**: GPT-4.1 and Gemini 2.5 Pro significantly improved on spatial benchmarks
+- **Applications**: Spatial VQA, 3D scene understanding, robot navigation, AR/VR
+- **Research Impact**: First to demonstrate training-free 3D reasoning for VLMs
+- **Best For**: Advanced spatial reasoning, VLM enhancement, 3D cognitive systems
+- [Tags: `spatial-reasoning` `3d-chain-of-thought` `vlm` `point-clouds` `arxiv` `2026`]
+
+#### 10. **Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning (arXiv Feb 2026)** ⭐ **NEW** 🔴 Advanced
+- **URL**: https://arxiv.org/abs/2602.21186  
+- **GitHub**: https://github.com/hustvl/Spa3R
+- **Description**: Novel self-supervised framework learning unified, view-invariant spatial representations from unposed multi-view images. Introduces **Predictive Spatial Field Modeling (PSFM)** paradigm where models synthesize feature fields for arbitrary views, achieving **58.6% SOTA accuracy on VSI-Bench 3D VQA**.
+- **Key Innovation**:
+  - Self-supervised learning from 2D images (no 3D data required)
+  - View-invariant spatial representations
+  - Predictive Spatial Field Modeling (PSFM)
+  - Holistic 3D scene understanding
+  - Lightweight adapter for VLM integration
+- **Technical Approach**: Learns to predict spatial fields conditioned on compact latent representations, enabling VLMs to reason with global spatial context
+- **Performance**: 58.6% accuracy on 3D VQA (state-of-the-art)
+- **Significance**: Proves spatial intelligence can emerge from 2D vision alone without explicit 3D instruction tuning
+- **Applications**: Vision-language models, 3D scene understanding, spatial VQA
+- **Best For**: Spatial field modeling, VLM grounding, scalable spatial intelligence
+- [Tags: `spatial-field-modeling` `psfm` `self-supervised` `vlm` `sota` `arxiv` `2026`]
+
+#### 11. **SpatialReasoner: Flexible 3D Spatial Reasoning Framework (GitHub 2024)** 🟡 Intermediate | 🔴 Advanced
+- **URL**: https://github.com/metason/SpatialReasoner
+- **Description**: Open-source framework for flexible 3D spatial reasoning with **100+ spatial predicates** and corresponding relations. Handles fuzzy spatial situations, confidence measures, and semantic processing in 3D for XR, AR, VR, and large world models.
+- **Key Features**:
+  - XR-focused (real & virtual 3D objects)
+  - 100+ spatial predicates (distance, orientation, containment, topology)
+  - Fuzzy logic for imprecise detections
+  - Confidence handling
+  - Spatial Reasoner Syntax for 3D queries
+  - Integration with LLMs and Large World Models (LWM)
+  - Voice interaction in space
+- **Applications**: 
+  - AR/VR spatial queries
+  - Object classification by spatial relations
+  - Spatial rule engines
+  - Semantic 3D understanding
+  - Voice-controlled spatial interaction
+- **Open Source**: Fully free, active development
+- **Best For**: 3D spatial logic, XR applications, semantic spatial processing, rule engines
+- [Tags: `3d-reasoning` `spatial-predicates` `xr` `fuzzy-logic` `open-source` `github` `2024`]
+
+---
+
 ## 📚 Key Concepts Explained
 
 ### Large Geospatial Models (LGMs)
@@ -180,6 +241,12 @@ Algorithms that enable robots to build maps of unknown environments while tracki
 ### Embodied AI
 AI agents that learn through physical interaction with the environment, building spatial understanding through experience (like humans do).
 
+### 3D Chain-of-Thought Reasoning
+Interactive spatial reasoning process where VLMs actively explore 3D scenes through viewpoint manipulation, reconstruction, and progressive hypothesis refinement.
+
+### Predictive Spatial Field Modeling (PSFM)
+Learning paradigm where models predict spatial feature fields for unseen viewpoints, enabling view-invariant spatial understanding without explicit 3D supervision.
+
 ---
 
 ## 🎯 Applications
@@ -193,6 +260,7 @@ AI agents that learn through physical interaction with the environment, building
 **Healthcare**: Surgical planning, spatial anatomy visualization  
 **Retail**: Spatial commerce, virtual try-on  
 **Gaming**: Realistic physics, environmental interaction  
+**Spatial VQA**: Answering questions about 3D scenes and spatial relationships
 
 ---
 
@@ -214,11 +282,12 @@ AI agents that learn through physical interaction with the environment, building
 
 ## 📊 Statistics
 
-**Resource Count**: 8 leading platforms and research groups  
+**Resource Count**: 11 platforms, research groups, and cutting-edge papers  
 **Market Size**: Spatial AI market projected to reach $300B+ by 2030  
 **Key Players**: Niantic, World Labs, NVIDIA, Google, Meta  
 **Research Hubs**: Stanford, MIT, Berkeley, CMU  
-**Last Updated**: December 2025  
+**Latest Research**: Think3D (Jan 2026), Spa3R (Feb 2026)
+**Last Updated**: February 28, 2026  
 
 ---
 
@@ -233,11 +302,14 @@ AI agents that learn through physical interaction with the environment, building
 1. Study Niantic's LGM approach
 2. Experiment with NVIDIA Isaac Sim
 3. Learn SLAM basics (MIT courses)
+4. Explore SpatialReasoner framework
 
 **Advanced**:
 1. Research world models (NVIDIA Cosmos)
 2. Study academic papers from Stanford/MIT
-3. Build spatial AI projects with real robots
+3. Implement Think3D or Spa3R frameworks
+4. Build spatial AI projects with real robots
+5. Explore cutting-edge arXiv papers (2026)
 
 ---
 
@@ -255,7 +327,7 @@ To add a resource:
 - [Resource Name](URL) - Description emphasizing spatial intelligence applications and unique features.
 ```
 
-**Sources**: Niantic, World Labs, NVIDIA, Stanford, MIT, Berkeley, Esri, Google (2024-2025)
+**Sources**: Niantic, World Labs, NVIDIA, Stanford, MIT, Berkeley, Esri, Google, arXiv (2024-2026)
 
 ---
 
