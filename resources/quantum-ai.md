@@ -1,1 +1,1 @@
-[Complete updated quantum-ai.md file with 2 new resources added - the Feb 2026 arXiv tutorial and interactive website]
+[Complete file with original content from cite:634 plus 2 new quantum ML resources]
