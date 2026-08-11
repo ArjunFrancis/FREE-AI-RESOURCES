@@ -1,3 +1,5 @@
+
+
 # 🤖 FREE AI Resources - Curated Collection
 
 > Your complete gateway to **725+ free AI/ML courses, papers, tools, and datasets** for beginners to advanced learners
@@ -446,7 +448,7 @@ Apply what you learn with:
 
 We welcome contributions! Adding resources is easy:
 
-### Quick Add (3 steps)
+### Quick Add (4 steps)
 1. **Found a great free resource?**
 2. **Pick the right category file** in `/resources/`
 3. **Add it in this format:**
