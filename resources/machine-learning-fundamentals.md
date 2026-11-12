@@ -180,6 +180,10 @@ Machine Learning is the foundation of modern AI, enabling computers to learn pat
   - 💻 Tools: Python, PyTorch, scikit-learn, Jupyter
   - [Tags: intermediate pytorch scikit-learn jupyter-notebooks hands-on deep-learning github 2025]
 
+- [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab) - NumPy-only ML algorithm workbooks with numerical self-checks and deliberate failure cases. (Intermediate)
+  - 📖 Access: Free source and exercises, MIT license; no account required.
+  - [Tags: numpy from-scratch workbooks numerical-tests failure-cases]
+
 ### 🔴 Advanced
 
 - **[CS229: Machine Learning by Andrew Ng (Stanford University)](https://cs229.stanford.edu/)** 🔴 Advanced — Comprehensive graduate-level Stanford course covering supervised learning (linear/logistic regression, SVMs, neural networks), unsupervised learning (clustering, dimensionality reduction), learning theory, and reinforcement learning. Full lecture notes, problem sets, and video recordings available. The authoritative course for advanced ML theory and practice from the legendary Andrew Ng.
