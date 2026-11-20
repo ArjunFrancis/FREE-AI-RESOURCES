@@ -184,6 +184,11 @@ AI for Finance transforms how financial institutions analyze markets, assess ris
   - 📊 Data: Diverse financial datasets, competitions
   - [Tags: dataset kaggle financial-data competitions free]
 
+- [Startup Investor Falsification Question Bank](https://huggingface.co/datasets/mheilimo/startup-investor-falsification-question-bank) – A 48-question dataset for practicing how to turn private-company claims into evidence requests and follow-up questions. See the [DDScore worked example](https://www.ddscore.ai/example-report) for a fictional company review that illustrates how to present the findings.
+  - 📖 Access: Open CSV and data dictionary, CC BY 4.0
+  - 📊 Data: Claims, falsification questions, evidence requests, and red flags across 12 review dimensions
+  - [Tags: dataset financial-analysis due-diligence financial-nlp free all-levels]
+
 ---
 
 ## 🔗 Related Resources
